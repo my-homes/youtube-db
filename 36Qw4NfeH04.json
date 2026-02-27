@@ -1,0 +1,122 @@
+{
+  "id": "36Qw4NfeH04",
+  "title": "DJ Lava - Calling angel",
+  "author": "DJ Lava",
+  "duration": "00:06:56",
+  "detail": {
+    "Id": {
+      "Value": "36Qw4NfeH04"
+    },
+    "Url": "https://www.youtube.com/watch?v=36Qw4NfeH04",
+    "Title": "DJ Lava - Calling angel",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCXYis2fx2G1Wi75AEy9e_3A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCXYis2fx2G1Wi75AEy9e_3A",
+      "ChannelTitle": "DJ Lava",
+      "Title": "DJ Lava"
+    },
+    "UploadDate": {
+      "DateTime": "2019-11-23T04:58:56.0000000",
+      "UtcDateTime": "2019-11-23T12:58:56.0000000Z",
+      "LocalDateTime": "2019-11-23T21:58:56.0000000+09:00",
+      "Date": "2019-11-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 327,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 58,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 56,
+      "Ticks": 637100819360000000,
+      "UtcTicks": 637101107360000000,
+      "TimeOfDay": "04:58:56",
+      "Year": 2019
+    },
+    "Description": "Трек написан лично мной (DJ Lava).\nВсе права принадлежат мне (DJ lava).\nTrek written personally me (DJ Lava).\nAll rights reserved to me (DJ Lava).\nTime:  6m.55s.\nПриятного прослушивания и хорошего настроения!\nПишите комментарии  буду рад !\nEnjoy listening and good mood!\nWrite comments I will be glad !\nPROMO DJ trek:  https://promodj.com/djlava43/tracks/6910482/DJ_Lava_Calling_angel_original_mix",
+    "Duration": "00:06:56",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/36Qw4NfeH04/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQihRMA8=&rs=AOn4CLCrAiJ_SWTfNnUMMVTP-ZKg3Mck5Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/36Qw4NfeH04/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQihRMA8=&rs=AOn4CLCP_LGyyzXp7N678Dx3MhQls8U7Ww",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/36Qw4NfeH04/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEIoUTAP&rs=AOn4CLBSHq-niNwkeTeXIrg7rSNthFkvwg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/36Qw4NfeH04/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEIoUTAP&rs=AOn4CLCUNpMYpnQQ4VCUmK89A_FPe0gNUg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/36Qw4NfeH04/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQihRMA8=&rs=AOn4CLAhg9L-HBQyN_d-HQTX5QE3gtO5eQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/36Qw4NfeH04/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/36Qw4NfeH04/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/36Qw4NfeH04/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "DJ Lava",
+      "Chillout",
+      "DJ Lava - Calling angel",
+      "видео",
+      "медленная музыка",
+      "трек"
+    ],
+    "Engagement": {
+      "ViewCount": 2285392,
+      "LikeCount": 22157,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
