@@ -1,0 +1,115 @@
+{
+  "id": "hAscslIWlOI",
+  "title": "待つわ / あみん  AIcover",
+  "author": "邦楽カバーチャンネル",
+  "duration": "00:05:06",
+  "detail": {
+    "Id": {
+      "Value": "hAscslIWlOI"
+    },
+    "Url": "https://www.youtube.com/watch?v=hAscslIWlOI",
+    "Title": "待つわ / あみん  AIcover",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCenwiMuC97DLAjUL6e_g6lg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCenwiMuC97DLAjUL6e_g6lg",
+      "ChannelTitle": "邦楽カバーチャンネル",
+      "Title": "邦楽カバーチャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-26T02:01:09.0000000",
+      "UtcDateTime": "2026-02-26T10:01:09.0000000Z",
+      "LocalDateTime": "2026-02-26T19:01:09.0000000+09:00",
+      "Date": "2026-02-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 57,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 9,
+      "Ticks": 639076680690000000,
+      "UtcTicks": 639076968690000000,
+      "TimeOfDay": "02:01:09",
+      "Year": 2026
+    },
+    "Description": "待つわを音楽生成AI Suno AI でカバーしました\nアレンジも少ししています",
+    "Duration": "00:05:06",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/hAscslIWlOI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHLdi4JNm1RU2qOXa3rWT-3tiXDg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hAscslIWlOI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-LdhpyncK_jOojhCGkkCbJ6ijPA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hAscslIWlOI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlhqD0duHMFLgzn-FuBn06bw66SA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hAscslIWlOI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyM0Y-jwdDP16HHqVv0jR-bzxaWw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hAscslIWlOI/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hAscslIWlOI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hAscslIWlOI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hAscslIWlOI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 861,
+      "LikeCount": 21,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
