@@ -1,0 +1,115 @@
+{
+  "id": "KNw-KLkWCUo",
+  "title": "北の宿から  丘みどり　魅力の再発見を！",
+  "author": "菊地光二",
+  "duration": "00:02:53",
+  "detail": {
+    "Id": {
+      "Value": "KNw-KLkWCUo"
+    },
+    "Url": "https://www.youtube.com/watch?v=KNw-KLkWCUo",
+    "Title": "北の宿から  丘みどり　魅力の再発見を！",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCTYm4KQMnCX6Z_Hgt3dyF9w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCTYm4KQMnCX6Z_Hgt3dyF9w",
+      "ChannelTitle": "菊地光二",
+      "Title": "菊地光二"
+    },
+    "UploadDate": {
+      "DateTime": "2021-06-10T16:05:48.0000000",
+      "UtcDateTime": "2021-06-10T23:05:48.0000000Z",
+      "LocalDateTime": "2021-06-11T08:05:48.0000000+09:00",
+      "Date": "2021-06-10T00:00:00.0000000",
+      "Day": 10,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 161,
+      "Hour": 16,
+      "Millisecond": 0,
+      "Minute": 5,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 48,
+      "Ticks": 637589379480000000,
+      "UtcTicks": 637589631480000000,
+      "TimeOfDay": "16:05:48",
+      "Year": 2021
+    },
+    "Description": "動画アップ-84\n北の宿から\n歌唱：丘みどり\n作詞：阿久悠\n作曲：小林亜星\nオリジナル歌手：都はるみ\n演歌の花道から",
+    "Duration": "00:02:53",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/KNw-KLkWCUo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAoF3CAUahx2n0tT1i4QUC10UJcsg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KNw-KLkWCUo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAtEi5ZKPLMp8pxHLWzXUyOhVAk8w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KNw-KLkWCUo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUrQvooAb4CFcz2rp2S_eJqugbeg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KNw-KLkWCUo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBVC3KbMEvY9DiqZsWnejZA6LlpQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/KNw-KLkWCUo/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KNw-KLkWCUo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KNw-KLkWCUo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KNw-KLkWCUo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 33489,
+      "LikeCount": 180,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

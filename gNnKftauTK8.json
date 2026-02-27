@@ -1,0 +1,115 @@
+{
+  "id": "gNnKftauTK8",
+  "title": "瀬戸の花嫁 　丘みどり　播磨育ちの花嫁",
+  "author": "菊地光二",
+  "duration": "00:03:14",
+  "detail": {
+    "Id": {
+      "Value": "gNnKftauTK8"
+    },
+    "Url": "https://www.youtube.com/watch?v=gNnKftauTK8",
+    "Title": "瀬戸の花嫁 　丘みどり　播磨育ちの花嫁",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCTYm4KQMnCX6Z_Hgt3dyF9w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCTYm4KQMnCX6Z_Hgt3dyF9w",
+      "ChannelTitle": "菊地光二",
+      "Title": "菊地光二"
+    },
+    "UploadDate": {
+      "DateTime": "2021-07-02T17:36:50.0000000",
+      "UtcDateTime": "2021-07-03T00:36:50.0000000Z",
+      "LocalDateTime": "2021-07-03T09:36:50.0000000+09:00",
+      "Date": "2021-07-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 183,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 36,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 50,
+      "Ticks": 637608442100000000,
+      "UtcTicks": 637608694100000000,
+      "TimeOfDay": "17:36:50",
+      "Year": 2021
+    },
+    "Description": "動画アップ-97\n瀬戸の花嫁\n歌唱：丘みどり\n作詞：山上路夫\n作曲：平尾昌晃\n2005/03/24\n小柳ルミ子\n昭和歌謡ベストテンDXより",
+    "Duration": "00:03:14",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/gNnKftauTK8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCXXOWNjZHxB7rmlGe2WxWPlr4p2g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/gNnKftauTK8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDoXL24F-WBgnvGm45CDgKU6oulsA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/gNnKftauTK8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCmCpsa5FJg2xogbfgjPO2yKezzsQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/gNnKftauTK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8EMD6FQRxGbp1Nvzt08hnT3B_ZQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/gNnKftauTK8/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/gNnKftauTK8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/gNnKftauTK8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/gNnKftauTK8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 18244,
+      "LikeCount": 161,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

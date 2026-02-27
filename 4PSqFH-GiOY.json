@@ -1,0 +1,115 @@
+{
+  "id": "4PSqFH-GiOY",
+  "title": "for  you    ／丘みどり",
+  "author": "Music Enka024",
+  "duration": "00:02:52",
+  "detail": {
+    "Id": {
+      "Value": "4PSqFH-GiOY"
+    },
+    "Url": "https://www.youtube.com/watch?v=4PSqFH-GiOY",
+    "Title": "for  you    ／丘みどり",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCpFbjqIBi1rUybZYeK1u0Ag"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCpFbjqIBi1rUybZYeK1u0Ag",
+      "ChannelTitle": "Music Enka024",
+      "Title": "Music Enka024"
+    },
+    "UploadDate": {
+      "DateTime": "2024-07-30T21:06:41.0000000",
+      "UtcDateTime": "2024-07-31T04:06:41.0000000Z",
+      "LocalDateTime": "2024-07-31T13:06:41.0000000+09:00",
+      "Date": "2024-07-30T00:00:00.0000000",
+      "Day": 30,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 212,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 6,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 41,
+      "Ticks": 638579704010000000,
+      "UtcTicks": 638579956010000000,
+      "TimeOfDay": "21:06:41",
+      "Year": 2024
+    },
+    "Description": "",
+    "Duration": "00:02:52",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/4PSqFH-GiOY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEsgPCh_MA8=&rs=AOn4CLBlxfPgJSmxT7hKbdUX53Pkjgk16w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4PSqFH-GiOY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEsgPCh_MA8=&rs=AOn4CLBTyJthPy1kZpKXYd143ltmVU-aFw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4PSqFH-GiOY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhLIDwofzAP&rs=AOn4CLBsdxKUUNFDUESXASIEf5NWNEhYEg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4PSqFH-GiOY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhLIDwofzAP&rs=AOn4CLBtF64YTeGUoo11CRMzeHsybmgDsw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4PSqFH-GiOY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgPCh_MA8=&rs=AOn4CLBhq9NHSnzy7hXmbdDROnsS3c2K4w",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4PSqFH-GiOY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4PSqFH-GiOY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4PSqFH-GiOY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 9450,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

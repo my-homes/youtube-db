@@ -1,0 +1,115 @@
+{
+  "id": "vaa_yUi2vsg",
+  "title": "愛の水中花 　丘みどり",
+  "author": "菊地光二",
+  "duration": "00:03:05",
+  "detail": {
+    "Id": {
+      "Value": "vaa_yUi2vsg"
+    },
+    "Url": "https://www.youtube.com/watch?v=vaa_yUi2vsg",
+    "Title": "愛の水中花 　丘みどり",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCTYm4KQMnCX6Z_Hgt3dyF9w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCTYm4KQMnCX6Z_Hgt3dyF9w",
+      "ChannelTitle": "菊地光二",
+      "Title": "菊地光二"
+    },
+    "UploadDate": {
+      "DateTime": "2021-03-26T12:42:22.0000000",
+      "UtcDateTime": "2021-03-26T19:42:22.0000000Z",
+      "LocalDateTime": "2021-03-27T04:42:22.0000000+09:00",
+      "Date": "2021-03-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 85,
+      "Hour": 12,
+      "Millisecond": 0,
+      "Minute": 42,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 22,
+      "Ticks": 637523593420000000,
+      "UtcTicks": 637523845420000000,
+      "TimeOfDay": "12:42:22",
+      "Year": 2021
+    },
+    "Description": "動画アップ-50\n愛の水中花\n歌）丘みどり\n作詞：五木寛之\n作曲：小松原まさし\n2018/12/26　丘みどりセカンドアルバム彩歌\nキングレコード",
+    "Duration": "00:03:05",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/vaa_yUi2vsg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB6_MzszSzVEEs0ug7jlmSZn3ZtXg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vaa_yUi2vsg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAvt0Tr-RiSUBZ-WLxZcKWV37ZLlA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vaa_yUi2vsg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKPp8iKXBpGFT3icNlxGHz-YVmaw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vaa_yUi2vsg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAh1WIsLfZDi_7zpfIS33pUINt3Fg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/vaa_yUi2vsg/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vaa_yUi2vsg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vaa_yUi2vsg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vaa_yUi2vsg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 9068,
+      "LikeCount": 89,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

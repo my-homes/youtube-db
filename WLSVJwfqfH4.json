@@ -1,0 +1,115 @@
+{
+  "id": "WLSVJwfqfH4",
+  "title": "別れの予感／丘 みどり",
+  "author": "Music Enka024",
+  "duration": "00:03:56",
+  "detail": {
+    "Id": {
+      "Value": "WLSVJwfqfH4"
+    },
+    "Url": "https://www.youtube.com/watch?v=WLSVJwfqfH4",
+    "Title": "別れの予感／丘 みどり",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCpFbjqIBi1rUybZYeK1u0Ag"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCpFbjqIBi1rUybZYeK1u0Ag",
+      "ChannelTitle": "Music Enka024",
+      "Title": "Music Enka024"
+    },
+    "UploadDate": {
+      "DateTime": "2025-01-26T21:24:16.0000000",
+      "UtcDateTime": "2025-01-27T05:24:16.0000000Z",
+      "LocalDateTime": "2025-01-27T14:24:16.0000000+09:00",
+      "Date": "2025-01-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 26,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 24,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 16,
+      "Ticks": 638735234560000000,
+      "UtcTicks": 638735522560000000,
+      "TimeOfDay": "21:24:16",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:03:56",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/WLSVJwfqfH4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLDXINI8ngR6L3dS0JnvEKYBEYmH_Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WLSVJwfqfH4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBTry5xcQ5nm8qRbynM4jnAt1NO1w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WLSVJwfqfH4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLC5hcCmUAJL8wKYWmKC5NIbJg_mNQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WLSVJwfqfH4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhfIF8oXzAP&rs=AOn4CLDglHCuKS2F0tClv59ApjEtyMKLOA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WLSVJwfqfH4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLALZjpkL_P1oNDSrfDnixe2VIf8ig",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/WLSVJwfqfH4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/WLSVJwfqfH4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/WLSVJwfqfH4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 23530,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}
