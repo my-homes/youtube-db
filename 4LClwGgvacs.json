@@ -1,0 +1,109 @@
+{
+  "id": "4LClwGgvacs",
+  "title": "必殺仕事人BGM",
+  "author": "TeamGreyHound",
+  "duration": "00:02:21",
+  "detail": {
+    "Id": {
+      "Value": "4LClwGgvacs"
+    },
+    "Url": "https://www.youtube.com/watch?v=4LClwGgvacs",
+    "Title": "必殺仕事人BGM",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCSUxNCIWMdnUZ-rJ1s7ZWDw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCSUxNCIWMdnUZ-rJ1s7ZWDw",
+      "ChannelTitle": "TeamGreyHound",
+      "Title": "TeamGreyHound"
+    },
+    "UploadDate": {
+      "DateTime": "2015-07-20T03:19:21.0000000",
+      "UtcDateTime": "2015-07-20T10:19:21.0000000Z",
+      "LocalDateTime": "2015-07-20T19:19:21.0000000+09:00",
+      "Date": "2015-07-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 201,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 19,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 21,
+      "Ticks": 635729591610000000,
+      "UtcTicks": 635729843610000000,
+      "TimeOfDay": "03:19:21",
+      "Year": 2015
+    },
+    "Description": "",
+    "Duration": "00:02:21",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/4LClwGgvacs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbkwHPRNVdwlXeiBCTyiheYbf6Mw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4LClwGgvacs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAbs28ox7TrkKGzG1j2PIpOMkGjqA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4LClwGgvacs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHl1PwPanaMoeAD2kVBmeH9PYeFw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4LClwGgvacs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcfAnhdT5KoytYSp-JfI2TXxJy7g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4LClwGgvacs/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4LClwGgvacs/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4LClwGgvacs/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "CM"
+    ],
+    "Engagement": {
+      "ViewCount": 1314286,
+      "LikeCount": 8734,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "6BUgYDmlVow",
+  "title": "【EUROBEAT】only my railgun -Eurobeat mix-【再うｐ】 cobalt green",
+  "author": "Primus Productions",
+  "duration": "00:04:28",
+  "detail": {
+    "Id": {
+      "Value": "6BUgYDmlVow"
+    },
+    "Url": "https://www.youtube.com/watch?v=6BUgYDmlVow",
+    "Title": "【EUROBEAT】only my railgun -Eurobeat mix-【再うｐ】 cobalt green",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCNf4hV5fZyZm5xTWOQCxpJw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCNf4hV5fZyZm5xTWOQCxpJw",
+      "ChannelTitle": "Primus Productions",
+      "Title": "Primus Productions"
+    },
+    "UploadDate": {
+      "DateTime": "2020-10-26T16:21:14.0000000",
+      "UtcDateTime": "2020-10-26T23:21:14.0000000Z",
+      "LocalDateTime": "2020-10-27T08:21:14.0000000+09:00",
+      "Date": "2020-10-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 300,
+      "Hour": 16,
+      "Millisecond": 0,
+      "Minute": 21,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 14,
+      "Ticks": 637393260740000000,
+      "UtcTicks": 637393512740000000,
+      "TimeOfDay": "16:21:14",
+      "Year": 2020
+    },
+    "Description": "",
+    "Duration": "00:04:28",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/6BUgYDmlVow/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHeA4AC6AKKAgwIABABGEYgWShyMA8=&rs=AOn4CLBZUrduxg3boGjVJykIU5B2vE57dQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/6BUgYDmlVow/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHeA4AC6AKKAgwIABABGEYgWShyMA8=&rs=AOn4CLDk2bXvQIgPMRCP-eJOFNWel4FgZg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/6BUgYDmlVow/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAugCigIMCAAQARhGIFkocjAP&rs=AOn4CLCdxHwWXZN-07oELOyU01a4n43FlA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/6BUgYDmlVow/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB3gOAAugCigIMCAAQARhGIFkocjAP&rs=AOn4CLDpoIE2momzKvBjMo_sCaiCoN3Yzg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/6BUgYDmlVow/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/6BUgYDmlVow/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/6BUgYDmlVow/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Anime",
+      "アニメ",
+      "Mecha",
+      "ロボットアニメ",
+      "Gundam",
+      "ガンダム",
+      "Mobile Suit Gundam (TV Program)",
+      "機動戦士ガンダム",
+      "Mobile Suit Zeta Gundam (TV Program)",
+      "機動戦士Zガンダム"
+    ],
+    "Engagement": {
+      "ViewCount": 183400,
+      "LikeCount": 2030,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

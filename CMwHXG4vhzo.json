@@ -1,0 +1,128 @@
+{
+  "id": "CMwHXG4vhzo",
+  "title": "『ガンダーラ』VOCALOID:IA　(カバー曲)",
+  "author": "戌侍",
+  "duration": "00:04:28",
+  "detail": {
+    "Id": {
+      "Value": "CMwHXG4vhzo"
+    },
+    "Url": "https://www.youtube.com/watch?v=CMwHXG4vhzo",
+    "Title": "『ガンダーラ』VOCALOID:IA　(カバー曲)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCs1nPjXXPOeCTyq99XWcw8A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCs1nPjXXPOeCTyq99XWcw8A",
+      "ChannelTitle": "戌侍",
+      "Title": "戌侍"
+    },
+    "UploadDate": {
+      "DateTime": "2020-01-24T06:57:52.0000000",
+      "UtcDateTime": "2020-01-24T14:57:52.0000000Z",
+      "LocalDateTime": "2020-01-24T23:57:52.0000000+09:00",
+      "Date": "2020-01-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 24,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 57,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 52,
+      "Ticks": 637154458720000000,
+      "UtcTicks": 637154746720000000,
+      "TimeOfDay": "06:57:52",
+      "Year": 2020
+    },
+    "Description": "ゴダイゴの「ガンダーラ」を作ってみました。IAに合わせて元曲と違うキーにしています。\n元曲『ガンダーラ』ゴダイゴ\n作詞：奈良橋陽子　作曲：タケカワユキヒデ",
+    "Duration": "00:04:28",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/CMwHXG4vhzo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2jWjC7MvQEjLV2wSeSR3Fel4SoQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CMwHXG4vhzo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDiCIC_ypxwXv1U9eTN0hXS5aiTRQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CMwHXG4vhzo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBq_bY0pi6bVyTwQh6DK11DQtmrw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CMwHXG4vhzo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGQ-18369u0995nwHZfPITf7UssQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/CMwHXG4vhzo/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CMwHXG4vhzo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CMwHXG4vhzo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CMwHXG4vhzo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "iA",
+      "ゴダイゴ",
+      "ガンダーラ",
+      "最遊記",
+      "堺正章",
+      "夏目雅子",
+      "戌侍",
+      "Cover",
+      "godiego",
+      "タケカワユキヒデ",
+      "ボカロ",
+      "浅野孝己"
+    ],
+    "Engagement": {
+      "ViewCount": 4096,
+      "LikeCount": 46,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

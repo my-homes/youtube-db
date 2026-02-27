@@ -1,0 +1,107 @@
+{
+  "id": "LUw_pvlaZmk",
+  "title": "《漫步人生路》+「ひとり上手」陳佳演唱 粵語＋日本語版（cover：鄧麗君、中島みゆき ）",
+  "author": "陳佳Chen Jia",
+  "duration": "00:03:29",
+  "detail": {
+    "Id": {
+      "Value": "LUw_pvlaZmk"
+    },
+    "Url": "https://www.youtube.com/watch?v=LUw_pvlaZmk",
+    "Title": "《漫步人生路》+「ひとり上手」陳佳演唱 粵語＋日本語版（cover：鄧麗君、中島みゆき ）",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCPuJ7rYykOj_ZHbakUTF2ig"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCPuJ7rYykOj_ZHbakUTF2ig",
+      "ChannelTitle": "陳佳Chen Jia",
+      "Title": "陳佳Chen Jia"
+    },
+    "UploadDate": {
+      "DateTime": "2022-02-02T23:30:10.0000000",
+      "UtcDateTime": "2022-02-03T07:30:10.0000000Z",
+      "LocalDateTime": "2022-02-03T16:30:10.0000000+09:00",
+      "Date": "2022-02-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 33,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 10,
+      "Ticks": 637794414100000000,
+      "UtcTicks": 637794702100000000,
+      "TimeOfDay": "23:30:10",
+      "Year": 2022
+    },
+    "Description": "",
+    "Duration": "00:03:29",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/LUw_pvlaZmk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFEgWShlMA8=&rs=AOn4CLCF6dgQsjrGRQiQBJf-1qezOl9N5w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LUw_pvlaZmk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFEgWShlMA8=&rs=AOn4CLAXgR_I8-uRSLsEI3e48lS_5nAawQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LUw_pvlaZmk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIFkoZTAP&rs=AOn4CLC6ZnLhGC7mi6Gotx6MYZdA20vt2A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LUw_pvlaZmk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhRIFkoZTAP&rs=AOn4CLB4yvRl5P_Y5Kcx0rrKqxOE0LRn5w",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LUw_pvlaZmk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LUw_pvlaZmk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LUw_pvlaZmk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1096549,
+      "LikeCount": 9825,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

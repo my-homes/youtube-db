@@ -1,0 +1,117 @@
+{
+  "id": "zivEWxcGxrE",
+  "title": "君をのせて - Castle in the Sky - Eurobeat Version",
+  "author": "colderduck",
+  "duration": "00:03:00",
+  "detail": {
+    "Id": {
+      "Value": "zivEWxcGxrE"
+    },
+    "Url": "https://www.youtube.com/watch?v=zivEWxcGxrE",
+    "Title": "君をのせて - Castle in the Sky - Eurobeat Version",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCcGhnhNIgXxTt6Xf5Tfs0_g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCcGhnhNIgXxTt6Xf5Tfs0_g",
+      "ChannelTitle": "colderduck",
+      "Title": "colderduck"
+    },
+    "UploadDate": {
+      "DateTime": "2009-07-01T18:21:15.0000000",
+      "UtcDateTime": "2009-07-02T01:21:15.0000000Z",
+      "LocalDateTime": "2009-07-02T10:21:15.0000000+09:00",
+      "Date": "2009-07-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 182,
+      "Hour": 18,
+      "Millisecond": 0,
+      "Minute": 21,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 15,
+      "Ticks": 633820692750000000,
+      "UtcTicks": 633820944750000000,
+      "TimeOfDay": "18:21:15",
+      "Year": 2009
+    },
+    "Description": "Here is 君をのせて Eurobeat Version, the Castle in the Sky main theme.\nEnjoy!",
+    "Duration": "00:03:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/zivEWxcGxrE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGGUgVihZMA8=&rs=AOn4CLADhOsZNIqNDyShULmHQmPmRVJVWg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zivEWxcGxrE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGGUgVihZMA8=&rs=AOn4CLAzmUJyP4s0ilzk-IzPP9QG_TrUJQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zivEWxcGxrE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIFYoWTAP&rs=AOn4CLBSShFuvqE2eSX6j2vq8DBKuaA_dg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zivEWxcGxrE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhlIFYoWTAP&rs=AOn4CLDOWagjjd45W0QJvZNzHj5aQ7QGHw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zivEWxcGxrE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zivEWxcGxrE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zivEWxcGxrE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "castle in the sky",
+      "laputa",
+      "eurobeat",
+      "君をのせて",
+      "castle in the sky theme",
+      "laputa theme",
+      "kimi wo nosete",
+      "castle in the sky techno",
+      "techno"
+    ],
+    "Engagement": {
+      "ViewCount": 752802,
+      "LikeCount": 4362,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

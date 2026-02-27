@@ -1,0 +1,115 @@
+{
+  "id": "kCtoHkDD2uo",
+  "title": "【歌ってみた】天城越え / covered by 幸祜",
+  "author": "幸祜 - KOKO -",
+  "duration": "00:04:52",
+  "detail": {
+    "Id": {
+      "Value": "kCtoHkDD2uo"
+    },
+    "Url": "https://www.youtube.com/watch?v=kCtoHkDD2uo",
+    "Title": "【歌ってみた】天城越え / covered by 幸祜",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC7Gow-kNHq21oejSIDg9PAg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC7Gow-kNHq21oejSIDg9PAg",
+      "ChannelTitle": "幸祜 - KOKO -",
+      "Title": "幸祜 - KOKO -"
+    },
+    "UploadDate": {
+      "DateTime": "2024-03-31T20:00:25.0000000",
+      "UtcDateTime": "2024-04-01T03:00:25.0000000Z",
+      "LocalDateTime": "2024-04-01T12:00:25.0000000+09:00",
+      "Date": "2024-03-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 91,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 25,
+      "Ticks": 638475120250000000,
+      "UtcTicks": 638475372250000000,
+      "TimeOfDay": "20:00:25",
+      "Year": 2024
+    },
+    "Description": "歌ってみました。No.076「天城越え」\nTO BE CONTINUED.\n\n▼original\n天城越え 石川さゆり\n\n▼thanks\nIllustration：堀愛里\n動画：chaosgroove\nInst：岩瀬良介\nMix：イヨ\n\n▼幸祜\nhttps://twitter.com/KOKO__virtual\n\n▼KAMITSUBAKI STUDIO\nhttps://twitter.com/kamitsubaki_jp\n\n#幸祜 #歌ってみた #KAMITSUBAKI_STUDIO",
+    "Duration": "00:04:52",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/kCtoHkDD2uo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLClzayiKxyuZyivAmuObIaILF2NBw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kCtoHkDD2uo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCLO1mCdyvfDPoLTTqqIMZOXa_LZg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kCtoHkDD2uo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB2be97BYOQ0l0Iclaqu2V0C5DxA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kCtoHkDD2uo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5szrJwsUZU9hfpZUDmBgeBIoCgw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kCtoHkDD2uo/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kCtoHkDD2uo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kCtoHkDD2uo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kCtoHkDD2uo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 155086,
+      "LikeCount": 6191,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "KIZ6NwGxLTs",
+  "title": "「Ζ・刻をこえて」 鮎川麻弥 coverd by Hina",
+  "author": "Hina's Music",
+  "duration": "00:04:02",
+  "detail": {
+    "Id": {
+      "Value": "KIZ6NwGxLTs"
+    },
+    "Url": "https://www.youtube.com/watch?v=KIZ6NwGxLTs",
+    "Title": "「Ζ・刻をこえて」 鮎川麻弥 coverd by Hina",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwuZR46x-iklk87R5LsfDMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwuZR46x-iklk87R5LsfDMQ",
+      "ChannelTitle": "Hina's Music",
+      "Title": "Hina's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-06T07:49:16.0000000",
+      "UtcDateTime": "2025-12-06T15:49:16.0000000Z",
+      "LocalDateTime": "2025-12-07T00:49:16.0000000+09:00",
+      "Date": "2025-12-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 340,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 49,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 16,
+      "Ticks": 639006041560000000,
+      "UtcTicks": 639006329560000000,
+      "TimeOfDay": "07:49:16",
+      "Year": 2025
+    },
+    "Description": "#歌ってみた #cover #zガンダム #ガンダム #アニソン",
+    "Duration": "00:04:02",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/KIZ6NwGxLTs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbcHglwj2mKKfmVDBkmPVrjjtHhQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KIZ6NwGxLTs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZbLUeTQk3TiTPdoz_dbam5dUxAQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KIZ6NwGxLTs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3DRz8iGnna7gbBgUnXm6QGFV64Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KIZ6NwGxLTs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvKpR_BZ6_ImK_ShRbO7T3-e_W0Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KIZ6NwGxLTs/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KIZ6NwGxLTs/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KIZ6NwGxLTs/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 241,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "S-ejcLo3wto",
+  "title": "「俺ら東京さ行ぐだ」 吉幾三 coverd by Hina",
+  "author": "Hina's Music",
+  "duration": "00:03:06",
+  "detail": {
+    "Id": {
+      "Value": "S-ejcLo3wto"
+    },
+    "Url": "https://www.youtube.com/watch?v=S-ejcLo3wto",
+    "Title": "「俺ら東京さ行ぐだ」 吉幾三 coverd by Hina",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwuZR46x-iklk87R5LsfDMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwuZR46x-iklk87R5LsfDMQ",
+      "ChannelTitle": "Hina's Music",
+      "Title": "Hina's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-01T17:40:19.0000000",
+      "UtcDateTime": "2026-01-02T01:40:19.0000000Z",
+      "LocalDateTime": "2026-01-02T10:40:19.0000000+09:00",
+      "Date": "2026-01-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 1,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 40,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 19,
+      "Ticks": 639028860190000000,
+      "UtcTicks": 639029148190000000,
+      "TimeOfDay": "17:40:19",
+      "Year": 2026
+    },
+    "Description": "#歌ってみた #cover #おらこんな村イヤだー #吉幾三",
+    "Duration": "00:03:06",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/S-ejcLo3wto/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBOVDRJEN1mLCFnZ407SOznb5yvjQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/S-ejcLo3wto/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDW-NHXUHiCdoCugAO0X5kT6I-1oA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/S-ejcLo3wto/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA880mo0uRLdPV8gQnjkA7_O1J7pA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/S-ejcLo3wto/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCJJ80YoUoKsC6y_bfWYUc0t9HmrQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/S-ejcLo3wto/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/S-ejcLo3wto/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/S-ejcLo3wto/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 190,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

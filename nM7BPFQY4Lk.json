@@ -1,0 +1,115 @@
+{
+  "id": "nM7BPFQY4Lk",
+  "title": "風よ光よ！快傑ライオン丸 ヒロイン Ver2",
+  "author": "googoo64",
+  "duration": "00:02:34",
+  "detail": {
+    "Id": {
+      "Value": "nM7BPFQY4Lk"
+    },
+    "Url": "https://www.youtube.com/watch?v=nM7BPFQY4Lk",
+    "Title": "風よ光よ！快傑ライオン丸 ヒロイン Ver2",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCsF-nyw1UVOGBJYm6ZxWu8g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCsF-nyw1UVOGBJYm6ZxWu8g",
+      "ChannelTitle": "googoo64",
+      "Title": "googoo64"
+    },
+    "UploadDate": {
+      "DateTime": "2025-07-02T02:11:25.0000000",
+      "UtcDateTime": "2025-07-02T09:11:25.0000000Z",
+      "LocalDateTime": "2025-07-02T18:11:25.0000000+09:00",
+      "Date": "2025-07-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 183,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 11,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 25,
+      "Ticks": 638870190850000000,
+      "UtcTicks": 638870442850000000,
+      "TimeOfDay": "02:11:25",
+      "Year": 2025
+    },
+    "Description": "第３弾→https://youtu.be/xBELS2OjtY8\nAnother Ver→ https://youtu.be/sJJ_8kRMn8g\n変身忍者 → https://youtu.be/QIp5etrnzxM\nヒロイン→https://www.youtube.com/playlist?list=PL0QckHv8nLw4dlC7fbRDFpt3aoLizoAl2",
+    "Duration": "00:02:34",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/nM7BPFQY4Lk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-B4AC0AWKAgwIABABGGUgUCg-MA8=&rs=AOn4CLCZd8idQYVuc-SQYjkk8lJD6HnCvQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nM7BPFQY4Lk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-B4AC0AWKAgwIABABGGUgUCg-MA8=&rs=AOn4CLAkm8a7EZOkX-ava3JIRqdF6GMp9g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nM7BPFQY4Lk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARhlIFAoPjAP&rs=AOn4CLBqYNGMrkcv7H6Vb8C2UriwUa6wOw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nM7BPFQY4Lk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARhlIFAoPjAP&rs=AOn4CLD_3H3NzhVINvCvuOupjvQLIN0X1Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nM7BPFQY4Lk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGGUgUCg-MA8=&rs=AOn4CLDdRu4gME97-9CR6YPuARyVcNqnWg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nM7BPFQY4Lk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nM7BPFQY4Lk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nM7BPFQY4Lk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 126954,
+      "LikeCount": 571,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

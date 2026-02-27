@@ -1,0 +1,115 @@
+{
+  "id": "YFEYdwSlzls",
+  "title": "【AIが歌う】バビル2世 /水木一郎・コロムビアゆりかご会cover【Synthesizer V】",
+  "author": "Cookies Lab クッキーズ ラボ",
+  "duration": "00:02:23",
+  "detail": {
+    "Id": {
+      "Value": "YFEYdwSlzls"
+    },
+    "Url": "https://www.youtube.com/watch?v=YFEYdwSlzls",
+    "Title": "【AIが歌う】バビル2世 /水木一郎・コロムビアゆりかご会cover【Synthesizer V】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCmrJWjcTn6jclCs4dNp-95w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCmrJWjcTn6jclCs4dNp-95w",
+      "ChannelTitle": "Cookies Lab クッキーズ ラボ",
+      "Title": "Cookies Lab クッキーズ ラボ"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-20T01:01:01.0000000",
+      "UtcDateTime": "2025-12-20T09:01:01.0000000Z",
+      "LocalDateTime": "2025-12-20T18:01:01.0000000+09:00",
+      "Date": "2025-12-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 354,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 1,
+      "Ticks": 639017892610000000,
+      "UtcTicks": 639018180610000000,
+      "TimeOfDay": "01:01:01",
+      "Year": 2025
+    },
+    "Description": "バビル2世 /水木一郎・コロムビアゆりかご会cover\n作詞 - 東映二\n作曲・編曲 - 菊池俊輔\n\nVocal : Synthesizer V Mai\nChorus : Synthesizer V Mai , Ryo AI",
+    "Duration": "00:02:23",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/YFEYdwSlzls/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC80xpy6vUA3Ha-dWfPWOx6PcHkCQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/YFEYdwSlzls/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD6Tji2jcg8ushqI3yJofEk9brRgQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/YFEYdwSlzls/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzPGByusDchJH4RbyMSaFQ-fjVyQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/YFEYdwSlzls/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfaByeKPbx5pV78sokaCCSpf34fA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/YFEYdwSlzls/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/YFEYdwSlzls/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/YFEYdwSlzls/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/YFEYdwSlzls/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 6648,
+      "LikeCount": 65,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

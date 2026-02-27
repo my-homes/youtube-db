@@ -1,0 +1,107 @@
+{
+  "id": "4558w_pkjmk",
+  "title": "「マドンナたちのララバイ」 岩崎宏美 coverd by Hina",
+  "author": "Hina's Music",
+  "duration": "00:04:30",
+  "detail": {
+    "Id": {
+      "Value": "4558w_pkjmk"
+    },
+    "Url": "https://www.youtube.com/watch?v=4558w_pkjmk",
+    "Title": "「マドンナたちのララバイ」 岩崎宏美 coverd by Hina",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwuZR46x-iklk87R5LsfDMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwuZR46x-iklk87R5LsfDMQ",
+      "ChannelTitle": "Hina's Music",
+      "Title": "Hina's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-24T00:59:26.0000000",
+      "UtcDateTime": "2025-12-24T08:59:26.0000000Z",
+      "LocalDateTime": "2025-12-24T17:59:26.0000000+09:00",
+      "Date": "2025-12-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 358,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 59,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 26,
+      "Ticks": 639021347660000000,
+      "UtcTicks": 639021635660000000,
+      "TimeOfDay": "00:59:26",
+      "Year": 2025
+    },
+    "Description": "#歌ってみた #cover #岩崎宏美 #聖母たちのララバイ #昭和歌謡",
+    "Duration": "00:04:30",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/4558w_pkjmk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBUVYxkOGkMrGmDY7rueGCXTmbkMQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4558w_pkjmk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBBF4WI398Zg0m47VFP57TQEWPi7A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4558w_pkjmk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBf2bBE5Ak34kJAXFr-g_iw6eG8ig",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4558w_pkjmk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8tga0HgKW1UwReU1xvXGxIYwuwg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4558w_pkjmk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4558w_pkjmk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4558w_pkjmk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 234,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

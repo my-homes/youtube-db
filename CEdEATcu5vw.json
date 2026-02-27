@@ -1,0 +1,115 @@
+{
+  "id": "CEdEATcu5vw",
+  "title": "ねがい ◆ 西郷輝彦",
+  "author": "さんぽみち",
+  "duration": "00:03:01",
+  "detail": {
+    "Id": {
+      "Value": "CEdEATcu5vw"
+    },
+    "Url": "https://www.youtube.com/watch?v=CEdEATcu5vw",
+    "Title": "ねがい ◆ 西郷輝彦",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCyxA-y1cwn0Rk_ZdRyPq3CA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCyxA-y1cwn0Rk_ZdRyPq3CA",
+      "ChannelTitle": "さんぽみち",
+      "Title": "さんぽみち"
+    },
+    "UploadDate": {
+      "DateTime": "2024-12-19T18:40:02.0000000",
+      "UtcDateTime": "2024-12-20T02:40:02.0000000Z",
+      "LocalDateTime": "2024-12-20T11:40:02.0000000+09:00",
+      "Date": "2024-12-19T00:00:00.0000000",
+      "Day": 19,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 354,
+      "Hour": 18,
+      "Millisecond": 0,
+      "Minute": 40,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 2,
+      "Ticks": 638702304020000000,
+      "UtcTicks": 638702592020000000,
+      "TimeOfDay": "18:40:02",
+      "Year": 2024
+    },
+    "Description": "🟪作詞：山上路夫🟪作曲・編曲：いずみたく🟪昭和51年12月",
+    "Duration": "00:03:01",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/CEdEATcu5vw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDWkIJ6sfHz4SwEwIIG7nq0xrJvdQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CEdEATcu5vw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCittpl2MIZir3r3It32Yv-2oi__Q",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CEdEATcu5vw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdlTizdYxe1bpdi3-qyh-0YqGVZw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CEdEATcu5vw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2deqKUgL7Hkh8gvC1Mf45l65uLQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/CEdEATcu5vw/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CEdEATcu5vw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CEdEATcu5vw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CEdEATcu5vw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 275008,
+      "LikeCount": 1795,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

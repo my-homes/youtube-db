@@ -1,0 +1,107 @@
+{
+  "id": "kfEhEddJSsk",
+  "title": "THE 虎舞竜 【ロード】cover",
+  "author": "Neon Duet Luna and Sun もしもAI",
+  "duration": "00:04:45",
+  "detail": {
+    "Id": {
+      "Value": "kfEhEddJSsk"
+    },
+    "Url": "https://www.youtube.com/watch?v=kfEhEddJSsk",
+    "Title": "THE 虎舞竜 【ロード】cover",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCRnZUx8RRqB0TFD5S-ajKNQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCRnZUx8RRqB0TFD5S-ajKNQ",
+      "ChannelTitle": "Neon Duet Luna and Sun もしもAI",
+      "Title": "Neon Duet Luna and Sun もしもAI"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-04T08:59:10.0000000",
+      "UtcDateTime": "2026-01-04T16:59:10.0000000Z",
+      "LocalDateTime": "2026-01-05T01:59:10.0000000+09:00",
+      "Date": "2026-01-04T00:00:00.0000000",
+      "Day": 4,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 4,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 59,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 10,
+      "Ticks": 639031139500000000,
+      "UtcTicks": 639031427500000000,
+      "TimeOfDay": "08:59:10",
+      "Year": 2026
+    },
+    "Description": "THE 虎舞竜 【ロード】をAIカバー\n#AIcover\n#ロード\n#虎舞竜\n#jpop\n#かわいい\n#メタル\n#metal\n#heavymetal\n#女性シンガー\n#famalevoice",
+    "Duration": "00:04:45",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/kfEhEddJSsk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBsRqgX5DYtrZDwsL5aKD0yx4YObA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kfEhEddJSsk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuEezfNb_Ep2pS4Ni0h2znrSc5yw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kfEhEddJSsk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuNnsN9boxUBIkg0CcsIgTvYOkrA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kfEhEddJSsk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVC24STyrCUHNw5Br2KuS18WDxDw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kfEhEddJSsk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kfEhEddJSsk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kfEhEddJSsk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 53547,
+      "LikeCount": 488,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

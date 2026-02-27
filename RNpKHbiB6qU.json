@@ -1,0 +1,107 @@
+{
+  "id": "RNpKHbiB6qU",
+  "title": "「fragile」 Every Little Thing coverd by Hina",
+  "author": "Hina's Music",
+  "duration": "00:04:49",
+  "detail": {
+    "Id": {
+      "Value": "RNpKHbiB6qU"
+    },
+    "Url": "https://www.youtube.com/watch?v=RNpKHbiB6qU",
+    "Title": "「fragile」 Every Little Thing coverd by Hina",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwuZR46x-iklk87R5LsfDMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwuZR46x-iklk87R5LsfDMQ",
+      "ChannelTitle": "Hina's Music",
+      "Title": "Hina's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-20T01:24:24.0000000",
+      "UtcDateTime": "2025-06-20T08:24:24.0000000Z",
+      "LocalDateTime": "2025-06-20T17:24:24.0000000+09:00",
+      "Date": "2025-06-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 171,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 24,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 24,
+      "Ticks": 638859794640000000,
+      "UtcTicks": 638860046640000000,
+      "TimeOfDay": "01:24:24",
+      "Year": 2025
+    },
+    "Description": "#ELT #fragile #歌ってみた #cover",
+    "Duration": "00:04:49",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/RNpKHbiB6qU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvlWF6uPr_7UHhCZSDk2MW3rcN0w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/RNpKHbiB6qU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLnVvSPNiN4JJ0tn6isEzq1LPPWw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/RNpKHbiB6qU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqoqi6aTht6igxCDNuB8NIfvW8FA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/RNpKHbiB6qU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1Y0Rp9_kv68tux4ZT5a6O9mGHsA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/RNpKHbiB6qU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/RNpKHbiB6qU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/RNpKHbiB6qU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 214,
+      "LikeCount": 7,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

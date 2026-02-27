@@ -1,0 +1,131 @@
+{
+  "id": "iIBLMgBOsn0",
+  "title": "ボルテスVの歌/正義の花道 演歌バージョン/Voltes V no Uta",
+  "author": "kuroto2000",
+  "duration": "00:03:35",
+  "detail": {
+    "Id": {
+      "Value": "iIBLMgBOsn0"
+    },
+    "Url": "https://www.youtube.com/watch?v=iIBLMgBOsn0",
+    "Title": "ボルテスVの歌/正義の花道 演歌バージョン/Voltes V no Uta",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCZTJEL_R-trcYH3XeWCkJhA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCZTJEL_R-trcYH3XeWCkJhA",
+      "ChannelTitle": "kuroto2000",
+      "Title": "kuroto2000"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-22T04:54:42.0000000",
+      "UtcDateTime": "2025-12-22T12:54:42.0000000Z",
+      "LocalDateTime": "2025-12-22T21:54:42.0000000+09:00",
+      "Date": "2025-12-22T00:00:00.0000000",
+      "Day": 22,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 356,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 54,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 42,
+      "Ticks": 639019760820000000,
+      "UtcTicks": 639020048820000000,
+      "TimeOfDay": "04:54:42",
+      "Year": 2025
+    },
+    "Description": "「超電磁マシーンボルテスV」のオープニングテーマを演歌でアレンジしました。",
+    "Duration": "00:03:35",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/iIBLMgBOsn0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_XAejIZZirKimPA7LiwQN5wyFew",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iIBLMgBOsn0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC5dBZTeWtxlthA6-YgVsaJ4sBMCg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iIBLMgBOsn0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWT_JCKyEgLAYVTqKFeoZg2JzUrA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iIBLMgBOsn0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSaeZ0xGuvBvYrFHdM7HFznaOV_A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iIBLMgBOsn0/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iIBLMgBOsn0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iIBLMgBOsn0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iIBLMgBOsn0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "tokusatsu",
+      "piano",
+      "ピアノ",
+      "特撮",
+      "仮面ライダー",
+      "スーパー戦隊",
+      "ウルトラマン",
+      "kamen",
+      "rider",
+      "super",
+      "sentai",
+      "ultraman",
+      "アレンジ",
+      "カバー",
+      "AIカバー"
+    ],
+    "Engagement": {
+      "ViewCount": 7069,
+      "LikeCount": 233,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

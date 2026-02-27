@@ -1,0 +1,117 @@
+{
+  "id": "2oCE__cru_o",
+  "title": "[アニソン風バラード曲]「君の残した光」",
+  "author": "あや姫",
+  "duration": "00:03:20",
+  "detail": {
+    "Id": {
+      "Value": "2oCE__cru_o"
+    },
+    "Url": "https://www.youtube.com/watch?v=2oCE__cru_o",
+    "Title": "[アニソン風バラード曲]「君の残した光」",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCENpGRYF7T-U-Z4ZXw7IgMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCENpGRYF7T-U-Z4ZXw7IgMQ",
+      "ChannelTitle": "あや姫",
+      "Title": "あや姫"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-17T02:00:05.0000000",
+      "UtcDateTime": "2026-01-17T10:00:05.0000000Z",
+      "LocalDateTime": "2026-01-17T19:00:05.0000000+09:00",
+      "Date": "2026-01-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 17,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 5,
+      "Ticks": 639042120050000000,
+      "UtcTicks": 639042408050000000,
+      "TimeOfDay": "02:00:05",
+      "Year": 2026
+    },
+    "Description": "良ければ高評価・感想コメント・チャンネル登録してもらえると励みになります。\nコメントはできる限り返します。\n＃オリジナル曲　＃アニソン　＃アニソン風　＃バラード",
+    "Duration": "00:03:20",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/2oCE__cru_o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBjXnlzPNzIP-osbTQ-3fqCpsF2UQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2oCE__cru_o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAFjDN_lz9GRvK_ZbBAnzspN-FbbA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2oCE__cru_o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPuel1LvDJ5rg4hjyzhTH1Ge7vxg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2oCE__cru_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfFeWnAt3AoHbDbpbDeDCtjvFKEA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/2oCE__cru_o/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2oCE__cru_o/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2oCE__cru_o/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2oCE__cru_o/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "＃アニソン"
+    ],
+    "Engagement": {
+      "ViewCount": 88,
+      "LikeCount": 3,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

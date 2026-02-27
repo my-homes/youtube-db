@@ -1,0 +1,107 @@
+{
+  "id": "8w8XuWguVoc",
+  "title": "宇宙戦艦ヤマト ユーロビート　Space battleship yamato Eurobeat",
+  "author": "エム",
+  "duration": "00:03:08",
+  "detail": {
+    "Id": {
+      "Value": "8w8XuWguVoc"
+    },
+    "Url": "https://www.youtube.com/watch?v=8w8XuWguVoc",
+    "Title": "宇宙戦艦ヤマト ユーロビート　Space battleship yamato Eurobeat",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCfo23Ua6g4gG6kRYWdajxkw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCfo23Ua6g4gG6kRYWdajxkw",
+      "ChannelTitle": "エム",
+      "Title": "エム"
+    },
+    "UploadDate": {
+      "DateTime": "2016-10-21T16:47:13.0000000",
+      "UtcDateTime": "2016-10-21T23:47:13.0000000Z",
+      "LocalDateTime": "2016-10-22T08:47:13.0000000+09:00",
+      "Date": "2016-10-21T00:00:00.0000000",
+      "Day": 21,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 295,
+      "Hour": 16,
+      "Millisecond": 0,
+      "Minute": 47,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 13,
+      "Ticks": 636126652330000000,
+      "UtcTicks": 636126904330000000,
+      "TimeOfDay": "16:47:13",
+      "Year": 2016
+    },
+    "Description": "",
+    "Duration": "00:03:08",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/8w8XuWguVoc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALgGBirPV3AkaNHMyPuWyUAnydzg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/8w8XuWguVoc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAe_weAM3RMjMKDdF4MQhE2Y-Ikhg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/8w8XuWguVoc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAVylyjWF6f3vAmn4Kcwv5JGav-2g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/8w8XuWguVoc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDaScqO_3mZHRWqEHwNzMI2Ffs6NQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/8w8XuWguVoc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/8w8XuWguVoc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/8w8XuWguVoc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 413381,
+      "LikeCount": 2517,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

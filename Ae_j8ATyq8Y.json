@@ -1,0 +1,107 @@
+{
+  "id": "Ae_j8ATyq8Y",
+  "title": "「シングル・アゲイン」 竹内まりや coverd by Hina",
+  "author": "Hina's Music",
+  "duration": "00:04:17",
+  "detail": {
+    "Id": {
+      "Value": "Ae_j8ATyq8Y"
+    },
+    "Url": "https://www.youtube.com/watch?v=Ae_j8ATyq8Y",
+    "Title": "「シングル・アゲイン」 竹内まりや coverd by Hina",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwuZR46x-iklk87R5LsfDMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwuZR46x-iklk87R5LsfDMQ",
+      "ChannelTitle": "Hina's Music",
+      "Title": "Hina's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-09T16:06:12.0000000",
+      "UtcDateTime": "2026-01-10T00:06:12.0000000Z",
+      "LocalDateTime": "2026-01-10T09:06:12.0000000+09:00",
+      "Date": "2026-01-09T00:00:00.0000000",
+      "Day": 9,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 9,
+      "Hour": 16,
+      "Millisecond": 0,
+      "Minute": 6,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 12,
+      "Ticks": 639035715720000000,
+      "UtcTicks": 639036003720000000,
+      "TimeOfDay": "16:06:12",
+      "Year": 2026
+    },
+    "Description": "#歌ってみた #cover #竹内まりや #シングルアゲイン #バラード",
+    "Duration": "00:04:17",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Ae_j8ATyq8Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1_Al_OumdkR-t2jMwNoARyR09NA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Ae_j8ATyq8Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWgZ9x6T_UiNhqbdkPpkg4xNLrVg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Ae_j8ATyq8Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKEYNqQrTI7qdWLg0kXlXsaku1fA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Ae_j8ATyq8Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKVsGiEge7t5rJXIG2bbBL2-uLGA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Ae_j8ATyq8Y/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Ae_j8ATyq8Y/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Ae_j8ATyq8Y/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 176,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "KS0aSAErAKA",
+  "title": "【アニメトランス】アンインストール【YURIE】",
+  "author": "厚切りぽ〜く🎈🧸",
+  "duration": "00:04:47",
+  "detail": {
+    "Id": {
+      "Value": "KS0aSAErAKA"
+    },
+    "Url": "https://www.youtube.com/watch?v=KS0aSAErAKA",
+    "Title": "【アニメトランス】アンインストール【YURIE】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCAEg4W5rdxiEykst3VuXLZA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCAEg4W5rdxiEykst3VuXLZA",
+      "ChannelTitle": "厚切りぽ〜く🎈🧸",
+      "Title": "厚切りぽ〜く🎈🧸"
+    },
+    "UploadDate": {
+      "DateTime": "2009-08-24T00:32:38.0000000",
+      "UtcDateTime": "2009-08-24T07:32:38.0000000Z",
+      "LocalDateTime": "2009-08-24T16:32:38.0000000+09:00",
+      "Date": "2009-08-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 236,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 32,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 38,
+      "Ticks": 633866707580000000,
+      "UtcTicks": 633866959580000000,
+      "TimeOfDay": "00:32:38",
+      "Year": 2009
+    },
+    "Description": "アニメトランス Tr.20 アンインストール です。",
+    "Duration": "00:04:47",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/KS0aSAErAKA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC4gZShyMA8=&rs=AOn4CLBLDTfwvPiOV58RfcaPlBZ1dmyKCQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KS0aSAErAKA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGC4gZShyMA8=&rs=AOn4CLAEXw3RDKBhmSa--nWc-pYmq_0EgA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KS0aSAErAKA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARguIGUocjAP&rs=AOn4CLBGIzGf8mIQcv-7XsIemCbZt-vm6w",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KS0aSAErAKA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARguIGUocjAP&rs=AOn4CLBDXOR8XXoooHuRHfWomLn7huuJWg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KS0aSAErAKA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KS0aSAErAKA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KS0aSAErAKA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "アニメトランス",
+      "アンインストール"
+    ],
+    "Engagement": {
+      "ViewCount": 802068,
+      "LikeCount": 4103,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "id": "aXOJf-iizbI",
+  "title": "【アニメトランス】創聖のアクエリオン【chum】",
+  "author": "厚切りぽ〜く🎈🧸",
+  "duration": "00:04:06",
+  "detail": {
+    "Id": {
+      "Value": "aXOJf-iizbI"
+    },
+    "Url": "https://www.youtube.com/watch?v=aXOJf-iizbI",
+    "Title": "【アニメトランス】創聖のアクエリオン【chum】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCAEg4W5rdxiEykst3VuXLZA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCAEg4W5rdxiEykst3VuXLZA",
+      "ChannelTitle": "厚切りぽ〜く🎈🧸",
+      "Title": "厚切りぽ〜く🎈🧸"
+    },
+    "UploadDate": {
+      "DateTime": "2009-07-03T04:51:35.0000000",
+      "UtcDateTime": "2009-07-03T11:51:35.0000000Z",
+      "LocalDateTime": "2009-07-03T20:51:35.0000000+09:00",
+      "Date": "2009-07-03T00:00:00.0000000",
+      "Day": 3,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 184,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 51,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 35,
+      "Ticks": 633821934950000000,
+      "UtcTicks": 633822186950000000,
+      "TimeOfDay": "04:51:35",
+      "Year": 2009
+    },
+    "Description": "アニメトランス Tr.03 創聖のアクエリオンです。",
+    "Duration": "00:04:06",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/aXOJf-iizbI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGH8gEygXMA8=&rs=AOn4CLC3tcRAwy0CqU6CssZT08bNMiPqzw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aXOJf-iizbI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGH8gEygXMA8=&rs=AOn4CLAQvudgmrU5xMnZ7M8LRHbHUuRKQw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aXOJf-iizbI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARh_IBMoFzAP&rs=AOn4CLBsk1q9wEpe8CInZL1UD1Yo025cjw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aXOJf-iizbI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARh_IBMoFzAP&rs=AOn4CLBHgiESw45zIuYEontusNuV8X-0CA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aXOJf-iizbI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aXOJf-iizbI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aXOJf-iizbI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "アニメトランス",
+      "創聖のアクエリオン"
+    ],
+    "Engagement": {
+      "ViewCount": 196910,
+      "LikeCount": 761,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

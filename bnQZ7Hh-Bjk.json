@@ -1,0 +1,120 @@
+{
+  "id": "bnQZ7Hh-Bjk",
+  "title": "Pro100   LAMBADA REMIX 2025",
+  "author": "Pro100",
+  "duration": "00:02:59",
+  "detail": {
+    "Id": {
+      "Value": "bnQZ7Hh-Bjk"
+    },
+    "Url": "https://www.youtube.com/watch?v=bnQZ7Hh-Bjk",
+    "Title": "Pro100   LAMBADA REMIX 2025",
+    "Author": {
+      "ChannelId": {
+        "Value": "UChy0q8XdquVAlHx1E0wJ-xQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UChy0q8XdquVAlHx1E0wJ-xQ",
+      "ChannelTitle": "Pro100",
+      "Title": "Pro100"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-23T00:05:00.0000000",
+      "UtcDateTime": "2025-12-23T08:05:00.0000000Z",
+      "LocalDateTime": "2025-12-23T17:05:00.0000000+09:00",
+      "Date": "2025-12-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 357,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 5,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 0,
+      "Ticks": 639020451000000000,
+      "UtcTicks": 639020739000000000,
+      "TimeOfDay": "00:05:00",
+      "Year": 2025
+    },
+    "Description": "New Dance remix for your party \nhttps://youtu.be/bnQZ7Hh-Bjk",
+    "Duration": "00:02:59",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/bnQZ7Hh-Bjk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAClAWKAgwIABABGH8gQig2MA8=&rs=AOn4CLAu9JTnezso1O4sCj3kWSS08-3iwQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/bnQZ7Hh-Bjk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAClAWKAgwIABABGH8gQig2MA8=&rs=AOn4CLBG1-LAu6zqQAQCetXR_X_HayfkiQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/bnQZ7Hh-Bjk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAApQFigIMCAAQARh_IEIoNjAP&rs=AOn4CLBYdFH9bl-qGAervSl0Qafy6K7e1A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/bnQZ7Hh-Bjk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAApQFigIMCAAQARh_IEIoNjAP&rs=AOn4CLBSFBii-ZKdXEImpS1F2XMTt3PQxA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/bnQZ7Hh-Bjk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAClAWKAgwIABABGH8gQig2MA8=&rs=AOn4CLBvIs8xYWQcalwEMgQSoiw8Uf_BvQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/bnQZ7Hh-Bjk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/bnQZ7Hh-Bjk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/bnQZ7Hh-Bjk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "#Pro100",
+      "#party",
+      "#lambada",
+      "#remix"
+    ],
+    "Engagement": {
+      "ViewCount": 5955,
+      "LikeCount": 58,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

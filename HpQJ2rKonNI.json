@@ -1,0 +1,115 @@
+{
+  "id": "HpQJ2rKonNI",
+  "title": "電人ザボーガー OP&ED",
+  "author": "OZ GAME1",
+  "duration": "00:04:28",
+  "detail": {
+    "Id": {
+      "Value": "HpQJ2rKonNI"
+    },
+    "Url": "https://www.youtube.com/watch?v=HpQJ2rKonNI",
+    "Title": "電人ザボーガー OP&ED",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC7VPmQqmPCQ7WS0AjCIKfTg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC7VPmQqmPCQ7WS0AjCIKfTg",
+      "ChannelTitle": "OZ GAME1",
+      "Title": "OZ GAME1"
+    },
+    "UploadDate": {
+      "DateTime": "2018-06-06T11:30:30.0000000",
+      "UtcDateTime": "2018-06-06T18:30:30.0000000Z",
+      "LocalDateTime": "2018-06-07T03:30:30.0000000+09:00",
+      "Date": "2018-06-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 157,
+      "Hour": 11,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 30,
+      "Ticks": 636638814300000000,
+      "UtcTicks": 636639066300000000,
+      "TimeOfDay": "11:30:30",
+      "Year": 2018
+    },
+    "Description": "",
+    "Duration": "00:04:28",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/HpQJ2rKonNI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDoF_96NP6z0ToF1g4OdZUA8u4fDw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/HpQJ2rKonNI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDOrOFW_ujYO60cDSXA2_J3-hT2vg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/HpQJ2rKonNI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpXuz7lQ_oXS4EYExdmBXaU-um6g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/HpQJ2rKonNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB20WnfE3Zv2bYUW9bZdeDk5Yhrqg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/HpQJ2rKonNI/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/HpQJ2rKonNI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/HpQJ2rKonNI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/HpQJ2rKonNI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1053467,
+      "LikeCount": 5184,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

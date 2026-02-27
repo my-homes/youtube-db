@@ -1,0 +1,107 @@
+{
+  "id": "vYbtaAovFXA",
+  "title": "「ガンダーラ」 ゴダイゴ coverd by Hina",
+  "author": "Hina's Music",
+  "duration": "00:04:22",
+  "detail": {
+    "Id": {
+      "Value": "vYbtaAovFXA"
+    },
+    "Url": "https://www.youtube.com/watch?v=vYbtaAovFXA",
+    "Title": "「ガンダーラ」 ゴダイゴ coverd by Hina",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwuZR46x-iklk87R5LsfDMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwuZR46x-iklk87R5LsfDMQ",
+      "ChannelTitle": "Hina's Music",
+      "Title": "Hina's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2025-10-16T23:30:09.0000000",
+      "UtcDateTime": "2025-10-17T06:30:09.0000000Z",
+      "LocalDateTime": "2025-10-17T15:30:09.0000000+09:00",
+      "Date": "2025-10-16T00:00:00.0000000",
+      "Day": 16,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 289,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 9,
+      "Ticks": 638962542090000000,
+      "UtcTicks": 638962794090000000,
+      "TimeOfDay": "23:30:09",
+      "Year": 2025
+    },
+    "Description": "#歌ってみた #cover #ガンダーラ #孫悟空",
+    "Duration": "00:04:22",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/vYbtaAovFXA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGzO5a-cIaZs6sAudX6nc374RAJw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vYbtaAovFXA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC_1i5BWCjpBxyGc8NPlEC4nTfBQg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vYbtaAovFXA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4EQSeaiGY8SXi8H4gOaly5wLLjw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vYbtaAovFXA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKpLdPJUDzNNmi3ayi9ppYOFJ6EQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vYbtaAovFXA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vYbtaAovFXA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vYbtaAovFXA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 2080,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}
