@@ -1,0 +1,115 @@
+{
+  "id": "xpeezxb7zjw",
+  "title": "「バビル２世」英語版【歌ってみた】",
+  "author": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+  "duration": "00:02:19",
+  "detail": {
+    "Id": {
+      "Value": "xpeezxb7zjw"
+    },
+    "Url": "https://www.youtube.com/watch?v=xpeezxb7zjw",
+    "Title": "「バビル２世」英語版【歌ってみた】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCnCvNHeOHpMyKQ4A47nQ8FQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCnCvNHeOHpMyKQ4A47nQ8FQ",
+      "ChannelTitle": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+      "Title": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2023-07-21T20:51:57.0000000",
+      "UtcDateTime": "2023-07-22T03:51:57.0000000Z",
+      "LocalDateTime": "2023-07-22T12:51:57.0000000+09:00",
+      "Date": "2023-07-21T00:00:00.0000000",
+      "Day": 21,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 202,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 51,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 57,
+      "Ticks": 638255695170000000,
+      "UtcTicks": 638255947170000000,
+      "TimeOfDay": "20:51:57",
+      "Year": 2023
+    },
+    "Description": "",
+    "Duration": "00:02:19",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/xpeezxb7zjw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLQhp_F4wlnCL072AglHkXwxtn-g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xpeezxb7zjw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBeciWNql6ZlQX3ssDYefpU2ZeUWg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xpeezxb7zjw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLClo5Nrza1qwmrH0k0IWRkmWEbQ4Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xpeezxb7zjw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFZMPfNxwoGM6aHYS-zH9sWsArpg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/xpeezxb7zjw/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xpeezxb7zjw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xpeezxb7zjw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xpeezxb7zjw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 73273,
+      "LikeCount": 1057,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

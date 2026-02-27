@@ -1,0 +1,117 @@
+{
+  "id": "4phT2Vukvn0",
+  "title": "Yamato Wave Motion Gun",
+  "author": "Dirtyboy",
+  "duration": "00:05:26",
+  "detail": {
+    "Id": {
+      "Value": "4phT2Vukvn0"
+    },
+    "Url": "https://www.youtube.com/watch?v=4phT2Vukvn0",
+    "Title": "Yamato Wave Motion Gun",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCQlVqn3zuZAajugqq5guWCg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCQlVqn3zuZAajugqq5guWCg",
+      "ChannelTitle": "Dirtyboy",
+      "Title": "Dirtyboy"
+    },
+    "UploadDate": {
+      "DateTime": "2011-07-06T12:54:16.0000000",
+      "UtcDateTime": "2011-07-06T19:54:16.0000000Z",
+      "LocalDateTime": "2011-07-07T04:54:16.0000000+09:00",
+      "Date": "2011-07-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 187,
+      "Hour": 12,
+      "Millisecond": 0,
+      "Minute": 54,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 16,
+      "Ticks": 634455536560000000,
+      "UtcTicks": 634455788560000000,
+      "TimeOfDay": "12:54:16",
+      "Year": 2011
+    },
+    "Description": "First firing of the Wave Motion gun, from the movie.",
+    "Duration": "00:05:26",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/4phT2Vukvn0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-B4AC0AWKAgwIABABGC4gZSgwMA8=&rs=AOn4CLCA2tKG3rWoxG5ASt5kllZjQ_QOUw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4phT2Vukvn0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-B4AC0AWKAgwIABABGC4gZSgwMA8=&rs=AOn4CLAdchMxDjKDZAaN2x_88MltxAYBgw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4phT2Vukvn0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARguIGUoMDAP&rs=AOn4CLAAyt_MKpVg99KVPODJVrHJTFaCtA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4phT2Vukvn0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgeAAtAFigIMCAAQARguIGUoMDAP&rs=AOn4CLDnroiWYFBdihwhRkL0AdMwU9g4TA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4phT2Vukvn0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AG-B4AC0AWKAgwIABABGC4gZSgwMA8=&rs=AOn4CLBQ84-PyCYU5_BcAAe-00mvVjog3Q",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4phT2Vukvn0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4phT2Vukvn0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4phT2Vukvn0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "yamatowave01"
+    ],
+    "Engagement": {
+      "ViewCount": 3023436,
+      "LikeCount": 18511,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

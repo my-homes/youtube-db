@@ -1,0 +1,115 @@
+{
+  "id": "tWamqJI3emQ",
+  "title": "時代 / 中島みゆき  AIcover  ロックVer.",
+  "author": "邦楽カバーチャンネル",
+  "duration": "00:05:23",
+  "detail": {
+    "Id": {
+      "Value": "tWamqJI3emQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=tWamqJI3emQ",
+    "Title": "時代 / 中島みゆき  AIcover  ロックVer.",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCenwiMuC97DLAjUL6e_g6lg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCenwiMuC97DLAjUL6e_g6lg",
+      "ChannelTitle": "邦楽カバーチャンネル",
+      "Title": "邦楽カバーチャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-25T02:01:20.0000000",
+      "UtcDateTime": "2026-02-25T10:01:20.0000000Z",
+      "LocalDateTime": "2026-02-25T19:01:20.0000000+09:00",
+      "Date": "2026-02-25T00:00:00.0000000",
+      "Day": 25,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 56,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 20,
+      "Ticks": 639075816800000000,
+      "UtcTicks": 639076104800000000,
+      "TimeOfDay": "02:01:20",
+      "Year": 2026
+    },
+    "Description": "時代を音楽生成AI Suno AI でカバーしました\nロック風にアレンジしました",
+    "Duration": "00:05:23",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/tWamqJI3emQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB-bKKG-fGgy5ntEwP_3wEbx2MP-g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tWamqJI3emQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCCnuZuVtQHH8WL_L-d-IrJIa5e8w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tWamqJI3emQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCbAdcr2aDebL3YjhcxVFUHw_To2g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tWamqJI3emQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjRmdZ_8lUC39XtOY616yu8fEVZw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tWamqJI3emQ/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tWamqJI3emQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tWamqJI3emQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tWamqJI3emQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 859,
+      "LikeCount": 19,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
