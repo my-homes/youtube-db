@@ -1,0 +1,115 @@
+{
+  "id": "vKPxI3JTxTU",
+  "title": "[ホンジユン] - 夜桜お七 (Original by.坂本冬美) COVER",
+  "author": "홍지윤",
+  "duration": "00:05:38",
+  "detail": {
+    "Id": {
+      "Value": "vKPxI3JTxTU"
+    },
+    "Url": "https://www.youtube.com/watch?v=vKPxI3JTxTU",
+    "Title": "[ホンジユン] - 夜桜お七 (Original by.坂本冬美) COVER",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-02-23T01:00:46.0000000",
+      "UtcDateTime": "2024-02-23T09:00:46.0000000Z",
+      "LocalDateTime": "2024-02-23T18:00:46.0000000+09:00",
+      "Date": "2024-02-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 54,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 46,
+      "Ticks": 638442468460000000,
+      "UtcTicks": 638442756460000000,
+      "TimeOfDay": "01:00:46",
+      "Year": 2024
+    },
+    "Description": "#cover #coversong #홍지윤  #演歌  #트로트\n#坂本冬美 #hongjiyun #夜桜お七 #trot #トロット",
+    "Duration": "00:05:38",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/vKPxI3JTxTU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAuszf8hvE8DgJsXkzcu4gmVE-ggA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vKPxI3JTxTU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5lBxjaStNwoLarnlpbrExilIUWg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vKPxI3JTxTU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQjhrEBoZmeykVnSJLK3KLaGNVSA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vKPxI3JTxTU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwcSJEbYHAvMaa2ZmSpoikTmYCig",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vKPxI3JTxTU/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vKPxI3JTxTU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vKPxI3JTxTU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vKPxI3JTxTU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 99750,
+      "LikeCount": 1375,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

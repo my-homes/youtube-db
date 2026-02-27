@@ -1,0 +1,115 @@
+{
+  "id": "qXMptExYIUo",
+  "title": "[ホンジユン] 酒よ (Original by. 吉幾三)",
+  "author": "홍지윤",
+  "duration": "00:04:15",
+  "detail": {
+    "Id": {
+      "Value": "qXMptExYIUo"
+    },
+    "Url": "https://www.youtube.com/watch?v=qXMptExYIUo",
+    "Title": "[ホンジユン] 酒よ (Original by. 吉幾三)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-08-30T02:00:52.0000000",
+      "UtcDateTime": "2024-08-30T09:00:52.0000000Z",
+      "LocalDateTime": "2024-08-30T18:00:52.0000000+09:00",
+      "Date": "2024-08-30T00:00:00.0000000",
+      "Day": 30,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 243,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 52,
+      "Ticks": 638605800520000000,
+      "UtcTicks": 638606052520000000,
+      "TimeOfDay": "02:00:52",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong # 酒よ#吉幾三",
+    "Duration": "00:04:15",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/qXMptExYIUo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmYC56Sc9mNXsBkTd_z-3wjHOmpQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qXMptExYIUo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBClj-a728acRwdgnjU-YpAb7-n3Q",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qXMptExYIUo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiLz9y7gR662FvVWMmmIf3Jk-uTQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qXMptExYIUo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDP2pKTa5ttnWvQfOwtmCl_8HSXdA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qXMptExYIUo/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qXMptExYIUo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qXMptExYIUo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qXMptExYIUo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 342856,
+      "LikeCount": 2528,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

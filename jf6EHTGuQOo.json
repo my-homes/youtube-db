@@ -1,0 +1,115 @@
+{
+  "id": "jf6EHTGuQOo",
+  "title": "[ホンジユン] - 天城越え (Original by.石川さゆり) COVER",
+  "author": "홍지윤",
+  "duration": "00:05:00",
+  "detail": {
+    "Id": {
+      "Value": "jf6EHTGuQOo"
+    },
+    "Url": "https://www.youtube.com/watch?v=jf6EHTGuQOo",
+    "Title": "[ホンジユン] - 天城越え (Original by.石川さゆり) COVER",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-03-01T01:00:38.0000000",
+      "UtcDateTime": "2024-03-01T09:00:38.0000000Z",
+      "LocalDateTime": "2024-03-01T18:00:38.0000000+09:00",
+      "Date": "2024-03-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 61,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 3,
+      "Offset": "-08:00:00",
+      "Second": 38,
+      "Ticks": 638448516380000000,
+      "UtcTicks": 638448804380000000,
+      "TimeOfDay": "01:00:38",
+      "Year": 2024
+    },
+    "Description": "#石川さゆり #홍지윤 #cover #演歌 #coversong #트로트 #아마기고개 #이시카와사유리 #トロット#hongjiyun #天城越え",
+    "Duration": "00:05:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/jf6EHTGuQOo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCVAsl5WrLdG1nGpuXFd1uz0XNSWQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/jf6EHTGuQOo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAKHAk7KskcNKj8AMTs6zuFXuNgUQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/jf6EHTGuQOo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOTyZfxXu3B0OlRHVMow4dD3cnxA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/jf6EHTGuQOo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCj75ZJn5BvhYep6vsMuugT3hjAIQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/jf6EHTGuQOo/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/jf6EHTGuQOo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/jf6EHTGuQOo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/jf6EHTGuQOo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 212078,
+      "LikeCount": 2736,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

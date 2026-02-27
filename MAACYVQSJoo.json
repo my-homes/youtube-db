@@ -1,0 +1,115 @@
+{
+  "id": "MAACYVQSJoo",
+  "title": "[ホンジユン] 雪の華 (Original by. 中島美嘉)",
+  "author": "홍지윤",
+  "duration": "00:05:44",
+  "detail": {
+    "Id": {
+      "Value": "MAACYVQSJoo"
+    },
+    "Url": "https://www.youtube.com/watch?v=MAACYVQSJoo",
+    "Title": "[ホンジユン] 雪の華 (Original by. 中島美嘉)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-09-13T02:00:31.0000000",
+      "UtcDateTime": "2024-09-13T09:00:31.0000000Z",
+      "LocalDateTime": "2024-09-13T18:00:31.0000000+09:00",
+      "Date": "2024-09-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 257,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 31,
+      "Ticks": 638617896310000000,
+      "UtcTicks": 638618148310000000,
+      "TimeOfDay": "02:00:31",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong #雪の華 #中島美嘉 #눈의꽃 #나카시마미카",
+    "Duration": "00:05:44",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/MAACYVQSJoo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLATiF_N1_9epH6y1IQbFFZdVN2aCA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MAACYVQSJoo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0g7SUYpGLmV98MRoqPHo0nBzPUg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MAACYVQSJoo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZPsA5Q_rbU0-cHbLocrvP_3i7wA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MAACYVQSJoo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoLW1KNgVvnvbf4mjfR6xYRWWUtA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MAACYVQSJoo/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/MAACYVQSJoo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/MAACYVQSJoo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/MAACYVQSJoo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 79898,
+      "LikeCount": 1422,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

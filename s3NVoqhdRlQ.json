@@ -1,0 +1,115 @@
+{
+  "id": "s3NVoqhdRlQ",
+  "title": "[ホンジユン] おんな港町 (Original by. 八代亜紀)",
+  "author": "홍지윤",
+  "duration": "00:03:03",
+  "detail": {
+    "Id": {
+      "Value": "s3NVoqhdRlQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=s3NVoqhdRlQ",
+    "Title": "[ホンジユン] おんな港町 (Original by. 八代亜紀)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-10-11T02:00:56.0000000",
+      "UtcDateTime": "2024-10-11T09:00:56.0000000Z",
+      "LocalDateTime": "2024-10-11T18:00:56.0000000+09:00",
+      "Date": "2024-10-11T00:00:00.0000000",
+      "Day": 11,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 285,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 56,
+      "Ticks": 638642088560000000,
+      "UtcTicks": 638642340560000000,
+      "TimeOfDay": "02:00:56",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong #おんな港町#八代亜紀",
+    "Duration": "00:03:03",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/s3NVoqhdRlQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAm1-BCw7MX0_GdWzBIHWJGpa_30g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s3NVoqhdRlQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXLCjxBsXZw6NayFmUeLOepp_UUg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s3NVoqhdRlQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrtqk_8r1GeWFcxAeim27CgbNb6g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s3NVoqhdRlQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUY4Dcg-pC7JuoWmyvVYDB52BBKw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s3NVoqhdRlQ/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/s3NVoqhdRlQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/s3NVoqhdRlQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/s3NVoqhdRlQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 208761,
+      "LikeCount": 1705,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

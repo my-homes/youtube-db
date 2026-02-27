@@ -1,0 +1,115 @@
+{
+  "id": "Vu7DHbdYCRI",
+  "title": "[ホンジユン] オリビアを聴きながら(Original by. 杏里)",
+  "author": "홍지윤",
+  "duration": "00:04:45",
+  "detail": {
+    "Id": {
+      "Value": "Vu7DHbdYCRI"
+    },
+    "Url": "https://www.youtube.com/watch?v=Vu7DHbdYCRI",
+    "Title": "[ホンジユン] オリビアを聴きながら(Original by. 杏里)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-09-20T02:00:36.0000000",
+      "UtcDateTime": "2024-09-20T09:00:36.0000000Z",
+      "LocalDateTime": "2024-09-20T18:00:36.0000000+09:00",
+      "Date": "2024-09-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 264,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 36,
+      "Ticks": 638623944360000000,
+      "UtcTicks": 638624196360000000,
+      "TimeOfDay": "02:00:36",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong #オリビアを聴きながら #杏里",
+    "Duration": "00:04:45",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Vu7DHbdYCRI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCKCn1CDOazSt2OiudiuonAOzqGRw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Vu7DHbdYCRI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDAcubWFVhGbBs3-BXugJ-FBCnAgg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Vu7DHbdYCRI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANFHyzvQDDnyrwr26SU3fn_0NBbQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Vu7DHbdYCRI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7ngPdZpg1x64j4mN0ZASbaJ7NgA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Vu7DHbdYCRI/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Vu7DHbdYCRI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Vu7DHbdYCRI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Vu7DHbdYCRI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 34051,
+      "LikeCount": 778,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

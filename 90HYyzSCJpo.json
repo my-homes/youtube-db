@@ -1,0 +1,115 @@
+{
+  "id": "90HYyzSCJpo",
+  "title": "[ホンジユン] 珍島物語 (Original by. 天童よしみ)",
+  "author": "홍지윤",
+  "duration": "00:04:46",
+  "detail": {
+    "Id": {
+      "Value": "90HYyzSCJpo"
+    },
+    "Url": "https://www.youtube.com/watch?v=90HYyzSCJpo",
+    "Title": "[ホンジユン] 珍島物語 (Original by. 天童よしみ)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-12-20T01:00:08.0000000",
+      "UtcDateTime": "2024-12-20T09:00:08.0000000Z",
+      "LocalDateTime": "2024-12-20T18:00:08.0000000+09:00",
+      "Date": "2024-12-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 355,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 8,
+      "Ticks": 638702532080000000,
+      "UtcTicks": 638702820080000000,
+      "TimeOfDay": "01:00:08",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong#珍島物語 #天童よしみ",
+    "Duration": "00:04:46",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/90HYyzSCJpo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB0TOSFszCO7_CL56YF3oe5LiJ83A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/90HYyzSCJpo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrLIZUsVglpR30yz1-xkEM_-tw4Q",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/90HYyzSCJpo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBws9Jde0wvjFFsDMDpdwlilC0xIQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/90HYyzSCJpo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAcBcaL_k9qabvRZznFXC0aw1SNng",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/90HYyzSCJpo/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/90HYyzSCJpo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/90HYyzSCJpo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/90HYyzSCJpo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 133432,
+      "LikeCount": 1419,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

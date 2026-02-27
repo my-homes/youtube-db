@@ -1,0 +1,115 @@
+{
+  "id": "FZf8JdzHeYc",
+  "title": "[ホンジユン] また君に恋してる (Original by. 坂本冬美)",
+  "author": "홍지윤",
+  "duration": "00:04:28",
+  "detail": {
+    "Id": {
+      "Value": "FZf8JdzHeYc"
+    },
+    "Url": "https://www.youtube.com/watch?v=FZf8JdzHeYc",
+    "Title": "[ホンジユン] また君に恋してる (Original by. 坂本冬美)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-12-06T01:00:20.0000000",
+      "UtcDateTime": "2024-12-06T09:00:20.0000000Z",
+      "LocalDateTime": "2024-12-06T18:00:20.0000000+09:00",
+      "Date": "2024-12-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 341,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 20,
+      "Ticks": 638690436200000000,
+      "UtcTicks": 638690724200000000,
+      "TimeOfDay": "01:00:20",
+      "Year": 2024
+    },
+    "Description": "홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover #coversong #また君に恋してる #坂本冬美",
+    "Duration": "00:04:28",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/FZf8JdzHeYc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBA7drE6aZYOqyVmLt2r9f2Qor1cg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FZf8JdzHeYc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCOP3CmqASUo99lPCr43KFukkW26A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FZf8JdzHeYc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMSidH5PO2-B64ExDceTfuKr2JpQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FZf8JdzHeYc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqH4lh0b8Ce_cbpnUcl9bOQD5DHg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FZf8JdzHeYc/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FZf8JdzHeYc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FZf8JdzHeYc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FZf8JdzHeYc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 87211,
+      "LikeCount": 1293,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
