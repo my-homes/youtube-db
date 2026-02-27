@@ -1,0 +1,119 @@
+{
+  "id": "1tp46TSirfM",
+  "title": "《漫步人生路》Gigi炎明熹 檀健次",
+  "author": "Gigi Yim 炎明熹",
+  "duration": "00:03:40",
+  "detail": {
+    "Id": {
+      "Value": "1tp46TSirfM"
+    },
+    "Url": "https://www.youtube.com/watch?v=1tp46TSirfM",
+    "Title": "《漫步人生路》Gigi炎明熹 檀健次",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClcZbrjwN5XeFZKycOdSRwg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClcZbrjwN5XeFZKycOdSRwg",
+      "ChannelTitle": "Gigi Yim 炎明熹",
+      "Title": "Gigi Yim 炎明熹"
+    },
+    "UploadDate": {
+      "DateTime": "2023-10-02T02:28:09.0000000",
+      "UtcDateTime": "2023-10-02T09:28:09.0000000Z",
+      "LocalDateTime": "2023-10-02T18:28:09.0000000+09:00",
+      "Date": "2023-10-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 275,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 28,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 9,
+      "Ticks": 638318104890000000,
+      "UtcTicks": 638318356890000000,
+      "TimeOfDay": "02:28:09",
+      "Year": 2023
+    },
+    "Description": "#央視中秋晚會#滿滿的月下復古感～\n很高興這次有機會能跟超級利害的@MIC檀健次JC-T 老師合作！\n也謝謝節目組 舞蹈老師們 以及各位工作人員們！\n\n#漫步人生路 \n#gigi炎明熹",
+    "Duration": "00:03:40",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1tp46TSirfM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDr4X2igMz8TK_rnHQ6hbTIgt3bSQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1tp46TSirfM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsj7gTx2QrMc4AxT2ScrsjBH4gtg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1tp46TSirfM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwkafLhA7H1Z_5ihVwI-nbuTsGUQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1tp46TSirfM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDg2fVMCnJVoPreQZntAMln19Ve2g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/1tp46TSirfM/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1tp46TSirfM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1tp46TSirfM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1tp46TSirfM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "央視中秋晚會",
+      "漫步人生路",
+      "gigi炎明熹"
+    ],
+    "Engagement": {
+      "ViewCount": 2862591,
+      "LikeCount": 15642,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

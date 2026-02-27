@@ -1,0 +1,115 @@
+{
+  "id": "xsvX8NQAMlw",
+  "title": "김다현(キムダヒョン) - 일 나겠네(大変だ)｜한일톱텐쇼 32회",
+  "author": "MBN MUSIC",
+  "duration": "00:02:02",
+  "detail": {
+    "Id": {
+      "Value": "xsvX8NQAMlw"
+    },
+    "Url": "https://www.youtube.com/watch?v=xsvX8NQAMlw",
+    "Title": "김다현(キムダヒョン) - 일 나겠네(大変だ)｜한일톱텐쇼 32회",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCsxbX6QnOLal_qzzMK9AR9g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCsxbX6QnOLal_qzzMK9AR9g",
+      "ChannelTitle": "MBN MUSIC",
+      "Title": "MBN MUSIC"
+    },
+    "UploadDate": {
+      "DateTime": "2025-01-13T06:16:19.0000000",
+      "UtcDateTime": "2025-01-13T14:16:19.0000000Z",
+      "LocalDateTime": "2025-01-13T23:16:19.0000000+09:00",
+      "Date": "2025-01-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 13,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 16,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 19,
+      "Ticks": 638723457790000000,
+      "UtcTicks": 638723745790000000,
+      "TimeOfDay": "06:16:19",
+      "Year": 2025
+    },
+    "Description": "한일톱텐쇼 32회 MBN 250113 방송\n\n한국과 일본의 트롯 국가대표 Top7이 펼치는 한일 음악 국가 대항전!\n매주 월요일 밤 9시 20분 많은 관심 부탁드립니다♡\n\n#한일톱텐쇼 #김다현 #キムダヒョン #일나겠네 #大変だ",
+    "Duration": "00:02:02",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/xsvX8NQAMlw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZwPSyWX3ebNr5BU0EJlnae8mqiQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xsvX8NQAMlw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDilJVPBhLxBqYtt7PF1LPO6kJbKg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xsvX8NQAMlw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1LEgaUxUolFTn6c5sD0G_pYrNyA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xsvX8NQAMlw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAncQpGypF8XUNYF34PWUj9-A_k8Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/xsvX8NQAMlw/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xsvX8NQAMlw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xsvX8NQAMlw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xsvX8NQAMlw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 321813,
+      "LikeCount": 2492,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

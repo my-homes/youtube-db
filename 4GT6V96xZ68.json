@@ -1,0 +1,113 @@
+{
+  "id": "4GT6V96xZ68",
+  "title": "おしべとめしべと夜の蝶々（SKE48）古畑奈和＆江籠裕奈Var.",
+  "author": "お茶の水博士",
+  "duration": "00:02:42",
+  "detail": {
+    "Id": {
+      "Value": "4GT6V96xZ68"
+    },
+    "Url": "https://www.youtube.com/watch?v=4GT6V96xZ68",
+    "Title": "おしべとめしべと夜の蝶々（SKE48）古畑奈和＆江籠裕奈Var.",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwcQgmhjaxyFcfFL37w3zDg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwcQgmhjaxyFcfFL37w3zDg",
+      "ChannelTitle": "お茶の水博士",
+      "Title": "お茶の水博士"
+    },
+    "UploadDate": {
+      "DateTime": "2020-04-10T07:37:29.0000000",
+      "UtcDateTime": "2020-04-10T14:37:29.0000000Z",
+      "LocalDateTime": "2020-04-10T23:37:29.0000000+09:00",
+      "Date": "2020-04-10T00:00:00.0000000",
+      "Day": 10,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 101,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 37,
+      "Month": 4,
+      "Offset": "-07:00:00",
+      "Second": 29,
+      "Ticks": 637221010490000000,
+      "UtcTicks": 637221262490000000,
+      "TimeOfDay": "07:37:29",
+      "Year": 2020
+    },
+    "Description": "SKE48の古畑奈和さん、江籠裕奈さんの「おしべとめしべと夜の蝶々」です。2018年9月15日に名古屋国際会議場で行われたSKE48リクエストアワーの映像です。 \n詞：秋元康、曲：宮島律子\n動画は著作権者の許諾により公開されています。 \nまた、著作権者により収益化されています。",
+    "Duration": "00:02:42",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/4GT6V96xZ68/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCiJCOjyP9l-Jn3IL3XpoFpah-MeQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4GT6V96xZ68/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBmwk4sJ7duisRXhyceUewFytM20A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4GT6V96xZ68/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjrXtTEmPQuhaNIY-xLD7ROLbYmg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4GT6V96xZ68/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXdFrnx_4za1FFoq-gL1bLya8BvA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4GT6V96xZ68/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4GT6V96xZ68/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4GT6V96xZ68/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "SKE48",
+      "AKB48",
+      "おしべとめしべと夜の蝶々",
+      "古畑奈和",
+      "江籠裕奈"
+    ],
+    "Engagement": {
+      "ViewCount": 162132,
+      "LikeCount": 1505,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "-bx2tQ6bziw",
+  "title": "“Dan Dan”响起，所向披靡! 《DAN DAN 心魅かれてく》",
+  "author": "咻咻满",
+  "duration": "00:04:27",
+  "detail": {
+    "Id": {
+      "Value": "-bx2tQ6bziw"
+    },
+    "Url": "https://www.youtube.com/watch?v=-bx2tQ6bziw",
+    "Title": "“Dan Dan”响起，所向披靡! 《DAN DAN 心魅かれてく》",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCjKLauK-fLKmVlYSknbERkw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCjKLauK-fLKmVlYSknbERkw",
+      "ChannelTitle": "咻咻满",
+      "Title": "咻咻满"
+    },
+    "UploadDate": {
+      "DateTime": "2024-03-15T02:50:11.0000000",
+      "UtcDateTime": "2024-03-15T09:50:11.0000000Z",
+      "LocalDateTime": "2024-03-15T18:50:11.0000000+09:00",
+      "Date": "2024-03-15T00:00:00.0000000",
+      "Day": 15,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 75,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 50,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 11,
+      "Ticks": 638460678110000000,
+      "UtcTicks": 638460930110000000,
+      "TimeOfDay": "02:50:11",
+      "Year": 2024
+    },
+    "Description": "#DANDAN心魅かれてく \n#漸漸被你吸引\n#坂井泉水\n#七龙珠",
+    "Duration": "00:04:27",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/-bx2tQ6bziw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDXnPOKI8CAp86FVADoSeInltXx5g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-bx2tQ6bziw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA5TpqbAcptm7axtreXy7nK-xy1Cg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-bx2tQ6bziw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA2Nz5AwFMaBtra4NWcF0wo0gkzdA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-bx2tQ6bziw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAx7I50uTlWiGX5br6Qg8A8plwfYA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-bx2tQ6bziw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-bx2tQ6bziw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-bx2tQ6bziw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 894931,
+      "LikeCount": 13110,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

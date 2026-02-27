@@ -1,0 +1,115 @@
+{
+  "id": "A0MbWmH_uF8",
+  "title": "君をのせて 【Ballade】/ 天空の城ラピュタ | JAZZ FUNK J-POP |  Kimi wo Nosete / LAPUTA: Castle in the Sky",
+  "author": "Jazz-Funk J-pop",
+  "duration": "00:04:20",
+  "detail": {
+    "Id": {
+      "Value": "A0MbWmH_uF8"
+    },
+    "Url": "https://www.youtube.com/watch?v=A0MbWmH_uF8",
+    "Title": "君をのせて 【Ballade】/ 天空の城ラピュタ | JAZZ FUNK J-POP |  Kimi wo Nosete / LAPUTA: Castle in the Sky",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC6Lna83qJSW1EUcz_xjA1-A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC6Lna83qJSW1EUcz_xjA1-A",
+      "ChannelTitle": "Jazz-Funk J-pop",
+      "Title": "Jazz-Funk J-pop"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-17T19:00:00.0000000",
+      "UtcDateTime": "2026-01-18T03:00:00.0000000Z",
+      "LocalDateTime": "2026-01-18T12:00:00.0000000+09:00",
+      "Date": "2026-01-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 17,
+      "Hour": 19,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 0,
+      "Ticks": 639042732000000000,
+      "UtcTicks": 639043020000000000,
+      "TimeOfDay": "19:00:00",
+      "Year": 2026
+    },
+    "Description": "「君をのせて」は、昔から\n冒頭はパズーのトランペットから始まったらいいなと\nずっと思っていた楽曲で、\n今回はそのイメージをもとに、冒頭の演出を再現してみました。\n\n静かな余韻と、空へ広がっていくような情景を大切にしながら、\nバラード調で仕上げています ✨\n\nI’ve always imagined “Kimi wo Nosete”\nbeginning with Pazu’s trumpet at the very opening.\nWith that image in mind,\nI tried to recreate that feeling in the intro of this arrangement.\n\nWhile cherishing a sense of quiet afterglow\nand imagery that feels as if it’s spreading up into the sky,\nthis version is arranged as a gentle ballad ✨\n\n🎤原曲🎼\n歌唱: 井上あずみ\n作詞: 宮崎駿\n作曲:久石譲\n\n制作\n曲：SUNO\nサムネイル：NanoBanana",
+    "Duration": "00:04:20",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/A0MbWmH_uF8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBuupGptSJLZ9tZjjpO0dsDqhLVoA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/A0MbWmH_uF8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCd9nXyk3aSqBgi3qZpMSMmlVoZbg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/A0MbWmH_uF8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxu6_MTaqDXidVnTpol-0uMcrXEQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/A0MbWmH_uF8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq2p5b9w6yKjCfaN3k-qq7IHSJ4w",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/A0MbWmH_uF8/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/A0MbWmH_uF8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/A0MbWmH_uF8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/A0MbWmH_uF8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 3293,
+      "LikeCount": 116,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "nLvzw2h_xhA",
+  "title": "地上の星 / 中島みゆき  AIcover  ジャズVer.",
+  "author": "邦楽カバーチャンネル",
+  "duration": "00:05:08",
+  "detail": {
+    "Id": {
+      "Value": "nLvzw2h_xhA"
+    },
+    "Url": "https://www.youtube.com/watch?v=nLvzw2h_xhA",
+    "Title": "地上の星 / 中島みゆき  AIcover  ジャズVer.",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCenwiMuC97DLAjUL6e_g6lg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCenwiMuC97DLAjUL6e_g6lg",
+      "ChannelTitle": "邦楽カバーチャンネル",
+      "Title": "邦楽カバーチャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-21T02:01:20.0000000",
+      "UtcDateTime": "2026-01-21T10:01:20.0000000Z",
+      "LocalDateTime": "2026-01-21T19:01:20.0000000+09:00",
+      "Date": "2026-01-21T00:00:00.0000000",
+      "Day": 21,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 21,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 20,
+      "Ticks": 639045576800000000,
+      "UtcTicks": 639045864800000000,
+      "TimeOfDay": "02:01:20",
+      "Year": 2026
+    },
+    "Description": "地上の星を音楽生成AI Suno AI でカバーしました\nジャズ風にアレンジしました",
+    "Duration": "00:05:08",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/nLvzw2h_xhA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDrxt_Z9juQj_zC_SWh_z0UyLVwAg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nLvzw2h_xhA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVu17ovdvUV3vZnK1W5AvUMNeF-w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nLvzw2h_xhA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZcba-T5slEGA6eoaemLuSFlIFLw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nLvzw2h_xhA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAANENb94udnSTW6wiY5EXGsvgQfw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nLvzw2h_xhA/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nLvzw2h_xhA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nLvzw2h_xhA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nLvzw2h_xhA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 4551,
+      "LikeCount": 77,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

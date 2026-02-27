@@ -1,0 +1,118 @@
+{
+  "id": "UuMn0MWMb54",
+  "title": "【SUNO】高田みづえ  - 硝子坂  (Cover) 【AI】",
+  "author": "Sanpei3",
+  "duration": "00:03:28",
+  "detail": {
+    "Id": {
+      "Value": "UuMn0MWMb54"
+    },
+    "Url": "https://www.youtube.com/watch?v=UuMn0MWMb54",
+    "Title": "【SUNO】高田みづえ  - 硝子坂  (Cover) 【AI】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClWyryzMkp0otHfPDT-GOKg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClWyryzMkp0otHfPDT-GOKg",
+      "ChannelTitle": "Sanpei3",
+      "Title": "Sanpei3"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-11T06:27:32.0000000",
+      "UtcDateTime": "2026-01-11T14:27:32.0000000Z",
+      "LocalDateTime": "2026-01-11T23:27:32.0000000+09:00",
+      "Date": "2026-01-11T00:00:00.0000000",
+      "Day": 11,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 11,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 27,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 32,
+      "Ticks": 639037096520000000,
+      "UtcTicks": 639037384520000000,
+      "TimeOfDay": "06:27:32",
+      "Year": 2026
+    },
+    "Description": "SUNO AIでカバーを作成。",
+    "Duration": "00:03:28",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/UuMn0MWMb54/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gNyhFMA8=&rs=AOn4CLASZCquCJ06eOUgGGGp62aOIYZ13Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/UuMn0MWMb54/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gNyhFMA8=&rs=AOn4CLBCr8mptXXpGgsxSRkUI6UVggtU8g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/UuMn0MWMb54/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IDcoRTAP&rs=AOn4CLCVsYeLXWx8rh74jGSSCqkmKBJECA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/UuMn0MWMb54/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IDcoRTAP&rs=AOn4CLAZxzjpmBgeiJYwoHL-OlWjQOwXNw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/UuMn0MWMb54/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gNyhFMA8=&rs=AOn4CLCnSq9xEgS3pFvaoBwoRFq1dE-jWQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/UuMn0MWMb54/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/UuMn0MWMb54/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/UuMn0MWMb54/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "高田みづえ",
+      "硝子坂"
+    ],
+    "Engagement": {
+      "ViewCount": 4115,
+      "LikeCount": 66,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

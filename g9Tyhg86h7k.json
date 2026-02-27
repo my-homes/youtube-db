@@ -1,0 +1,115 @@
+{
+  "id": "g9Tyhg86h7k",
+  "title": "《魅夜蝶影》cut",
+  "author": "AKB48 Team SH",
+  "duration": "00:04:12",
+  "detail": {
+    "Id": {
+      "Value": "g9Tyhg86h7k"
+    },
+    "Url": "https://www.youtube.com/watch?v=g9Tyhg86h7k",
+    "Title": "《魅夜蝶影》cut",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCtltH3x_ph92w5DLW5gQYrA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCtltH3x_ph92w5DLW5gQYrA",
+      "ChannelTitle": "AKB48 Team SH",
+      "Title": "AKB48 Team SH"
+    },
+    "UploadDate": {
+      "DateTime": "2022-12-10T08:39:47.0000000",
+      "UtcDateTime": "2022-12-10T16:39:47.0000000Z",
+      "LocalDateTime": "2022-12-11T01:39:47.0000000+09:00",
+      "Date": "2022-12-10T00:00:00.0000000",
+      "Day": 10,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 344,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 39,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 47,
+      "Ticks": 638062583870000000,
+      "UtcTicks": 638062871870000000,
+      "TimeOfDay": "08:39:47",
+      "Year": 2022
+    },
+    "Description": "#毛唯嘉 和 #叶知恩 版《魅夜蝶影》完整版来了！毛队你究竟有几个好妹妹呢？#AKB48TeamSH",
+    "Duration": "00:04:12",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/g9Tyhg86h7k/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGCcgJSh_MA8=&rs=AOn4CLB1eumbJcPTcWGi7b2fzHwOSk3-Jw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/g9Tyhg86h7k/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGCcgJSh_MA8=&rs=AOn4CLA1dnoCJMqQbLh1pkbqHv7aY3z28w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/g9Tyhg86h7k/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgnICUofzAP&rs=AOn4CLAjhpV969yzSOTsgupBZFRKrx1FKA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/g9Tyhg86h7k/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgnICUofzAP&rs=AOn4CLBJ-Ah2wrSyLYPbJsR_xFI-Cq8mZg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/g9Tyhg86h7k/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGCcgJSh_MA8=&rs=AOn4CLDFjGS2EwZog8mBOEsc3fVePBMvOg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/g9Tyhg86h7k/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/g9Tyhg86h7k/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/g9Tyhg86h7k/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 6891,
+      "LikeCount": 144,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

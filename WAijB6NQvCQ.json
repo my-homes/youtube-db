@@ -1,0 +1,115 @@
+{
+  "id": "WAijB6NQvCQ",
+  "title": "おしべとめしべと夜の蝶々",
+  "author": "Message Channel ーSecondー",
+  "duration": "00:03:59",
+  "detail": {
+    "Id": {
+      "Value": "WAijB6NQvCQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=WAijB6NQvCQ",
+    "Title": "おしべとめしべと夜の蝶々",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCoFPkdQ0OM-1-7kyEvwUxSQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCoFPkdQ0OM-1-7kyEvwUxSQ",
+      "ChannelTitle": "Message Channel ーSecondー",
+      "Title": "Message Channel ーSecondー"
+    },
+    "UploadDate": {
+      "DateTime": "2024-07-06T08:00:27.0000000",
+      "UtcDateTime": "2024-07-06T15:00:27.0000000Z",
+      "LocalDateTime": "2024-07-07T00:00:27.0000000+09:00",
+      "Date": "2024-07-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 188,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 27,
+      "Ticks": 638558496270000000,
+      "UtcTicks": 638558748270000000,
+      "TimeOfDay": "08:00:27",
+      "Year": 2024
+    },
+    "Description": "",
+    "Duration": "00:03:59",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/WAijB6NQvCQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gQigwMA8=&rs=AOn4CLDg0sp6qIkslP4fgZkrgoSJeXVjDA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WAijB6NQvCQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gQigwMA8=&rs=AOn4CLC3yNHMTalMlMhgpYtj6y9YTKYAAw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WAijB6NQvCQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEIoMDAP&rs=AOn4CLBdRS3QDtsrivj7FVjTgTS7IM46ig",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WAijB6NQvCQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IEIoMDAP&rs=AOn4CLANXeJRaqEiCDjreOzyOqh9j9n0fw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/WAijB6NQvCQ/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gQigwMA8=&rs=AOn4CLA-lCVLdhQNRBW3L0PE-a6ORG1dtQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/WAijB6NQvCQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/WAijB6NQvCQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/WAijB6NQvCQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 650,
+      "LikeCount": 16,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "id": "zOA9sDyJdEY",
+  "title": "馮提莫 《漫步人生路》 鄧麗君",
+  "author": "STUDIO FTM",
+  "duration": "00:03:48",
+  "detail": {
+    "Id": {
+      "Value": "zOA9sDyJdEY"
+    },
+    "Url": "https://www.youtube.com/watch?v=zOA9sDyJdEY",
+    "Title": "馮提莫 《漫步人生路》 鄧麗君",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC1K6llevFGrdnvLxlyc6_Cg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC1K6llevFGrdnvLxlyc6_Cg",
+      "ChannelTitle": "STUDIO FTM",
+      "Title": "STUDIO FTM"
+    },
+    "UploadDate": {
+      "DateTime": "2022-10-14T21:26:32.0000000",
+      "UtcDateTime": "2022-10-15T04:26:32.0000000Z",
+      "LocalDateTime": "2022-10-15T13:26:32.0000000+09:00",
+      "Date": "2022-10-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 287,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 26,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 32,
+      "Ticks": 638013795920000000,
+      "UtcTicks": 638014047920000000,
+      "TimeOfDay": "21:26:32",
+      "Year": 2022
+    },
+    "Description": "#冯提莫 #FengTimo",
+    "Duration": "00:03:48",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/zOA9sDyJdEY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChVMA8=&rs=AOn4CLALEuydmo9scur3NDhj2204v17IIA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zOA9sDyJdEY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgXChVMA8=&rs=AOn4CLCc8Ubb3WHok8LDslsZkFCtoUcGwg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zOA9sDyJdEY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoVTAP&rs=AOn4CLCAnFYii7bPCPN5hUoPFxxTT4OLVA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zOA9sDyJdEY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoVTAP&rs=AOn4CLCMh0ERp57pw6Y37-8Gt_4Eyv9uVg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zOA9sDyJdEY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgXChVMA8=&rs=AOn4CLD7YA2kQp0eG5KHZaLpCqRnLOCPUA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zOA9sDyJdEY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zOA9sDyJdEY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zOA9sDyJdEY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "冯提莫",
+      "Feng Timo"
+    ],
+    "Engagement": {
+      "ViewCount": 1795,
+      "LikeCount": 89,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

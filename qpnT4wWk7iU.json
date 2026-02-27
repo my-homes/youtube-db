@@ -1,0 +1,113 @@
+{
+  "id": "qpnT4wWk7iU",
+  "title": "love battery~ Hong Jin Young",
+  "author": "setanprap4tan",
+  "duration": "00:03:00",
+  "detail": {
+    "Id": {
+      "Value": "qpnT4wWk7iU"
+    },
+    "Url": "https://www.youtube.com/watch?v=qpnT4wWk7iU",
+    "Title": "love battery~ Hong Jin Young",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCsjVfxIJUY0oA4i02TVpwXw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCsjVfxIJUY0oA4i02TVpwXw",
+      "ChannelTitle": "setanprap4tan",
+      "Title": "setanprap4tan"
+    },
+    "UploadDate": {
+      "DateTime": "2010-02-06T23:17:16.0000000",
+      "UtcDateTime": "2010-02-07T07:17:16.0000000Z",
+      "LocalDateTime": "2010-02-07T16:17:16.0000000+09:00",
+      "Date": "2010-02-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 37,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 17,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 16,
+      "Ticks": 634010950360000000,
+      "UtcTicks": 634011238360000000,
+      "TimeOfDay": "23:17:16",
+      "Year": 2010
+    },
+    "Description": "menerima tukar tambah buat istri muda..niicch",
+    "Duration": "00:03:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/qpnT4wWk7iU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGH8gXCgWMA8=&rs=AOn4CLAsNMh7cq8I_-axFywF3Huv9Z5HSQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qpnT4wWk7iU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC6AKKAgwIABABGH8gXCgWMA8=&rs=AOn4CLAH_Zpx2HSRdvwL0MNNXfZXeKwauQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qpnT4wWk7iU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARh_IFwoFjAP&rs=AOn4CLBO7s3t_WQPq6H1-Ceu8dz37ivrRw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qpnT4wWk7iU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAugCigIMCAAQARh_IFwoFjAP&rs=AOn4CLDUXWyZlrjlfqxDTGY-2ys8DcMsGg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qpnT4wWk7iU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qpnT4wWk7iU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qpnT4wWk7iU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "love",
+      "battry",
+      "Hong",
+      "Jin",
+      "Young"
+    ],
+    "Engagement": {
+      "ViewCount": 241540,
+      "LikeCount": 1054,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Jb1tXG9Nyo0",
+  "title": "亮聲open《漫步人生路》原唱 : 鄧麗君 Teresa Teng テレサ・テン",
+  "author": "Open音樂頻道",
+  "duration": "00:02:44",
+  "detail": {
+    "Id": {
+      "Value": "Jb1tXG9Nyo0"
+    },
+    "Url": "https://www.youtube.com/watch?v=Jb1tXG9Nyo0",
+    "Title": "亮聲open《漫步人生路》原唱 : 鄧麗君 Teresa Teng テレサ・テン",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCIjIEN-07D-m9wdmfav4Hpw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCIjIEN-07D-m9wdmfav4Hpw",
+      "ChannelTitle": "Open音樂頻道",
+      "Title": "Open音樂頻道"
+    },
+    "UploadDate": {
+      "DateTime": "2021-03-07T01:34:29.0000000",
+      "UtcDateTime": "2021-03-07T09:34:29.0000000Z",
+      "LocalDateTime": "2021-03-07T18:34:29.0000000+09:00",
+      "Date": "2021-03-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 66,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 34,
+      "Month": 3,
+      "Offset": "-08:00:00",
+      "Second": 29,
+      "Ticks": 637506776690000000,
+      "UtcTicks": 637507064690000000,
+      "TimeOfDay": "01:34:29",
+      "Year": 2021
+    },
+    "Description": "#テレサテン #鄧麗君 #漫步人生路",
+    "Duration": "00:02:44",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Jb1tXG9Nyo0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBhQuBCqxphDQqHsXrMFd8Af30pkw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Jb1tXG9Nyo0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiDMZIRx4nuXEpqPr3IrBNsvHAWw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Jb1tXG9Nyo0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKL5htdrLzBEAtg2UWryiii0v49Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Jb1tXG9Nyo0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5oirt2YaBPawRAYIrL_8gRv_pUA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/Jb1tXG9Nyo0/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Jb1tXG9Nyo0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Jb1tXG9Nyo0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Jb1tXG9Nyo0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 21753,
+      "LikeCount": 277,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

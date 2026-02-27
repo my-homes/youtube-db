@@ -1,0 +1,132 @@
+{
+  "id": "GVcPl7G2c40",
+  "title": "SNH48第二回リクアワ B01 おしべとめしべと夜の蝶々 20151226",
+  "author": "snh48info",
+  "duration": "00:04:08",
+  "detail": {
+    "Id": {
+      "Value": "GVcPl7G2c40"
+    },
+    "Url": "https://www.youtube.com/watch?v=GVcPl7G2c40",
+    "Title": "SNH48第二回リクアワ B01 おしべとめしべと夜の蝶々 20151226",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC3FthKPe8dr32CeRurRZJ_A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC3FthKPe8dr32CeRurRZJ_A",
+      "ChannelTitle": "snh48info",
+      "Title": "snh48info"
+    },
+    "UploadDate": {
+      "DateTime": "2015-12-26T07:08:59.0000000",
+      "UtcDateTime": "2015-12-26T15:08:59.0000000Z",
+      "LocalDateTime": "2015-12-27T00:08:59.0000000+09:00",
+      "Date": "2015-12-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 360,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 8,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 59,
+      "Ticks": 635867105390000000,
+      "UtcTicks": 635867393390000000,
+      "TimeOfDay": "07:08:59",
+      "Year": 2015
+    },
+    "Description": "SNH48 2nd Request Hour Best 30 1st 'Oshibe To Meshibe To Yoru No Chouchou' by 2nd gen Li Yitong and Huang Tingting on Dec 26, 2015.\nSNH48 第二回リクエストアワーBEST30 第1位 おしべとめしべと夜の蝶々 二期生カチューシャ（李藝彤）、二期生テテちゃん（黃婷婷） 2015-12-26",
+    "Duration": "00:04:08",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/GVcPl7G2c40/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4D3rQ0DHMlAd7nVZ6UdquFDi1pQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/GVcPl7G2c40/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBi6_2geEB4adRdPZKpHf7bAQSn3g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/GVcPl7G2c40/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7EBU2kZN8S21FNia8AWASwhHHjQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/GVcPl7G2c40/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCHaDYYBZo5-VmPEnIqxf4Hjt9IwQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/GVcPl7G2c40/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/GVcPl7G2c40/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/GVcPl7G2c40/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/GVcPl7G2c40/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "SNH48 (Musical Group)",
+      "AKB48",
+      "チームSII",
+      "チームNII",
+      "チームHII",
+      "チームX",
+      "チームXII",
+      "Team SII",
+      "Team NII",
+      "Team HII",
+      "Team X",
+      "Team XII",
+      "China (Country)",
+      "Shanghai (City/Town/Village)",
+      "中国",
+      "上海"
+    ],
+    "Engagement": {
+      "ViewCount": 53017,
+      "LikeCount": 379,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

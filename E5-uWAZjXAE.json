@@ -1,0 +1,119 @@
+{
+  "id": "E5-uWAZjXAE",
+  "title": "わが青春のアルカディア   映画わが青春のアルカディアより",
+  "author": "Gsun迷走music",
+  "duration": "00:03:54",
+  "detail": {
+    "Id": {
+      "Value": "E5-uWAZjXAE"
+    },
+    "Url": "https://www.youtube.com/watch?v=E5-uWAZjXAE",
+    "Title": "わが青春のアルカディア   映画わが青春のアルカディアより",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCgvd0QQj0v5Xtx_RZXFQRiA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCgvd0QQj0v5Xtx_RZXFQRiA",
+      "ChannelTitle": "Gsun迷走music",
+      "Title": "Gsun迷走music"
+    },
+    "UploadDate": {
+      "DateTime": "2021-12-23T01:06:18.0000000",
+      "UtcDateTime": "2021-12-23T09:06:18.0000000Z",
+      "LocalDateTime": "2021-12-23T18:06:18.0000000+09:00",
+      "Date": "2021-12-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 357,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 6,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 18,
+      "Ticks": 637758183780000000,
+      "UtcTicks": 637758471780000000,
+      "TimeOfDay": "01:06:18",
+      "Year": 2021
+    },
+    "Description": "わが青春のアルカディア   \n映画わが青春のアルカディアより\n\n作詞：山川啓介\n作曲：平尾昌晃\n編曲：矢野立美\n歌：渋谷哲平",
+    "Duration": "00:03:54",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/E5-uWAZjXAE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5FkLR0z87blAPChgOyL-_DIKwIw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E5-uWAZjXAE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAcuB42WO-V_LROjinfX0lJwlBLAw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E5-uWAZjXAE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEVjukA1v8l9COVg5ZkG4pp3-y5g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E5-uWAZjXAE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBM2Bqm3lkyU10_KqNSCTReaSbhYA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E5-uWAZjXAE/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E5-uWAZjXAE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E5-uWAZjXAE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E5-uWAZjXAE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "わが青春のアルカディア",
+      "#渋谷哲平",
+      "#harlock"
+    ],
+    "Engagement": {
+      "ViewCount": 199382,
+      "LikeCount": 1371,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

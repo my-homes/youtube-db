@@ -1,0 +1,115 @@
+{
+  "id": "EisuR_c9lvs",
+  "title": "ねがい（江戸を斬る３主題歌）",
+  "author": "青春レコード",
+  "duration": "00:03:00",
+  "detail": {
+    "Id": {
+      "Value": "EisuR_c9lvs"
+    },
+    "Url": "https://www.youtube.com/watch?v=EisuR_c9lvs",
+    "Title": "ねがい（江戸を斬る３主題歌）",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCPi0JyN94d0465UejnYNTGw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCPi0JyN94d0465UejnYNTGw",
+      "ChannelTitle": "青春レコード",
+      "Title": "青春レコード"
+    },
+    "UploadDate": {
+      "DateTime": "2022-02-21T00:25:06.0000000",
+      "UtcDateTime": "2022-02-21T08:25:06.0000000Z",
+      "LocalDateTime": "2022-02-21T17:25:06.0000000+09:00",
+      "Date": "2022-02-21T00:00:00.0000000",
+      "Day": 21,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 52,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 25,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 6,
+      "Ticks": 637809999060000000,
+      "UtcTicks": 637810287060000000,
+      "TimeOfDay": "00:25:06",
+      "Year": 2022
+    },
+    "Description": "西郷輝彦が75歳で死去、「江戸を斬る」で“遠山の金さん”演じる\n江戸を斬るの「主題歌」です。\n西郷輝彦さんのご冥福をお祈り申し上げます。\n\nSoundscape Stories 癒しの音楽と心身をアクティブにする音楽をアップしています。\nhttps://www.youtube.com/@青春レコードAI編集室",
+    "Duration": "00:03:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/EisuR_c9lvs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD8_mVIx5ZgMWydbf-kajKtNVcZnw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EisuR_c9lvs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBABKjrkOg8lqN1RAqsDBeBkF0-zA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EisuR_c9lvs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwoL8GLK570-nUJI6tthbjxoxZHw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EisuR_c9lvs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDlRntVeewgDGOt2tVwXIc5C9N9Uw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/EisuR_c9lvs/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EisuR_c9lvs/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EisuR_c9lvs/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EisuR_c9lvs/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 199184,
+      "LikeCount": 1562,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

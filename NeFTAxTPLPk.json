@@ -1,0 +1,115 @@
+{
+  "id": "NeFTAxTPLPk",
+  "title": "漫步人生路(DJ默涵版) - 莫叫姐姐【备有清晰版伴奏】",
+  "author": "Maggie Music Station",
+  "duration": "00:02:56",
+  "detail": {
+    "Id": {
+      "Value": "NeFTAxTPLPk"
+    },
+    "Url": "https://www.youtube.com/watch?v=NeFTAxTPLPk",
+    "Title": "漫步人生路(DJ默涵版) - 莫叫姐姐【备有清晰版伴奏】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCOixwLPCWp3JjF_TyfkcKRg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCOixwLPCWp3JjF_TyfkcKRg",
+      "ChannelTitle": "Maggie Music Station",
+      "Title": "Maggie Music Station"
+    },
+    "UploadDate": {
+      "DateTime": "2022-08-31T03:57:19.0000000",
+      "UtcDateTime": "2022-08-31T10:57:19.0000000Z",
+      "LocalDateTime": "2022-08-31T19:57:19.0000000+09:00",
+      "Date": "2022-08-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 243,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 57,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 19,
+      "Ticks": 637975150390000000,
+      "UtcTicks": 637975402390000000,
+      "TimeOfDay": "03:57:19",
+      "Year": 2022
+    },
+    "Description": "",
+    "Duration": "00:02:56",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/NeFTAxTPLPk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWShKMA8=&rs=AOn4CLCCCvefJUUqZc1LMSUtKqiSvagPTg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NeFTAxTPLPk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWShKMA8=&rs=AOn4CLAziLkppTqw20HbsM5YYtE-spc5hw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NeFTAxTPLPk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoSjAP&rs=AOn4CLBdTg82Zad0RNUtD2mOLqNSR_qsZA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NeFTAxTPLPk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFkoSjAP&rs=AOn4CLAI43RmOroXjJkQaaY2QdAs5QgGNA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NeFTAxTPLPk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWShKMA8=&rs=AOn4CLBqptsPYUpUhxMqFNhKKK8VwRK7Aw",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NeFTAxTPLPk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NeFTAxTPLPk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NeFTAxTPLPk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 412,
+      "LikeCount": 3,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

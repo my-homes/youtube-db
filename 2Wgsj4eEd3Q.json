@@ -1,0 +1,110 @@
+{
+  "id": "2Wgsj4eEd3Q",
+  "title": "Axel Foley - Original disco '80 (remix)",
+  "author": "DonCrucys",
+  "duration": "00:09:50",
+  "detail": {
+    "Id": {
+      "Value": "2Wgsj4eEd3Q"
+    },
+    "Url": "https://www.youtube.com/watch?v=2Wgsj4eEd3Q",
+    "Title": "Axel Foley - Original disco '80 (remix)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCYR2YuAnEDuNh80EXMKWanQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCYR2YuAnEDuNh80EXMKWanQ",
+      "ChannelTitle": "DonCrucys",
+      "Title": "DonCrucys"
+    },
+    "UploadDate": {
+      "DateTime": "2009-06-09T04:12:00.0000000",
+      "UtcDateTime": "2009-06-09T11:12:00.0000000Z",
+      "LocalDateTime": "2009-06-09T20:12:00.0000000+09:00",
+      "Date": "2009-06-09T00:00:00.0000000",
+      "Day": 9,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 160,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 12,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 0,
+      "Ticks": 633801175200000000,
+      "UtcTicks": 633801427200000000,
+      "TimeOfDay": "04:12:00",
+      "Year": 2009
+    },
+    "Description": "Beverly Hills coop...anni '80, original mix disco",
+    "Duration": "00:09:50",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/2Wgsj4eEd3Q/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgTShFMA8=&rs=AOn4CLBER5ID_RTHUX5wZ94fjGmR7G4efQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2Wgsj4eEd3Q/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGHIgTShFMA8=&rs=AOn4CLB6j-47vY0Nh2ERtkh7MS8iL37ghA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2Wgsj4eEd3Q/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIE0oRTAP&rs=AOn4CLDPvhd2xdBNg6WX09W_TMF00iSvhA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2Wgsj4eEd3Q/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhyIE0oRTAP&rs=AOn4CLBAhbybiNgsqKsSkacyAPsWTTHU0g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2Wgsj4eEd3Q/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2Wgsj4eEd3Q/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2Wgsj4eEd3Q/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Axel",
+      "Foley"
+    ],
+    "Engagement": {
+      "ViewCount": 18127378,
+      "LikeCount": 133199,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "h5RNfSfhjvM",
+  "title": "【歌詞付き】ねがい/西郷輝彦/『江戸を斬る』/Negai/Teruhiko Saigo/piano",
+  "author": "piano ogr",
+  "duration": "00:03:33",
+  "detail": {
+    "Id": {
+      "Value": "h5RNfSfhjvM"
+    },
+    "Url": "https://www.youtube.com/watch?v=h5RNfSfhjvM",
+    "Title": "【歌詞付き】ねがい/西郷輝彦/『江戸を斬る』/Negai/Teruhiko Saigo/piano",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCivnKstYTGznR-nu53_VRLA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCivnKstYTGznR-nu53_VRLA",
+      "ChannelTitle": "piano ogr",
+      "Title": "piano ogr"
+    },
+    "UploadDate": {
+      "DateTime": "2022-02-22T03:14:23.0000000",
+      "UtcDateTime": "2022-02-22T11:14:23.0000000Z",
+      "LocalDateTime": "2022-02-22T20:14:23.0000000+09:00",
+      "Date": "2022-02-22T00:00:00.0000000",
+      "Day": 22,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 53,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 14,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 23,
+      "Ticks": 637810964630000000,
+      "UtcTicks": 637811252630000000,
+      "TimeOfDay": "03:14:23",
+      "Year": 2022
+    },
+    "Description": "山上路夫　作詞\nいずみたく　作曲\n第2部ではEDテーマ\n第3部以降ではOPテーマ\n\n\nお聴き頂きありがとうございます。\n先日お亡くなりになった西郷輝彦のご冥福をお祈りして、「江戸を斬る」の主題歌『ねがい』を、フルVer.にて再アレンジし弾かせて頂きました。\n耳コピによる、オリジナルのアレンジですが、楽譜にはおこしておりません。\n\nThank you for listening!\nTeruhiko Saigo was a wonderful actor.\nRest In Peace.\nI replayed this song.\noriginal arrangement\nThere is no sheet music.",
+    "Duration": "00:03:33",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/h5RNfSfhjvM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfY5V3rUYvqelGLP8_ASGqumZWlQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/h5RNfSfhjvM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLQW0L0_ZZq3vIdoDQKY05BShrEg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/h5RNfSfhjvM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpdfgppnnjC3yFeIrlUcHElnwT0Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/h5RNfSfhjvM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhtqA7jyYxG4oVwP83SJFnbofdGA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/h5RNfSfhjvM/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/h5RNfSfhjvM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/h5RNfSfhjvM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/h5RNfSfhjvM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 24327,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

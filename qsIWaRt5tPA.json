@@ -1,0 +1,115 @@
+{
+  "id": "qsIWaRt5tPA",
+  "title": "CELINE DION MY HEART WILL GO ON (DUDU MIX TRANCE REMIX)",
+  "author": "Dudu Produções",
+  "duration": "00:04:39",
+  "detail": {
+    "Id": {
+      "Value": "qsIWaRt5tPA"
+    },
+    "Url": "https://www.youtube.com/watch?v=qsIWaRt5tPA",
+    "Title": "CELINE DION MY HEART WILL GO ON (DUDU MIX TRANCE REMIX)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC-hvpJtBtU9IaR9Mi505lxQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC-hvpJtBtU9IaR9Mi505lxQ",
+      "ChannelTitle": "Dudu Produções",
+      "Title": "Dudu Produções"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-04T17:01:18.0000000",
+      "UtcDateTime": "2026-01-05T01:01:18.0000000Z",
+      "LocalDateTime": "2026-01-05T10:01:18.0000000+09:00",
+      "Date": "2026-01-04T00:00:00.0000000",
+      "Day": 4,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 4,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 18,
+      "Ticks": 639031428780000000,
+      "UtcTicks": 639031716780000000,
+      "TimeOfDay": "17:01:18",
+      "Year": 2026
+    },
+    "Description": "",
+    "Duration": "00:04:39",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/qsIWaRt5tPA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACxAWKAgwIABABGCIgYCh_MA8=&rs=AOn4CLDe10kYOMskom2oEknC7R0ium5ktg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qsIWaRt5tPA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACxAWKAgwIABABGCIgYCh_MA8=&rs=AOn4CLBzaDOX0Qd_6dFQqvln_LPXxzbqrw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qsIWaRt5tPA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAsQFigIMCAAQARgiIGAofzAP&rs=AOn4CLBq4khJCT5JSIkw36MOsxyU0njPEg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qsIWaRt5tPA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAsQFigIMCAAQARgiIGAofzAP&rs=AOn4CLDM3f1aOWniedhktrAWReeMk5nQZw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qsIWaRt5tPA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACxAWKAgwIABABGCIgYCh_MA8=&rs=AOn4CLAqns601SYnq0CQlkrbuy2jqRVkbg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qsIWaRt5tPA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qsIWaRt5tPA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qsIWaRt5tPA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 44794,
+      "LikeCount": 672,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

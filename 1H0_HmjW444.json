@@ -1,0 +1,115 @@
+{
+  "id": "1H0_HmjW444",
+  "title": "Combattler V:Change OK! #superrobotwars #combattlerv",
+  "author": "Iron Castle",
+  "duration": "00:01:53",
+  "detail": {
+    "Id": {
+      "Value": "1H0_HmjW444"
+    },
+    "Url": "https://www.youtube.com/watch?v=1H0_HmjW444",
+    "Title": "Combattler V:Change OK! #superrobotwars #combattlerv",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCQ6iC1AOdf8j9qJg8JXZiJw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCQ6iC1AOdf8j9qJg8JXZiJw",
+      "ChannelTitle": "Iron Castle",
+      "Title": "Iron Castle"
+    },
+    "UploadDate": {
+      "DateTime": "2023-11-10T01:45:07.0000000",
+      "UtcDateTime": "2023-11-10T09:45:07.0000000Z",
+      "LocalDateTime": "2023-11-10T18:45:07.0000000+09:00",
+      "Date": "2023-11-10T00:00:00.0000000",
+      "Day": 10,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 314,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 45,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 7,
+      "Ticks": 638351775070000000,
+      "UtcTicks": 638352063070000000,
+      "TimeOfDay": "01:45:07",
+      "Year": 2023
+    },
+    "Description": "",
+    "Duration": "00:01:53",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1H0_HmjW444/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEsgWihlMA8=&rs=AOn4CLApQ4z7C82IaQHCnfbJWfWhYFhdLg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1H0_HmjW444/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGEsgWihlMA8=&rs=AOn4CLDJvTzMZpDWEt1AvH9zqdX40ZwniQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1H0_HmjW444/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhLIFooZTAP&rs=AOn4CLCaGNQTqxN1Ce_YyGJ41F_lHM1dAg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1H0_HmjW444/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhLIFooZTAP&rs=AOn4CLDxK96N3KhT90u873h3mj0Jx-IX7w",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1H0_HmjW444/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEsgWihlMA8=&rs=AOn4CLDGFGgoQTvkXUjCki8rz6Rzu3juBA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1H0_HmjW444/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1H0_HmjW444/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1H0_HmjW444/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 246209,
+      "LikeCount": 2010,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

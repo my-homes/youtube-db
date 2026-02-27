@@ -1,0 +1,117 @@
+{
+  "id": "1yhORYrzlF4",
+  "title": "SNH48 《呜吒》 (UZA) MV (Dance Version)",
+  "author": "SNH48s",
+  "duration": "00:03:17",
+  "detail": {
+    "Id": {
+      "Value": "1yhORYrzlF4"
+    },
+    "Url": "https://www.youtube.com/watch?v=1yhORYrzlF4",
+    "Title": "SNH48 《呜吒》 (UZA) MV (Dance Version)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC0lDqr0ad-Zf5M-KANr4DeQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC0lDqr0ad-Zf5M-KANr4DeQ",
+      "ChannelTitle": "SNH48s",
+      "Title": "SNH48s"
+    },
+    "UploadDate": {
+      "DateTime": "2014-10-23T01:22:50.0000000",
+      "UtcDateTime": "2014-10-23T08:22:50.0000000Z",
+      "LocalDateTime": "2014-10-23T17:22:50.0000000+09:00",
+      "Date": "2014-10-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 296,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 22,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 50,
+      "Ticks": 635496241700000000,
+      "UtcTicks": 635496493700000000,
+      "TimeOfDay": "01:22:50",
+      "Year": 2014
+    },
+    "Description": "http://shanghai48s.com/\nhttp://shanghai48s.com/tagged/UZA\n\nSNH48 《呜吒》 (UZA) MV (Full Group Version)\nhttps://www.youtube.com/watch?v=yVJaYNNzvBw\n\nSNH48 《呜吒》 (UZA) MV (TOP 3 version)\nhttps://www.youtube.com/watch?v=FPmli6llJaQ\n\nSNH48 《呜吒》 (UZA) MV (TOP 4~7 version)\nhttps://www.youtube.com/watch?v=54hQ9qvwkoY\n\nSNH48 《呜吒》 (UZA) MV (TOP 8~12 version)\nhttps://www.youtube.com/watch?v=ECDtBNwQn2g\n\nSNH48 《呜吒》 (UZA) MV (TOP 13~16 version)\nhttps://www.youtube.com/watch?v=_DxjVsMiQiw\n\nSNH48《呜吒（UZA）》舞蹈版MV\nhttp://www.tudou.com/programs/view/MAiSwwAWoD0/",
+    "Duration": "00:03:17",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1yhORYrzlF4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhTMA8=&rs=AOn4CLCT5qe9di4a4mZTr15WSWTvLWs8Tg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1yhORYrzlF4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhTMA8=&rs=AOn4CLDTud4_8sqTWHeBj1Gf6tNSJigPTQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1yhORYrzlF4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoUzAP&rs=AOn4CLBZRkx5SWTQh5RsJCtnWclE-Hvl0g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1yhORYrzlF4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoUzAP&rs=AOn4CLA0bTzm6vcH1eSv7WSOMDPjOS4Mww",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1yhORYrzlF4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVyhTMA8=&rs=AOn4CLCs-pfSthf90nbsrgBj2z7xoHrHDA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1yhORYrzlF4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1yhORYrzlF4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1yhORYrzlF4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "SNH48"
+    ],
+    "Engagement": {
+      "ViewCount": 455454,
+      "LikeCount": 3088,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

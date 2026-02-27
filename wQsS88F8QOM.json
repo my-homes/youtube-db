@@ -1,0 +1,115 @@
+{
+  "id": "wQsS88F8QOM",
+  "title": "漫步人生路 俞蓉Annie Yurong",
+  "author": "Annie Yu",
+  "duration": "00:03:00",
+  "detail": {
+    "Id": {
+      "Value": "wQsS88F8QOM"
+    },
+    "Url": "https://www.youtube.com/watch?v=wQsS88F8QOM",
+    "Title": "漫步人生路 俞蓉Annie Yurong",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCowiw1LgkNoKoRK_TpRknYA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCowiw1LgkNoKoRK_TpRknYA",
+      "ChannelTitle": "Annie Yu",
+      "Title": "Annie Yu"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-07T11:17:07.0000000",
+      "UtcDateTime": "2026-01-07T19:17:07.0000000Z",
+      "LocalDateTime": "2026-01-08T04:17:07.0000000+09:00",
+      "Date": "2026-01-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 7,
+      "Hour": 11,
+      "Millisecond": 0,
+      "Minute": 17,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 7,
+      "Ticks": 639033814270000000,
+      "UtcTicks": 639034102270000000,
+      "TimeOfDay": "11:17:07",
+      "Year": 2026
+    },
+    "Description": "",
+    "Duration": "00:03:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/wQsS88F8QOM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhIMA8=&rs=AOn4CLAYo689qNGXRvxfU6K5tsOGPduIWw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wQsS88F8QOM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVyhIMA8=&rs=AOn4CLDBoZ0GBVoYTdP54sGd4kHs3AN8eA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wQsS88F8QOM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoSDAP&rs=AOn4CLDiULmyiphYafw7KljmM6quPT5WFQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wQsS88F8QOM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFcoSDAP&rs=AOn4CLA-JpGv8UvtbaKGyrYcOy0bYK9p1g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wQsS88F8QOM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVyhIMA8=&rs=AOn4CLC50n1Faw3m18Vg-VMoGp8XhiND2w",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wQsS88F8QOM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wQsS88F8QOM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wQsS88F8QOM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 45,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "Hped-a3fKzA",
+  "title": "<!DOCTYPE html><html><head><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"BK1UQyAEhDeBpNvFuQz_Tw\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">Exception: サービス エラー: ドライブ（行 150、ファイル「db」）</div></body></html>",
+  "author": "Midnight_Serenade",
+  "duration": "00:03:35",
+  "detail": {
+    "Id": {
+      "Value": "Hped-a3fKzA"
+    },
+    "Url": "https://www.youtube.com/watch?v=Hped-a3fKzA",
+    "Title": "大人の タッチ(English Ver.) – Jazz Ballad, Smooth Piano Arrange [岩崎良美]",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC6leaGjhyIx4P5RETiH0iag"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC6leaGjhyIx4P5RETiH0iag",
+      "ChannelTitle": "Midnight_Serenade",
+      "Title": "Midnight_Serenade"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-11T01:00:33.0000000",
+      "UtcDateTime": "2026-01-11T09:00:33.0000000Z",
+      "LocalDateTime": "2026-01-11T18:00:33.0000000+09:00",
+      "Date": "2026-01-11T00:00:00.0000000",
+      "Day": 11,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 11,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 33,
+      "Ticks": 639036900330000000,
+      "UtcTicks": 639037188330000000,
+      "TimeOfDay": "01:00:33",
+      "Year": 2026
+    },
+    "Description": "往年の名曲、「タッチ」をジャズバラードアレンジしました。\n大昔にバンドアレンジされた音源も好きだったんですが見つかりません。\nOriginal → https://www.youtube.com/watch?v=rMjGS7_eD70\n\nシンプルなピアノと女性ボーカルを中心とした構成でアレンジ。\nコミックスはもちろん全部読んでいますが、歌詞が凄すぎる。\nHana Alexis Tanaka氏を参考に全編英訳しました。\n歌ってみたい、オケや英詞が欲しい方はご連絡くださいませ。\n\n※商用利用可能な素材のみを使っています。また、YouTubeのコンテンツIDシステムにより、収益は著作権元へ自動的に還元されます。\n\n#Touch #EnglishVer #JazzBallad #PianoJazz #yoshimiiwasaki #Rnb #Cover #JazzArrange #ジャズ #英語カバー #chillmusic #女性ボーカル #夜のドライブ",
+    "Duration": "00:03:35",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Hped-a3fKzA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gVygqMA8=&rs=AOn4CLBw5P8ZYiIaAGrdGACDON3NTe0wwA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Hped-a3fKzA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gVygqMA8=&rs=AOn4CLAeranMzhD4V4qRSy0UK9fVvuhMXA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Hped-a3fKzA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IFcoKjAP&rs=AOn4CLD4Z1JTmYko3zwrb0cNfDo6HcuRJA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Hped-a3fKzA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IFcoKjAP&rs=AOn4CLBwcptitk9Rwz_SXpqwrNyH4QtOYQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Hped-a3fKzA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gVygqMA8=&rs=AOn4CLBHaoleoORN9dqHrIW7G_hoHZ1a2g",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Hped-a3fKzA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Hped-a3fKzA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Hped-a3fKzA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 8503,
+      "LikeCount": 102,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "id": "8OfaKRxo1vo",
+  "title": "SHY48《前行的力量》MV",
+  "author": "prn",
+  "duration": "00:03:46",
+  "detail": {
+    "Id": {
+      "Value": "8OfaKRxo1vo"
+    },
+    "Url": "https://www.youtube.com/watch?v=8OfaKRxo1vo",
+    "Title": "SHY48《前行的力量》MV",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCDhsDq3Tc7wXMBLMw07j_gg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCDhsDq3Tc7wXMBLMw07j_gg",
+      "ChannelTitle": "prn",
+      "Title": "prn"
+    },
+    "UploadDate": {
+      "DateTime": "2017-11-15T22:22:22.0000000",
+      "UtcDateTime": "2017-11-16T06:22:22.0000000Z",
+      "LocalDateTime": "2017-11-16T15:22:22.0000000+09:00",
+      "Date": "2017-11-15T00:00:00.0000000",
+      "Day": 15,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 319,
+      "Hour": 22,
+      "Millisecond": 0,
+      "Minute": 22,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 22,
+      "Ticks": 636463813420000000,
+      "UtcTicks": 636464101420000000,
+      "TimeOfDay": "22:22:22",
+      "Year": 2017
+    },
+    "Description": "",
+    "Duration": "00:03:46",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/8OfaKRxo1vo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFFfRAoJGkR96QnQqQbBiSD3YoJw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/8OfaKRxo1vo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD0kQJSvOpMJzFnrRlWn7aOHq5Aog",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/8OfaKRxo1vo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqD-PEkxvNO8Wdj3IVlFoEh5z0zg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/8OfaKRxo1vo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvYvFP4vEEOgjjtgOLwVM5smU8Ow",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/8OfaKRxo1vo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/8OfaKRxo1vo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/8OfaKRxo1vo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 10721,
+      "LikeCount": 190,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

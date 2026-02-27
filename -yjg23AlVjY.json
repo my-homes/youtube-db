@@ -1,0 +1,107 @@
+{
+  "id": "-yjg23AlVjY",
+  "title": "<!DOCTYPE html><html><head><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"pC9qvi5qlwR8K-F-JDBRFg\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">Exception: サービス エラー: ドライブ（行 12、ファイル「db」）</div></body></html>",
+  "author": "Ge Bian",
+  "duration": "00:03:26",
+  "detail": {
+    "Id": {
+      "Value": "-yjg23AlVjY"
+    },
+    "Url": "https://www.youtube.com/watch?v=-yjg23AlVjY",
+    "Title": "二胡奏者 BIAN GE（ビェンカ）《漫步人生路》鄧麗君《ひとり上手》中島みゆき",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCBa5ljMA7Z6VR6M9OquE8UA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCBa5ljMA7Z6VR6M9OquE8UA",
+      "ChannelTitle": "Ge Bian",
+      "Title": "Ge Bian"
+    },
+    "UploadDate": {
+      "DateTime": "2025-11-28T01:00:01.0000000",
+      "UtcDateTime": "2025-11-28T09:00:01.0000000Z",
+      "LocalDateTime": "2025-11-28T18:00:01.0000000+09:00",
+      "Date": "2025-11-28T00:00:00.0000000",
+      "Day": 28,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 332,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 1,
+      "Ticks": 638998884010000000,
+      "UtcTicks": 638999172010000000,
+      "TimeOfDay": "01:00:01",
+      "Year": 2025
+    },
+    "Description": "Bian Ge Birthday Concert (October 7, 2025)\n\nひとり上手（漫步人生路）\n\nErhu（二胡）：Bian Ge（ビェンカ）\nGuitar（ギター）：永島 宏\nPiano（ピアノ）：伊藤 愛美\nPercussion（パーカッション）：竹本 一匹\n\n作詞：中島みゆき\n作曲：中島みゆき\n編曲：萩田光雄\n\n#erhu #二胡 #ライブ#バースデーライブ#erhu #ひとり上手#f漫步人生路#二胡コンサート#二胡演奏 #live #music #鄧麗君 #中島みゆき #erhumusic #erhuconcert#birthday #birthdaylive#二胡教室 #生徒募集中 \n\n生徒さん募集中💕www.biange.jp",
+    "Duration": "00:03:26",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/-yjg23AlVjY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBQmLMdKgTJC32FLE1gwrXL7pXUfw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-yjg23AlVjY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCRKEjgT-M3NlyiFPr172gH0BSvxw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-yjg23AlVjY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwaFYMAJyxu3cx5zhWdafgWNwXQA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-yjg23AlVjY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB836dnhWiCP8yAPAYToouBS-pV0A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-yjg23AlVjY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-yjg23AlVjY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-yjg23AlVjY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 3717,
+      "LikeCount": 119,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

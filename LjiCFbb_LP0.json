@@ -1,0 +1,116 @@
+{
+  "id": "LjiCFbb_LP0",
+  "title": "[Audio] Hong Jin Young - Love Battery",
+  "author": "TemptasticTiara",
+  "duration": "00:03:27",
+  "detail": {
+    "Id": {
+      "Value": "LjiCFbb_LP0"
+    },
+    "Url": "https://www.youtube.com/watch?v=LjiCFbb_LP0",
+    "Title": "[Audio] Hong Jin Young - Love Battery",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCZxUkciP3aBkY96GXwr83fg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCZxUkciP3aBkY96GXwr83fg",
+      "ChannelTitle": "TemptasticTiara",
+      "Title": "TemptasticTiara"
+    },
+    "UploadDate": {
+      "DateTime": "2011-03-12T12:07:44.0000000",
+      "UtcDateTime": "2011-03-12T20:07:44.0000000Z",
+      "LocalDateTime": "2011-03-13T05:07:44.0000000+09:00",
+      "Date": "2011-03-12T00:00:00.0000000",
+      "Day": 12,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 71,
+      "Hour": 12,
+      "Millisecond": 0,
+      "Minute": 7,
+      "Month": 3,
+      "Offset": "-08:00:00",
+      "Second": 44,
+      "Ticks": 634355284640000000,
+      "UtcTicks": 634355572640000000,
+      "TimeOfDay": "12:07:44",
+      "Year": 2011
+    },
+    "Description": "",
+    "Duration": "00:03:27",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/LjiCFbb_LP0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-AoAC8AGKAgwIABABGHIgSihFMA8=&rs=AOn4CLBrCiZdtXs_JBXGbeKsKRyW4CsLng",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LjiCFbb_LP0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AG-AoAC8AGKAgwIABABGHIgSihFMA8=&rs=AOn4CLB7ukCw7h5-RbfUlv5FHw_0dp_vJA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LjiCFbb_LP0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgKAAvABigIMCAAQARhyIEooRTAP&rs=AOn4CLDk2lEgmb8y7ts-BG0yAP1fI7Vh3A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LjiCFbb_LP0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBvgKAAvABigIMCAAQARhyIEooRTAP&rs=AOn4CLAwi_xwJQ3D2lQD-bpjzparl0HbYQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LjiCFbb_LP0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LjiCFbb_LP0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LjiCFbb_LP0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "hong jin young",
+      "love battery",
+      "korean music",
+      "trot",
+      "korean trot",
+      "trot singer",
+      "best trot song",
+      "hong jin young love battery"
+    ],
+    "Engagement": {
+      "ViewCount": 2620976,
+      "LikeCount": 30512,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

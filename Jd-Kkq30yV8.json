@@ -1,0 +1,107 @@
+{
+  "id": "Jd-Kkq30yV8",
+  "title": "鄧麗君   漫步人生路 無損音樂FLAC 歌詞LYRICS 純享",
+  "author": "MusicDelta",
+  "duration": "00:03:43",
+  "detail": {
+    "Id": {
+      "Value": "Jd-Kkq30yV8"
+    },
+    "Url": "https://www.youtube.com/watch?v=Jd-Kkq30yV8",
+    "Title": "鄧麗君   漫步人生路 無損音樂FLAC 歌詞LYRICS 純享",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCpVAtVVC24ZuYIRvoxcSvxQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCpVAtVVC24ZuYIRvoxcSvxQ",
+      "ChannelTitle": "MusicDelta",
+      "Title": "MusicDelta"
+    },
+    "UploadDate": {
+      "DateTime": "2024-07-07T22:00:10.0000000",
+      "UtcDateTime": "2024-07-08T05:00:10.0000000Z",
+      "LocalDateTime": "2024-07-08T14:00:10.0000000+09:00",
+      "Date": "2024-07-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 189,
+      "Hour": 22,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 10,
+      "Ticks": 638559864100000000,
+      "UtcTicks": 638560116100000000,
+      "TimeOfDay": "22:00:10",
+      "Year": 2024
+    },
+    "Description": "",
+    "Duration": "00:03:43",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Jd-Kkq30yV8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBe9KKtXHO8ulZhlR-671S4WKSgzg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Jd-Kkq30yV8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAszoAiB-4_OacPs6G7GVuL0sK1ew",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Jd-Kkq30yV8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDUin-kctam6HO2ZrE-uS0GZe51rA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Jd-Kkq30yV8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBzOYx3Iln1Y5uIy3Fye5X6ZoUemw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Jd-Kkq30yV8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Jd-Kkq30yV8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Jd-Kkq30yV8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 42262,
+      "LikeCount": 321,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

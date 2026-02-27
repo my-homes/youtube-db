@@ -1,0 +1,107 @@
+{
+  "id": "fVXGYn3mVXU",
+  "title": "系系愛唱歌  翻唱《漫步人生路》  原唱  鄧麗君",
+  "author": "暗黑系",
+  "duration": "00:03:42",
+  "detail": {
+    "Id": {
+      "Value": "fVXGYn3mVXU"
+    },
+    "Url": "https://www.youtube.com/watch?v=fVXGYn3mVXU",
+    "Title": "系系愛唱歌  翻唱《漫步人生路》  原唱  鄧麗君",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCFZWtapaEysmlO6_dt1Ycjg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCFZWtapaEysmlO6_dt1Ycjg",
+      "ChannelTitle": "暗黑系",
+      "Title": "暗黑系"
+    },
+    "UploadDate": {
+      "DateTime": "2025-10-29T03:57:42.0000000",
+      "UtcDateTime": "2025-10-29T10:57:42.0000000Z",
+      "LocalDateTime": "2025-10-29T19:57:42.0000000+09:00",
+      "Date": "2025-10-29T00:00:00.0000000",
+      "Day": 29,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 302,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 57,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 42,
+      "Ticks": 638973070620000000,
+      "UtcTicks": 638973322620000000,
+      "TimeOfDay": "03:57:42",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:03:42",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/fVXGYn3mVXU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCyJz6IqAUNla-UCyBSOx8SGiPXjQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/fVXGYn3mVXU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4ata5aeOpv5pc_GfpjnkHRBoAXA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/fVXGYn3mVXU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBugse6jnrhHwH5c-E7WLIoC5203Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/fVXGYn3mVXU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSNbzXPFR5NGxgF5c7cFiI_H_I5w",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/fVXGYn3mVXU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/fVXGYn3mVXU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/fVXGYn3mVXU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 5370,
+      "LikeCount": 55,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

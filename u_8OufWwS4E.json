@@ -1,0 +1,107 @@
+{
+  "id": "u_8OufWwS4E",
+  "title": "各路网红翻唱《漫步人生路》经典好听！优雅动听的歌声，一代人记忆",
+  "author": "爱瓜音乐汇",
+  "duration": "00:03:39",
+  "detail": {
+    "Id": {
+      "Value": "u_8OufWwS4E"
+    },
+    "Url": "https://www.youtube.com/watch?v=u_8OufWwS4E",
+    "Title": "各路网红翻唱《漫步人生路》经典好听！优雅动听的歌声，一代人记忆",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCO_Ch4skPFnf2XA0vBG64YQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCO_Ch4skPFnf2XA0vBG64YQ",
+      "ChannelTitle": "爱瓜音乐汇",
+      "Title": "爱瓜音乐汇"
+    },
+    "UploadDate": {
+      "DateTime": "2022-03-20T22:24:46.0000000",
+      "UtcDateTime": "2022-03-21T05:24:46.0000000Z",
+      "LocalDateTime": "2022-03-21T14:24:46.0000000+09:00",
+      "Date": "2022-03-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 79,
+      "Hour": 22,
+      "Millisecond": 0,
+      "Minute": 24,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 46,
+      "Ticks": 637834118860000000,
+      "UtcTicks": 637834370860000000,
+      "TimeOfDay": "22:24:46",
+      "Year": 2022
+    },
+    "Description": "各路网红翻唱《漫步人生路》经典好听！优雅动听的歌声，一代人记忆",
+    "Duration": "00:03:39",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/u_8OufWwS4E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLKnRk9slphrlWmnQGhWOhEbeOJA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/u_8OufWwS4E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYfG6go50H4bL5FLJKddqPd8SI3Q",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/u_8OufWwS4E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4b0ExqSZfpYcEntbgR6o_ZwQK1g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/u_8OufWwS4E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDctY0QuduAmc3lF2T-hOkyQ7t8Gg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/u_8OufWwS4E/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/u_8OufWwS4E/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/u_8OufWwS4E/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 15412,
+      "LikeCount": 129,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

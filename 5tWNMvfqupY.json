@@ -1,0 +1,115 @@
+{
+  "id": "5tWNMvfqupY",
+  "title": "Europe - The Final Countdown (AI-ESR Cover)",
+  "author": "AI-ESR",
+  "duration": "00:03:50",
+  "detail": {
+    "Id": {
+      "Value": "5tWNMvfqupY"
+    },
+    "Url": "https://www.youtube.com/watch?v=5tWNMvfqupY",
+    "Title": "Europe - The Final Countdown (AI-ESR Cover)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCOhYOcA8IY_tGnGT4DVKboQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCOhYOcA8IY_tGnGT4DVKboQ",
+      "ChannelTitle": "AI-ESR",
+      "Title": "AI-ESR"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-20T12:27:52.0000000",
+      "UtcDateTime": "2026-01-20T20:27:52.0000000Z",
+      "LocalDateTime": "2026-01-21T05:27:52.0000000+09:00",
+      "Date": "2026-01-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 20,
+      "Hour": 12,
+      "Millisecond": 0,
+      "Minute": 27,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 52,
+      "Ticks": 639045088720000000,
+      "UtcTicks": 639045376720000000,
+      "TimeOfDay": "12:27:52",
+      "Year": 2026
+    },
+    "Description": "\"The Final Countdown\" is a signature song by the Swedish rock band Europe, released in 1986 as the lead single from their third album of the same name.\n\nFinal refresh by AI-ESR!\nSubscribe to be up to date with new productions!",
+    "Duration": "00:03:50",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/5tWNMvfqupY/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBcgFSh_MA8=&rs=AOn4CLDxMeytFUSzDThfpc3_d7Kx33JHjw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5tWNMvfqupY/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBcgFSh_MA8=&rs=AOn4CLDm7xxVWj_wQuLGKj5VPLkWUAIiUA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5tWNMvfqupY/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgXIBUofzAP&rs=AOn4CLAk3BN2I5C4EsbDUvfmK6i-JWigcw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5tWNMvfqupY/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgXIBUofzAP&rs=AOn4CLBahGqpHZoP7fhPP_MTkUoi1W_uwQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5tWNMvfqupY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGBcgFSh_MA8=&rs=AOn4CLBD55rQaIdouFUSvCjCkhWkf5iSBQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5tWNMvfqupY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5tWNMvfqupY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5tWNMvfqupY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 29350,
+      "LikeCount": 852,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
