@@ -1,0 +1,115 @@
+{
+  "id": "xrmQzYflyG8",
+  "title": "♪ DESIREー情熱ー　歌・丘みどり",
+  "author": "板倉めぐみ",
+  "duration": "00:02:38",
+  "detail": {
+    "Id": {
+      "Value": "xrmQzYflyG8"
+    },
+    "Url": "https://www.youtube.com/watch?v=xrmQzYflyG8",
+    "Title": "♪ DESIREー情熱ー　歌・丘みどり",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCp0DC97bGUoJYQjnS3r2IJA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCp0DC97bGUoJYQjnS3r2IJA",
+      "ChannelTitle": "板倉めぐみ",
+      "Title": "板倉めぐみ"
+    },
+    "UploadDate": {
+      "DateTime": "2024-07-14T04:29:26.0000000",
+      "UtcDateTime": "2024-07-14T11:29:26.0000000Z",
+      "LocalDateTime": "2024-07-14T20:29:26.0000000+09:00",
+      "Date": "2024-07-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 196,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 29,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 26,
+      "Ticks": 638565281660000000,
+      "UtcTicks": 638565533660000000,
+      "TimeOfDay": "04:29:26",
+      "Year": 2024
+    },
+    "Description": "",
+    "Duration": "00:02:38",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/xrmQzYflyG8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gNigjMA8=&rs=AOn4CLCq8GKdNv3rGV651M9vg_cV9xQ7XA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xrmQzYflyG8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gNigjMA8=&rs=AOn4CLCRMncKlpkEqe4vw1ZA83let3xikQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xrmQzYflyG8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IDYoIzAP&rs=AOn4CLCLX_utmeCmNAdqLiNwbzh2JxYflw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xrmQzYflyG8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IDYoIzAP&rs=AOn4CLBP643u_eq-COoytKfTDZ1L5GEGTg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xrmQzYflyG8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gNigjMA8=&rs=AOn4CLCMo7uHB30IlTznk7YPd5FOZs11GA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xrmQzYflyG8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xrmQzYflyG8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xrmQzYflyG8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 9567,
+      "LikeCount": 45,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "EHvVmSn-hfI",
+  "title": "地上の星／丘みどり",
+  "author": "艶歌歌謡曲 歌 CHANNEL",
+  "duration": "00:02:55",
+  "detail": {
+    "Id": {
+      "Value": "EHvVmSn-hfI"
+    },
+    "Url": "https://www.youtube.com/watch?v=EHvVmSn-hfI",
+    "Title": "地上の星／丘みどり",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCT0FX261Sp-ziWmfcX_sG0g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCT0FX261Sp-ziWmfcX_sG0g",
+      "ChannelTitle": "艶歌歌謡曲 歌 CHANNEL",
+      "Title": "艶歌歌謡曲 歌 CHANNEL"
+    },
+    "UploadDate": {
+      "DateTime": "2023-09-06T13:41:04.0000000",
+      "UtcDateTime": "2023-09-06T20:41:04.0000000Z",
+      "LocalDateTime": "2023-09-07T05:41:04.0000000+09:00",
+      "Date": "2023-09-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 249,
+      "Hour": 13,
+      "Millisecond": 0,
+      "Minute": 41,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 4,
+      "Ticks": 638296044640000000,
+      "UtcTicks": 638296296640000000,
+      "TimeOfDay": "13:41:04",
+      "Year": 2023
+    },
+    "Description": "20220128 OA",
+    "Duration": "00:02:55",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/EHvVmSn-hfI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD0gRihyMA8=&rs=AOn4CLBf9Al_UzjCyNRvVYt7Oz0pbtYFuQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EHvVmSn-hfI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD0gRihyMA8=&rs=AOn4CLAyIKlqQ3XzJt53YX6wF5zavCf_Mg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EHvVmSn-hfI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg9IEYocjAP&rs=AOn4CLBbYSuv68MwC2ocHEdhpdkfnmjbsA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EHvVmSn-hfI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg9IEYocjAP&rs=AOn4CLBNJOwScjKWSi7450U477SSjCenHg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EHvVmSn-hfI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD0gRihyMA8=&rs=AOn4CLCr9MJ-bKDQnBC0w-X-Enxy4-l9vA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EHvVmSn-hfI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EHvVmSn-hfI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EHvVmSn-hfI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 16997,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

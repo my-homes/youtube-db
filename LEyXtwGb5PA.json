@@ -1,0 +1,107 @@
+{
+  "id": "LEyXtwGb5PA",
+  "title": "愛人 - 丘みどり HD1080P",
+  "author": "Raymond Lee",
+  "duration": "00:03:07",
+  "detail": {
+    "Id": {
+      "Value": "LEyXtwGb5PA"
+    },
+    "Url": "https://www.youtube.com/watch?v=LEyXtwGb5PA",
+    "Title": "愛人 - 丘みどり HD1080P",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCTC-KE1QJQkAOOihrwXNG2Q"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCTC-KE1QJQkAOOihrwXNG2Q",
+      "ChannelTitle": "Raymond Lee",
+      "Title": "Raymond Lee"
+    },
+    "UploadDate": {
+      "DateTime": "2020-08-01T19:21:45.0000000",
+      "UtcDateTime": "2020-08-02T02:21:45.0000000Z",
+      "LocalDateTime": "2020-08-02T11:21:45.0000000+09:00",
+      "Date": "2020-08-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 214,
+      "Hour": 19,
+      "Millisecond": 0,
+      "Minute": 21,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 45,
+      "Ticks": 637319065050000000,
+      "UtcTicks": 637319317050000000,
+      "TimeOfDay": "19:21:45",
+      "Year": 2020
+    },
+    "Description": "",
+    "Duration": "00:03:07",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/LEyXtwGb5PA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNltxH3M_CbxcgNGqjLwP7tptH6w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LEyXtwGb5PA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVx3CfCFplxPgas_wCanQUV841vQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LEyXtwGb5PA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDX8vwiHCapSSz6CVPJ2SeS8nR2lw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LEyXtwGb5PA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzH3NuJno2xbYwz2KwuF9xjo9Bpw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LEyXtwGb5PA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LEyXtwGb5PA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LEyXtwGb5PA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 7064,
+      "LikeCount": 46,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

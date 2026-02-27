@@ -1,0 +1,107 @@
+{
+  "id": "SlRDB8G-Q_U",
+  "title": "日野美歌   氷雨",
+  "author": "ohjiro",
+  "duration": "00:03:57",
+  "detail": {
+    "Id": {
+      "Value": "SlRDB8G-Q_U"
+    },
+    "Url": "https://www.youtube.com/watch?v=SlRDB8G-Q_U",
+    "Title": "日野美歌   氷雨",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCQHI5AjSMCuLjpQTZZ1ZlFg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCQHI5AjSMCuLjpQTZZ1ZlFg",
+      "ChannelTitle": "ohjiro",
+      "Title": "ohjiro"
+    },
+    "UploadDate": {
+      "DateTime": "2019-09-22T17:37:52.0000000",
+      "UtcDateTime": "2019-09-23T00:37:52.0000000Z",
+      "LocalDateTime": "2019-09-23T09:37:52.0000000+09:00",
+      "Date": "2019-09-22T00:00:00.0000000",
+      "Day": 22,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 265,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 37,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 52,
+      "Ticks": 637047706720000000,
+      "UtcTicks": 637047958720000000,
+      "TimeOfDay": "17:37:52",
+      "Year": 2019
+    },
+    "Description": "",
+    "Duration": "00:03:57",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/SlRDB8G-Q_U/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHMBYAC0AWKAgwIABABGCogZShXMA8=&rs=AOn4CLAwtYF53FUDgw0sydgtuRUzYV4XBA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/SlRDB8G-Q_U/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHMBYAC0AWKAgwIABABGCogZShXMA8=&rs=AOn4CLCPflH2fOr4IQe5ImLjkLpqKYHQ6g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/SlRDB8G-Q_U/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzAWAAtAFigIMCAAQARgqIGUoVzAP&rs=AOn4CLCXfAvah-mXHrEDOcZIxboZPFWD9Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/SlRDB8G-Q_U/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzAWAAtAFigIMCAAQARgqIGUoVzAP&rs=AOn4CLD8kIohdmQIKV_xnkmYnDFr3S0QFQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/SlRDB8G-Q_U/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/SlRDB8G-Q_U/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/SlRDB8G-Q_U/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 5591202,
+      "LikeCount": 20728,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
