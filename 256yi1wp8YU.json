@@ -1,0 +1,121 @@
+{
+  "id": "256yi1wp8YU",
+  "title": "(AKINO) 創聖のアクエリオン feat.宮舞モカ & ROSA & QingSu [COVER]",
+  "author": "KIYO35 Music (KIYONU)",
+  "duration": "00:04:51",
+  "detail": {
+    "Id": {
+      "Value": "256yi1wp8YU"
+    },
+    "Url": "https://www.youtube.com/watch?v=256yi1wp8YU",
+    "Title": "(AKINO) 創聖のアクエリオン feat.宮舞モカ & ROSA & QingSu [COVER]",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCPlch-UqCYlRE0BRgLEnrtw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCPlch-UqCYlRE0BRgLEnrtw",
+      "ChannelTitle": "KIYO35 Music (KIYONU)",
+      "Title": "KIYO35 Music (KIYONU)"
+    },
+    "UploadDate": {
+      "DateTime": "2025-03-11T04:50:19.0000000",
+      "UtcDateTime": "2025-03-11T11:50:19.0000000Z",
+      "LocalDateTime": "2025-03-11T20:50:19.0000000+09:00",
+      "Date": "2025-03-11T00:00:00.0000000",
+      "Day": 11,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 70,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 50,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 19,
+      "Ticks": 638772654190000000,
+      "UtcTicks": 638772906190000000,
+      "TimeOfDay": "04:50:19",
+      "Year": 2025
+    },
+    "Description": "#創聖のアクエリオン #synthesizervカバー曲 #宮舞モカ #アニメオープニングテーマ #MMD宮舞モカ\nMMD宮舞モカ-カスタムバージョン3.2使用\n「創聖のアクエリオン」 アニメオープニングテーマ\n沢山カバーされている曲ですが、独自性を出すには、MMDカスタムを使用する事と、DAWが主流の現在、未だに旧型のMIDI音源で伴奏を再現している事ぐらいですかねぇ？",
+    "Duration": "00:04:51",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/256yi1wp8YU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCV4dtsKdkGdfg64-Kt75wKPU4L9g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/256yi1wp8YU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHGLEM0JxSsyo5QZ0mbxkPz0fmNg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/256yi1wp8YU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBF22pJ2AkG7B7ZzJyYXDuY8Bi9Vg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/256yi1wp8YU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoYO_ShEyEtY3HY-H-T9O39TD9zw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/256yi1wp8YU/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/256yi1wp8YU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/256yi1wp8YU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/256yi1wp8YU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Synthesizer V",
+      "宮舞モカ",
+      "ROSA",
+      "Qing Su",
+      "MIDI"
+    ],
+    "Engagement": {
+      "ViewCount": 304,
+      "LikeCount": 4,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
