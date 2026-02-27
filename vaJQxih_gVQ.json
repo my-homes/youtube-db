@@ -1,0 +1,115 @@
+{
+  "id": "vaJQxih_gVQ",
+  "title": "[ホンジユン] 恋の予感 (Original by. 玉置浩二)",
+  "author": "홍지윤",
+  "duration": "00:04:47",
+  "detail": {
+    "Id": {
+      "Value": "vaJQxih_gVQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=vaJQxih_gVQ",
+    "Title": "[ホンジユン] 恋の予感 (Original by. 玉置浩二)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-11-01T02:01:00.0000000",
+      "UtcDateTime": "2024-11-01T09:01:00.0000000Z",
+      "LocalDateTime": "2024-11-01T18:01:00.0000000+09:00",
+      "Date": "2024-11-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 306,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 11,
+      "Offset": "-07:00:00",
+      "Second": 0,
+      "Ticks": 638660232600000000,
+      "UtcTicks": 638660484600000000,
+      "TimeOfDay": "02:01:00",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong#恋の予感 #玉置浩二#安全時代",
+    "Duration": "00:04:47",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/vaJQxih_gVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWJKQN8Wx7LhrYHkLLdT4VhoMKjw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vaJQxih_gVQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCzolKfUOneWkXnXFWkWxZlBiUOHw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vaJQxih_gVQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAneViEry75rl76yuh7VoOtFtnAIw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vaJQxih_gVQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB8yNAgbyi-iEuzEutQlAA64YFQqg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vaJQxih_gVQ/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vaJQxih_gVQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vaJQxih_gVQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vaJQxih_gVQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 99713,
+      "LikeCount": 1296,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

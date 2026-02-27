@@ -1,0 +1,115 @@
+{
+  "id": "U4Ax4InjGNI",
+  "title": "[ホンジユン] - 淚そうそう (Original by. 夏川りみ) COVER",
+  "author": "홍지윤",
+  "duration": "00:04:14",
+  "detail": {
+    "Id": {
+      "Value": "U4Ax4InjGNI"
+    },
+    "Url": "https://www.youtube.com/watch?v=U4Ax4InjGNI",
+    "Title": "[ホンジユン] - 淚そうそう (Original by. 夏川りみ) COVER",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-01-05T01:15:02.0000000",
+      "UtcDateTime": "2024-01-05T09:15:02.0000000Z",
+      "LocalDateTime": "2024-01-05T18:15:02.0000000+09:00",
+      "Date": "2024-01-05T00:00:00.0000000",
+      "Day": 5,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 5,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 15,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 2,
+      "Ticks": 638400141020000000,
+      "UtcTicks": 638400429020000000,
+      "TimeOfDay": "01:15:02",
+      "Year": 2024
+    },
+    "Description": "[ホンジユン] - 淚そうそう (Original by. 夏川りみ) COVER\n#ホンジユン #淚そうそう #夏川りみ #cover",
+    "Duration": "00:04:14",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/U4Ax4InjGNI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVOTiEVDpQ0Lz8P8VDHLjHcFGvhg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/U4Ax4InjGNI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA_G_swzGhXQDdtL3W3CWWD4egmWw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/U4Ax4InjGNI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoL6vc0236pRyD2ZaJY-ylsTRs2A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/U4Ax4InjGNI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjAUdPXhNAwIuHqxKdaPs9H5Ojjw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/U4Ax4InjGNI/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/U4Ax4InjGNI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/U4Ax4InjGNI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/U4Ax4InjGNI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 97160,
+      "LikeCount": 1504,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

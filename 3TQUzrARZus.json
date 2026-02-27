@@ -1,0 +1,107 @@
+{
+  "id": "3TQUzrARZus",
+  "title": "[ホンジユン] 北國の春(Original by. 千昌夫 )",
+  "author": "홍지윤",
+  "duration": "00:04:08",
+  "detail": {
+    "Id": {
+      "Value": "3TQUzrARZus"
+    },
+    "Url": "https://www.youtube.com/watch?v=3TQUzrARZus",
+    "Title": "[ホンジユン] 北國の春(Original by. 千昌夫 )",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-09-06T02:00:05.0000000",
+      "UtcDateTime": "2024-09-06T09:00:05.0000000Z",
+      "LocalDateTime": "2024-09-06T18:00:05.0000000+09:00",
+      "Date": "2024-09-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 250,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 5,
+      "Ticks": 638611848050000000,
+      "UtcTicks": 638612100050000000,
+      "TimeOfDay": "02:00:05",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong # 北国の春#千昌夫",
+    "Duration": "00:04:08",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/3TQUzrARZus/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBEWP6DI3evMdW7e8JcQJxljjy2Xg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3TQUzrARZus/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXQ4cqN3n-oZbU5CFzx3p9dGlGLA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3TQUzrARZus/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB5pYM32A7rZgtKxnLb_EvHLIcJQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3TQUzrARZus/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtePbvDJNXTN1mFW5H0XStviBQww",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3TQUzrARZus/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3TQUzrARZus/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3TQUzrARZus/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 214557,
+      "LikeCount": 2028,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
