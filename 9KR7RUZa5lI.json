@@ -1,1 +1,115 @@
-{"id":"9KR7RUZa5lI","title":"护花使者DJ版.","file":"护花使者DJ版.","author":"Blue Sky Karaoke","duration":"00:05:22"}
+{
+  "id": "9KR7RUZa5lI",
+  "title": "护花使者DJ版.",
+  "author": "Blue Sky Karaoke",
+  "duration": "00:05:22",
+  "detail": {
+    "Id": {
+      "Value": "9KR7RUZa5lI"
+    },
+    "Url": "https://www.youtube.com/watch?v=9KR7RUZa5lI",
+    "Title": "护花使者DJ版.",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC_od0hSC2VUuZ25fW8JZzLw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC_od0hSC2VUuZ25fW8JZzLw",
+      "ChannelTitle": "Blue Sky Karaoke",
+      "Title": "Blue Sky Karaoke"
+    },
+    "UploadDate": {
+      "DateTime": "2022-08-14T00:25:36.0000000",
+      "UtcDateTime": "2022-08-14T07:25:36.0000000Z",
+      "LocalDateTime": "2022-08-14T16:25:36.0000000+09:00",
+      "Date": "2022-08-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 226,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 25,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 36,
+      "Ticks": 637960335360000000,
+      "UtcTicks": 637960587360000000,
+      "TimeOfDay": "00:25:36",
+      "Year": 2022
+    },
+    "Description": "",
+    "Duration": "00:05:22",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/9KR7RUZa5lI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjT6I6kDUS9khiWRv2jNVaGRv7zw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9KR7RUZa5lI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBcXqeqcjMje_xMdw-CQpbHdPqa6w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9KR7RUZa5lI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB0TQ7sLZpkqykScaLpecYdnL5Zw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9KR7RUZa5lI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtQwOTXw3OdP27LYRUx6I5uLaQNg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/9KR7RUZa5lI/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9KR7RUZa5lI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9KR7RUZa5lI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9KR7RUZa5lI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 240035,
+      "LikeCount": 938,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

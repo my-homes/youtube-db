@@ -1,1 +1,121 @@
-{"id":"wOK9j3q20tw","title":"You & Me - 제니 [더 시즌즈-이효리의 레드카펫] | KBS 240105 방송","file":"You & Me - 제니 [더 시즌즈-이효리의 레드카펫] ｜ KBS 240105 방송","author":"KBS Kpop","duration":"00:03:16"}
+{
+  "id": "wOK9j3q20tw",
+  "title": "You & Me - 제니 [더 시즌즈-이효리의 레드카펫] | KBS 240105 방송",
+  "author": "KBS Kpop",
+  "duration": "00:03:16",
+  "detail": {
+    "Id": {
+      "Value": "wOK9j3q20tw"
+    },
+    "Url": "https://www.youtube.com/watch?v=wOK9j3q20tw",
+    "Title": "You & Me - 제니 [더 시즌즈-이효리의 레드카펫] | KBS 240105 방송",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCeLPm9yH_a_QH8n6445G-Ow"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCeLPm9yH_a_QH8n6445G-Ow",
+      "ChannelTitle": "KBS Kpop",
+      "Title": "KBS Kpop"
+    },
+    "UploadDate": {
+      "DateTime": "2024-01-05T10:40:41.0000000",
+      "UtcDateTime": "2024-01-05T18:40:41.0000000Z",
+      "LocalDateTime": "2024-01-06T03:40:41.0000000+09:00",
+      "Date": "2024-01-05T00:00:00.0000000",
+      "Day": 5,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 5,
+      "Hour": 10,
+      "Millisecond": 0,
+      "Minute": 40,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 41,
+      "Ticks": 638400480410000000,
+      "UtcTicks": 638400768410000000,
+      "TimeOfDay": "10:40:41",
+      "Year": 2024
+    },
+    "Description": "You & Me - 제니\n\n#더시즌즈 #음악 #뮤직 #이효리 #이효리의레드카펫 \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Instagram : https://www.instagram.com/theseasons2023\n        ▶ Youtube : https://www.youtube.com/@KBSKpop\n----------------------------------------------",
+    "Duration": "00:03:16",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/wOK9j3q20tw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBt_IcTRmou0CBZGHKZvEWmzjMzrw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wOK9j3q20tw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFEEVD4BALIED6_lblQkr9RLT6Bw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wOK9j3q20tw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZaMYDpysb5WcNi0UM_WjE_0yKUg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wOK9j3q20tw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmR2Z-_qAELynZRqKGquZyMoQduw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wOK9j3q20tw/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wOK9j3q20tw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wOK9j3q20tw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wOK9j3q20tw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "더시즌즈",
+      "음악",
+      "뮤직",
+      "이효리",
+      "이효리의레드카펫"
+    ],
+    "Engagement": {
+      "ViewCount": 6126212,
+      "LikeCount": 139606,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

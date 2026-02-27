@@ -1,1 +1,115 @@
-{"id":"DAOe_qFy8BU","title":"【SING女团】电子国风舞台《不言》太上头了！","file":"【SING女团】电子国风舞台《不言》太上头了！","author":"SING Girls' Group","duration":"00:03:56"}
+{
+  "id": "DAOe_qFy8BU",
+  "title": "【SING女团】电子国风舞台《不言》太上头了！",
+  "author": "SING Girls' Group",
+  "duration": "00:03:56",
+  "detail": {
+    "Id": {
+      "Value": "DAOe_qFy8BU"
+    },
+    "Url": "https://www.youtube.com/watch?v=DAOe_qFy8BU",
+    "Title": "【SING女团】电子国风舞台《不言》太上头了！",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCfq942KRTrU56yk0DaWmt8g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCfq942KRTrU56yk0DaWmt8g",
+      "ChannelTitle": "SING Girls' Group",
+      "Title": "SING Girls' Group"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-23T11:46:10.0000000",
+      "UtcDateTime": "2026-01-23T19:46:10.0000000Z",
+      "LocalDateTime": "2026-01-24T04:46:10.0000000+09:00",
+      "Date": "2026-01-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 23,
+      "Hour": 11,
+      "Millisecond": 0,
+      "Minute": 46,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 10,
+      "Ticks": 639047655700000000,
+      "UtcTicks": 639047943700000000,
+      "TimeOfDay": "11:46:10",
+      "Year": 2026
+    },
+    "Description": "SING女团“陪你走过”2026新年公演暨粉丝见面会\n《不言》\n\n#sing女团 #dance #不言",
+    "Duration": "00:03:56",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/DAOe_qFy8BU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApcvknjiR8gLdL8HfbfvpQz44eQg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/DAOe_qFy8BU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBUr6CvWnB28JDXod2ibL6SvEFTKg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/DAOe_qFy8BU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5p9_anEOBFib-ctL7pt1EPWO9aA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/DAOe_qFy8BU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAXSN0ozeBikHt4Dr122zXdgnDW2A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/DAOe_qFy8BU/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/DAOe_qFy8BU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/DAOe_qFy8BU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/DAOe_qFy8BU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 7464,
+      "LikeCount": 312,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

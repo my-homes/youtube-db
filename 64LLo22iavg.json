@@ -1,1 +1,115 @@
-{"id":"64LLo22iavg","title":"LAURA PAUSINI-SE FUE (COVER ITALO 80'S REMIX)","file":"LAURA PAUSINI-SE FUE (COVER ITALO 80’S REMIX)","author":"Music Dance Forever","duration":"00:04:03"}
+{
+  "id": "64LLo22iavg",
+  "title": "LAURA PAUSINI-SE FUE (COVER ITALO 80'S REMIX)",
+  "author": "Music Dance Forever",
+  "duration": "00:04:03",
+  "detail": {
+    "Id": {
+      "Value": "64LLo22iavg"
+    },
+    "Url": "https://www.youtube.com/watch?v=64LLo22iavg",
+    "Title": "LAURA PAUSINI-SE FUE (COVER ITALO 80'S REMIX)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCsT9OsQnd9pPoCQIFRw8Zdw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCsT9OsQnd9pPoCQIFRw8Zdw",
+      "ChannelTitle": "Music Dance Forever",
+      "Title": "Music Dance Forever"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-22T13:30:01.0000000",
+      "UtcDateTime": "2026-01-22T21:30:01.0000000Z",
+      "LocalDateTime": "2026-01-23T06:30:01.0000000+09:00",
+      "Date": "2026-01-22T00:00:00.0000000",
+      "Day": 22,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 22,
+      "Hour": 13,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 1,
+      "Ticks": 639046854010000000,
+      "UtcTicks": 639047142010000000,
+      "TimeOfDay": "13:30:01",
+      "Year": 2026
+    },
+    "Description": "",
+    "Duration": "00:04:03",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/64LLo22iavg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACxAWKAgwIABABGHggEyh_MA8=&rs=AOn4CLAyKad7F9FlLnWV7r9PpEaVCtA0uA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/64LLo22iavg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACxAWKAgwIABABGHggEyh_MA8=&rs=AOn4CLCkGx2_6daZUM07SELlnHKpqytSXQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/64LLo22iavg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAsQFigIMCAAQARh4IBMofzAP&rs=AOn4CLCUa1-3EDg4iAjQm7zsUGXh4R2NNg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/64LLo22iavg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAsQFigIMCAAQARh4IBMofzAP&rs=AOn4CLCWoDY_ufGBIEe0u7AwafJ8ZvBIdQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/64LLo22iavg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACxAWKAgwIABABGHggEyh_MA8=&rs=AOn4CLBvYjiygGemnEJjKwkOl7AVCQ9fOg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/64LLo22iavg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/64LLo22iavg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/64LLo22iavg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1040,
+      "LikeCount": 53,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

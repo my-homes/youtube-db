@@ -1,1 +1,123 @@
-{"id":"MQDo0KZRPcM","title":"「Escape」 Music Video / SKE48【MV full】","file":"「Escape」 Music Video ／ SKE48【MV full】","author":"SKE48","duration":"00:04:11"}
+{
+  "id": "MQDo0KZRPcM",
+  "title": "「Escape」 Music Video / SKE48【MV full】",
+  "author": "SKE48",
+  "duration": "00:04:11",
+  "detail": {
+    "Id": {
+      "Value": "MQDo0KZRPcM"
+    },
+    "Url": "https://www.youtube.com/watch?v=MQDo0KZRPcM",
+    "Title": "「Escape」 Music Video / SKE48【MV full】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCG-5D9k_fL4FnMeNuraeAtA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCG-5D9k_fL4FnMeNuraeAtA",
+      "ChannelTitle": "SKE48",
+      "Title": "SKE48"
+    },
+    "UploadDate": {
+      "DateTime": "2025-05-04T18:30:12.0000000",
+      "UtcDateTime": "2025-05-05T01:30:12.0000000Z",
+      "LocalDateTime": "2025-05-05T10:30:12.0000000+09:00",
+      "Date": "2025-05-04T00:00:00.0000000",
+      "Day": 4,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 124,
+      "Hour": 18,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 5,
+      "Offset": "-07:00:00",
+      "Second": 12,
+      "Ticks": 638819802120000000,
+      "UtcTicks": 638820054120000000,
+      "TimeOfDay": "18:30:12",
+      "Year": 2025
+    },
+    "Description": "2013.12.11 on sale AKB48 34th Single 『鈴懸の木の道で「君の微笑みを夢に見る」と言ってしまったら僕たちの関係はどう変わってしまうのか、僕なりに何日か考えた上でのやや気恥ずかしい結論のようなもの』\nc/w「Escape」Music Video\n\n#SKE48 #Escape\n\n5月4日(日)12:00～5月5日(月)18:00開催「SKE48 30時間TV2025 〜春の大文化祭 SKE(サカエ)の桜はまだ満開！！〜」にて、1stシングル「強き者よ」から21stシングル「意外にマンゴー」までのMusic Videoを、全曲フルサイズオンエア！各シングルにゆかりのある現役&OGメンバーからのコメント動画も！\n\nSKE48 公式YouTubeチャンネルでは、カップリング曲を含めたフルサイズ&HD画質でアップされていなかった過去のMusic Videoを全曲解禁します。\n\n【SKE48 LIVE!! ON DEMAND】\nhttps://www.dmm.com/lod/ske48/-/detail/=/cid=ske48c25050401l/\n\n【SKE48 Official Web Site】\nhttp://www.ske48.co.jp/\n \n【SKE48 Official X】\nhttps://x.com/ske48official\n \n【SKE48 Official TikTok】\nhttps://www.tiktok.com/@ske48official\n \n【SKE48 Official Instagram】\nhttps://www.instagram.com/official_ske48/",
+    "Duration": "00:04:11",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/MQDo0KZRPcM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD75ESiFXqMg1ojpbXd5ITWAUc-gw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MQDo0KZRPcM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLACs0ibo4gJxgnbkujwpVGnJrLFeg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MQDo0KZRPcM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB4z7LWTaU1rbL41w345qW-n7cCcA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MQDo0KZRPcM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgVZ8ngp3tIhf_NGyH9zbJ97t1pw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/MQDo0KZRPcM/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/MQDo0KZRPcM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/MQDo0KZRPcM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/MQDo0KZRPcM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "SKE48オフィシャルYTチャンネル",
+      "SKE48",
+      "AKB48",
+      "NMB48",
+      "HKT48",
+      "SKB48",
+      "SKE48YTOfficial"
+    ],
+    "Engagement": {
+      "ViewCount": 59117,
+      "LikeCount": 1164,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,115 @@
-{"id":"s-8BTLiBR5U","title":"ネコ娘 – 地獄変 , NekoMusume - Hell Screen","file":"ネコ娘 – 地獄変 , NekoMusume - Hell Screen","author":"OKAMON Music Lab","duration":"00:03:00"}
+{
+  "id": "s-8BTLiBR5U",
+  "title": "ネコ娘 – 地獄変 , NekoMusume - Hell Screen",
+  "author": "OKAMON Music Lab",
+  "duration": "00:03:00",
+  "detail": {
+    "Id": {
+      "Value": "s-8BTLiBR5U"
+    },
+    "Url": "https://www.youtube.com/watch?v=s-8BTLiBR5U",
+    "Title": "ネコ娘 – 地獄変 , NekoMusume - Hell Screen",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCDqm2I2QYpHyuCwMjTTWD6w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCDqm2I2QYpHyuCwMjTTWD6w",
+      "ChannelTitle": "OKAMON Music Lab",
+      "Title": "OKAMON Music Lab"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-24T03:07:48.0000000",
+      "UtcDateTime": "2026-01-24T11:07:48.0000000Z",
+      "LocalDateTime": "2026-01-24T20:07:48.0000000+09:00",
+      "Date": "2026-01-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 24,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 7,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 48,
+      "Ticks": 639048208680000000,
+      "UtcTicks": 639048496680000000,
+      "TimeOfDay": "03:07:48",
+      "Year": 2026
+    },
+    "Description": "各種音楽配信サービスでも聴けます♪\n動画よりも音質を上げてますので、よかったらどうぞ🥰\nhttps://www.tunecore.co.jp/artist?id=967387\n\nネコ娘がはっちゃけるだけの動画 ('ω')\n\nネコ娘が現代アーティストになってMVを作ってみたらという感じです\nタイトルもそれっぽくしてます😸\n\n歌が速すぎるので\n今回は歌詞を字幕にしてます(^^♪\n\n#ゲゲゲの鬼太郎 #gegegenokitaro #Hiphop #ねこ娘 #アニソン #aiアニメ #aiart #sunoai",
+    "Duration": "00:03:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/s-8BTLiBR5U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZHu4RHNu_Slz1mRdWQI9rv9eA4w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s-8BTLiBR5U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCx7h0zt3o944Ycyyo87m11Y0FsiA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s-8BTLiBR5U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDceYPI3Kdxnl3UBgWee78RRUV_g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s-8BTLiBR5U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDl1Xij7NhSbbRHSvem0PYsbbhZcw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/s-8BTLiBR5U/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/s-8BTLiBR5U/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/s-8BTLiBR5U/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/s-8BTLiBR5U/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 42457,
+      "LikeCount": 905,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

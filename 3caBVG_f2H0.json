@@ -1,1 +1,121 @@
-{"id":"3caBVG_f2H0","title":"[MMD][粛聖!! ロリ神レクイエム☆][UIMM][VR180][8K]","file":"[MMD][粛聖!! ロリ神レクイエム☆][UIMM][VR180][8K]","author":"kusemono","duration":"00:00:42"}
+{
+  "id": "3caBVG_f2H0",
+  "title": "[MMD][粛聖!! ロリ神レクイエム☆][UIMM][VR180][8K]",
+  "author": "kusemono",
+  "duration": "00:00:42",
+  "detail": {
+    "Id": {
+      "Value": "3caBVG_f2H0"
+    },
+    "Url": "https://www.youtube.com/watch?v=3caBVG_f2H0",
+    "Title": "[MMD][粛聖!! ロリ神レクイエム☆][UIMM][VR180][8K]",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCa4WxWlTUkmjmA4BP2qvUTg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCa4WxWlTUkmjmA4BP2qvUTg",
+      "ChannelTitle": "kusemono",
+      "Title": "kusemono"
+    },
+    "UploadDate": {
+      "DateTime": "2023-10-17T06:36:48.0000000",
+      "UtcDateTime": "2023-10-17T13:36:48.0000000Z",
+      "LocalDateTime": "2023-10-17T22:36:48.0000000+09:00",
+      "Date": "2023-10-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 290,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 36,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 48,
+      "Ticks": 638331214080000000,
+      "UtcTicks": 638331466080000000,
+      "TimeOfDay": "06:36:48",
+      "Year": 2023
+    },
+    "Description": "#MMD #VRMMD #vr180\nVR動画ですのでMETA QUEST、スマートフォン等のYOUTUBE　VR対応機器でご視聴ください\n実験的に4320s60を選択可能にしてみました\nVR機器で解像度4320s60が選択できましたら環境を教えてもらえると助かります\n通常と比率の違う動画(片目3840x4320の縦長）なので環境によっては縦に伸びた状態になると思います\nお借りしたもの\nMUSIC：粛聖!! ロリ神レクイエム☆\nhttps://www.youtube.com/watch?v=Ci_zad39Uhw\nMODEL：UIMM TararaTarako様\nMOTION：マスク　ザ　春原様\nhttps://twitter.com/dolce1211\nSTAGE：バカ可愛いステージ/　NNGN様\nhttps://nico.ms/sm41819524\n\nアクセサリ：\nランドセルver1_00　あさぬ様\nhttps://nico.ms/im5673170\n防犯ブザーN　ニーナ(ひんぬー党P様\nhttps://nico.ms/im5643774\n\nEFECT：\nMikuMikuEffect：舞力介入P様\nsdPBR：サンドマン様\n空中に漂う埃：化身バレッタ様\nEquirectangularX：ほうりき様\nMMD VR180の作り方_v1_82：おいも様\nMotionBlur3：そぼろ様\n\n全ての製作者様に感謝",
+    "Duration": "00:00:42",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/3caBVG_f2H0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAcH1Ek9qzxC4fE9lkJI_m6DVMwfg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3caBVG_f2H0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCHw3IxSYNXhFnJe8kZkTe_AOTNyg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3caBVG_f2H0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNRuIAAZytbdgfVu96JYuGz-r5-A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3caBVG_f2H0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoSseoSzS-jruV-EjhBvttbj1aNg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3caBVG_f2H0/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3caBVG_f2H0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3caBVG_f2H0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3caBVG_f2H0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "MMD",
+      "mikumikudance",
+      "VR180",
+      "VR",
+      "8K"
+    ],
+    "Engagement": {
+      "ViewCount": 1632898,
+      "LikeCount": 43736,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,115 @@
-{"id":"rXtQIKUPutw","title":"我が青春のアルカディア 無限軌道SSX op  「俺たちの船出」MAD","file":"我が青春のアルカディア 無限軌道SSX op  「俺たちの船出」MAD","author":"RX- Gaou","duration":"00:03:47"}
+{
+  "id": "rXtQIKUPutw",
+  "title": "我が青春のアルカディア 無限軌道SSX op  「俺たちの船出」MAD",
+  "author": "RX- Gaou",
+  "duration": "00:03:47",
+  "detail": {
+    "Id": {
+      "Value": "rXtQIKUPutw"
+    },
+    "Url": "https://www.youtube.com/watch?v=rXtQIKUPutw",
+    "Title": "我が青春のアルカディア 無限軌道SSX op  「俺たちの船出」MAD",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCrilzI7Sm0rSgZTDq4ATJAA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCrilzI7Sm0rSgZTDq4ATJAA",
+      "ChannelTitle": "RX- Gaou",
+      "Title": "RX- Gaou"
+    },
+    "UploadDate": {
+      "DateTime": "2021-04-02T03:19:08.0000000",
+      "UtcDateTime": "2021-04-02T10:19:08.0000000Z",
+      "LocalDateTime": "2021-04-02T19:19:08.0000000+09:00",
+      "Date": "2021-04-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 92,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 19,
+      "Month": 4,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 637529303480000000,
+      "UtcTicks": 637529555480000000,
+      "TimeOfDay": "03:19:08",
+      "Year": 2021
+    },
+    "Description": "#水木一郎  #松本零士 #キャプテンハーロック\n \nハーロックやっぱりかっこいい",
+    "Duration": "00:03:47",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/rXtQIKUPutw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAfjGtmAfSQIeGspx-qPMn7UhhJ1w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rXtQIKUPutw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDR5-_wMhD4ioicSF1l5UAfmdJi-A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rXtQIKUPutw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-PmZtZTy_MLRVH-iYWXTbt8oAuQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rXtQIKUPutw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkGhA8kgd6XUiyV1x1TSKUP_3kTw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/rXtQIKUPutw/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rXtQIKUPutw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rXtQIKUPutw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rXtQIKUPutw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1400365,
+      "LikeCount": 7185,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

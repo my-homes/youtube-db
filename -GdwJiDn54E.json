@@ -1,1 +1,112 @@
-{"id":"-GdwJiDn54E","title":"サイレント・ヴォイス（本田知恵子ver）","file":"サイレント・ヴォイス（本田知恵子ver）","author":"silbereisen77","duration":"00:04:29"}
+{
+  "id": "-GdwJiDn54E",
+  "title": "サイレント・ヴォイス（本田知恵子ver）",
+  "author": "silbereisen77",
+  "duration": "00:04:29",
+  "detail": {
+    "Id": {
+      "Value": "-GdwJiDn54E"
+    },
+    "Url": "https://www.youtube.com/watch?v=-GdwJiDn54E",
+    "Title": "サイレント・ヴォイス（本田知恵子ver）",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC2IAD6zd6fNqRnXGsIIIMrA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC2IAD6zd6fNqRnXGsIIIMrA",
+      "ChannelTitle": "silbereisen77",
+      "Title": "silbereisen77"
+    },
+    "UploadDate": {
+      "DateTime": "2015-09-05T18:50:49.0000000",
+      "UtcDateTime": "2015-09-06T01:50:49.0000000Z",
+      "LocalDateTime": "2015-09-06T10:50:49.0000000+09:00",
+      "Date": "2015-09-05T00:00:00.0000000",
+      "Day": 5,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 248,
+      "Hour": 18,
+      "Millisecond": 0,
+      "Minute": 50,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 49,
+      "Ticks": 635770758490000000,
+      "UtcTicks": 635771010490000000,
+      "TimeOfDay": "18:50:49",
+      "Year": 2015
+    },
+    "Description": "機動戦士ガンダムZZ op2 FULL 本田知恵子(エルピー・プル、プルツー)",
+    "Duration": "00:04:29",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/-GdwJiDn54E/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGEggOyh_MA8=&rs=AOn4CLDs6RorZ7S0_Vq6FGu2ZVLVrwgtjA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-GdwJiDn54E/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGEggOyh_MA8=&rs=AOn4CLDWnKBMKrs_a7CQRb2QDOYClFocwQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-GdwJiDn54E/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhIIDsofzAP&rs=AOn4CLDbhNFQxKHPQoY2O56-j4U2gdtUSQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-GdwJiDn54E/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhIIDsofzAP&rs=AOn4CLBKOF12jwS1JMR5pv72dJUWuUJ3Og",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-GdwJiDn54E/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-GdwJiDn54E/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-GdwJiDn54E/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "ZZ Gundam (Fictional Object)",
+      "Mobile Suit Gundam ZZ (Work Of Fiction)",
+      "Chieko Honda (TV Actor)",
+      "Animated Cartoon (TV Genre)"
+    ],
+    "Engagement": {
+      "ViewCount": 1336363,
+      "LikeCount": 10327,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

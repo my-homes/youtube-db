@@ -1,1 +1,115 @@
-{"id":"1Gi8Zq0TbVI","title":"夢見る少女じゃいられない / 田中れいな","file":"夢見る少女じゃいられない ／ 田中れいな","author":"kenpa ken","duration":"00:04:10"}
+{
+  "id": "1Gi8Zq0TbVI",
+  "title": "夢見る少女じゃいられない / 田中れいな",
+  "author": "kenpa ken",
+  "duration": "00:04:10",
+  "detail": {
+    "Id": {
+      "Value": "1Gi8Zq0TbVI"
+    },
+    "Url": "https://www.youtube.com/watch?v=1Gi8Zq0TbVI",
+    "Title": "夢見る少女じゃいられない / 田中れいな",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCsZpiSinZp1wba8C2fOzdqg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCsZpiSinZp1wba8C2fOzdqg",
+      "ChannelTitle": "kenpa ken",
+      "Title": "kenpa ken"
+    },
+    "UploadDate": {
+      "DateTime": "2014-12-07T08:43:40.0000000",
+      "UtcDateTime": "2014-12-07T16:43:40.0000000Z",
+      "LocalDateTime": "2014-12-08T01:43:40.0000000+09:00",
+      "Date": "2014-12-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 341,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 43,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 40,
+      "Ticks": 635535386200000000,
+      "UtcTicks": 635535674200000000,
+      "TimeOfDay": "08:43:40",
+      "Year": 2014
+    },
+    "Description": "",
+    "Duration": "00:04:10",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1Gi8Zq0TbVI/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gFigyMA8=&rs=AOn4CLAaH4TIkgwp6vk3_3tqX9yjZY42Uw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1Gi8Zq0TbVI/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gFigyMA8=&rs=AOn4CLDfoYb4J8gWTSzus5egDRu7GlBVCg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1Gi8Zq0TbVI/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBYoMjAP&rs=AOn4CLCV8lMkb8kCvuZjUTxn0MHT1itTEw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1Gi8Zq0TbVI/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBYoMjAP&rs=AOn4CLDQX2JSs6wJ_BVWTVnkDOndYVfUtw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1Gi8Zq0TbVI/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFigyMA8=&rs=AOn4CLBv1wCzsdZ8w_NGMJrJhwn2tCo8VQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1Gi8Zq0TbVI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1Gi8Zq0TbVI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1Gi8Zq0TbVI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 541986,
+      "LikeCount": 2676,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

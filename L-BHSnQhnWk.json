@@ -1,1 +1,115 @@
-{"id":"L-BHSnQhnWk","title":"榊原ねね (Nene Sakakibara)「Chase the Chance」/ 2025.06.08 / 東京アイドル劇場 / TOKYO IDOL GEKIJO / 縦動画","file":"榊原ねね (Nene Sakakibara)「Chase the Chance」／ 2025.06.08 ／ 東京アイドル劇場 ／ TOKYO IDOL GEKIJO ／ 縦動画","author":"とりおの応援チャンネル","duration":"00:05:08"}
+{
+  "id": "L-BHSnQhnWk",
+  "title": "榊原ねね (Nene Sakakibara)「Chase the Chance」/ 2025.06.08 / 東京アイドル劇場 / TOKYO IDOL GEKIJO / 縦動画",
+  "author": "とりおの応援チャンネル",
+  "duration": "00:05:08",
+  "detail": {
+    "Id": {
+      "Value": "L-BHSnQhnWk"
+    },
+    "Url": "https://www.youtube.com/watch?v=L-BHSnQhnWk",
+    "Title": "榊原ねね (Nene Sakakibara)「Chase the Chance」/ 2025.06.08 / 東京アイドル劇場 / TOKYO IDOL GEKIJO / 縦動画",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCxqsJRa3Yz1J2L6f5i4nFgw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCxqsJRa3Yz1J2L6f5i4nFgw",
+      "ChannelTitle": "とりおの応援チャンネル",
+      "Title": "とりおの応援チャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-14T19:45:02.0000000",
+      "UtcDateTime": "2025-06-15T02:45:02.0000000Z",
+      "LocalDateTime": "2025-06-15T11:45:02.0000000+09:00",
+      "Date": "2025-06-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 165,
+      "Hour": 19,
+      "Millisecond": 0,
+      "Minute": 45,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 2,
+      "Ticks": 638855271020000000,
+      "UtcTicks": 638855523020000000,
+      "TimeOfDay": "19:45:02",
+      "Year": 2025
+    },
+    "Description": "2025.06.08 (sun) 東京アイドル劇場 / TOKYO IDOL GEKIJO\nソロスペ + デュオスペ + ダンチャレ / Solo Special + Duo Special + Dance Challenging\n榊原ねねちゃん (Nene Sakakibara)「Chase the Chance」",
+    "Duration": "00:05:08",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/L-BHSnQhnWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUBcuwGS5aEl4XuYiTRd_ImxoKiQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/L-BHSnQhnWk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLApph9p8V3gs4CnNsNoT9CGjKhBlQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/L-BHSnQhnWk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPI6RbZWGYGFfl91690hMmzq0QKA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/L-BHSnQhnWk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUyfzXitTqghXnU1P39U3RoYPfEw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/L-BHSnQhnWk/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/L-BHSnQhnWk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/L-BHSnQhnWk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/L-BHSnQhnWk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1891,
+      "LikeCount": 70,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

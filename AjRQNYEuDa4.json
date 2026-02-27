@@ -1,1 +1,115 @@
-{"id":"AjRQNYEuDa4","title":"夏の夢/青山なぎさ(Official Music Video)","file":"夏の夢／青山なぎさ(Official Music Video)","author":"青山なぎさ Official YouTube Channel","duration":"00:03:34"}
+{
+  "id": "AjRQNYEuDa4",
+  "title": "夏の夢/青山なぎさ(Official Music Video)",
+  "author": "青山なぎさ Official YouTube Channel",
+  "duration": "00:03:34",
+  "detail": {
+    "Id": {
+      "Value": "AjRQNYEuDa4"
+    },
+    "Url": "https://www.youtube.com/watch?v=AjRQNYEuDa4",
+    "Title": "夏の夢/青山なぎさ(Official Music Video)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCLStCt68hVHjHnGJR25H8Rw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCLStCt68hVHjHnGJR25H8Rw",
+      "ChannelTitle": "青山なぎさ Official YouTube Channel",
+      "Title": "青山なぎさ Official YouTube Channel"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-10T13:30:03.0000000",
+      "UtcDateTime": "2025-06-10T20:30:03.0000000Z",
+      "LocalDateTime": "2025-06-11T05:30:03.0000000+09:00",
+      "Date": "2025-06-10T00:00:00.0000000",
+      "Day": 10,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 161,
+      "Hour": 13,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 3,
+      "Ticks": 638851590030000000,
+      "UtcTicks": 638851842030000000,
+      "TimeOfDay": "13:30:03",
+      "Year": 2025
+    },
+    "Description": "青山なぎさ\n2025/8/6 発売\n青山なぎさMini Album『Roots』のリード曲である『夏の夢』のミュージックビデオを公開！\n\n---------------------------------------------\n2025/5/17 先行リリース\n『夏の夢』\n 作詞：青山なぎさ 作曲：津波幸平\n配信URL：https://AoyamaNagisa.lnk.to/summer_dreamID\n\nレーベル：Launch Vehicle\n---------------------------------------------\n【Music Video Staff】\n監督 / カメラマン : 福居 英晃\n照明 : 石垣 達也(童夢)\nPM : 伊藤 大翔(SEP) / 吉田 夏葵(SEP) \nプロデューサー : 和田 朋紘(SEP)\nプロダクション : スペースシャワーエンタテインメントプロデューシング株式会社\nHair & Make up：馬上えりか（フリンジ）\nStylist：本田裕子（H）\n---------------------------------------------\n\nMini Album『Roots』ご購入はこちらから▼\nhttps://aoyamanagisa.lnk.to/Roots_CD_W\n\n■SNS\nX    / aoyamanagisa  \nInstagram    / aoyamanagisa_official  \nTikTok    / aoyama_nagisa_official \nTikTok Artist. /nagisa.aoyama_lv  \n\n■INFORMATION\nOfficial HP  \nhttps://aoyamanagisa.jp\n\nOfficial FanClub『Apollo Bay Cruiser』\nhttps://apollobaycruiser.jp/",
+    "Duration": "00:03:34",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/AjRQNYEuDa4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBBgWYsWgo-2I1Q9x_izrWXg3jWrA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AjRQNYEuDa4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCslGn5XkhZD53KxvKZu9TyznZwKA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AjRQNYEuDa4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbjE5IYuM5Kz8FdNDcOBCA0fWrig",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AjRQNYEuDa4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUpKjUptXoCt4aXLRa0jd8UgYluQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/AjRQNYEuDa4/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AjRQNYEuDa4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AjRQNYEuDa4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AjRQNYEuDa4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 41695,
+      "LikeCount": 1798,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

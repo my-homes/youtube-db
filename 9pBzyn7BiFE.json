@@ -1,1 +1,115 @@
-{"id":"9pBzyn7BiFE","title":"TRY ME ~私を信じて~ / (ライブ編集)","file":"TRY ME ~私を信じて~ ／ (ライブ編集)","author":"Final Space","duration":"00:04:13"}
+{
+  "id": "9pBzyn7BiFE",
+  "title": "TRY ME ~私を信じて~ / (ライブ編集)",
+  "author": "Final Space",
+  "duration": "00:04:13",
+  "detail": {
+    "Id": {
+      "Value": "9pBzyn7BiFE"
+    },
+    "Url": "https://www.youtube.com/watch?v=9pBzyn7BiFE",
+    "Title": "TRY ME ~私を信じて~ / (ライブ編集)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC6TKyM7G5W_3bfy3Xxo-FgQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC6TKyM7G5W_3bfy3Xxo-FgQ",
+      "ChannelTitle": "Final Space",
+      "Title": "Final Space"
+    },
+    "UploadDate": {
+      "DateTime": "2021-02-20T15:00:02.0000000",
+      "UtcDateTime": "2021-02-20T23:00:02.0000000Z",
+      "LocalDateTime": "2021-02-21T08:00:02.0000000+09:00",
+      "Date": "2021-02-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 51,
+      "Hour": 15,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 2,
+      "Ticks": 637494300020000000,
+      "UtcTicks": 637494588020000000,
+      "TimeOfDay": "15:00:02",
+      "Year": 2021
+    },
+    "Description": "「25th ANNIVERSARY LIVE in OKINAWA」&「Final Tour 2018」から\"TRY ME ~私を信じて~\"の特別ライブ編集版! (Copyright: stella88 inc. / Edited by admin of Namie News Network) #安室奈美恵 #namieamuro",
+    "Duration": "00:04:13",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/9pBzyn7BiFE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDl44L8JvcKEt0C1VMW5pRLwFF7LA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9pBzyn7BiFE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYUB0YaM7OHQ3aRNg1QHpZDQ4EOQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9pBzyn7BiFE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCl0bo2eoaqCiMECSm6wvJxezRk1g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9pBzyn7BiFE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN_mx0Rg147mzIeUUwHjUkA-iKDw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/9pBzyn7BiFE/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9pBzyn7BiFE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9pBzyn7BiFE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9pBzyn7BiFE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 6015839,
+      "LikeCount": 17845,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

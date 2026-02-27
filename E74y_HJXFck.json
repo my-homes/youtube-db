@@ -1,1 +1,119 @@
-{"id":"E74y_HJXFck","title":"『機動戦士ガンダムZZ』OP「SILENT VOICE」｜映画級リアルCGI MV #gundamzz  #gundam","file":"『機動戦士ガンダムZZ』OP「SILENT VOICE」｜映画級リアルCGI MV ＃gundamzz  ＃gundam","author":"Fantasy Remaster","duration":"00:04:06"}
+{
+  "id": "E74y_HJXFck",
+  "title": "『機動戦士ガンダムZZ』OP「SILENT VOICE」｜映画級リアルCGI MV #gundamzz  #gundam",
+  "author": "Fantasy Remaster",
+  "duration": "00:04:06",
+  "detail": {
+    "Id": {
+      "Value": "E74y_HJXFck"
+    },
+    "Url": "https://www.youtube.com/watch?v=E74y_HJXFck",
+    "Title": "『機動戦士ガンダムZZ』OP「SILENT VOICE」｜映画級リアルCGI MV #gundamzz  #gundam",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCkoRoUSMeGrRKeu_HFDUVkg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCkoRoUSMeGrRKeu_HFDUVkg",
+      "ChannelTitle": "Fantasy Remaster",
+      "Title": "Fantasy Remaster"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-02T19:00:23.0000000",
+      "UtcDateTime": "2026-01-03T03:00:23.0000000Z",
+      "LocalDateTime": "2026-01-03T12:00:23.0000000+09:00",
+      "Date": "2026-01-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 2,
+      "Hour": 19,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 23,
+      "Ticks": 639029772230000000,
+      "UtcTicks": 639030060230000000,
+      "TimeOfDay": "19:00:23",
+      "Year": 2026
+    },
+    "Description": "✨ 限定キャラクターコンテンツはこちら：\n👉 https://www.patreon.com/c/FantasyRemaster\n\n🔖 著作権声明\n\n本映像に含まれる音楽および映像は、AI 技術によって再構築・再解釈されたものであり、\nファン向けの非商業目的作品として制作されています。\nいかなる収益化、商業利用、または公式な権利を有するものではありません。\n\n🎧 制作概要\n\n今回は皆さまからのフィードバックを参考に、ハマーンをより成熟して落ち着いた雰囲気で表現することを試みました。\nまた、多くの方が期待していた Roux も今回の映像に加えています。\nさらに、単独のアカペラバージョンも制作しており、個人的には良い仕上がりだと感じていますので、後日あらためて公開予定です。\n今後も引き続き 《SRW》シリーズ楽曲 の制作を行っていく予定です。\n\n🎬 アニメーション制作\n\n今回は、より大人びた印象のハマーンを目指しました。\n実際の設定ではハマーンの年齢は 20〜22 歳ですが、視聴者の方から「35 歳くらいに見える表現にしてほしい」というメッセージもいくつかいただき、正直少し戸惑いました。\n日本のアニメ作品では、登場人物の年齢設定は全体的に若めで、「大人キャラ」と呼ばれる場合でも 40 代前半であることが多いです。\nいわゆる「紫の老女」タイプのキャラクターも、設定上は 24 歳で、作中では 30 代前後に見える程度だったりします。\nこうした点を考えると、年齢表現というのはなかなか難しいものだなと感じます（笑）。\n\nハマーンの雰囲気をより安定させるため、今回は比較的初期世代で、口パクの安定性が高い INFINITYTALK を使用しました。\n目が不自然に大きくならず、落ち着いた印象になる一方で、表情の細かな変化はやや少なくなります。\n個人的には少し生き生きさに欠けるとも感じており、この点は今も悩んでいる部分です。\n\nRoux を見たいという声が多かったため、今回は彼女の登場シーンをやや多めにしています。\nただし、再ライティング後のクローズアップでは、やや写実寄りになりすぎた部分もありました。\n私たちとしては、あくまで「完全な写実」ではなく、半写実的な CGI 表現を基本方針としています。\n\n今回は制作過程を感じられる舞台裏的なカットもいくつか盛り込みましたが、これは個人的にもとても面白い試みでした。\n\nIllia がゲーム内で使用している ZAKU IV のデザインが非常に魅力的だったため、MV 内にも試験的に登場させています。\n\n🎵 音楽制作\n\nSUNO の Weirdness パラメータを 10% まで下げることで、発音の正確さや部分的な音程の乱れが明確に改善されました。\nこれまで数値を下げすぎることを不安に感じていましたが、今回の検証では、テンポが比較的ゆっくりな楽曲に特に有効だと分かりました。\nただし、SRW シリーズのようなテンポの速い曲では、効果は限定的でした。\n\nまた、新しい音楽制作プラットフォーム TUNEE も試しています。\n操作性は非常に良い一方で、発音の傾向は初期の SUNO に近く、時折ノイズが発生します。\n今後、SUNO にも AI アシスタント機能が導入されることを期待しています。\n\n最後に、皆さまに 新年のご挨拶を申し上げます 🎉\nいつも応援してくださり、本当にありがとうございます。",
+    "Duration": "00:04:06",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/E74y_HJXFck/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZjO5ZVbnxK41Tvp5dkpx7WzZPzw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E74y_HJXFck/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGFI4FNu5QgaSMbQ9jhH5Cs5BIwA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E74y_HJXFck/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQOFRFXcK06ZJu0SFJXwTkbj_GOQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E74y_HJXFck/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1o7GlQywyabrKluIqchDpUwMtyQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/E74y_HJXFck/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E74y_HJXFck/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E74y_HJXFck/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E74y_HJXFck/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "gundam",
+      "gundamzz",
+      "gundamz"
+    ],
+    "Engagement": {
+      "ViewCount": 183003,
+      "LikeCount": 4402,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,115 @@
-{"id":"e7647eeKQ-o","title":"White #aigirl #fusionx","file":"White ＃aigirl ＃fusionx","author":"fuserelax","duration":"00:01:47"}
+{
+  "id": "e7647eeKQ-o",
+  "title": "White #aigirl #fusionx",
+  "author": "fuserelax",
+  "duration": "00:01:47",
+  "detail": {
+    "Id": {
+      "Value": "e7647eeKQ-o"
+    },
+    "Url": "https://www.youtube.com/watch?v=e7647eeKQ-o",
+    "Title": "White #aigirl #fusionx",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCQLn21lFm4nQn35KUqO9dsA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCQLn21lFm4nQn35KUqO9dsA",
+      "ChannelTitle": "fuserelax",
+      "Title": "fuserelax"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-15T02:00:54.0000000",
+      "UtcDateTime": "2025-06-15T09:00:54.0000000Z",
+      "LocalDateTime": "2025-06-15T18:00:54.0000000+09:00",
+      "Date": "2025-06-15T00:00:00.0000000",
+      "Day": 15,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 166,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 54,
+      "Ticks": 638855496540000000,
+      "UtcTicks": 638855748540000000,
+      "TimeOfDay": "02:00:54",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:01:47",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/e7647eeKQ-o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAd4xuXnA2C4ogFmmiGMhOO201SRQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/e7647eeKQ-o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDPU3aDdn7wo4uvZH8oGTbUxSondw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/e7647eeKQ-o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAkWFcpgU4uJeMBZmSsUfXfeZLsZw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/e7647eeKQ-o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfesFKE4w9-7pilNGn86Jc_g929A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/e7647eeKQ-o/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/e7647eeKQ-o/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/e7647eeKQ-o/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/e7647eeKQ-o/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 73719,
+      "LikeCount": 721,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

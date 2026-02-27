@@ -1,1 +1,119 @@
-{"id":"loSklo9mpQQ","title":"【AIめたん】ダンバインとぶ【聖戦士ダンバイン】(NEUTRINOカバー)","file":"【AIめたん】ダンバインとぶ【聖戦士ダンバイン】(NEUTRINOカバー)","author":"NegibatP ONGAKU Channel","duration":"00:04:10"}
+{
+  "id": "loSklo9mpQQ",
+  "title": "【AIめたん】ダンバインとぶ【聖戦士ダンバイン】(NEUTRINOカバー)",
+  "author": "NegibatP ONGAKU Channel",
+  "duration": "00:04:10",
+  "detail": {
+    "Id": {
+      "Value": "loSklo9mpQQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=loSklo9mpQQ",
+    "Title": "【AIめたん】ダンバインとぶ【聖戦士ダンバイン】(NEUTRINOカバー)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC09UsmT1t9nL6uDNY7jpGjQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC09UsmT1t9nL6uDNY7jpGjQ",
+      "ChannelTitle": "NegibatP ONGAKU Channel",
+      "Title": "NegibatP ONGAKU Channel"
+    },
+    "UploadDate": {
+      "DateTime": "2024-07-11T04:01:08.0000000",
+      "UtcDateTime": "2024-07-11T11:01:08.0000000Z",
+      "LocalDateTime": "2024-07-11T20:01:08.0000000+09:00",
+      "Date": "2024-07-11T00:00:00.0000000",
+      "Day": 11,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 193,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 638562672680000000,
+      "UtcTicks": 638562924680000000,
+      "TimeOfDay": "04:01:08",
+      "Year": 2024
+    },
+    "Description": "ニコニコ動画公開分(2022年12月2日投稿) → \nhttps://www.nicovideo.jp/watch/sm41453042\n《変更点》なし\n\n先にスパロボでダンバインを知ってから、再放送や配信でアニメを見たのが私です。\n\n使用イラスト：四国めたん～立ち絵素材～(谷裕司氏)\nMMD使用モデル：ダンバインv1(まく氏)、PowerShader(角砂糖氏)、o_SSAO(おたもん氏)",
+    "Duration": "00:04:10",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/loSklo9mpQQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBZfHJ8Av0WvbuhC_XRDIPcyRmdkg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/loSklo9mpQQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMtrjojC5NRbVwW_7bC553gb-tag",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/loSklo9mpQQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA5BVFZoJHZJRsi0k9g8N4s6wHBRw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/loSklo9mpQQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtDP-q_mTYxrV1MfdK0Vz0N9GtVQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/loSklo9mpQQ/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/loSklo9mpQQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/loSklo9mpQQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/loSklo9mpQQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "NEUTRINO",
+      "AIめたん",
+      "ダンバインとぶ"
+    ],
+    "Engagement": {
+      "ViewCount": 18952,
+      "LikeCount": 256,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

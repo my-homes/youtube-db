@@ -1,1 +1,115 @@
-{"id":"ABejmhP-HtY","title":"神話の歌★★《雪女の恋》❤️❤️❤️YUKI尤纪","file":"神話の歌★《雪女の恋》❤️❤️❤️YUKI尤纪","author":"YUKI尤纪Japanese songs","duration":"00:04:38"}
+{
+  "id": "ABejmhP-HtY",
+  "title": "神話の歌🎶🎶《雪女の恋》❤️❤️❤️YUKI尤纪",
+  "author": "YUKI尤纪Japanese songs",
+  "duration": "00:04:38",
+  "detail": {
+    "Id": {
+      "Value": "ABejmhP-HtY"
+    },
+    "Url": "https://www.youtube.com/watch?v=ABejmhP-HtY",
+    "Title": "神話の歌🎶🎶《雪女の恋》❤️❤️❤️YUKI尤纪",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCvzUbyl0Ws8UL4UCJjMkSTQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCvzUbyl0Ws8UL4UCJjMkSTQ",
+      "ChannelTitle": "YUKI尤纪Japanese songs",
+      "Title": "YUKI尤纪Japanese songs"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-27T21:12:16.0000000",
+      "UtcDateTime": "2026-01-28T05:12:16.0000000Z",
+      "LocalDateTime": "2026-01-28T14:12:16.0000000+09:00",
+      "Date": "2026-01-27T00:00:00.0000000",
+      "Day": 27,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 27,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 12,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 16,
+      "Ticks": 639051451360000000,
+      "UtcTicks": 639051739360000000,
+      "TimeOfDay": "21:12:16",
+      "Year": 2026
+    },
+    "Description": "❤️❤️❤️応援してくれてありがとうございます❤️❤️❤️",
+    "Duration": "00:04:38",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/ABejmhP-HtY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBkooa80c3eYcX_aweZodwifuqyqQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ABejmhP-HtY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnwjTPoi6QCpDGsAkjtyrUKZoFlA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ABejmhP-HtY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSU5n8X4rGdl0a_mmoBDNnPe8p9g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ABejmhP-HtY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDL3dttulb-VIeR9fRN5jQUS29AuQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ABejmhP-HtY/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ABejmhP-HtY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ABejmhP-HtY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ABejmhP-HtY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 939,
+      "LikeCount": 35,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

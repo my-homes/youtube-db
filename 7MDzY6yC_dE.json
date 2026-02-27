@@ -1,1 +1,107 @@
-{"id":"7MDzY6yC_dE","title":"岩崎宏美『聖母たちのララバイ』","file":"岩崎宏美『聖母たちのララバイ』","author":"kiyosaku2","duration":"00:04:04"}
+{
+  "id": "7MDzY6yC_dE",
+  "title": "岩崎宏美『聖母たちのララバイ』",
+  "author": "kiyosaku2",
+  "duration": "00:04:04",
+  "detail": {
+    "Id": {
+      "Value": "7MDzY6yC_dE"
+    },
+    "Url": "https://www.youtube.com/watch?v=7MDzY6yC_dE",
+    "Title": "岩崎宏美『聖母たちのララバイ』",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC4T_p5IiBS3W0NR74R_jCZg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC4T_p5IiBS3W0NR74R_jCZg",
+      "ChannelTitle": "kiyosaku2",
+      "Title": "kiyosaku2"
+    },
+    "UploadDate": {
+      "DateTime": "2024-06-07T05:17:49.0000000",
+      "UtcDateTime": "2024-06-07T12:17:49.0000000Z",
+      "LocalDateTime": "2024-06-07T21:17:49.0000000+09:00",
+      "Date": "2024-06-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 159,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 17,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 49,
+      "Ticks": 638533342690000000,
+      "UtcTicks": 638533594690000000,
+      "TimeOfDay": "05:17:49",
+      "Year": 2024
+    },
+    "Description": "2008/1/1",
+    "Duration": "00:04:04",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/7MDzY6yC_dE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBA9vV8wYdfY-eogWRX0qEzixsHaQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/7MDzY6yC_dE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAarXTyyNLLaJ49ALKmLZqMK8iWKw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/7MDzY6yC_dE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB-_hkUjzh-jpSt0UD-IU09R7jxRQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/7MDzY6yC_dE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC9ckpRTu1FB8hdolVMVukB1CUNNg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/7MDzY6yC_dE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/7MDzY6yC_dE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/7MDzY6yC_dE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 403479,
+      "LikeCount": 2007,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

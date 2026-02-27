@@ -1,1 +1,115 @@
-{"id":"aW-u-gEWJXM","title":"【※㊗️2025紅白】聖母たちのララバイ(Heavy Metal ver.)/ 岩崎宏美 - Red and White Metal Song Battle style. | Dreamy J-POP","file":"【※㊗️2025紅白】聖母たちのララバイ(Heavy Metal ver.)／ 岩崎宏美 - Red and White Metal Song Battle style. ｜ Dreamy J-POP","author":"T'z.Factory","duration":"00:04:35"}
+{
+  "id": "aW-u-gEWJXM",
+  "title": "【※㊗️2025紅白】聖母たちのララバイ(Heavy Metal ver.)/ 岩崎宏美 - Red and White Metal Song Battle style. | Dreamy J-POP",
+  "author": "T'z.Factory",
+  "duration": "00:04:35",
+  "detail": {
+    "Id": {
+      "Value": "aW-u-gEWJXM"
+    },
+    "Url": "https://www.youtube.com/watch?v=aW-u-gEWJXM",
+    "Title": "【※㊗️2025紅白】聖母たちのララバイ(Heavy Metal ver.)/ 岩崎宏美 - Red and White Metal Song Battle style. | Dreamy J-POP",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCFN8dc6RFQZH2jz7t3BqkxQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCFN8dc6RFQZH2jz7t3BqkxQ",
+      "ChannelTitle": "T'z.Factory",
+      "Title": "T'z.Factory"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-30T01:00:06.0000000",
+      "UtcDateTime": "2025-12-30T09:00:06.0000000Z",
+      "LocalDateTime": "2025-12-30T18:00:06.0000000+09:00",
+      "Date": "2025-12-30T00:00:00.0000000",
+      "Day": 30,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 364,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 6,
+      "Ticks": 639026532060000000,
+      "UtcTicks": 639026820060000000,
+      "TimeOfDay": "01:00:06",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:04:35",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/aW-u-gEWJXM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGzvUI9Pd_GMhuxmOT3ej10TyGmQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aW-u-gEWJXM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCH9ryVfySRmXPNYF3YB3bkKI9z_A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aW-u-gEWJXM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAf0M1FVhAklm_90C1fgDWWMYF72A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aW-u-gEWJXM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzIRWgzwR97TV1lU8XDZeZFZFFBA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/aW-u-gEWJXM/maxresdefault.webp?v=695353be",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aW-u-gEWJXM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aW-u-gEWJXM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aW-u-gEWJXM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 50012,
+      "LikeCount": 683,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

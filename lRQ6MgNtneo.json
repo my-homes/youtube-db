@@ -1,1 +1,115 @@
-{"id":"lRQ6MgNtneo","title":"JENNIE - Mantra (COACHELLA Studio Version)","file":"JENNIE - Mantra (COACHELLA Studio Version)","author":"venomous studios","duration":"00:04:35"}
+{
+  "id": "lRQ6MgNtneo",
+  "title": "JENNIE - Mantra (COACHELLA Studio Version)",
+  "author": "venomous studios",
+  "duration": "00:04:35",
+  "detail": {
+    "Id": {
+      "Value": "lRQ6MgNtneo"
+    },
+    "Url": "https://www.youtube.com/watch?v=lRQ6MgNtneo",
+    "Title": "JENNIE - Mantra (COACHELLA Studio Version)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCSphLVdG9PkGXvHPFykGE1g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCSphLVdG9PkGXvHPFykGE1g",
+      "ChannelTitle": "venomous studios",
+      "Title": "venomous studios"
+    },
+    "UploadDate": {
+      "DateTime": "2025-04-24T09:19:49.0000000",
+      "UtcDateTime": "2025-04-24T16:19:49.0000000Z",
+      "LocalDateTime": "2025-04-25T01:19:49.0000000+09:00",
+      "Date": "2025-04-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 114,
+      "Hour": 9,
+      "Millisecond": 0,
+      "Minute": 19,
+      "Month": 4,
+      "Offset": "-07:00:00",
+      "Second": 49,
+      "Ticks": 638810831890000000,
+      "UtcTicks": 638811083890000000,
+      "TimeOfDay": "09:19:49",
+      "Year": 2025
+    },
+    "Description": "#studioversion #coachella #ruby #jenchella #jennie \n\njoin my discord server: https://discord.gg/urHfmkGUfY\n\nsupport me financially: https://buymeacoffee.com/diaisblinkr\n\n00:00 Intro\n00:44 Mantra ♡\n03:25 Breakdown\n\n© Copyright Disclaimer: - Under section 107 of the copyright Act 1976, allowance is mad for FAIR USE for purpose such a as criticism, comment, news reporting, teaching, scholarship and research. Fair use is a use permitted by copyright statues that might otherwise be infringing. Non- Profit, educational or personal use tips the balance in favor of FAIR USE.",
+    "Duration": "00:04:35",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/lRQ6MgNtneo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9SsRtHCUI1tIT80LPuxrRsT2UqQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lRQ6MgNtneo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLANssPaphTMYLc5EBGSsj4Bl8BTAA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lRQ6MgNtneo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH3Q0Q5aaNzAGJSBTL_htg2eTRKQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lRQ6MgNtneo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLApLcmhGHB48KscdlSDq8Q_LkrxMQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lRQ6MgNtneo/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lRQ6MgNtneo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lRQ6MgNtneo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lRQ6MgNtneo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1085270,
+      "LikeCount": 11587,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

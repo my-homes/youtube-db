@@ -1,1 +1,107 @@
-{"id":"K4PL_KyBcyQ","title":"梦涵 - 爱的暴风雨 (粤语版)(DJ霄霄版)","file":"梦涵 - 爱的暴风雨 (粤语版)(DJ霄霄版)","author":"当红","duration":"00:03:25"}
+{
+  "id": "K4PL_KyBcyQ",
+  "title": "梦涵 - 爱的暴风雨 (粤语版)(DJ霄霄版)",
+  "author": "当红",
+  "duration": "00:03:25",
+  "detail": {
+    "Id": {
+      "Value": "K4PL_KyBcyQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=K4PL_KyBcyQ",
+    "Title": "梦涵 - 爱的暴风雨 (粤语版)(DJ霄霄版)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCxO4rsLYy1QAer9fZKWLj6A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCxO4rsLYy1QAer9fZKWLj6A",
+      "ChannelTitle": "当红",
+      "Title": "当红"
+    },
+    "UploadDate": {
+      "DateTime": "2021-05-27T15:08:34.0000000",
+      "UtcDateTime": "2021-05-27T22:08:34.0000000Z",
+      "LocalDateTime": "2021-05-28T07:08:34.0000000+09:00",
+      "Date": "2021-05-27T00:00:00.0000000",
+      "Day": 27,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 147,
+      "Hour": 15,
+      "Millisecond": 0,
+      "Minute": 8,
+      "Month": 5,
+      "Offset": "-07:00:00",
+      "Second": 34,
+      "Ticks": 637577249140000000,
+      "UtcTicks": 637577501140000000,
+      "TimeOfDay": "15:08:34",
+      "Year": 2021
+    },
+    "Description": "梦涵 - 爱的暴风雨 (粤语版)(DJ霄霄版)",
+    "Duration": "00:03:25",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/K4PL_KyBcyQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDAgFSh_MA8=&rs=AOn4CLDdEiHyI4CN570t1naLHrAACtThZQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/K4PL_KyBcyQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGDAgFSh_MA8=&rs=AOn4CLBc-KXSwukfgntyJXx95TNoEC3VCQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/K4PL_KyBcyQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgwIBUofzAP&rs=AOn4CLBYwTMlY_2r74-9mlzRDsS7jh1TLw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/K4PL_KyBcyQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgwIBUofzAP&rs=AOn4CLD4oKlFvvcftZowIgzmrpvmhvz8tQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/K4PL_KyBcyQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/K4PL_KyBcyQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/K4PL_KyBcyQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 2321092,
+      "LikeCount": 9072,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

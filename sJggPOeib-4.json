@@ -1,1 +1,115 @@
-{"id":"sJggPOeib-4","title":"Cutie Honey: The Live - Opening (2007)","file":"Cutie Honey： The Live - Opening (2007)","author":"TokuArchive","duration":"00:01:30"}
+{
+  "id": "sJggPOeib-4",
+  "title": "Cutie Honey: The Live - Opening (2007)",
+  "author": "TokuArchive",
+  "duration": "00:01:30",
+  "detail": {
+    "Id": {
+      "Value": "sJggPOeib-4"
+    },
+    "Url": "https://www.youtube.com/watch?v=sJggPOeib-4",
+    "Title": "Cutie Honey: The Live - Opening (2007)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCd2eg8mjHG77x_jNZbjQetA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCd2eg8mjHG77x_jNZbjQetA",
+      "ChannelTitle": "TokuArchive",
+      "Title": "TokuArchive"
+    },
+    "UploadDate": {
+      "DateTime": "2022-07-21T10:20:13.0000000",
+      "UtcDateTime": "2022-07-21T17:20:13.0000000Z",
+      "LocalDateTime": "2022-07-22T02:20:13.0000000+09:00",
+      "Date": "2022-07-21T00:00:00.0000000",
+      "Day": 21,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 202,
+      "Hour": 10,
+      "Millisecond": 0,
+      "Minute": 20,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 13,
+      "Ticks": 637939956130000000,
+      "UtcTicks": 637940208130000000,
+      "TimeOfDay": "10:20:13",
+      "Year": 2022
+    },
+    "Description": "Cutie Honey: The Live (キューティーハニー THE LIVE, Kyūtī Hanī Za Raibu) is a Japanese tokusatsu production of the popular Cutie Honey manga and anime series, chiefly directed by Makoto Yokoyama and written primarily by Toshiki Inoue. It began airing on TV Tokyo on 2 October 2007.",
+    "Duration": "00:01:30",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/sJggPOeib-4/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gICg1MA8=&rs=AOn4CLAoPXo4E_yIElADrd7asypki3YLtQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sJggPOeib-4/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gICg1MA8=&rs=AOn4CLBQ8NbEZ7MHtazSOWBDeNINTk10_A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sJggPOeib-4/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICAoNTAP&rs=AOn4CLBDO7rmVUVQQwbKq_1NhKqVCtex3A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sJggPOeib-4/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_ICAoNTAP&rs=AOn4CLC2tznAhhmcOjAv_-0407QK67p6PQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sJggPOeib-4/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gICg1MA8=&rs=AOn4CLCkThrDGcuD0PHo_mgR3bsiLKO_NA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sJggPOeib-4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sJggPOeib-4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sJggPOeib-4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 34256,
+      "LikeCount": 629,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

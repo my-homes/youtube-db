@@ -1,1 +1,122 @@
-{"id":"zjvwh_GC1MA","title":"CAT’S EYE【杏里】海外男性ボーカルがハードロックにして歌ってみた/AI cover","file":"CAT’S EYE【杏里】海外男性ボーカルがハードロックにして歌ってみた／AI cover","author":"TEN-FIELD","duration":"00:05:16"}
+{
+  "id": "zjvwh_GC1MA",
+  "title": "CAT’S EYE【杏里】海外男性ボーカルがハードロックにして歌ってみた/AI cover",
+  "author": "TEN-FIELD",
+  "duration": "00:05:16",
+  "detail": {
+    "Id": {
+      "Value": "zjvwh_GC1MA"
+    },
+    "Url": "https://www.youtube.com/watch?v=zjvwh_GC1MA",
+    "Title": "CAT’S EYE【杏里】海外男性ボーカルがハードロックにして歌ってみた/AI cover",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCIOlszN3opExD_ZkpLrC1EA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCIOlszN3opExD_ZkpLrC1EA",
+      "ChannelTitle": "TEN-FIELD",
+      "Title": "TEN-FIELD"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-17T02:44:53.0000000",
+      "UtcDateTime": "2026-01-17T10:44:53.0000000Z",
+      "LocalDateTime": "2026-01-17T19:44:53.0000000+09:00",
+      "Date": "2026-01-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 17,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 44,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 53,
+      "Ticks": 639042146930000000,
+      "UtcTicks": 639042434930000000,
+      "TimeOfDay": "02:44:53",
+      "Year": 2026
+    },
+    "Description": "杏里さんの名曲「CAT'S EYE」を海外の男性ボーカルが歌う、ハードロックアレンジのAIカバーです。\n\n🎵CAT'S EYE/杏里\nhttps://www.youtube.com/watch?v=yiUuVRBaCy0\n\n🪶 原曲情報 / Original Song Credits\n作詞：三浦徳子\n作曲：小田裕一郎\n編曲：大谷和夫\n\n🌀 このコンテンツは、オリジナルの原作者・パフォーマーを応援する為に制作しています。\n🌍 This content is created to support the original creators and performers.\n\n🎤 このコンテンツに使用されている楽曲の権利は、すべてオリジナルの原作者・演者に帰属しています。\n🎸 All rights to the music used in this content belong to the original creators and performers.\n\n※本動画は原曲をリスペクトし、独自にアレンジしたAIカバーです。\n\n#ai音楽 #ai動画 #aicover #suno #jpop",
+    "Duration": "00:05:16",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/zjvwh_GC1MA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBdtMJ69-FiIFuK_K44IcX3NTJkTA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zjvwh_GC1MA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDO2xIWxCr1z2h41Fb8qT0aMK-2kg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zjvwh_GC1MA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu9RRey1IpUGGa0OJD4GbZHfob6g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zjvwh_GC1MA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdnzNYBeLyvyqDN-5In91C6L2YPQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zjvwh_GC1MA/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zjvwh_GC1MA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zjvwh_GC1MA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zjvwh_GC1MA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "AI音楽部",
+      "AI音楽生成",
+      "リメイク",
+      "JapanesePop",
+      "JPopRemix",
+      "HardRock"
+    ],
+    "Engagement": {
+      "ViewCount": 15545,
+      "LikeCount": 202,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

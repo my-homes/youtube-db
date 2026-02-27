@@ -1,1 +1,115 @@
-{"id":"UinEbDptLfo","title":"郷ひろみ 【2億4000万の瞳】ーエキゾチック・ジャパンーをAIが歌ってみたら","file":"郷ひろみ 【2億4000万の瞳】ーエキゾチック・ジャパンーをAIが歌ってみたら","author":"Neon Duet Luna and Sun もしもAI","duration":"00:04:00"}
+{
+  "id": "UinEbDptLfo",
+  "title": "郷ひろみ 【2億4000万の瞳】ーエキゾチック・ジャパンーをAIが歌ってみたら",
+  "author": "Neon Duet Luna and Sun もしもAI",
+  "duration": "00:04:00",
+  "detail": {
+    "Id": {
+      "Value": "UinEbDptLfo"
+    },
+    "Url": "https://www.youtube.com/watch?v=UinEbDptLfo",
+    "Title": "郷ひろみ 【2億4000万の瞳】ーエキゾチック・ジャパンーをAIが歌ってみたら",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCRnZUx8RRqB0TFD5S-ajKNQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCRnZUx8RRqB0TFD5S-ajKNQ",
+      "ChannelTitle": "Neon Duet Luna and Sun もしもAI",
+      "Title": "Neon Duet Luna and Sun もしもAI"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-25T05:32:42.0000000",
+      "UtcDateTime": "2025-12-25T13:32:42.0000000Z",
+      "LocalDateTime": "2025-12-25T22:32:42.0000000+09:00",
+      "Date": "2025-12-25T00:00:00.0000000",
+      "Day": 25,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 359,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 32,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 42,
+      "Ticks": 639022375620000000,
+      "UtcTicks": 639022663620000000,
+      "TimeOfDay": "05:32:42",
+      "Year": 2025
+    },
+    "Description": "郷ひろみ 【2億4000万の瞳】ーAI女子がエキゾチック・ジャパンーを歌ってみたら\n#郷ひろみ\n#2億4000万\n#歌謡曲\n#AIcover\n#jpop\n#かわいい\n#メタル\n#metal\n#heavymetal\n#女性シンガー\n#famalevoice",
+    "Duration": "00:04:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/UinEbDptLfo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDb4kdF8uZ8-UjP1asrQg4SLepUyg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/UinEbDptLfo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC4iW-oSdZf8Iv_7LlEmUQkzr4FNg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/UinEbDptLfo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDIXYCAMvVHGuinla4cpnW4EeR9Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/UinEbDptLfo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8JNwC3d6rpzdF7kcjW191pauOvw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/UinEbDptLfo/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/UinEbDptLfo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/UinEbDptLfo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/UinEbDptLfo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 2450,
+      "LikeCount": 27,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

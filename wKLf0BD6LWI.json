@@ -1,1 +1,124 @@
-{"id":"wKLf0BD6LWI","title":"【Snowbreak：Containment Zone MMD／4K／60FPS】「Dancer Tequila」 CELESTIAL SWAN【CHUNG HA - Dream of You】","file":"【Snowbreak：Containment Zone MMD／4K／60FPS】「Dancer Tequila」 CELESTIAL SWAN【CHUNG HA - Dream of You】","author":"咚咚","duration":"00:02:19"}
+{
+  "id": "wKLf0BD6LWI",
+  "title": "【Snowbreak：Containment Zone MMD／4K／60FPS】「Dancer Tequila」 CELESTIAL SWAN【CHUNG HA - Dream of You】",
+  "author": "咚咚",
+  "duration": "00:02:19",
+  "detail": {
+    "Id": {
+      "Value": "wKLf0BD6LWI"
+    },
+    "Url": "https://www.youtube.com/watch?v=wKLf0BD6LWI",
+    "Title": "【Snowbreak：Containment Zone MMD／4K／60FPS】「Dancer Tequila」 CELESTIAL SWAN【CHUNG HA - Dream of You】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC_HKm07aHfXhA-c3PZXjWbQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC_HKm07aHfXhA-c3PZXjWbQ",
+      "ChannelTitle": "咚咚",
+      "Title": "咚咚"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-01T16:52:30.0000000",
+      "UtcDateTime": "2025-06-01T23:52:30.0000000Z",
+      "LocalDateTime": "2025-06-02T08:52:30.0000000+09:00",
+      "Date": "2025-06-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 152,
+      "Hour": 16,
+      "Millisecond": 0,
+      "Minute": 52,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 30,
+      "Ticks": 638843935500000000,
+      "UtcTicks": 638844187500000000,
+      "TimeOfDay": "16:52:30",
+      "Year": 2025
+    },
+    "Description": "Music：CHUNG HA - Dream of You\n\nModel：尘白禁区/神帝宇\n\nStage：泡面fly\n\nmotion：NatsumiSan\n\ncamera：NatsumiSan\n\n#SnowbreakContainmentZone\n#스노우브레이크포비든존 #스노우브레이크\n#スノウブレイク禁域降臨 #スノウブレイク\n#MMD\n#Marian_Andreotti\n#마리안_안드레오티\n#マリアンアンドレオッティ\n#Enya_Murphy #엔야_머피 #エンヤマーフィー\n#Cherno_Kegaaro #체르노_케고르 #チェルノケガーロ\n#Katya_Klein #Katya\n#캐시아_클라인 #캐시아\n#キャシアクライン #キャシア\n#薇蒂雅天鵝座\n#CELESTIAL SWAN",
+    "Duration": "00:02:19",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/wKLf0BD6LWI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB43xswd4IH3xiSTI81RHVpQ-L1_A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wKLf0BD6LWI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAe9ro5d0WgSEVARSf3-AHOOFKORA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wKLf0BD6LWI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD42jwtVvhpMLAEcg04E8rPE1pHQA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wKLf0BD6LWI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAAfdpvSdrqFGcWPtWFoptQschyHw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/wKLf0BD6LWI/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wKLf0BD6LWI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wKLf0BD6LWI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wKLf0BD6LWI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Snowbreak：Containment Zone",
+      "スノウブレイク：禁域降臨",
+      "스노우 브레이크：포비든 존",
+      "MMD",
+      "60FPS",
+      "4K",
+      "BiliBili",
+      "Game"
+    ],
+    "Engagement": {
+      "ViewCount": 82018,
+      "LikeCount": 2398,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

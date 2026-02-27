@@ -1,1 +1,115 @@
-{"id":"1jVhiR-4H2I","title":"亜麻色の髪の乙女 / 島谷ひとみ  AIcover  メタルVer.","file":"亜麻色の髪の乙女 ／ 島谷ひとみ  AIcover  メタルVer.","author":"邦楽カバーチャンネル","duration":"00:04:15"}
+{
+  "id": "1jVhiR-4H2I",
+  "title": "亜麻色の髪の乙女 / 島谷ひとみ  AIcover  メタルVer.",
+  "author": "邦楽カバーチャンネル",
+  "duration": "00:04:15",
+  "detail": {
+    "Id": {
+      "Value": "1jVhiR-4H2I"
+    },
+    "Url": "https://www.youtube.com/watch?v=1jVhiR-4H2I",
+    "Title": "亜麻色の髪の乙女 / 島谷ひとみ  AIcover  メタルVer.",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCenwiMuC97DLAjUL6e_g6lg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCenwiMuC97DLAjUL6e_g6lg",
+      "ChannelTitle": "邦楽カバーチャンネル",
+      "Title": "邦楽カバーチャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-22T02:00:03.0000000",
+      "UtcDateTime": "2026-02-22T10:00:03.0000000Z",
+      "LocalDateTime": "2026-02-22T19:00:03.0000000+09:00",
+      "Date": "2026-02-22T00:00:00.0000000",
+      "Day": 22,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 53,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 3,
+      "Ticks": 639073224030000000,
+      "UtcTicks": 639073512030000000,
+      "TimeOfDay": "02:00:03",
+      "Year": 2026
+    },
+    "Description": "亜麻色の髪の乙女を音楽生成AI Suno AI でカバーしました\nメタル風にアレンジしました",
+    "Duration": "00:04:15",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1jVhiR-4H2I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBgr1z7I46bsJ11bKr2pwz3FYmVIw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1jVhiR-4H2I/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkaDm2xaBNXZeOTarUZxx5pJr-mQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1jVhiR-4H2I/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBNVaqMZ-C-eGTRZfrLLi5NUBz7Wg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1jVhiR-4H2I/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCsQgt2Yl_OFucUH6LBIGbYrROb-Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1jVhiR-4H2I/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1jVhiR-4H2I/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1jVhiR-4H2I/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1jVhiR-4H2I/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1021,
+      "LikeCount": 29,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

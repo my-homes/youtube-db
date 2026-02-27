@@ -1,1 +1,119 @@
-{"id":"5zEzXsXLCkI","title":"女性AIが歌う【新世紀エヴァンゲリオン】残酷な天使のテーゼ - ハードロック風アレンジ","file":"女性AIが歌う【新世紀エヴァンゲリオン】残酷な天使のテーゼ - ハードロック風アレンジ","author":"Luminous Music Channel","duration":"00:04:32"}
+{
+  "id": "5zEzXsXLCkI",
+  "title": "女性AIが歌う【新世紀エヴァンゲリオン】残酷な天使のテーゼ - ハードロック風アレンジ",
+  "author": "Luminous Music Channel",
+  "duration": "00:04:32",
+  "detail": {
+    "Id": {
+      "Value": "5zEzXsXLCkI"
+    },
+    "Url": "https://www.youtube.com/watch?v=5zEzXsXLCkI",
+    "Title": "女性AIが歌う【新世紀エヴァンゲリオン】残酷な天使のテーゼ - ハードロック風アレンジ",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC-2hn9CLJvB5kDFUcbCOaNw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC-2hn9CLJvB5kDFUcbCOaNw",
+      "ChannelTitle": "Luminous Music Channel",
+      "Title": "Luminous Music Channel"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-12T03:00:11.0000000",
+      "UtcDateTime": "2026-02-12T11:00:11.0000000Z",
+      "LocalDateTime": "2026-02-12T20:00:11.0000000+09:00",
+      "Date": "2026-02-12T00:00:00.0000000",
+      "Day": 12,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 43,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 11,
+      "Ticks": 639064620110000000,
+      "UtcTicks": 639064908110000000,
+      "TimeOfDay": "03:00:11",
+      "Year": 2026
+    },
+    "Description": "この動画は生成AIを活用して、AIと共同作成しています。\nリクエストでもらった【残酷な天使のテーゼ】を女性AIに歌わせて、\nオリジナルよりハードロック色を少し強くしました。\n音楽に合わせてカットを切り替える箇所が大変でした・・・\nうぷ主も碇ゲンドウのイメージで出てみました。\n\n【残酷な天使のテーゼ】\n歌手：高橋洋子\n作詞：及川眠子\n作曲：佐藤英敏\n編曲：大森俊之\n\nカバー編曲：SunoAI、D.H\nVo. Gt.：アイ(AI)\nKey.：ミユキ\nBa.：エリ\nDr.：アリサ\n\n#残酷な天使のテーゼ #エヴァンゲリオン #ロック #女性ボーカル #歌ってみた",
+    "Duration": "00:04:32",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/5zEzXsXLCkI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDk9l9IpvBGZRmhmDO9Zfj-hYci4A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5zEzXsXLCkI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCQCC3Mc0_1LT7TahtrVBXvwdK_6g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5zEzXsXLCkI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuEI01rUIELAKlbnlC80wDPhTxHQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5zEzXsXLCkI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7R4-POURjKY_fWUlLxwvHtlZ9-w",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5zEzXsXLCkI/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5zEzXsXLCkI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5zEzXsXLCkI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5zEzXsXLCkI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "新世紀エヴァンゲリオン",
+      "エヴァンゲリオン",
+      "残酷な天使のテーゼ"
+    ],
+    "Engagement": {
+      "ViewCount": 16887,
+      "LikeCount": 241,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

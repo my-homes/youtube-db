@@ -1,1 +1,126 @@
-{"id":"gTaWltSZjkE","title":"【♯169】夜桜お七 ／坂本冬美 cover by 星魚有香","file":"【♯169】夜桜お七 ／坂本冬美 cover by 星魚有香","author":"HeartySmileFactory","duration":"00:05:30"}
+{
+  "id": "gTaWltSZjkE",
+  "title": "【♯169】夜桜お七 ／坂本冬美 cover by 星魚有香",
+  "author": "HeartySmileFactory",
+  "duration": "00:05:30",
+  "detail": {
+    "Id": {
+      "Value": "gTaWltSZjkE"
+    },
+    "Url": "https://www.youtube.com/watch?v=gTaWltSZjkE",
+    "Title": "【♯169】夜桜お七 ／坂本冬美 cover by 星魚有香",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCHopdgi9E7ITEgTimrk_2Fg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCHopdgi9E7ITEgTimrk_2Fg",
+      "ChannelTitle": "HeartySmileFactory",
+      "Title": "HeartySmileFactory"
+    },
+    "UploadDate": {
+      "DateTime": "2024-04-13T23:00:17.0000000",
+      "UtcDateTime": "2024-04-14T06:00:17.0000000Z",
+      "LocalDateTime": "2024-04-14T15:00:17.0000000+09:00",
+      "Date": "2024-04-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 104,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 4,
+      "Offset": "-07:00:00",
+      "Second": 17,
+      "Ticks": 638486460170000000,
+      "UtcTicks": 638486712170000000,
+      "TimeOfDay": "23:00:17",
+      "Year": 2024
+    },
+    "Description": "演歌第3弾はこちら。大好きな曲をこうやって歌えて幸せでございます。\n\n\n\n\n\n*⚙オススメプレイリスト*\n【演歌・歌謡曲】https://www.youtube.com/playlist?list=PLLEooA0sofaQkKAv-yJyeIva3OMLJ6jup\n【1990年代の曲】https://www.youtube.com/playlist?list=PLLEooA0sofaQCZ9M1mpPrET4Qut_fri4q\n【昭和の曲】https://www.youtube.com/playlist?list=PLLEooA0sofaSPC3-60ImhC9PirXHqlAnD\n【人気曲】https://www.youtube.com/playlist?list=PLLEooA0sofaSN_IfU4FASJ41I7IsXKb26\n\n\n\n\n\n⚙歌詞を見たい場合は「字幕をON」にしてみてください♪\n\n\n\n\n\n⚙フォローお待ちしております☆彡\n\n星魚のX(Twitter)\nhttps://x.com/yuka_hoshio\n星魚の絵日記ブログ\nhttp://hsf-yh.com/\n\n\n\n\n\n----------------------------------------------\n【CREDIT】\n原曲：夜桜お七\n歌唱：坂本冬美\n作詞：林あまり\n作曲：三木たかし\n発売：1994年\n\n【COVER PRODUCTION】\nアレンジ・伴奏作成・映像：【S】(Esu)＜Hearty Smile Factory）＞\n歌：星魚有香（Yuka Hoshio）＜Hearty Smile Factory＞\nコーラス：星魚有香\n----------------------------------------------\n#夜桜お七 #坂本冬美 #演歌 #星魚有香が歌う名曲カバー #YukaHoshio #カバー #歌ってみた",
+    "Duration": "00:05:30",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/gTaWltSZjkE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMolXK6Ce5sic9VqVVdqjbQT2nGw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/gTaWltSZjkE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAwnpntsMwz1EZh3XXYlPKZHsQZAQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/gTaWltSZjkE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC44a4G40FqJ-o8LECtlMzM69Rqsw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/gTaWltSZjkE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoiY4lJKbuSZy2lcncM7Wz7r7R-Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/gTaWltSZjkE/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/gTaWltSZjkE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/gTaWltSZjkE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/gTaWltSZjkE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "歌ってみた",
+      "カバー",
+      "불러 보았",
+      "#歌曲視頻",
+      "DTM",
+      "歌い手",
+      "歌うま",
+      "星魚有香",
+      "ハティスマ",
+      "モノクロ"
+    ],
+    "Engagement": {
+      "ViewCount": 5393,
+      "LikeCount": 142,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

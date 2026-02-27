@@ -1,1 +1,115 @@
-{"id":"dC9CH3BXzd8","title":"KARAチャンコールからのSTEP","file":"KARAチャンコールからのSTEP","author":"KARASUKIDAKARA","duration":"00:05:36"}
+{
+  "id": "dC9CH3BXzd8",
+  "title": "KARAチャンコールからのSTEP",
+  "author": "KARASUKIDAKARA",
+  "duration": "00:05:36",
+  "detail": {
+    "Id": {
+      "Value": "dC9CH3BXzd8"
+    },
+    "Url": "https://www.youtube.com/watch?v=dC9CH3BXzd8",
+    "Title": "KARAチャンコールからのSTEP",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC1YwwmlOLLmQl2UWYraWOIw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC1YwwmlOLLmQl2UWYraWOIw",
+      "ChannelTitle": "KARASUKIDAKARA",
+      "Title": "KARASUKIDAKARA"
+    },
+    "UploadDate": {
+      "DateTime": "2014-02-06T03:00:35.0000000",
+      "UtcDateTime": "2014-02-06T11:00:35.0000000Z",
+      "LocalDateTime": "2014-02-06T20:00:35.0000000+09:00",
+      "Date": "2014-02-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 37,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 35,
+      "Ticks": 635272524350000000,
+      "UtcTicks": 635272812350000000,
+      "TimeOfDay": "03:00:35",
+      "Year": 2014
+    },
+    "Description": "STEP from KARA Chan call\nBy : https://twitter.com/shun5_5_5",
+    "Duration": "00:05:36",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/dC9CH3BXzd8/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGG8gQChyMA8=&rs=AOn4CLBUjNlvQv2qp4Y_Z_O2WltM9d9L3g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dC9CH3BXzd8/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGG8gQChyMA8=&rs=AOn4CLDHoNfoHtPKCiA60CBBNWqa6FZI-g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dC9CH3BXzd8/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhvIEAocjAP&rs=AOn4CLAjdi0W6sYrPmjrE5AX2AAlP7M-cA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dC9CH3BXzd8/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhvIEAocjAP&rs=AOn4CLCT-jcU-QNdcDRA0SegvjOCm-fXGw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dC9CH3BXzd8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGG8gQChyMA8=&rs=AOn4CLAgCZCZ7zLR6LCS44248UomGIl8PQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dC9CH3BXzd8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dC9CH3BXzd8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dC9CH3BXzd8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1150937,
+      "LikeCount": 6768,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

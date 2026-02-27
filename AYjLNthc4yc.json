@@ -1,1 +1,115 @@
-{"id":"AYjLNthc4yc","title":"【AIが歌う】初恋/村下孝蔵cover【Synthesizer V】【Leonardo AI】【Creative Reality Studio】","file":"【AIが歌う】初恋／村下孝蔵cover【Synthesizer V】【Leonardo AI】【Creative Reality Studio】","author":"Cookies Lab クッキーズ ラボ","duration":"00:04:20"}
+{
+  "id": "AYjLNthc4yc",
+  "title": "【AIが歌う】初恋/村下孝蔵cover【Synthesizer V】【Leonardo AI】【Creative Reality Studio】",
+  "author": "Cookies Lab クッキーズ ラボ",
+  "duration": "00:04:20",
+  "detail": {
+    "Id": {
+      "Value": "AYjLNthc4yc"
+    },
+    "Url": "https://www.youtube.com/watch?v=AYjLNthc4yc",
+    "Title": "【AIが歌う】初恋/村下孝蔵cover【Synthesizer V】【Leonardo AI】【Creative Reality Studio】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCmrJWjcTn6jclCs4dNp-95w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCmrJWjcTn6jclCs4dNp-95w",
+      "ChannelTitle": "Cookies Lab クッキーズ ラボ",
+      "Title": "Cookies Lab クッキーズ ラボ"
+    },
+    "UploadDate": {
+      "DateTime": "2024-05-31T02:00:08.0000000",
+      "UtcDateTime": "2024-05-31T09:00:08.0000000Z",
+      "LocalDateTime": "2024-05-31T18:00:08.0000000+09:00",
+      "Date": "2024-05-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 152,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 5,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 638527176080000000,
+      "UtcTicks": 638527428080000000,
+      "TimeOfDay": "02:00:08",
+      "Year": 2024
+    },
+    "Description": "初恋\nHatsukoi\n村下孝蔵 cover\nMurashita Kouzo cover\n作詞作曲:村下孝蔵\n\nVocal : Synthesizer V Mai, Ryo AI（歌声合成ソフト）\nBackground image : Leonardo AI（画像生成AI、動画生成AI） , D-ID Creative Reality Studio（動画生成AI）",
+    "Duration": "00:04:20",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/AYjLNthc4yc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBta9nrwvIcni8EkPH4Kugye3kHJQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AYjLNthc4yc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBJej3gdhIL2B3qsmASMXwwoIdHHw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AYjLNthc4yc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1J7zEECzsCSN15xsEncDa6ZVvgA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AYjLNthc4yc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4cqE-0qSyNc4x_e34vMLCq85ulA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AYjLNthc4yc/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AYjLNthc4yc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AYjLNthc4yc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AYjLNthc4yc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 19989,
+      "LikeCount": 174,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

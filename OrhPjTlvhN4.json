@@ -1,1 +1,119 @@
-{"id":"OrhPjTlvhN4","title":"田中れいな 『Rockの定義』","file":"田中れいな 『Rockの定義』","author":"Channel 017","duration":"00:04:00"}
+{
+  "id": "OrhPjTlvhN4",
+  "title": "田中れいな 『Rockの定義』",
+  "author": "Channel 017",
+  "duration": "00:04:00",
+  "detail": {
+    "Id": {
+      "Value": "OrhPjTlvhN4"
+    },
+    "Url": "https://www.youtube.com/watch?v=OrhPjTlvhN4",
+    "Title": "田中れいな 『Rockの定義』",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCS5YEJSO9HqquSPsm9mYHHw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCS5YEJSO9HqquSPsm9mYHHw",
+      "ChannelTitle": "Channel 017",
+      "Title": "Channel 017"
+    },
+    "UploadDate": {
+      "DateTime": "2021-11-30T21:00:08.0000000",
+      "UtcDateTime": "2021-12-01T05:00:08.0000000Z",
+      "LocalDateTime": "2021-12-01T14:00:08.0000000+09:00",
+      "Date": "2021-11-30T00:00:00.0000000",
+      "Day": 30,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 334,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 8,
+      "Ticks": 637739028080000000,
+      "UtcTicks": 637739316080000000,
+      "TimeOfDay": "21:00:08",
+      "Year": 2021
+    },
+    "Description": "#Rockの定義 #田中れいな",
+    "Duration": "00:04:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/OrhPjTlvhN4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAts-NM2OLYNnAPhjbddhYZaRrohg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/OrhPjTlvhN4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDS4nf5whLfHcrCnOGPgnw83i8LcQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/OrhPjTlvhN4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6PZIh223trc-7CSw4E7YOMDTHZg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/OrhPjTlvhN4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLQdMBHM_9g3Excg_nroS-A2r5dg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/OrhPjTlvhN4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/OrhPjTlvhN4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/OrhPjTlvhN4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "モーニング娘。",
+      "モーニング娘",
+      "高橋愛",
+      "新垣里沙",
+      "亀井絵里",
+      "道重さゆみ",
+      "田中れいな",
+      "久住小春",
+      "光井愛佳",
+      "ジュンジュン",
+      "リンリン"
+    ],
+    "Engagement": {
+      "ViewCount": 384277,
+      "LikeCount": 3316,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

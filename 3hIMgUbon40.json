@@ -1,1 +1,107 @@
-{"id":"3hIMgUbon40","title":"田中れいな うどん！うどどん！うどどどどーん！","file":"田中れいな うどん！うどどん！うどどどどーん！","author":"そら豆_田中れいなファン","duration":"00:04:09"}
+{
+  "id": "3hIMgUbon40",
+  "title": "田中れいな うどん！うどどん！うどどどどーん！",
+  "author": "そら豆_田中れいなファン",
+  "duration": "00:04:09",
+  "detail": {
+    "Id": {
+      "Value": "3hIMgUbon40"
+    },
+    "Url": "https://www.youtube.com/watch?v=3hIMgUbon40",
+    "Title": "田中れいな うどん！うどどん！うどどどどーん！",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClN0RRb0CeC6eyUHQi49QjQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClN0RRb0CeC6eyUHQi49QjQ",
+      "ChannelTitle": "そら豆_田中れいなファン",
+      "Title": "そら豆_田中れいなファン"
+    },
+    "UploadDate": {
+      "DateTime": "2023-07-19T05:11:21.0000000",
+      "UtcDateTime": "2023-07-19T12:11:21.0000000Z",
+      "LocalDateTime": "2023-07-19T21:11:21.0000000+09:00",
+      "Date": "2023-07-19T00:00:00.0000000",
+      "Day": 19,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 200,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 11,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 21,
+      "Ticks": 638253402810000000,
+      "UtcTicks": 638253654810000000,
+      "TimeOfDay": "05:11:21",
+      "Year": 2023
+    },
+    "Description": "#田中れいな #ハロプロ #モーニング娘\n元：M-line Music\nhttps://www.youtube.com/watch?v=5F03zUBa2B4",
+    "Duration": "00:04:09",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/3hIMgUbon40/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBggSih_MA8=&rs=AOn4CLBojZI8dxhGOaZeISs7lkslzliVHA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3hIMgUbon40/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGBggSih_MA8=&rs=AOn4CLDm2rZT2qgL7FMh-nrqPG9WG8Zh6Q",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3hIMgUbon40/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgYIEoofzAP&rs=AOn4CLBZslV9rx9lSHZLWinM0I7ZK0ftpg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3hIMgUbon40/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARgYIEoofzAP&rs=AOn4CLCr60NEFI8aHaLXxdpoIKL2vKXzJA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3hIMgUbon40/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3hIMgUbon40/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3hIMgUbon40/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 765,
+      "LikeCount": 7,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,107 @@
-{"id":"6yef1lTzx00","title":"「ラムのラブソング」 松谷祐子 coverd by Hina","file":"「ラムのラブソング」 松谷祐子 coverd by Hina","author":"Hina's Music","duration":"00:03:16"}
+{
+  "id": "6yef1lTzx00",
+  "title": "「ラムのラブソング」 松谷祐子 coverd by Hina",
+  "author": "Hina's Music",
+  "duration": "00:03:16",
+  "detail": {
+    "Id": {
+      "Value": "6yef1lTzx00"
+    },
+    "Url": "https://www.youtube.com/watch?v=6yef1lTzx00",
+    "Title": "「ラムのラブソング」 松谷祐子 coverd by Hina",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCwuZR46x-iklk87R5LsfDMQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCwuZR46x-iklk87R5LsfDMQ",
+      "ChannelTitle": "Hina's Music",
+      "Title": "Hina's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-17T16:38:29.0000000",
+      "UtcDateTime": "2026-01-18T00:38:29.0000000Z",
+      "LocalDateTime": "2026-01-18T09:38:29.0000000+09:00",
+      "Date": "2026-01-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 17,
+      "Hour": 16,
+      "Millisecond": 0,
+      "Minute": 38,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 29,
+      "Ticks": 639042647090000000,
+      "UtcTicks": 639042935090000000,
+      "TimeOfDay": "16:38:29",
+      "Year": 2026
+    },
+    "Description": "#歌ってみた #cover #うる星やつら #ラムのラブソング #アニソン #昭和のアニメ",
+    "Duration": "00:03:16",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/6yef1lTzx00/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCP-i8IM60A9h4HnA5aXG2ImWe4wA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/6yef1lTzx00/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCDuAyMqgJ2ENijfpF0GBgXMABiTg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/6yef1lTzx00/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaKRkZq0igeKHUDLqJ-ODYIxP1Xw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/6yef1lTzx00/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC01D_Nd6eByOcXw4JtYxX9QW6CqQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/6yef1lTzx00/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/6yef1lTzx00/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/6yef1lTzx00/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 161,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

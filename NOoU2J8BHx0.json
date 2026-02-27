@@ -1,1 +1,115 @@
-{"id":"NOoU2J8BHx0","title":"「タイガーマスク」ＯＰ英語版【歌ってみた】","file":"「タイガーマスク」ＯＰ英語版【歌ってみた】","author":"諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music","duration":"00:02:04"}
+{
+  "id": "NOoU2J8BHx0",
+  "title": "「タイガーマスク」ＯＰ英語版【歌ってみた】",
+  "author": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+  "duration": "00:02:04",
+  "detail": {
+    "Id": {
+      "Value": "NOoU2J8BHx0"
+    },
+    "Url": "https://www.youtube.com/watch?v=NOoU2J8BHx0",
+    "Title": "「タイガーマスク」ＯＰ英語版【歌ってみた】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCnCvNHeOHpMyKQ4A47nQ8FQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCnCvNHeOHpMyKQ4A47nQ8FQ",
+      "ChannelTitle": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+      "Title": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2024-11-01T17:46:54.0000000",
+      "UtcDateTime": "2024-11-02T00:46:54.0000000Z",
+      "LocalDateTime": "2024-11-02T09:46:54.0000000+09:00",
+      "Date": "2024-11-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 306,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 46,
+      "Month": 11,
+      "Offset": "-07:00:00",
+      "Second": 54,
+      "Ticks": 638660800140000000,
+      "UtcTicks": 638661052140000000,
+      "TimeOfDay": "17:46:54",
+      "Year": 2024
+    },
+    "Description": "Lyrics English Translation　by DANN\n\nThere is a match on white ring.\nIt's like a jungle where they fight.\nIn the midst of a Raging Storm. \nThe wild fight goes on.\n\nNo fair rules apply to them.\nHis righteous punch can end this match.\nGo fight, and fight. Tiger!\nThe Tiger Mask you are.\n\nIt's surrounded by three ropes.\nIt's like a jungle where they fight.\nA roaring sound of vulgar rogues.\nThey are like wild beasts.\n\nHis striped gown flies in the wind.\nBreak their fangs with your mighty arms.\nGo fight, and fight. Tiger!\nThe Tiger Mask you are.\n\nThere is no grass or trees there.\nIt's like a jungle where they fight.\nA scary trap awaiting him.\nA Shadow of Grim Reaper.\n\nWith fair play. That's his belief\nShow those rogues what a man's mettle is.\nGo fight, and fight. Tiger!\nThe Tiger Mask you are.",
+    "Duration": "00:02:04",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/NOoU2J8BHx0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-MQNZihVVmW4oQUDYqBGoPL0plA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NOoU2J8BHx0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDN7vIdZFoYT6FjHgKNuOTbTOaB8w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NOoU2J8BHx0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD1RAornLVa7KX4Mk5e-Bmt-dWuZg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NOoU2J8BHx0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMKHcI4U3w8K_NJWXO9HQC7f1HsA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/NOoU2J8BHx0/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NOoU2J8BHx0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NOoU2J8BHx0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NOoU2J8BHx0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 23246,
+      "LikeCount": 495,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

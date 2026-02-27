@@ -1,1 +1,124 @@
-{"id":"brHDs7BDZ5Y","title":"Come Over - LE SSERAFIM (르세라핌) [뮤직뱅크/Music Bank] | KBS 250314 방송","file":"Come Over - LE SSERAFIM (르세라핌) [뮤직뱅크／Music Bank] ｜ KBS 250314 방송","author":"KBS Kpop","duration":"00:02:25"}
+{
+  "id": "brHDs7BDZ5Y",
+  "title": "Come Over - LE SSERAFIM (르세라핌) [뮤직뱅크/Music Bank] | KBS 250314 방송",
+  "author": "KBS Kpop",
+  "duration": "00:02:25",
+  "detail": {
+    "Id": {
+      "Value": "brHDs7BDZ5Y"
+    },
+    "Url": "https://www.youtube.com/watch?v=brHDs7BDZ5Y",
+    "Title": "Come Over - LE SSERAFIM (르세라핌) [뮤직뱅크/Music Bank] | KBS 250314 방송",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCeLPm9yH_a_QH8n6445G-Ow"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCeLPm9yH_a_QH8n6445G-Ow",
+      "ChannelTitle": "KBS Kpop",
+      "Title": "KBS Kpop"
+    },
+    "UploadDate": {
+      "DateTime": "2025-03-14T02:25:32.0000000",
+      "UtcDateTime": "2025-03-14T09:25:32.0000000Z",
+      "LocalDateTime": "2025-03-14T18:25:32.0000000+09:00",
+      "Date": "2025-03-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 73,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 25,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 32,
+      "Ticks": 638775159320000000,
+      "UtcTicks": 638775411320000000,
+      "TimeOfDay": "02:25:32",
+      "Year": 2025
+    },
+    "Description": "Come Over - LE SSERAFIM (르세라핌)\nKBS2 TV 뮤직뱅크｜매주 금요일 오후 5시 05분에 방송됩니다.\n\nCopyright ⓒ KBS. All rights reserved. 무단 전재, 재배포 및 이용(AI 학습 포함) 금지\n\n#ComeOver #LESSERAFIM #르세라핌 #뮤직뱅크 #가요 #가수 #음악 #케이팝 #MusicBank \n\n----------------------------------------------\n        ▶ Homepage : https://www.kbs.co.kr/\n        ▶ Wavve : https://www.wavve.com/\n        ▶ Youtube : https://www.youtube.com/KBSKpop\n----------------------------------------------",
+    "Duration": "00:02:25",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/brHDs7BDZ5Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAOqbmYo6qERHHqCGyfOHCY521geQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/brHDs7BDZ5Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDjFw97kLLEOsdz5nMeT4Fd_J2dcw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/brHDs7BDZ5Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDcPwvK6BIYjqwUMu19uINDGvQhg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/brHDs7BDZ5Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw_dEWRsSeSqJ2LMjwz2VQgqYLDA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/brHDs7BDZ5Y/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/brHDs7BDZ5Y/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/brHDs7BDZ5Y/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/brHDs7BDZ5Y/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Come Over",
+      "LE SSERAFIM",
+      "르세라핌",
+      "뮤직뱅크",
+      "가요",
+      "가수",
+      "음악",
+      "케이팝"
+    ],
+    "Engagement": {
+      "ViewCount": 2441284,
+      "LikeCount": 47292,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

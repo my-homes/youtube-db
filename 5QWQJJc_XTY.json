@@ -1,1 +1,137 @@
-{"id":"5QWQJJc_XTY","title":"Zのテーマ (アレンジ) マジンガーZ挿入歌","file":"Zのテーマ (アレンジ) マジンガーZ挿入歌","author":"カバmusic","duration":"00:02:11"}
+{
+  "id": "5QWQJJc_XTY",
+  "title": "Zのテーマ (アレンジ) マジンガーZ挿入歌",
+  "author": "カバmusic",
+  "duration": "00:02:11",
+  "detail": {
+    "Id": {
+      "Value": "5QWQJJc_XTY"
+    },
+    "Url": "https://www.youtube.com/watch?v=5QWQJJc_XTY",
+    "Title": "Zのテーマ (アレンジ) マジンガーZ挿入歌",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCIRatQwjbaOGZnhanEsyIWw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCIRatQwjbaOGZnhanEsyIWw",
+      "ChannelTitle": "カバmusic",
+      "Title": "カバmusic"
+    },
+    "UploadDate": {
+      "DateTime": "2023-12-27T15:20:45.0000000",
+      "UtcDateTime": "2023-12-27T23:20:45.0000000Z",
+      "LocalDateTime": "2023-12-28T08:20:45.0000000+09:00",
+      "Date": "2023-12-27T00:00:00.0000000",
+      "Day": 27,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 361,
+      "Hour": 15,
+      "Millisecond": 0,
+      "Minute": 20,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 45,
+      "Ticks": 638392872450000000,
+      "UtcTicks": 638393160450000000,
+      "TimeOfDay": "15:20:45",
+      "Year": 2023
+    },
+    "Description": "マジンガーZの挿入歌「Zのテーマ」をSynthesizerV(歌声合成ソフト)でカバーしました。\n画像は、ロケットパンチ（開発中）の想像図を生成AIに描いてもらった。",
+    "Duration": "00:02:11",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/5QWQJJc_XTY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBQWuGPLc881PJAimEHvpU2wELYGw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5QWQJJc_XTY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLzJ0R7WnoIAY-aKD6HG0E_TH11A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5QWQJJc_XTY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLANlewT_EFNbXHm1wVR-CijvWsuXA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5QWQJJc_XTY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDkGnW1XU3cE4qT-4irQBkQ4S9l7A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5QWQJJc_XTY/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5QWQJJc_XTY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5QWQJJc_XTY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5QWQJJc_XTY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "#DTM",
+      "マジンガーZ",
+      "水木一郎",
+      "Mazinger Z",
+      "Ichiro Mizuki",
+      "ひろみちゃんねる",
+      "カバー",
+      "cover",
+      "歌ってみた",
+      "アニソン",
+      "アニメ主題歌",
+      "anime",
+      "カラオケ",
+      "KARAOKE",
+      "女性が歌う",
+      "ロボットアニメ",
+      "アニキ",
+      "しらスタ",
+      "しょこたん",
+      "中川翔子",
+      "hiro3nimum"
+    ],
+    "Engagement": {
+      "ViewCount": 32168,
+      "LikeCount": 334,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

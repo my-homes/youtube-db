@@ -1,1 +1,115 @@
-{"id":"iqMjYOxMecw","title":"夜蝶 SHY48 关思雨 龚梦婷 叶锦童 王睿琦 20171118","file":"夜蝶 SHY48 关思雨 龚梦婷 叶锦童 王睿琦 20171118","author":"prn","duration":"00:03:58"}
+{
+  "id": "iqMjYOxMecw",
+  "title": "夜蝶 SHY48 关思雨 龚梦婷 叶锦童 王睿琦 20171118",
+  "author": "prn",
+  "duration": "00:03:58",
+  "detail": {
+    "Id": {
+      "Value": "iqMjYOxMecw"
+    },
+    "Url": "https://www.youtube.com/watch?v=iqMjYOxMecw",
+    "Title": "夜蝶 SHY48 关思雨 龚梦婷 叶锦童 王睿琦 20171118",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCDhsDq3Tc7wXMBLMw07j_gg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCDhsDq3Tc7wXMBLMw07j_gg",
+      "ChannelTitle": "prn",
+      "Title": "prn"
+    },
+    "UploadDate": {
+      "DateTime": "2017-11-17T23:56:29.0000000",
+      "UtcDateTime": "2017-11-18T07:56:29.0000000Z",
+      "LocalDateTime": "2017-11-18T16:56:29.0000000+09:00",
+      "Date": "2017-11-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 321,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 56,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 29,
+      "Ticks": 636465597890000000,
+      "UtcTicks": 636465885890000000,
+      "TimeOfDay": "23:56:29",
+      "Year": 2017
+    },
+    "Description": "王睿琦微博 https://weibo.com/6226757995/FvFlM1KrS\n龚梦婷微博 https://weibo.com/6228187615/FvFx45n9y\n#SHY48",
+    "Duration": "00:03:58",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/iqMjYOxMecw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAK7JENS3okoT6ewqLfYum2q3cNDA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iqMjYOxMecw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB209rtVZyMg8rehhKCRegQEwUYQg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iqMjYOxMecw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCcRSUIOlfq4zLaICBNFCjbY4taXg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iqMjYOxMecw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDLb_CkqAneyLYkw-5SPchGuggMOQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/iqMjYOxMecw/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iqMjYOxMecw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iqMjYOxMecw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iqMjYOxMecw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 474494,
+      "LikeCount": 6245,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

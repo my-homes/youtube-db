@@ -1,1 +1,115 @@
-{"id":"lwc48L-Me14","title":"松坂慶子  愛の水中花","file":"松坂慶子  愛の水中花","author":"clubkano1","duration":"00:02:55"}
+{
+  "id": "lwc48L-Me14",
+  "title": "松坂慶子  愛の水中花",
+  "author": "clubkano1",
+  "duration": "00:02:55",
+  "detail": {
+    "Id": {
+      "Value": "lwc48L-Me14"
+    },
+    "Url": "https://www.youtube.com/watch?v=lwc48L-Me14",
+    "Title": "松坂慶子  愛の水中花",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCN1TPYqa5m6jb4H4H5RDA8Q"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCN1TPYqa5m6jb4H4H5RDA8Q",
+      "ChannelTitle": "clubkano1",
+      "Title": "clubkano1"
+    },
+    "UploadDate": {
+      "DateTime": "2022-06-13T04:16:17.0000000",
+      "UtcDateTime": "2022-06-13T11:16:17.0000000Z",
+      "LocalDateTime": "2022-06-13T20:16:17.0000000+09:00",
+      "Date": "2022-06-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 164,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 16,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 17,
+      "Ticks": 637906905770000000,
+      "UtcTicks": 637907157770000000,
+      "TimeOfDay": "04:16:17",
+      "Year": 2022
+    },
+    "Description": "",
+    "Duration": "00:02:55",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/lwc48L-Me14/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACygWKAgwIABABGGUgVShVMA8=&rs=AOn4CLA-qGt-hPZyPxh0oZMLYUYp6Dht4Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lwc48L-Me14/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYACygWKAgwIABABGGUgVShVMA8=&rs=AOn4CLDG8HN4FnOf5WGOCbV5UQ36tlY0mA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lwc48L-Me14/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAsoFigIMCAAQARhlIFUoVTAP&rs=AOn4CLBd_87bnwvbxhNUz02irGqpQAjsSg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lwc48L-Me14/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAsoFigIMCAAQARhlIFUoVTAP&rs=AOn4CLB7C05DDUtLmbBAu_c1z0pcemi-Bw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lwc48L-Me14/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYACygWKAgwIABABGGUgVShVMA8=&rs=AOn4CLCipmX1weh0Uww3_ryFy8MV1Az05w",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lwc48L-Me14/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lwc48L-Me14/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lwc48L-Me14/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 141241,
+      "LikeCount": 1382,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

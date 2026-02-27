@@ -1,1 +1,115 @@
-{"id":"J-Am0q4eKQw","title":"氷雨　宴　八代亜紀","file":"氷雨 宴 八代亜紀","author":"shira iwa","duration":"00:03:39"}
+{
+  "id": "J-Am0q4eKQw",
+  "title": "氷雨　宴　八代亜紀",
+  "author": "shira iwa",
+  "duration": "00:03:39",
+  "detail": {
+    "Id": {
+      "Value": "J-Am0q4eKQw"
+    },
+    "Url": "https://www.youtube.com/watch?v=J-Am0q4eKQw",
+    "Title": "氷雨　宴　八代亜紀",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCGpab8kZLvOfhmyfTSxyinQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCGpab8kZLvOfhmyfTSxyinQ",
+      "ChannelTitle": "shira iwa",
+      "Title": "shira iwa"
+    },
+    "UploadDate": {
+      "DateTime": "2020-02-14T07:23:54.0000000",
+      "UtcDateTime": "2020-02-14T15:23:54.0000000Z",
+      "LocalDateTime": "2020-02-15T00:23:54.0000000+09:00",
+      "Date": "2020-02-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 45,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 23,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 54,
+      "Ticks": 637172618340000000,
+      "UtcTicks": 637172906340000000,
+      "TimeOfDay": "07:23:54",
+      "Year": 2020
+    },
+    "Description": "氷雨　宴（元唄住山明生）　八代亜紀",
+    "Duration": "00:03:39",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/J-Am0q4eKQw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAqVD_X2_NitrvikTwUTcl7DJboww",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J-Am0q4eKQw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPfFu7U7a2pZAwyikODdtMB7USMQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J-Am0q4eKQw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB0GDfwF_vdXVH4iPHrqWFEfx55Iw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J-Am0q4eKQw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBI1YfSUHA26QAVJQWwa1wWTBsf6w",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J-Am0q4eKQw/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/J-Am0q4eKQw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/J-Am0q4eKQw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/J-Am0q4eKQw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1279374,
+      "LikeCount": 3483,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

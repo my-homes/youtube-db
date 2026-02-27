@@ -1,1 +1,115 @@
-{"id":"kfM1R0o0KFg","title":"山本結月 (Yuzuki Yamamoto)「火の鳥」/ 2025.06.08 / 東京アイドル劇場 / TOKYO IDOL GEKIJO / 縦動画","file":"山本結月 (Yuzuki Yamamoto)「火の鳥」／ 2025.06.08 ／ 東京アイドル劇場 ／ TOKYO IDOL GEKIJO ／ 縦動画","author":"とりおの応援チャンネル","duration":"00:04:46"}
+{
+  "id": "kfM1R0o0KFg",
+  "title": "山本結月 (Yuzuki Yamamoto)「火の鳥」/ 2025.06.08 / 東京アイドル劇場 / TOKYO IDOL GEKIJO / 縦動画",
+  "author": "とりおの応援チャンネル",
+  "duration": "00:04:46",
+  "detail": {
+    "Id": {
+      "Value": "kfM1R0o0KFg"
+    },
+    "Url": "https://www.youtube.com/watch?v=kfM1R0o0KFg",
+    "Title": "山本結月 (Yuzuki Yamamoto)「火の鳥」/ 2025.06.08 / 東京アイドル劇場 / TOKYO IDOL GEKIJO / 縦動画",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCxqsJRa3Yz1J2L6f5i4nFgw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCxqsJRa3Yz1J2L6f5i4nFgw",
+      "ChannelTitle": "とりおの応援チャンネル",
+      "Title": "とりおの応援チャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-11T19:45:08.0000000",
+      "UtcDateTime": "2025-06-12T02:45:08.0000000Z",
+      "LocalDateTime": "2025-06-12T11:45:08.0000000+09:00",
+      "Date": "2025-06-11T00:00:00.0000000",
+      "Day": 11,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 162,
+      "Hour": 19,
+      "Millisecond": 0,
+      "Minute": 45,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 638852679080000000,
+      "UtcTicks": 638852931080000000,
+      "TimeOfDay": "19:45:08",
+      "Year": 2025
+    },
+    "Description": "2025.06.08 (sun) 東京アイドル劇場 / TOKYO IDOL GEKIJO\nソロスペ + デュオスペ + ダンチャレ / Solo Special + Duo Special + Dance Challenging\n山本結月ちゃん (Yuzuki Yamamoto)「火の鳥」",
+    "Duration": "00:04:46",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/kfM1R0o0KFg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBG6f4eZUUmratIxGlzEM4DUvtsMQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kfM1R0o0KFg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBlRUkNtfIjP-6gLXGWith8vghFtQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kfM1R0o0KFg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDSBI6tmB--PyGDIJOWx9ANrjzKmA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kfM1R0o0KFg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNRxozQo8klc9CSnADegGr9zoiEg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/kfM1R0o0KFg/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kfM1R0o0KFg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kfM1R0o0KFg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kfM1R0o0KFg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 464,
+      "LikeCount": 34,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

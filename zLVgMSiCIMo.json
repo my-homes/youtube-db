@@ -1,1 +1,115 @@
-{"id":"zLVgMSiCIMo","title":"aespa 에스파 'ROWDY' MV (AI Generated)","file":"aespa 에스파 ’ROWDY’ MV (AI Generated)","author":"sharkspears","duration":"00:03:17"}
+{
+  "id": "zLVgMSiCIMo",
+  "title": "aespa 에스파 'ROWDY' MV (AI Generated)",
+  "author": "sharkspears",
+  "duration": "00:03:17",
+  "detail": {
+    "Id": {
+      "Value": "zLVgMSiCIMo"
+    },
+    "Url": "https://www.youtube.com/watch?v=zLVgMSiCIMo",
+    "Title": "aespa 에스파 'ROWDY' MV (AI Generated)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCq9aLrxD3CxS32aySwcFyVg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCq9aLrxD3CxS32aySwcFyVg",
+      "ChannelTitle": "sharkspears",
+      "Title": "sharkspears"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-27T20:11:15.0000000",
+      "UtcDateTime": "2025-12-28T04:11:15.0000000Z",
+      "LocalDateTime": "2025-12-28T13:11:15.0000000+09:00",
+      "Date": "2025-12-27T00:00:00.0000000",
+      "Day": 27,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 361,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 11,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 15,
+      "Ticks": 639024630750000000,
+      "UtcTicks": 639024918750000000,
+      "TimeOfDay": "20:11:15",
+      "Year": 2025
+    },
+    "Description": "Presenting a fan-made AI concept for aespa's new track 'ROWDY'. Featuring a dark industrial concept, heavy 808s, and a high-note battle between Winter and Ningning.\n\n⚠️ Content Warning: This video contains artistic depictions of combat.\n\nCredits: \nMusic & Vocals: SUNO AI V5\nVisuals: AI Video Generation + aespa previous MVs\nConcept: sharkspears\n\nTags: #aespa #에스파 #ROWDY #Karina #Giselle #Winter #Ningning #AIKpop #KpopMV #Savage #Girls #Drama #Supernova",
+    "Duration": "00:03:17",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/zLVgMSiCIMo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCtLeCdhffq9MMHgsx0nrtg8exmSg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zLVgMSiCIMo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnn0nMbF094clDOQLG0N6tKHtmEw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zLVgMSiCIMo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJ7uoaWpMwus8ODw6Ei3NQb0ZmBQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zLVgMSiCIMo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOqiolJAazHXCAtd5HvcFadGRBGw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/zLVgMSiCIMo/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zLVgMSiCIMo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zLVgMSiCIMo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zLVgMSiCIMo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 61546,
+      "LikeCount": 1310,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,107 @@
-{"id":"0lnDsgittgw","title":"田中れいな「ひとりで生きられそう」って それってねえ、褒めているの？","file":"田中れいな「ひとりで生きられそう」って それってねえ、褒めているの？","author":"そら豆_田中れいなファン","duration":"00:03:31"}
+{
+  "id": "0lnDsgittgw",
+  "title": "田中れいな「ひとりで生きられそう」って それってねえ、褒めているの？",
+  "author": "そら豆_田中れいなファン",
+  "duration": "00:03:31",
+  "detail": {
+    "Id": {
+      "Value": "0lnDsgittgw"
+    },
+    "Url": "https://www.youtube.com/watch?v=0lnDsgittgw",
+    "Title": "田中れいな「ひとりで生きられそう」って それってねえ、褒めているの？",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClN0RRb0CeC6eyUHQi49QjQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClN0RRb0CeC6eyUHQi49QjQ",
+      "ChannelTitle": "そら豆_田中れいなファン",
+      "Title": "そら豆_田中れいなファン"
+    },
+    "UploadDate": {
+      "DateTime": "2023-07-17T01:07:10.0000000",
+      "UtcDateTime": "2023-07-17T08:07:10.0000000Z",
+      "LocalDateTime": "2023-07-17T17:07:10.0000000+09:00",
+      "Date": "2023-07-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 198,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 7,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 10,
+      "Ticks": 638251528300000000,
+      "UtcTicks": 638251780300000000,
+      "TimeOfDay": "01:07:10",
+      "Year": 2023
+    },
+    "Description": "#田中れいな #ハロプロ #モーニング娘\nもと:【M-line Music#31】\nhttps://www.youtube.com/watch?v=JQdgkF_tFuY&t=736s",
+    "Duration": "00:03:31",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/0lnDsgittgw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbvBXs5EKlk3WTmyBO-gCfrqv7vw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0lnDsgittgw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8LLnLZtR8PdTSkxirixuU978xvQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0lnDsgittgw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5qOWp4aewqjbobtj8_lB4R7i6Ow",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0lnDsgittgw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCk8TVJDOligFIYu-GzjA_hGLz2CQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0lnDsgittgw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0lnDsgittgw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0lnDsgittgw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 9196,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

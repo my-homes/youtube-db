@@ -1,1 +1,115 @@
-{"id":"3rfBxtoW2Rg","title":"Water #aigirl #aiartmodellookbook #aiart #aiartwork #aiartist #framepack","file":"Water ＃aigirl ＃aiartmodellookbook ＃aiart ＃aiartwork ＃aiartist ＃framepack","author":"fuserelax","duration":"00:02:05"}
+{
+  "id": "3rfBxtoW2Rg",
+  "title": "Water #aigirl #aiartmodellookbook #aiart #aiartwork #aiartist #framepack",
+  "author": "fuserelax",
+  "duration": "00:02:05",
+  "detail": {
+    "Id": {
+      "Value": "3rfBxtoW2Rg"
+    },
+    "Url": "https://www.youtube.com/watch?v=3rfBxtoW2Rg",
+    "Title": "Water #aigirl #aiartmodellookbook #aiart #aiartwork #aiartist #framepack",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCQLn21lFm4nQn35KUqO9dsA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCQLn21lFm4nQn35KUqO9dsA",
+      "ChannelTitle": "fuserelax",
+      "Title": "fuserelax"
+    },
+    "UploadDate": {
+      "DateTime": "2025-05-19T02:30:04.0000000",
+      "UtcDateTime": "2025-05-19T09:30:04.0000000Z",
+      "LocalDateTime": "2025-05-19T18:30:04.0000000+09:00",
+      "Date": "2025-05-19T00:00:00.0000000",
+      "Day": 19,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 139,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 5,
+      "Offset": "-07:00:00",
+      "Second": 4,
+      "Ticks": 638832186040000000,
+      "UtcTicks": 638832438040000000,
+      "TimeOfDay": "02:30:04",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:02:05",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/3rfBxtoW2Rg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAIteakWIPj323krPYl822fQ5DS3g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3rfBxtoW2Rg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDcQrLzAXvUFV6vzg6-XTWpaf-vpA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3rfBxtoW2Rg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBagwsKjz0FVDWzMncO8mXyOKW_MQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3rfBxtoW2Rg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCB3mYa27Srn3tDdP8Wa-aXi7kMdw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/3rfBxtoW2Rg/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3rfBxtoW2Rg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3rfBxtoW2Rg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3rfBxtoW2Rg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 338984,
+      "LikeCount": 2603,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

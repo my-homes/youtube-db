@@ -1,1 +1,115 @@
-{"id":"0Br3X1DczFE","title":"田中れいな 春恋歌","file":"田中れいな 春恋歌","author":"そら豆_田中れいなファン","duration":"00:04:34"}
+{
+  "id": "0Br3X1DczFE",
+  "title": "田中れいな 春恋歌",
+  "author": "そら豆_田中れいなファン",
+  "duration": "00:04:34",
+  "detail": {
+    "Id": {
+      "Value": "0Br3X1DczFE"
+    },
+    "Url": "https://www.youtube.com/watch?v=0Br3X1DczFE",
+    "Title": "田中れいな 春恋歌",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClN0RRb0CeC6eyUHQi49QjQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClN0RRb0CeC6eyUHQi49QjQ",
+      "ChannelTitle": "そら豆_田中れいなファン",
+      "Title": "そら豆_田中れいなファン"
+    },
+    "UploadDate": {
+      "DateTime": "2023-07-25T04:15:54.0000000",
+      "UtcDateTime": "2023-07-25T11:15:54.0000000Z",
+      "LocalDateTime": "2023-07-25T20:15:54.0000000+09:00",
+      "Date": "2023-07-25T00:00:00.0000000",
+      "Day": 25,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 206,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 15,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 54,
+      "Ticks": 638258553540000000,
+      "UtcTicks": 638258805540000000,
+      "TimeOfDay": "04:15:54",
+      "Year": 2023
+    },
+    "Description": "元：M-line Music#33",
+    "Duration": "00:04:34",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/0Br3X1DczFE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQShaMA8=&rs=AOn4CLC9RoWaJALCS4T-qV6imI9F2gScAw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0Br3X1DczFE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQShaMA8=&rs=AOn4CLDRRcx6UrzCuJBLLZYVl7hjpSnYeQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0Br3X1DczFE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEEoWjAP&rs=AOn4CLDQ9_OWAV6AJO42a_SqeGHUXnTt4Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0Br3X1DczFE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEEoWjAP&rs=AOn4CLDPzpM2epTMBQf8I7D4DnYCBgAPUw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0Br3X1DczFE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQShaMA8=&rs=AOn4CLCk6XrLa2XztNv6Mc_b2Vh4krpWDA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0Br3X1DczFE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0Br3X1DczFE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0Br3X1DczFE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 4728,
+      "LikeCount": 72,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

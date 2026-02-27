@@ -1,1 +1,114 @@
-{"id":"dFt9OyUmj5w","title":"やけに気合いの入った『バビル2世』 #歌ってみた","file":"やけに気合いの入った『バビル2世』 ＃歌ってみた","author":"わたぬきかなのヲタク部屋","duration":"00:02:20"}
+{
+  "id": "dFt9OyUmj5w",
+  "title": "やけに気合いの入った『バビル2世』 #歌ってみた",
+  "author": "わたぬきかなのヲタク部屋",
+  "duration": "00:02:20",
+  "detail": {
+    "Id": {
+      "Value": "dFt9OyUmj5w"
+    },
+    "Url": "https://www.youtube.com/watch?v=dFt9OyUmj5w",
+    "Title": "やけに気合いの入った『バビル2世』 #歌ってみた",
+    "Author": {
+      "ChannelId": {
+        "Value": "UChgBqeh4ouhhuQDlEdr1YEw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UChgBqeh4ouhhuQDlEdr1YEw",
+      "ChannelTitle": "わたぬきかなのヲタク部屋",
+      "Title": "わたぬきかなのヲタク部屋"
+    },
+    "UploadDate": {
+      "DateTime": "2023-07-31T05:37:01.0000000",
+      "UtcDateTime": "2023-07-31T12:37:01.0000000Z",
+      "LocalDateTime": "2023-07-31T21:37:01.0000000+09:00",
+      "Date": "2023-07-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 212,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 37,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 1,
+      "Ticks": 638263786210000000,
+      "UtcTicks": 638264038210000000,
+      "TimeOfDay": "05:37:01",
+      "Year": 2023
+    },
+    "Description": "カラオケの十八番ですね。\nやけに自信満々に歌っています。ウケる。\n\n『カラオケ歌っちゃ王』さんから音源お借りしました。\nhttps://youtu.be/z7Q45_CGLWQ",
+    "Duration": "00:02:20",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/dFt9OyUmj5w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDoLmrocYSPediCQn-4npvG0qKJlw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dFt9OyUmj5w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAHclaXq3Z8o1cPA3JgzqmJJT-5lg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dFt9OyUmj5w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA7ePwCXdYv6Ue9GsC_Nibd3XH0wQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dFt9OyUmj5w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBrjatJooawCOFfByvOk8J6k-U8ZA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dFt9OyUmj5w/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dFt9OyUmj5w/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dFt9OyUmj5w/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "バビル2世",
+      "歌ってみた",
+      "うたってみた",
+      "沖縄",
+      "タレント",
+      "わたぬきかな"
+    ],
+    "Engagement": {
+      "ViewCount": 25540,
+      "LikeCount": 301,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

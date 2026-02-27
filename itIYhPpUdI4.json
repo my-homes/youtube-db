@@ -1,1 +1,122 @@
-{"id":"itIYhPpUdI4","title":"榊原ねね「Chase the Chance／安室奈美恵」東京アイドル劇場@高田馬場BSホール 2025年6月8日","file":"榊原ねね「Chase the Chance／安室奈美恵」東京アイドル劇場@高田馬場BSホール 2025年6月8日","author":"dmsn216","duration":"00:04:52"}
+{
+  "id": "itIYhPpUdI4",
+  "title": "榊原ねね「Chase the Chance／安室奈美恵」東京アイドル劇場@高田馬場BSホール 2025年6月8日",
+  "author": "dmsn216",
+  "duration": "00:04:52",
+  "detail": {
+    "Id": {
+      "Value": "itIYhPpUdI4"
+    },
+    "Url": "https://www.youtube.com/watch?v=itIYhPpUdI4",
+    "Title": "榊原ねね「Chase the Chance／安室奈美恵」東京アイドル劇場@高田馬場BSホール 2025年6月8日",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCr4yokYFhY1RmN08GS6gBJw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCr4yokYFhY1RmN08GS6gBJw",
+      "ChannelTitle": "dmsn216",
+      "Title": "dmsn216"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-13T05:01:29.0000000",
+      "UtcDateTime": "2025-06-13T12:01:29.0000000Z",
+      "LocalDateTime": "2025-06-13T21:01:29.0000000+09:00",
+      "Date": "2025-06-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 164,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 29,
+      "Ticks": 638853876890000000,
+      "UtcTicks": 638854128890000000,
+      "TimeOfDay": "05:01:29",
+      "Year": 2025
+    },
+    "Description": "2025年6月8日 東京アイドル劇場 ソロスペ+デュオスペ+ダンチャレより\n#榊原ねね #Nene #アイゲキ",
+    "Duration": "00:04:52",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/itIYhPpUdI4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBtEAmWa0HcOKoVCmYik4Da73IMBA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/itIYhPpUdI4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDmqtqHYN8ym8LY8tN2tO68GmBOfg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/itIYhPpUdI4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY7r1kpPnWFplIUDze5ue5iYtQSQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/itIYhPpUdI4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKUrVCO3XP3VNTdWanfSSmUDnZIw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/itIYhPpUdI4/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/itIYhPpUdI4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/itIYhPpUdI4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/itIYhPpUdI4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "jpop",
+      "japanese",
+      "Tokyo",
+      "IDOL",
+      "performance",
+      "dance"
+    ],
+    "Engagement": {
+      "ViewCount": 1550,
+      "LikeCount": 56,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

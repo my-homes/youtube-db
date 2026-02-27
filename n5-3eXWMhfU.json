@@ -1,1 +1,115 @@
-{"id":"n5-3eXWMhfU","title":"Samantha Fox - Touch Me (AI-ESR Cover)","file":"Samantha Fox - Touch Me (AI-ESR Cover)","author":"AI-ESR","duration":"00:04:55"}
+{
+  "id": "n5-3eXWMhfU",
+  "title": "Samantha Fox - Touch Me (AI-ESR Cover)",
+  "author": "AI-ESR",
+  "duration": "00:04:55",
+  "detail": {
+    "Id": {
+      "Value": "n5-3eXWMhfU"
+    },
+    "Url": "https://www.youtube.com/watch?v=n5-3eXWMhfU",
+    "Title": "Samantha Fox - Touch Me (AI-ESR Cover)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCOhYOcA8IY_tGnGT4DVKboQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCOhYOcA8IY_tGnGT4DVKboQ",
+      "ChannelTitle": "AI-ESR",
+      "Title": "AI-ESR"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-14T05:23:35.0000000",
+      "UtcDateTime": "2026-02-14T13:23:35.0000000Z",
+      "LocalDateTime": "2026-02-14T22:23:35.0000000+09:00",
+      "Date": "2026-02-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 45,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 23,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 35,
+      "Ticks": 639066434150000000,
+      "UtcTicks": 639066722150000000,
+      "TimeOfDay": "05:23:35",
+      "Year": 2026
+    },
+    "Description": "\"Touch Me (I Want Your Body)\" is Samantha Fox's breakout 1986 hit from her debut album of the same name, a quintessential 80s dance-pop track with bold, sensual lyrics. The song, written by Mark Shreeve, Jon Astrop, and Pete Q. Harris, topped charts in multiple countries including Australia, Canada, and several European nations, reaching #4 on the US Billboard Hot 100.\n\nNow covered by AI-ESR!\nSubscribe to be up to date with new productions!",
+    "Duration": "00:04:55",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/n5-3eXWMhfU/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gEyhTMA8=&rs=AOn4CLC2cRQiD8zjSdZrre9YOFy0CNFvtw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/n5-3eXWMhfU/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gEyhTMA8=&rs=AOn4CLBonrSAqz9WqAN24c53XfId4QTeyA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/n5-3eXWMhfU/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoUzAP&rs=AOn4CLDZrru-m3AYc6oHmUZa_5ipIXGvmA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/n5-3eXWMhfU/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IBMoUzAP&rs=AOn4CLA3n5vP5Iz85q7cAvYVkBnd_H-rxA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/n5-3eXWMhfU/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gEyhTMA8=&rs=AOn4CLCtvKnuyvhVQvHSei4r62dtnCG8aw",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/n5-3eXWMhfU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/n5-3eXWMhfU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/n5-3eXWMhfU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 48055,
+      "LikeCount": 1433,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

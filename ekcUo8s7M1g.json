@@ -1,1 +1,107 @@
-{"id":"ekcUo8s7M1g","title":"前野曜子「コブラ」","file":"前野曜子「コブラ」","author":"天守丸","duration":"00:02:57"}
+{
+  "id": "ekcUo8s7M1g",
+  "title": "前野曜子「コブラ」",
+  "author": "天守丸",
+  "duration": "00:02:57",
+  "detail": {
+    "Id": {
+      "Value": "ekcUo8s7M1g"
+    },
+    "Url": "https://www.youtube.com/watch?v=ekcUo8s7M1g",
+    "Title": "前野曜子「コブラ」",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCiEUWs08kShhb7Tqrkaimfw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCiEUWs08kShhb7Tqrkaimfw",
+      "ChannelTitle": "天守丸",
+      "Title": "天守丸"
+    },
+    "UploadDate": {
+      "DateTime": "2018-03-22T20:43:37.0000000",
+      "UtcDateTime": "2018-03-23T03:43:37.0000000Z",
+      "LocalDateTime": "2018-03-23T12:43:37.0000000+09:00",
+      "Date": "2018-03-22T00:00:00.0000000",
+      "Day": 22,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 81,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 43,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 37,
+      "Ticks": 636573482170000000,
+      "UtcTicks": 636573734170000000,
+      "TimeOfDay": "20:43:37",
+      "Year": 2018
+    },
+    "Description": "前野曜子「コブラ」『スペースコブラ』主題歌\n1982年（昭和57年）発売　作詞：冬杜花代子　作曲：大野雄二",
+    "Duration": "00:02:57",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/ekcUo8s7M1g/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGEEgTSh_MA8=&rs=AOn4CLAnAHSmOJBb7EceqZ4JwRxaxOz1xQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ekcUo8s7M1g/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-BIAC4AOKAgwIABABGEEgTSh_MA8=&rs=AOn4CLAN3tz8sLnjRx41qGkUfjrA3oNHrw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ekcUo8s7M1g/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhBIE0ofzAP&rs=AOn4CLBS9NR_werASaJyg-IOkUdwHyUSzg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ekcUo8s7M1g/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gSAAuADigIMCAAQARhBIE0ofzAP&rs=AOn4CLCSJGndWCUGsi1LCP4RdtLKnQeVHg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ekcUo8s7M1g/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ekcUo8s7M1g/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ekcUo8s7M1g/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 4289173,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

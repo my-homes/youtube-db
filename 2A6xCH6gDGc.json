@@ -1,1 +1,130 @@
-{"id":"2A6xCH6gDGc","title":"HeartSound MF - Forever You (Female Vocal Trance)","file":"HeartSound MF - Forever You (Female Vocal Trance)","author":"HeartSound MF","duration":"00:03:52"}
+{
+  "id": "2A6xCH6gDGc",
+  "title": "HeartSound MF - Forever You (Female Vocal Trance)",
+  "author": "HeartSound MF",
+  "duration": "00:03:52",
+  "detail": {
+    "Id": {
+      "Value": "2A6xCH6gDGc"
+    },
+    "Url": "https://www.youtube.com/watch?v=2A6xCH6gDGc",
+    "Title": "HeartSound MF - Forever You (Female Vocal Trance)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC8K9vl-7P0BCjanpyHl39cg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC8K9vl-7P0BCjanpyHl39cg",
+      "ChannelTitle": "HeartSound MF",
+      "Title": "HeartSound MF"
+    },
+    "UploadDate": {
+      "DateTime": "2025-10-07T12:19:36.0000000",
+      "UtcDateTime": "2025-10-07T19:19:36.0000000Z",
+      "LocalDateTime": "2025-10-08T04:19:36.0000000+09:00",
+      "Date": "2025-10-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 280,
+      "Hour": 12,
+      "Millisecond": 0,
+      "Minute": 19,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 36,
+      "Ticks": 638954363760000000,
+      "UtcTicks": 638954615760000000,
+      "TimeOfDay": "12:19:36",
+      "Year": 2025
+    },
+    "Description": "HeartSound MF - Forever You (Female Vocal Trance)\n\nOriginal song created by me with the help of AI tools (music and lyrics).",
+    "Duration": "00:03:52",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/2A6xCH6gDGc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWmOfguc_2kESe6xSeOl-LiCemZA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2A6xCH6gDGc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfTEygMyBQP-7Q3S0tcH-Uqgvrug",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2A6xCH6gDGc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDc6i5njkalPmiMs2PS6_DAbypkvw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2A6xCH6gDGc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWXiLkXSYFu--irn95W25SYdGljA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2A6xCH6gDGc/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2A6xCH6gDGc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2A6xCH6gDGc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2A6xCH6gDGc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "AI",
+      "KI",
+      "AI Music",
+      "KI Musik",
+      "AI Song",
+      "AI Music Song",
+      "AI Generated",
+      "AI Music Producer",
+      "AI Producer",
+      "AI Music Production",
+      "AI Production",
+      "Female Vocal Trance",
+      "Vocal Trance",
+      "Emotional Trance"
+    ],
+    "Engagement": {
+      "ViewCount": 2692809,
+      "LikeCount": 18631,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

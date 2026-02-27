@@ -1,1 +1,115 @@
-{"id":"b3dq7Goe_qY","title":"⚠️甜御指數超標⚠️全網最嗨《你的微笑》coverF.I.R飛兒樂團","file":"⚠️甜御指數超標⚠️全網最嗨《你的微笑》coverF.I.R飛兒樂團","author":"咩咩爱睡懒觉","duration":"00:02:04"}
+{
+  "id": "b3dq7Goe_qY",
+  "title": "⚠️甜御指數超標⚠️全網最嗨《你的微笑》coverF.I.R飛兒樂團",
+  "author": "咩咩爱睡懒觉",
+  "duration": "00:02:04",
+  "detail": {
+    "Id": {
+      "Value": "b3dq7Goe_qY"
+    },
+    "Url": "https://www.youtube.com/watch?v=b3dq7Goe_qY",
+    "Title": "⚠️甜御指數超標⚠️全網最嗨《你的微笑》coverF.I.R飛兒樂團",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCas1EG32MBRd_jeFLIYRfFg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCas1EG32MBRd_jeFLIYRfFg",
+      "ChannelTitle": "咩咩爱睡懒觉",
+      "Title": "咩咩爱睡懒觉"
+    },
+    "UploadDate": {
+      "DateTime": "2024-07-23T03:00:27.0000000",
+      "UtcDateTime": "2024-07-23T10:00:27.0000000Z",
+      "LocalDateTime": "2024-07-23T19:00:27.0000000+09:00",
+      "Date": "2024-07-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 205,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 27,
+      "Ticks": 638573004270000000,
+      "UtcTicks": 638573256270000000,
+      "TimeOfDay": "03:00:27",
+      "Year": 2024
+    },
+    "Description": "原唱：F.I.R飛兒樂團\n翻唱：咩咩爱睡懒觉\n🐑言🐑语\n这是一首 我全首都知道怎么唱，但是看到歌名完全不知道是什么的歌，有没有和我共脑的啊啊啊，这个节奏编曲唱起来太带感了！不过这次在一些点上做了一些小小的改变，不知道你们听出来没嘿嘿\n—————————————————————分割线—————————————————————\nps：音视频分开录制",
+    "Duration": "00:02:04",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/b3dq7Goe_qY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAa1fryWdfbROPXh2fydGHyIY8qfg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/b3dq7Goe_qY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD-YNZKovU1w_ZNyhFILmzI21-aAg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/b3dq7Goe_qY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAuVsyKsRG2eChvb3AUt19wyz2hw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/b3dq7Goe_qY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiraiVA6PibA1ARitwkUflOO5hQQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/b3dq7Goe_qY/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/b3dq7Goe_qY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/b3dq7Goe_qY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/b3dq7Goe_qY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 121615,
+      "LikeCount": 2050,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

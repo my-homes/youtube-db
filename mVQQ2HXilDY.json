@@ -1,1 +1,115 @@
-{"id":"mVQQ2HXilDY","title":"なごり雪 / イルカ  AIcover","file":"なごり雪 ／ イルカ  AIcover","author":"邦楽カバーチャンネル","duration":"00:03:31"}
+{
+  "id": "mVQQ2HXilDY",
+  "title": "なごり雪 / イルカ  AIcover",
+  "author": "邦楽カバーチャンネル",
+  "duration": "00:03:31",
+  "detail": {
+    "Id": {
+      "Value": "mVQQ2HXilDY"
+    },
+    "Url": "https://www.youtube.com/watch?v=mVQQ2HXilDY",
+    "Title": "なごり雪 / イルカ  AIcover",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCenwiMuC97DLAjUL6e_g6lg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCenwiMuC97DLAjUL6e_g6lg",
+      "ChannelTitle": "邦楽カバーチャンネル",
+      "Title": "邦楽カバーチャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-31T02:01:14.0000000",
+      "UtcDateTime": "2026-01-31T10:01:14.0000000Z",
+      "LocalDateTime": "2026-01-31T19:01:14.0000000+09:00",
+      "Date": "2026-01-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 31,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 14,
+      "Ticks": 639054216740000000,
+      "UtcTicks": 639054504740000000,
+      "TimeOfDay": "02:01:14",
+      "Year": 2026
+    },
+    "Description": "なごり雪を音楽生成AI Suno AI でカバーしました\nアレンジも少ししています",
+    "Duration": "00:03:31",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/mVQQ2HXilDY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAXBpNSIb1bRuczEzs6BAK4zouIkA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/mVQQ2HXilDY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASz6e5ooAk8Kbmw0Dp_tJweqqIVA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/mVQQ2HXilDY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJpP3hKe8_Gt5z5Rgksw-8vPwwSA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/mVQQ2HXilDY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAG9HcfHvIJ65Z5ZIqT-zchCqY6MA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/mVQQ2HXilDY/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/mVQQ2HXilDY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/mVQQ2HXilDY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/mVQQ2HXilDY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1768,
+      "LikeCount": 25,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

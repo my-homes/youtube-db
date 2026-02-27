@@ -1,1 +1,107 @@
-{"id":"v_vp78J7ZlQ","title":"もしも『銀河鉄道999』がシンフォニックメタルだったら (Symphonic Metal ver.) / ささきいさお - Space Odyssey style | Dreamy J-POP","file":"もしも『銀河鉄道999』がシンフォニックメタルだったら (Symphonic Metal ver.) ／ ささきいさお - Space Odyssey style ｜ Dreamy J-POP","author":"T'z.Factory","duration":"00:04:20"}
+{
+  "id": "v_vp78J7ZlQ",
+  "title": "もしも『銀河鉄道999』がシンフォニックメタルだったら (Symphonic Metal ver.) / ささきいさお - Space Odyssey style | Dreamy J-POP",
+  "author": "T'z.Factory",
+  "duration": "00:04:20",
+  "detail": {
+    "Id": {
+      "Value": "v_vp78J7ZlQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=v_vp78J7ZlQ",
+    "Title": "もしも『銀河鉄道999』がシンフォニックメタルだったら (Symphonic Metal ver.) / ささきいさお - Space Odyssey style | Dreamy J-POP",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCFN8dc6RFQZH2jz7t3BqkxQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCFN8dc6RFQZH2jz7t3BqkxQ",
+      "ChannelTitle": "T'z.Factory",
+      "Title": "T'z.Factory"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-06T18:00:06.0000000",
+      "UtcDateTime": "2025-12-07T02:00:06.0000000Z",
+      "LocalDateTime": "2025-12-07T11:00:06.0000000+09:00",
+      "Date": "2025-12-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 340,
+      "Hour": 18,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 6,
+      "Ticks": 639006408060000000,
+      "UtcTicks": 639006696060000000,
+      "TimeOfDay": "18:00:06",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:04:20",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/v_vp78J7ZlQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGEYgUShlMA8=&rs=AOn4CLCIX6yaWgZubE8_EcEYuKESkPAz_w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/v_vp78J7ZlQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGEYgUShlMA8=&rs=AOn4CLCKdcs76Bx5bhDrIBnxBYMAUaJJSg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/v_vp78J7ZlQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhGIFEoZTAP&rs=AOn4CLCFoy6XJEkcYAGK5p-RTazcY19AUQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/v_vp78J7ZlQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhGIFEoZTAP&rs=AOn4CLDZQMwVB4eUbr16zgLtAu8BN18PDA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/v_vp78J7ZlQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/v_vp78J7ZlQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/v_vp78J7ZlQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 247369,
+      "LikeCount": 3709,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

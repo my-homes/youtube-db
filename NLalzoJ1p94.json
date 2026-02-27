@@ -1,1 +1,115 @@
-{"id":"NLalzoJ1p94","title":"モンロー・ウォーク  cover HIDE","file":"モンロー・ウォーク  cover HIDE","author":"HIDE","duration":"00:03:31"}
+{
+  "id": "NLalzoJ1p94",
+  "title": "モンロー・ウォーク  cover HIDE",
+  "author": "HIDE",
+  "duration": "00:03:31",
+  "detail": {
+    "Id": {
+      "Value": "NLalzoJ1p94"
+    },
+    "Url": "https://www.youtube.com/watch?v=NLalzoJ1p94",
+    "Title": "モンロー・ウォーク  cover HIDE",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCVzCaK9mcd0nMj1GOnFrIig"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCVzCaK9mcd0nMj1GOnFrIig",
+      "ChannelTitle": "HIDE",
+      "Title": "HIDE"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-28T05:10:33.0000000",
+      "UtcDateTime": "2025-06-28T12:10:33.0000000Z",
+      "LocalDateTime": "2025-06-28T21:10:33.0000000+09:00",
+      "Date": "2025-06-28T00:00:00.0000000",
+      "Day": 28,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 179,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 10,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 33,
+      "Ticks": 638866842330000000,
+      "UtcTicks": 638867094330000000,
+      "TimeOfDay": "05:10:33",
+      "Year": 2025
+    },
+    "Description": "南佳孝6枚目のシングル\n作詞：来生えつこ\n作曲：南佳孝\nリリース：1979/04/21",
+    "Duration": "00:03:31",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/NLalzoJ1p94/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCfY_CZz8rFq7XxzoFGPoxQMFngRA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NLalzoJ1p94/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBMttqiywhRHrPUdmF4DEBkC85yhA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NLalzoJ1p94/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRveDR3YvStPex3BNRgnl52oIiYw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NLalzoJ1p94/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwZt_zeAZl93dMqrmmaaRbTc3fmw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/NLalzoJ1p94/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NLalzoJ1p94/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NLalzoJ1p94/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NLalzoJ1p94/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 2527,
+      "LikeCount": 11,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

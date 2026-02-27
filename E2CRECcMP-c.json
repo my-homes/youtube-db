@@ -1,1 +1,107 @@
-{"id":"E2CRECcMP-c","title":"White #flux #framepack #aigirl #aiartwork #aiartist #beauty","file":"White ＃flux ＃framepack ＃aigirl ＃aiartwork ＃aiartist ＃beauty","author":"fuserelax","duration":"00:03:22"}
+{
+  "id": "E2CRECcMP-c",
+  "title": "White #flux #framepack #aigirl #aiartwork #aiartist #beauty",
+  "author": "fuserelax",
+  "duration": "00:03:22",
+  "detail": {
+    "Id": {
+      "Value": "E2CRECcMP-c"
+    },
+    "Url": "https://www.youtube.com/watch?v=E2CRECcMP-c",
+    "Title": "White #flux #framepack #aigirl #aiartwork #aiartist #beauty",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCQLn21lFm4nQn35KUqO9dsA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCQLn21lFm4nQn35KUqO9dsA",
+      "ChannelTitle": "fuserelax",
+      "Title": "fuserelax"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-06T17:34:50.0000000",
+      "UtcDateTime": "2025-06-07T00:34:50.0000000Z",
+      "LocalDateTime": "2025-06-07T09:34:50.0000000+09:00",
+      "Date": "2025-06-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 157,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 34,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 50,
+      "Ticks": 638848280900000000,
+      "UtcTicks": 638848532900000000,
+      "TimeOfDay": "17:34:50",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:03:22",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/E2CRECcMP-c/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZglC3dSdZ38Yc7AqfpAn5MjZhKA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E2CRECcMP-c/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD02NlOqk_DEdtY6QDM59inXSwCNw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E2CRECcMP-c/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBhv7QdinUR8Y64iM1MXfAO8Mu_gg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E2CRECcMP-c/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpgstsfwv2FLuxERmyJ17DRVVtTg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E2CRECcMP-c/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E2CRECcMP-c/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E2CRECcMP-c/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 20692,
+      "LikeCount": 376,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

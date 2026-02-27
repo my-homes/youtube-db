@@ -1,1 +1,127 @@
-{"id":"rTdn9-3VUfU","title":"Karisse Cover PiXXiE & JENNIE @ Step up Cover Dance 2025","file":"Karisse Cover PiXXiE & JENNIE @ Step up Cover Dance 2025","author":"ONLY HDR CHANNEL","duration":"00:03:39"}
+{
+  "id": "rTdn9-3VUfU",
+  "title": "Karisse Cover PiXXiE & JENNIE @ Step up Cover Dance 2025",
+  "author": "ONLY HDR CHANNEL",
+  "duration": "00:03:39",
+  "detail": {
+    "Id": {
+      "Value": "rTdn9-3VUfU"
+    },
+    "Url": "https://www.youtube.com/watch?v=rTdn9-3VUfU",
+    "Title": "Karisse Cover PiXXiE & JENNIE @ Step up Cover Dance 2025",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC5ZPCjz8oh-mP_LPbP7sNhw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC5ZPCjz8oh-mP_LPbP7sNhw",
+      "ChannelTitle": "ONLY HDR CHANNEL",
+      "Title": "ONLY HDR CHANNEL"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-13T23:47:55.0000000",
+      "UtcDateTime": "2025-06-14T06:47:55.0000000Z",
+      "LocalDateTime": "2025-06-14T15:47:55.0000000+09:00",
+      "Date": "2025-06-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 164,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 47,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 55,
+      "Ticks": 638854552750000000,
+      "UtcTicks": 638854804750000000,
+      "TimeOfDay": "23:47:55",
+      "Year": 2025
+    },
+    "Description": "07/06/2025 [Step up Cover Dance 2025] @ Central Rama 3\nPlaylist : https://www.youtube.com/playlist?list=PLNWf5dKUzfMdjP11b-eDMlNintt0DQQLi",
+    "Duration": "00:03:39",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/rTdn9-3VUfU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWeqFOWkqpGc9kJq2UHgWuD3ev-A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rTdn9-3VUfU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLABPM1YsANF0zWBPuQA9Qs-XAKwhQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rTdn9-3VUfU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCkLaCF0Wa8PeKfWa01oKUxIXvlLA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rTdn9-3VUfU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk7jxjI6qrOVzDfuPy1Ias_Q7IHw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/rTdn9-3VUfU/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rTdn9-3VUfU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rTdn9-3VUfU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rTdn9-3VUfU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "cover",
+      "dance",
+      "cover dance",
+      "kpop",
+      "tpop",
+      "jpop",
+      "concert",
+      "dance sport",
+      "cheerleading",
+      "thailand",
+      "contest"
+    ],
+    "Engagement": {
+      "ViewCount": 431,
+      "LikeCount": 11,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

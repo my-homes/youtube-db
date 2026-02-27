@@ -1,1 +1,115 @@
-{"id":"nu2XvAElVDI","title":"80年代ユーロビートめまMix_Vol05　~俺の青春のDISCO曲全部入り~","file":"80年代ユーロビートめまMix_Vol05 ~俺の青春のDISCO曲全部入り~","author":"めがめま","duration":"01:45:46"}
+{
+  "id": "nu2XvAElVDI",
+  "title": "80年代ユーロビートめまMix_Vol05　~俺の青春のDISCO曲全部入り~",
+  "author": "めがめま",
+  "duration": "01:45:46",
+  "detail": {
+    "Id": {
+      "Value": "nu2XvAElVDI"
+    },
+    "Url": "https://www.youtube.com/watch?v=nu2XvAElVDI",
+    "Title": "80年代ユーロビートめまMix_Vol05　~俺の青春のDISCO曲全部入り~",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCcf5HvmGntmQB4JVqxVJLRg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCcf5HvmGntmQB4JVqxVJLRg",
+      "ChannelTitle": "めがめま",
+      "Title": "めがめま"
+    },
+    "UploadDate": {
+      "DateTime": "2023-08-01T10:24:09.0000000",
+      "UtcDateTime": "2023-08-01T17:24:09.0000000Z",
+      "LocalDateTime": "2023-08-02T02:24:09.0000000+09:00",
+      "Date": "2023-08-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 213,
+      "Hour": 10,
+      "Millisecond": 0,
+      "Minute": 24,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 9,
+      "Ticks": 638264822490000000,
+      "UtcTicks": 638265074490000000,
+      "TimeOfDay": "10:24:09",
+      "Year": 2023
+    },
+    "Description": "毎週通ってたディスコで良くかかってた中でお気に入り曲約60曲、青春の曲といっても良いくらいのユーロビートをMIXしました。\n80年代後半、８６～８９年頃のユーロビート全盛期曲中心です。\n前半は遊びまくって、後半がガチなユーロビートで最後の曲が俗にいう個人的に思い入れのある曲です。\nそして作ててやっぱり楽しかったのでまた作ります。\nちょくちょくライブMIX配信してますので遊びに来てくださいね。\n\nI mixed about 60 popular songs from the Japanese disco that I used to go to every week and Eurobeat from the 80's, which can be said to be my youth song.\nEnjoy the songs from the heyday of Eurobeat in the late 80s, around 86-89.\n\n※曲名自動取得なためたまに間違ってます。\n※TurnAroundCount2Tenは\"KATO M\"reworkを使わせてもらってます。\n\n#ユーロビート\n#eurobeat \n#80s",
+    "Duration": "01:45:46",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/nu2XvAElVDI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzEmk0Agl53EcIVMRD71MzV2xJFw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nu2XvAElVDI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7BrqDiZessPdmq096-u8g02qdNA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nu2XvAElVDI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3DN6pi8CwpOWSpzwvG1QmrWQb5Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nu2XvAElVDI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0oDM1_v5K-kppcF8Y0ZgurRB77w",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/nu2XvAElVDI/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nu2XvAElVDI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nu2XvAElVDI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/nu2XvAElVDI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 366165,
+      "LikeCount": 2431,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

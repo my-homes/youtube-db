@@ -1,1 +1,123 @@
-{"id":"LjGGq0OQr_E","title":"KARA - サンキュー サマーラブ (Dance Shot Ver.)","file":"KARA - サンキュー サマーラブ (Dance Shot Ver.)","author":"KaraVEVO","duration":"00:03:44"}
+{
+  "id": "LjGGq0OQr_E",
+  "title": "KARA - サンキュー サマーラブ (Dance Shot Ver.)",
+  "author": "KaraVEVO",
+  "duration": "00:03:44",
+  "detail": {
+    "Id": {
+      "Value": "LjGGq0OQr_E"
+    },
+    "Url": "https://www.youtube.com/watch?v=LjGGq0OQr_E",
+    "Title": "KARA - サンキュー サマーラブ (Dance Shot Ver.)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCS6jmPd-ZHVMHGxMvscat7g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCS6jmPd-ZHVMHGxMvscat7g",
+      "ChannelTitle": "KaraVEVO",
+      "Title": "KaraVEVO"
+    },
+    "UploadDate": {
+      "DateTime": "2013-07-18T20:53:38.0000000",
+      "UtcDateTime": "2013-07-19T03:53:38.0000000Z",
+      "LocalDateTime": "2013-07-19T12:53:38.0000000+09:00",
+      "Date": "2013-07-18T00:00:00.0000000",
+      "Day": 18,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 199,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 53,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 38,
+      "Ticks": 635097776180000000,
+      "UtcTicks": 635098028180000000,
+      "TimeOfDay": "20:53:38",
+      "Year": 2013
+    },
+    "Description": "Music video by ＫＡＲＡ performing サンキュー　サマーラブ　(Dance Shot Ver.). (C) 2013 UNIVERSAL SIGMA, a division of UNIVERSAL MUSIC LLC",
+    "Duration": "00:03:44",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/LjGGq0OQr_E/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBDtm26aajJNDzS_f8PUd9a6_15sA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LjGGq0OQr_E/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCGN_GF5Ff7Hoxm2FhaHZg061_J5g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LjGGq0OQr_E/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtXlxTwW2lWU58Xx4y3xdlOa0-sQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LjGGq0OQr_E/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBxeYqeTP8EAfMOL8AccTUCN3eAAQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/LjGGq0OQr_E/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LjGGq0OQr_E/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LjGGq0OQr_E/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/LjGGq0OQr_E/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "ＫＡＲＡ",
+      "サンキュー　サマーラブ　(Dance",
+      "Shot",
+      "Ver.)",
+      "Universal",
+      "Music",
+      "洋楽ポップス"
+    ],
+    "Engagement": {
+      "ViewCount": 590633,
+      "LikeCount": 2942,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

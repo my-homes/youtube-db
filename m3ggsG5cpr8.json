@@ -1,1 +1,115 @@
-{"id":"m3ggsG5cpr8","title":"Taylor Swift - Golden Hour (Spotify Song 2025)","file":"Taylor Swift - Golden Hour (Spotify Song 2025)","author":"Wakazo","duration":"00:14:24"}
+{
+  "id": "m3ggsG5cpr8",
+  "title": "Taylor Swift - Golden Hour (Spotify Song 2025)",
+  "author": "Wakazo",
+  "duration": "00:14:24",
+  "detail": {
+    "Id": {
+      "Value": "m3ggsG5cpr8"
+    },
+    "Url": "https://www.youtube.com/watch?v=m3ggsG5cpr8",
+    "Title": "Taylor Swift - Golden Hour (Spotify Song 2025)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCqazPtQB21GvhHF7KpWP5mg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCqazPtQB21GvhHF7KpWP5mg",
+      "ChannelTitle": "Wakazo",
+      "Title": "Wakazo"
+    },
+    "UploadDate": {
+      "DateTime": "2025-05-24T08:15:08.0000000",
+      "UtcDateTime": "2025-05-24T15:15:08.0000000Z",
+      "LocalDateTime": "2025-05-25T00:15:08.0000000+09:00",
+      "Date": "2025-05-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 144,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 15,
+      "Month": 5,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 638836713080000000,
+      "UtcTicks": 638836965080000000,
+      "TimeOfDay": "08:15:08",
+      "Year": 2025
+    },
+    "Description": "#taylorswift #pop #popularsong #spotify \n\nTaylor Swift - Golden Hour (Spotify Song 2025)\n\nInstrumentals, Remixing, and Mixing & Mastering by Me\nSoftware Used: FL Studio 21, Wondershare Filmora, Canva\n\n🎧 Please Note:\nThis is a remix, not an official release!\n\n🛑 Disclaimer\nPortions of this track were generated using AI, including voice synthesis to replicate a vocal style. The vocals are not performed by the original artist. This project was created to showcase my mixing and mastering skills.\n\n🔊 Full Audio Production by Me\nI was responsible for the entire production process—composing the instrumental, mixing, mastering, and vocal processing with the help of advanced AI tools to deliver a complete audio experience.\n\n📽️ Content Disclaimer\nThe content featured in this video do not depict the real artists and are used purely for entertainment purposes.\n\n© All original rights belong to the respective artists, their labels, or copyright holders.\n\n📜 Copyright Disclaimer (Section 107 - Copyright Act 1976):\nThis video may contain copyrighted material used under “fair use” guidelines for purposes like commentary, criticism, education, and non-profit use.\nIf you are a copyright owner and have concerns, feel free to reach out via email to request removal.",
+    "Duration": "00:14:24",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/m3ggsG5cpr8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDB0r6EovsQCRAR5YQn5aKiNkA6qA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/m3ggsG5cpr8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASh-L2BXgUCg_-hHN2kMu9jlCNdw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/m3ggsG5cpr8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA38VXtW9BK52HYzLmfAtoMX72jyw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/m3ggsG5cpr8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCh306Nwq1tzZGogCjrfqdXuW0L3g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/m3ggsG5cpr8/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/m3ggsG5cpr8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/m3ggsG5cpr8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/m3ggsG5cpr8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 34073,
+      "LikeCount": 710,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

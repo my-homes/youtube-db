@@ -1,1 +1,121 @@
-{"id":"NUz39LYf-nE","title":"04 コアファイター、ガンダムに合体成功！　Core Fighter successfully merged with Gundam!","file":"04 コアファイター、ガンダムに合体成功！ Core Fighter successfully merged with Gundam!","author":"名古屋合成野郎","duration":"00:04:33"}
+{
+  "id": "NUz39LYf-nE",
+  "title": "04 コアファイター、ガンダムに合体成功！　Core Fighter successfully merged with Gundam!",
+  "author": "名古屋合成野郎",
+  "duration": "00:04:33",
+  "detail": {
+    "Id": {
+      "Value": "NUz39LYf-nE"
+    },
+    "Url": "https://www.youtube.com/watch?v=NUz39LYf-nE",
+    "Title": "04 コアファイター、ガンダムに合体成功！　Core Fighter successfully merged with Gundam!",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCL7WhNpvOmRzX58s9McLlKQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCL7WhNpvOmRzX58s9McLlKQ",
+      "ChannelTitle": "名古屋合成野郎",
+      "Title": "名古屋合成野郎"
+    },
+    "UploadDate": {
+      "DateTime": "2022-02-01T00:51:49.0000000",
+      "UtcDateTime": "2022-02-01T08:51:49.0000000Z",
+      "LocalDateTime": "2022-02-01T17:51:49.0000000+09:00",
+      "Date": "2022-02-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 32,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 51,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 49,
+      "Ticks": 637792735090000000,
+      "UtcTicks": 637793023090000000,
+      "TimeOfDay": "00:51:49",
+      "Year": 2022
+    },
+    "Description": "コアファイターの合体成功を目撃しました。\nWhat a surprise, I witnessed the successful docking of the core fighters.",
+    "Duration": "00:04:33",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/NUz39LYf-nE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCl8dTOpWDAEF021U74mfw94gbfBA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NUz39LYf-nE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCZG8_xVN5EFTEFfNvbSmoX6xrQWw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NUz39LYf-nE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPUfDM1mTw-VXzUhlU7UnNA4nKqg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NUz39LYf-nE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR2zIMH1rxqtKbCxmNf8CWWslVFg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NUz39LYf-nE/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NUz39LYf-nE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NUz39LYf-nE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NUz39LYf-nE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "コアファイター",
+      "連邦軍",
+      "ガンダム",
+      "ガンペリー",
+      "3DCG"
+    ],
+    "Engagement": {
+      "ViewCount": 2654275,
+      "LikeCount": 17865,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

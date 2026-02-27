@@ -1,1 +1,119 @@
-{"id":"1DjvlyCg8Vg","title":"【AIカバー】 なごり雪  伊勢正三  昭和のS.Lが 令和によみがえる。切ない別れと出会い。","file":"【AIカバー】 なごり雪  伊勢正三  昭和のS.Lが 令和によみがえる。切ない別れと出会い。","author":"猫撫で音楽屋さん","duration":"00:04:18"}
+{
+  "id": "1DjvlyCg8Vg",
+  "title": "【AIカバー】 なごり雪  伊勢正三  昭和のS.Lが 令和によみがえる。切ない別れと出会い。",
+  "author": "猫撫で音楽屋さん",
+  "duration": "00:04:18",
+  "detail": {
+    "Id": {
+      "Value": "1DjvlyCg8Vg"
+    },
+    "Url": "https://www.youtube.com/watch?v=1DjvlyCg8Vg",
+    "Title": "【AIカバー】 なごり雪  伊勢正三  昭和のS.Lが 令和によみがえる。切ない別れと出会い。",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCBkRIvHcRUg7ec64Wu91w2w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCBkRIvHcRUg7ec64Wu91w2w",
+      "ChannelTitle": "猫撫で音楽屋さん",
+      "Title": "猫撫で音楽屋さん"
+    },
+    "UploadDate": {
+      "DateTime": "2026-01-09T20:00:02.0000000",
+      "UtcDateTime": "2026-01-10T04:00:02.0000000Z",
+      "LocalDateTime": "2026-01-10T13:00:02.0000000+09:00",
+      "Date": "2026-01-09T00:00:00.0000000",
+      "Day": 9,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 9,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 2,
+      "Ticks": 639035856020000000,
+      "UtcTicks": 639036144020000000,
+      "TimeOfDay": "20:00:02",
+      "Year": 2026
+    },
+    "Description": "お正月気分もようやく抜けましたね。\n新春第二弾の動画は「なごり雪」です。\n説明不要の名曲ですよね。\n若いカップルのお別れソングですが、\nあえて、父親目線で作ってみました。\n娘を持つ親ならいつかこんな日が来る・・・。",
+    "Duration": "00:04:18",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1DjvlyCg8Vg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBdj6ydUNZGYLK2NbMoHQLsSXvktA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1DjvlyCg8Vg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBzpSqJzL7qTNxPBKqRalpd8VRq1A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1DjvlyCg8Vg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBq7ZE4wNlh_rir48K8jiRnzFAkWA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1DjvlyCg8Vg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB784SvTFOeHAVzBHbdzNsfdxUDjA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1DjvlyCg8Vg/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1DjvlyCg8Vg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1DjvlyCg8Vg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1DjvlyCg8Vg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "昭和の名曲",
+      "昭和歌謡",
+      "なごり雪"
+    ],
+    "Engagement": {
+      "ViewCount": 55206,
+      "LikeCount": 522,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

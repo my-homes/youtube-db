@@ -1,1 +1,119 @@
-{"id":"elYmaHanT_w","title":"Space Pirate Captain Harlock | (1978) Opening Theme","file":"Space Pirate Captain Harlock ｜ (1978) Opening Theme","author":"Lucas Stl","duration":"00:03:35"}
+{
+  "id": "elYmaHanT_w",
+  "title": "Space Pirate Captain Harlock | (1978) Opening Theme",
+  "author": "Lucas Stl",
+  "duration": "00:03:35",
+  "detail": {
+    "Id": {
+      "Value": "elYmaHanT_w"
+    },
+    "Url": "https://www.youtube.com/watch?v=elYmaHanT_w",
+    "Title": "Space Pirate Captain Harlock | (1978) Opening Theme",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCO_l3uXOXb46uqt7igAon8g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCO_l3uXOXb46uqt7igAon8g",
+      "ChannelTitle": "Lucas Stl",
+      "Title": "Lucas Stl"
+    },
+    "UploadDate": {
+      "DateTime": "2018-01-23T10:51:26.0000000",
+      "UtcDateTime": "2018-01-23T18:51:26.0000000Z",
+      "LocalDateTime": "2018-01-24T03:51:26.0000000+09:00",
+      "Date": "2018-01-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 23,
+      "Hour": 10,
+      "Millisecond": 0,
+      "Minute": 51,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 26,
+      "Ticks": 636523014860000000,
+      "UtcTicks": 636523302860000000,
+      "TimeOfDay": "10:51:26",
+      "Year": 2018
+    },
+    "Description": "Captain Harlock with the 1978 theme song, what more do I need to say?\n\nI’ve yet to actually see someone do this and if I’m wrong, please point it out. \nTill next Time,\n~Stl",
+    "Duration": "00:03:35",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/elYmaHanT_w/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBWTzmBiSe8bIGwFPXJq3Po3-CboQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/elYmaHanT_w/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgI7VNueyjvbxNN1W4fAEFO83hyA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/elYmaHanT_w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArnE73oAfFbQ5rEFUtXAcoTml-hw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/elYmaHanT_w/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSDnq42jRWID-rYyUigZ1DOC6C_Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/elYmaHanT_w/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/elYmaHanT_w/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/elYmaHanT_w/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/elYmaHanT_w/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "#AMV",
+      "#Harlock",
+      "#LeijiMatsumoto"
+    ],
+    "Engagement": {
+      "ViewCount": 238884,
+      "LikeCount": 2727,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

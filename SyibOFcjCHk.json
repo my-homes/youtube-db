@@ -1,1 +1,115 @@
-{"id":"SyibOFcjCHk","title":"Angela 張韶涵 -《淋雨一直走》 Cover by 真栗Makuri 「人都應該有夢 有夢就別怕痛」","file":"Angela 張韶涵 -《淋雨一直走》 Cover by 真栗Makuri 「人都應該有夢 有夢就別怕痛」","author":"真栗","duration":"00:03:24"}
+{
+  "id": "SyibOFcjCHk",
+  "title": "Angela 張韶涵 -《淋雨一直走》 Cover by 真栗Makuri 「人都應該有夢 有夢就別怕痛」",
+  "author": "真栗",
+  "duration": "00:03:24",
+  "detail": {
+    "Id": {
+      "Value": "SyibOFcjCHk"
+    },
+    "Url": "https://www.youtube.com/watch?v=SyibOFcjCHk",
+    "Title": "Angela 張韶涵 -《淋雨一直走》 Cover by 真栗Makuri 「人都應該有夢 有夢就別怕痛」",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCIOWYFFvCqTm_vvfJMj3u7A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCIOWYFFvCqTm_vvfJMj3u7A",
+      "ChannelTitle": "真栗",
+      "Title": "真栗"
+    },
+    "UploadDate": {
+      "DateTime": "2025-08-25T06:20:34.0000000",
+      "UtcDateTime": "2025-08-25T13:20:34.0000000Z",
+      "LocalDateTime": "2025-08-25T22:20:34.0000000+09:00",
+      "Date": "2025-08-25T00:00:00.0000000",
+      "Day": 25,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 237,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 20,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 34,
+      "Ticks": 638916996340000000,
+      "UtcTicks": 638917248340000000,
+      "TimeOfDay": "06:20:34",
+      "Year": 2025
+    },
+    "Description": "#張韶涵 #淋雨一直走 #cover \nHope you enjoy my videos! :)\n\nInstagram：makuri0731\nBilibili：https://b23.tv/n0BN7RB",
+    "Duration": "00:03:24",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/SyibOFcjCHk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA88wlC-B7vFPluyEZWwh5RdoGG6w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/SyibOFcjCHk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCpitUf0kcG-GaBvN0PoPcbGGNL2g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/SyibOFcjCHk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBt66p9ys-p4_B0RouRUZc6DkoAQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/SyibOFcjCHk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeyFAnT6w7wuDFlBFLGorFDToICg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/SyibOFcjCHk/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/SyibOFcjCHk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/SyibOFcjCHk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/SyibOFcjCHk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 534678,
+      "LikeCount": 12315,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,115 @@
-{"id":"hQPw4D9Jnns","title":"『宇宙空母ブルーノア 〜大いなる海へ〜』【歌ってみた】","file":"『宇宙空母ブルーノア 〜大いなる海へ〜』【歌ってみた】","author":"諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music","duration":"00:03:21"}
+{
+  "id": "hQPw4D9Jnns",
+  "title": "『宇宙空母ブルーノア 〜大いなる海へ〜』【歌ってみた】",
+  "author": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+  "duration": "00:03:21",
+  "detail": {
+    "Id": {
+      "Value": "hQPw4D9Jnns"
+    },
+    "Url": "https://www.youtube.com/watch?v=hQPw4D9Jnns",
+    "Title": "『宇宙空母ブルーノア 〜大いなる海へ〜』【歌ってみた】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCnCvNHeOHpMyKQ4A47nQ8FQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCnCvNHeOHpMyKQ4A47nQ8FQ",
+      "ChannelTitle": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+      "Title": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2023-08-14T17:32:09.0000000",
+      "UtcDateTime": "2023-08-15T00:32:09.0000000Z",
+      "LocalDateTime": "2023-08-15T09:32:09.0000000+09:00",
+      "Date": "2023-08-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 226,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 32,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 9,
+      "Ticks": 638276311290000000,
+      "UtcTicks": 638276563290000000,
+      "TimeOfDay": "17:32:09",
+      "Year": 2023
+    },
+    "Description": "https://www.youtube.com/watch?v=PskxMluNDTw\nカラオケ音源はこちらから使わせていただきました。",
+    "Duration": "00:03:21",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/hQPw4D9Jnns/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD_9LBYrehF2D3VbfUVvugHdB_9FQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hQPw4D9Jnns/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCny3iKaJjsHtwXMkTq2BvqnHAd8A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hQPw4D9Jnns/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQmHdg5ijZkw3TEFRi4zWux9WtiA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hQPw4D9Jnns/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcBVXDJowOEC1UjLlmVZirvpx6BA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/hQPw4D9Jnns/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hQPw4D9Jnns/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hQPw4D9Jnns/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hQPw4D9Jnns/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 15380,
+      "LikeCount": 363,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

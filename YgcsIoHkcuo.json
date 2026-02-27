@@ -1,1 +1,115 @@
-{"id":"YgcsIoHkcuo","title":"有人還記得當年這首火遍全網的《普通disco》嗎？","file":"有人還記得當年這首火遍全網的《普通disco》嗎？","author":"咩咩爱睡懒觉","duration":"00:03:10"}
+{
+  "id": "YgcsIoHkcuo",
+  "title": "有人還記得當年這首火遍全網的《普通disco》嗎？",
+  "author": "咩咩爱睡懒觉",
+  "duration": "00:03:10",
+  "detail": {
+    "Id": {
+      "Value": "YgcsIoHkcuo"
+    },
+    "Url": "https://www.youtube.com/watch?v=YgcsIoHkcuo",
+    "Title": "有人還記得當年這首火遍全網的《普通disco》嗎？",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCas1EG32MBRd_jeFLIYRfFg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCas1EG32MBRd_jeFLIYRfFg",
+      "ChannelTitle": "咩咩爱睡懒觉",
+      "Title": "咩咩爱睡懒觉"
+    },
+    "UploadDate": {
+      "DateTime": "2024-02-28T11:45:45.0000000",
+      "UtcDateTime": "2024-02-28T19:45:45.0000000Z",
+      "LocalDateTime": "2024-02-29T04:45:45.0000000+09:00",
+      "Date": "2024-02-28T00:00:00.0000000",
+      "Day": 28,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 59,
+      "Hour": 11,
+      "Millisecond": 0,
+      "Minute": 45,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 45,
+      "Ticks": 638447175450000000,
+      "UtcTicks": 638447463450000000,
+      "TimeOfDay": "11:45:45",
+      "Year": 2024
+    },
+    "Description": "原唱：洛天依/言和\n翻唱：咩咩爱睡懒觉（复活90%\n🐑言🐑语\n给大家献上一首超魔性神曲让我们一起摇摆！！",
+    "Duration": "00:03:10",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/YgcsIoHkcuo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAn0K_HB0Gh6GbQegZAab3q8shdKA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/YgcsIoHkcuo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnWhTXV0kjzFB0k1gNgUHvCVfy7g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/YgcsIoHkcuo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOT3FLmy6LIHW6fJbKYNirwz7Nwg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/YgcsIoHkcuo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDHyXoVD44O5Zy68UzlKi1sHoxfCg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/YgcsIoHkcuo/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/YgcsIoHkcuo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/YgcsIoHkcuo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/YgcsIoHkcuo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 130322,
+      "LikeCount": 2445,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

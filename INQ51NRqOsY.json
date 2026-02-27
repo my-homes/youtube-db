@@ -1,1 +1,115 @@
-{"id":"INQ51NRqOsY","title":"Taylor Swift - Drift Away [Music Video 2025]","file":"Taylor Swift - Drift Away [Music Video 2025]","author":"Wakazo","duration":"00:11:59"}
+{
+  "id": "INQ51NRqOsY",
+  "title": "Taylor Swift - Drift Away [Music Video 2025]",
+  "author": "Wakazo",
+  "duration": "00:11:59",
+  "detail": {
+    "Id": {
+      "Value": "INQ51NRqOsY"
+    },
+    "Url": "https://www.youtube.com/watch?v=INQ51NRqOsY",
+    "Title": "Taylor Swift - Drift Away [Music Video 2025]",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCqazPtQB21GvhHF7KpWP5mg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCqazPtQB21GvhHF7KpWP5mg",
+      "ChannelTitle": "Wakazo",
+      "Title": "Wakazo"
+    },
+    "UploadDate": {
+      "DateTime": "2025-06-13T08:15:03.0000000",
+      "UtcDateTime": "2025-06-13T15:15:03.0000000Z",
+      "LocalDateTime": "2025-06-14T00:15:03.0000000+09:00",
+      "Date": "2025-06-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 164,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 15,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 3,
+      "Ticks": 638853993030000000,
+      "UtcTicks": 638854245030000000,
+      "TimeOfDay": "08:15:03",
+      "Year": 2025
+    },
+    "Description": "#taylorswift #pop #popularsong #spotify \n\nTaylor Swift - Drift Away [Music Video 2025]\n\nInstrumentals, Remixing, and Mixing & Mastering by Me\nSoftware Used: FL Studio 21, Wondershare Filmora, Canva\n\n🎧 Please Note:\nThis is a remix, not an official release!\n\n🛑 Disclaimer\nPortions of this track were generated using AI, including voice synthesis to replicate a vocal style. The vocals are not performed by the original artist. This project was created to showcase my mixing and mastering skills.\n\n🔊 Full Audio Production by Me\nI was responsible for the entire production process—composing the instrumental, mixing, mastering, and vocal processing with the help of advanced AI tools to deliver a complete audio experience.\n\n📽️ Content Disclaimer\nThe content featured in this video do not depict the real artists and are used purely for entertainment purposes.\n\n© All original rights belong to the respective artists, their labels, or copyright holders.\n\n📜 Copyright Disclaimer (Section 107 - Copyright Act 1976):\nThis video may contain copyrighted material used under “fair use” guidelines for purposes like commentary, criticism, education, and non-profit use.\nIf you are a copyright owner and have concerns, feel free to reach out via email to request removal.",
+    "Duration": "00:11:59",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/INQ51NRqOsY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA8R0LvzJSL9nW3XpMmDG8ItQWgoA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/INQ51NRqOsY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDatm0ax8vg1yhZgQXmWAlH4vVFPQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/INQ51NRqOsY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDOHIfxQPKnFTi-SKfDMiHk2XIaQw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/INQ51NRqOsY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMcXMtWxmJwwL0B-1F_2kMXeH5Kg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/INQ51NRqOsY/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/INQ51NRqOsY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/INQ51NRqOsY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/INQ51NRqOsY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 21063,
+      "LikeCount": 437,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

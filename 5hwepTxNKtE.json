@@ -1,1 +1,115 @@
-{"id":"5hwepTxNKtE","title":"BLACKPINK - ‘FOREVER YOUNG’ 0805 SBS Inkigayo","file":"BLACKPINK - ‘FOREVER YOUNG’ 0805 SBS Inkigayo","author":"BLACKPINK","duration":"00:03:53"}
+{
+  "id": "5hwepTxNKtE",
+  "title": "BLACKPINK - ‘FOREVER YOUNG’ 0805 SBS Inkigayo",
+  "author": "BLACKPINK",
+  "duration": "00:03:53",
+  "detail": {
+    "Id": {
+      "Value": "5hwepTxNKtE"
+    },
+    "Url": "https://www.youtube.com/watch?v=5hwepTxNKtE",
+    "Title": "BLACKPINK - ‘FOREVER YOUNG’ 0805 SBS Inkigayo",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCOmHUn--16B90oW2L6FRR3A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCOmHUn--16B90oW2L6FRR3A",
+      "ChannelTitle": "BLACKPINK",
+      "Title": "BLACKPINK"
+    },
+    "UploadDate": {
+      "DateTime": "2018-08-04T22:32:56.0000000",
+      "UtcDateTime": "2018-08-05T05:32:56.0000000Z",
+      "LocalDateTime": "2018-08-05T14:32:56.0000000+09:00",
+      "Date": "2018-08-04T00:00:00.0000000",
+      "Day": 4,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 216,
+      "Hour": 22,
+      "Millisecond": 0,
+      "Minute": 32,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 56,
+      "Ticks": 636690187760000000,
+      "UtcTicks": 636690439760000000,
+      "TimeOfDay": "22:32:56",
+      "Year": 2018
+    },
+    "Description": "Copyrightⓒ2018 SBS Contents Hub Co., Ltd. & YG Entertainment Inc. All rights reserved.\n\n[BLACKPINK - ‘FOREVER YOUNG’ 0805 SBS Inkigayo]\n\n*NAVER TVcast로 보기 : https://tv.naver.com/v/3754856/list/242226\n\nDownload on iTunes @ http://smarturl.it/BP_SquareUp/itunes\n\nDownload on AppleMusic @ http://smarturl.it/BP_SquareUp/applemusic\n\nAvailable on Spotify @ http://smarturl.it/BP_SquareUp/spotify\n\n#BLACKPINK #블랙핑크 #THE1STMINIALBUM #EP #SQUAREUP #FOREVER_YOUNG\n\nMore about BLACKPINK @\nhttp://www.blackpinkofficial.com/\nhttp://www.facebook.com/BLACKPINKOFFICIAL\nhttp://www.youtube.com/BLACKPINKOFFICIAL\nhttp://www.instagram.com/BLACKPINKOFFICIAL\nhttp://www.twitter.com/ygent_official",
+    "Duration": "00:03:53",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/5hwepTxNKtE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCm6bHM898r1JbWx2kZYpW3TUnL4Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5hwepTxNKtE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBqsk9tZFZJ4VCxSR8olaoaBBI4wQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5hwepTxNKtE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByTnoPoRypF2qypr6i3jhObPgSvA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/5hwepTxNKtE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPanA7_XGELFvJJzsVG-PdnFwEpA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/5hwepTxNKtE/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5hwepTxNKtE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5hwepTxNKtE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/5hwepTxNKtE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 82551838,
+      "LikeCount": 1232230,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

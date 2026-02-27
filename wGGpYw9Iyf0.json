@@ -1,1 +1,129 @@
-{"id":"wGGpYw9Iyf0","title":"SNH48 GROUP《春夏秋冬》MV | Four Seasons _ Music video","file":"SNH48 GROUP《春夏秋冬》MV ｜ Four Seasons _ Music video","author":"SNH48 China","duration":"00:04:33"}
+{
+  "id": "wGGpYw9Iyf0",
+  "title": "SNH48 GROUP《春夏秋冬》MV | Four Seasons _ Music video",
+  "author": "SNH48 China",
+  "duration": "00:04:33",
+  "detail": {
+    "Id": {
+      "Value": "wGGpYw9Iyf0"
+    },
+    "Url": "https://www.youtube.com/watch?v=wGGpYw9Iyf0",
+    "Title": "SNH48 GROUP《春夏秋冬》MV | Four Seasons _ Music video",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClwRU9iNX7UbzyuVzvZTSkA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClwRU9iNX7UbzyuVzvZTSkA",
+      "ChannelTitle": "SNH48 China",
+      "Title": "SNH48 China"
+    },
+    "UploadDate": {
+      "DateTime": "2018-12-20T18:59:31.0000000",
+      "UtcDateTime": "2018-12-21T02:59:31.0000000Z",
+      "LocalDateTime": "2018-12-21T11:59:31.0000000+09:00",
+      "Date": "2018-12-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 354,
+      "Hour": 18,
+      "Millisecond": 0,
+      "Minute": 59,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 31,
+      "Ticks": 636809291710000000,
+      "UtcTicks": 636809579710000000,
+      "TimeOfDay": "18:59:31",
+      "Year": 2018
+    },
+    "Description": "#SNH48#春夏秋冬\n关注SNH48，欢迎订阅频道：https://goo.gl/F81wfq\n春天的桃花舞翩翩，夏天的清秀半枝莲，秋天的红叶满人间，冬天的皑皑寒江雪，四季更迭，时光流转，感谢每一个收获的季节都能绽放最耀眼的光。让我们一起用心守护属于我们的《春夏秋冬》吧。\nSNH48不仅仅是一群青春洋溢的漂亮女孩，也不仅仅是偶像的概念。她们在音乐上有着独特的风格，是新生代偶像的代表。SNH48完全打破了传统偶像组合”先封闭培训，再出道推广“的形式，用专属剧院公演、握手会、年度总选举等方式，让粉丝们能够最大程度地见证、参与到成员们的成长中来。\n~实时更新，欢迎订阅~\n#snh48mv #snh48歌曲#snh春夏秋冬",
+    "Duration": "00:04:33",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/wGGpYw9Iyf0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDMjCtTp8Jr_RwjM1lZ9aKvNMrqIQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wGGpYw9Iyf0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDd1ize9Tm9v5yGStY2auVMrSuo9w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wGGpYw9Iyf0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAeBqVPmGJ3IjSq1cI_Vx7Xmt62dQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/wGGpYw9Iyf0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAUJPwvUbYFSOgT3fl7EOzlt7RZtg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/wGGpYw9Iyf0/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wGGpYw9Iyf0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wGGpYw9Iyf0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/wGGpYw9Iyf0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "snh48",
+      "snh48 chian",
+      "那不勒斯的黎明",
+      "夜蝶",
+      "snh48 mv",
+      "7senses",
+      "鞠婧祎",
+      "春夏秋冬",
+      "李艺彤",
+      "黄婷婷",
+      "冯薪朵",
+      "snh48 春夏秋冬",
+      "春夏秋冬 snh48"
+    ],
+    "Engagement": {
+      "ViewCount": 3110577,
+      "LikeCount": 27912,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

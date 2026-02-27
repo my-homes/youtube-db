@@ -1,1 +1,115 @@
-{"id":"0pshf-0d5Pc","title":"恥ずかしすぎて","file":"恥ずかしすぎて","author":"Soleil 555","duration":"00:03:06"}
+{
+  "id": "0pshf-0d5Pc",
+  "title": "恥ずかしすぎて",
+  "author": "Soleil 555",
+  "duration": "00:03:06",
+  "detail": {
+    "Id": {
+      "Value": "0pshf-0d5Pc"
+    },
+    "Url": "https://www.youtube.com/watch?v=0pshf-0d5Pc",
+    "Title": "恥ずかしすぎて",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCB-LR9-rcoLiBUzQUmxFZnQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCB-LR9-rcoLiBUzQUmxFZnQ",
+      "ChannelTitle": "Soleil 555",
+      "Title": "Soleil 555"
+    },
+    "UploadDate": {
+      "DateTime": "2018-07-14T23:38:08.0000000",
+      "UtcDateTime": "2018-07-15T06:38:08.0000000Z",
+      "LocalDateTime": "2018-07-15T15:38:08.0000000+09:00",
+      "Date": "2018-07-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 195,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 38,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 636672082880000000,
+      "UtcTicks": 636672334880000000,
+      "TimeOfDay": "23:38:08",
+      "Year": 2018
+    },
+    "Description": "7th September 1985",
+    "Duration": "00:03:06",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/0pshf-0d5Pc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYz3LL-HEHG4Rcg_BEBKxgC-fJmw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0pshf-0d5Pc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2Yek5ImNjw_tnhNLYrvsn4Zr8TA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0pshf-0d5Pc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlU5VmyPkUAZeVVBf4Bum63hGdWw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0pshf-0d5Pc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzAw2Sby-uIqttwhWPULay3vx5HQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/0pshf-0d5Pc/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0pshf-0d5Pc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0pshf-0d5Pc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0pshf-0d5Pc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 152790,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

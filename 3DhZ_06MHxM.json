@@ -1,1 +1,115 @@
-{"id":"3DhZ_06MHxM","title":"桜 / コブクロ  AIcover","file":"桜 ／ コブクロ  AIcover","author":"邦楽カバーチャンネル","duration":"00:05:14"}
+{
+  "id": "3DhZ_06MHxM",
+  "title": "桜 / コブクロ  AIcover",
+  "author": "邦楽カバーチャンネル",
+  "duration": "00:05:14",
+  "detail": {
+    "Id": {
+      "Value": "3DhZ_06MHxM"
+    },
+    "Url": "https://www.youtube.com/watch?v=3DhZ_06MHxM",
+    "Title": "桜 / コブクロ  AIcover",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCenwiMuC97DLAjUL6e_g6lg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCenwiMuC97DLAjUL6e_g6lg",
+      "ChannelTitle": "邦楽カバーチャンネル",
+      "Title": "邦楽カバーチャンネル"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-02T02:00:03.0000000",
+      "UtcDateTime": "2026-02-02T10:00:03.0000000Z",
+      "LocalDateTime": "2026-02-02T19:00:03.0000000+09:00",
+      "Date": "2026-02-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 33,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 3,
+      "Ticks": 639055944030000000,
+      "UtcTicks": 639056232030000000,
+      "TimeOfDay": "02:00:03",
+      "Year": 2026
+    },
+    "Description": "桜を音楽生成AI Suno AI でカバーしました\nアレンジも少ししています",
+    "Duration": "00:05:14",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/3DhZ_06MHxM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC9W3ywBFet3cp_-rz9D-mw0xbLgw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3DhZ_06MHxM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNK9sV3U7U17sVVDf1o3E_imcVWQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3DhZ_06MHxM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvTzuzzlAGPy6o_sHqjRjR-olEjQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3DhZ_06MHxM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDlnLq4LLi-BLKpRbLP5ztPoJaPQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3DhZ_06MHxM/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3DhZ_06MHxM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3DhZ_06MHxM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3DhZ_06MHxM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 2736,
+      "LikeCount": 45,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,115 @@
-{"id":"sNT3WPgFHPA","title":"DJ Giuseppe Caruso & DJ Combo ft. PachYa - Lambada (Cherry Pepper Video) (Originally by Kaoma) 2025","file":"DJ Giuseppe Caruso & DJ Combo ft. PachYa - Lambada (Cherry Pepper Video) (Originally by Kaoma) 2025","author":"DJ Combo","duration":"00:02:52"}
+{
+  "id": "sNT3WPgFHPA",
+  "title": "DJ Giuseppe Caruso & DJ Combo ft. PachYa - Lambada (Cherry Pepper Video) (Originally by Kaoma) 2025",
+  "author": "DJ Combo",
+  "duration": "00:02:52",
+  "detail": {
+    "Id": {
+      "Value": "sNT3WPgFHPA"
+    },
+    "Url": "https://www.youtube.com/watch?v=sNT3WPgFHPA",
+    "Title": "DJ Giuseppe Caruso & DJ Combo ft. PachYa - Lambada (Cherry Pepper Video) (Originally by Kaoma) 2025",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC8NVYSlN8e5iTPxDMhf-fFQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC8NVYSlN8e5iTPxDMhf-fFQ",
+      "ChannelTitle": "DJ Combo",
+      "Title": "DJ Combo"
+    },
+    "UploadDate": {
+      "DateTime": "2025-01-06T06:52:39.0000000",
+      "UtcDateTime": "2025-01-06T14:52:39.0000000Z",
+      "LocalDateTime": "2025-01-06T23:52:39.0000000+09:00",
+      "Date": "2025-01-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 6,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 52,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 39,
+      "Ticks": 638717431590000000,
+      "UtcTicks": 638717719590000000,
+      "TimeOfDay": "06:52:39",
+      "Year": 2025
+    },
+    "Description": "DJ Giuseppe Caruso & DJ Combo feat. PachYa - Lambada [Cherry Pepper Video]\n►Stream & Download: https://graj.to/l/dj-giuseppe-caruso-...\n\n► DJ Combo booking : djcombo@o2.pl\n► Remixes, music production and other inquires : djcombo@o2.pl\n\nBeatport: https://graj.to/s/Lambada-btp\nJuno Download: https://graj.to/s/Lambada-jdl\nTraxsource: https://graj.to/s/Lambada-trx\nSpotify: https://graj.to/s/Lambada-spt\nApple Music: https://graj.to/s/Lambada-ams\niTunes Store: https://graj.to/s/Lambada-its\nYouTube Music: https://graj.to/s/Lambada-ytm\nDeezer: https://graj.to/s/Lambada-dzr\nTidal: https://graj.to/s/Lambada-tdl\nQobuz: https://graj.to/s/Lambada-qbz\nYandex Music: https://graj.to/s/Lambada-yru\nAmazon Music: https://graj.to/s/Lambada-amz",
+    "Duration": "00:02:52",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/sNT3WPgFHPA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUygzMA8=&rs=AOn4CLDgiCrx_nVG21mn6TNrOxNzVWaEfA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sNT3WPgFHPA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgUygzMA8=&rs=AOn4CLDDKIRiHMX5XLRT7-3g-jDPEQp4Mw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sNT3WPgFHPA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFMoMzAP&rs=AOn4CLA7_cqhAqoZkAELQxqNF0EMba3fqg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sNT3WPgFHPA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIFMoMzAP&rs=AOn4CLDh27-t-Kic1jba1Js5dH6TNGP_8A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sNT3WPgFHPA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgUygzMA8=&rs=AOn4CLAqjwFfCi3wyZEDanUTbIjrRhvcGQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sNT3WPgFHPA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sNT3WPgFHPA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sNT3WPgFHPA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 136328,
+      "LikeCount": 889,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

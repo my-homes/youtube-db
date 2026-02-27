@@ -1,1 +1,125 @@
-{"id":"Vs2Yf5jxv-0","title":"ウルトラマンレオ　演歌カバー　AI","file":"ウルトラマンレオ 演歌カバー AI","author":"DJ　くりきんとん","duration":"00:02:50"}
+{
+  "id": "Vs2Yf5jxv-0",
+  "title": "ウルトラマンレオ　演歌カバー　AI",
+  "author": "DJ　くりきんとん",
+  "duration": "00:02:50",
+  "detail": {
+    "Id": {
+      "Value": "Vs2Yf5jxv-0"
+    },
+    "Url": "https://www.youtube.com/watch?v=Vs2Yf5jxv-0",
+    "Title": "ウルトラマンレオ　演歌カバー　AI",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC_iUiJlRZ2gZhZNbXL4sm4Q"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC_iUiJlRZ2gZhZNbXL4sm4Q",
+      "ChannelTitle": "DJ　くりきんとん",
+      "Title": "DJ　くりきんとん"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-07T19:00:42.0000000",
+      "UtcDateTime": "2025-12-08T03:00:42.0000000Z",
+      "LocalDateTime": "2025-12-08T12:00:42.0000000+09:00",
+      "Date": "2025-12-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 341,
+      "Hour": 19,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 42,
+      "Ticks": 639007308420000000,
+      "UtcTicks": 639007596420000000,
+      "TimeOfDay": "19:00:42",
+      "Year": 2025
+    },
+    "Description": "前回好評だった演歌シリーズの第二弾ということで。\n今ではゼットやゼロの師匠として大人気ですね。\n\n本動画は、YouTubeのガイドライン／著作権ポリシーに沿って制作しています。\n原曲　ウルトラマンレオ　中村宗悟\n\n♯ウルトラマンレオ♯演歌♯ウルトラマン♯AIカバー♯ULTRAMAN♯特撮♯ヒーロー",
+    "Duration": "00:02:50",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Vs2Yf5jxv-0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB2dDALlOz_hZ46oKowpop4cAWSzQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Vs2Yf5jxv-0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDO9bpBtXS2ahNqF1K2j5Yqezjtvw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Vs2Yf5jxv-0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD40ctNHn13TIX2EGslKV2DRDvSrw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Vs2Yf5jxv-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFpTiopHJAzyVyU5Ni8USXEX7HcQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/Vs2Yf5jxv-0/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Vs2Yf5jxv-0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Vs2Yf5jxv-0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Vs2Yf5jxv-0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "ウルトラマンレオ",
+      "ウルトラマン",
+      "宇宙",
+      "AIカバー",
+      "ULTRAMAN",
+      "特撮",
+      "ヒーロー",
+      "中村宗悟",
+      "演歌"
+    ],
+    "Engagement": {
+      "ViewCount": 68582,
+      "LikeCount": 1517,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

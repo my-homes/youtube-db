@@ -1,1 +1,107 @@
-{"id":"f1vrd-dEhDE","title":"\"うる星やつら” のオープニングをAIで作ってみた！｜ どのラムちゃんが好き？","file":"”うる星やつら” のオープニングをAIで作ってみた！｜ どのラムちゃんが好き？","author":"OKAMON Music Lab","duration":"00:03:06"}
+{
+  "id": "f1vrd-dEhDE",
+  "title": "\"うる星やつら” のオープニングをAIで作ってみた！｜ どのラムちゃんが好き？",
+  "author": "OKAMON Music Lab",
+  "duration": "00:03:06",
+  "detail": {
+    "Id": {
+      "Value": "f1vrd-dEhDE"
+    },
+    "Url": "https://www.youtube.com/watch?v=f1vrd-dEhDE",
+    "Title": "\"うる星やつら” のオープニングをAIで作ってみた！｜ どのラムちゃんが好き？",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCDqm2I2QYpHyuCwMjTTWD6w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCDqm2I2QYpHyuCwMjTTWD6w",
+      "ChannelTitle": "OKAMON Music Lab",
+      "Title": "OKAMON Music Lab"
+    },
+    "UploadDate": {
+      "DateTime": "2025-05-27T04:01:11.0000000",
+      "UtcDateTime": "2025-05-27T11:01:11.0000000Z",
+      "LocalDateTime": "2025-05-27T20:01:11.0000000+09:00",
+      "Date": "2025-05-27T00:00:00.0000000",
+      "Day": 27,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 147,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 5,
+      "Offset": "-07:00:00",
+      "Second": 11,
+      "Ticks": 638839152710000000,
+      "UtcTicks": 638839404710000000,
+      "TimeOfDay": "04:01:11",
+      "Year": 2025
+    },
+    "Description": "各種音楽配信サービスでも聴けます♪\n動画よりも音質を上げてますので、よかったらどうぞ🥰\nhttps://www.tunecore.co.jp/artist?id=967387\n\nほぼラムです ('ω')\n\n絵のタッチやコスチュームを変えてるので、\n良ければ、どのシーンのラムちゃんが良かったかコメント下さい☺️\n\n\n\n#うる星やつら #ラム #ラブコメ #アニソン #Midjourney #aiアニメ #aiart #runway #sunoai",
+    "Duration": "00:03:06",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/f1vrd-dEhDE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDchgHmW5Cw3rDhqmw_iUEzk5GuXQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/f1vrd-dEhDE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCm0nvlFU8QVvDsxXaM4b_cK62WVA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/f1vrd-dEhDE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGSaZlXSPR6rTS7Srjfd79eS6Ypw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/f1vrd-dEhDE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlEPxpXQfMq_Xt3veVzlE52IaFug",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/f1vrd-dEhDE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/f1vrd-dEhDE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/f1vrd-dEhDE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 171157,
+      "LikeCount": 2005,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

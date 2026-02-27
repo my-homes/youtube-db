@@ -1,1 +1,107 @@
-{"id":"-tFjMEAtS0k","title":"【 ジャンボーグエースOP 歌詞付 】","file":"【 ジャンボーグエースOP 歌詞付 】","author":"昔、懐かし特撮ソング","duration":"00:02:49"}
+{
+  "id": "-tFjMEAtS0k",
+  "title": "【 ジャンボーグエースOP 歌詞付 】",
+  "author": "昔、懐かし特撮ソング",
+  "duration": "00:02:49",
+  "detail": {
+    "Id": {
+      "Value": "-tFjMEAtS0k"
+    },
+    "Url": "https://www.youtube.com/watch?v=-tFjMEAtS0k",
+    "Title": "【 ジャンボーグエースOP 歌詞付 】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCZ3cB5zeD8-RZyu5Ct7n73g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCZ3cB5zeD8-RZyu5Ct7n73g",
+      "ChannelTitle": "昔、懐かし特撮ソング",
+      "Title": "昔、懐かし特撮ソング"
+    },
+    "UploadDate": {
+      "DateTime": "2018-04-12T09:41:33.0000000",
+      "UtcDateTime": "2018-04-12T16:41:33.0000000Z",
+      "LocalDateTime": "2018-04-13T01:41:33.0000000+09:00",
+      "Date": "2018-04-12T00:00:00.0000000",
+      "Day": 12,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 102,
+      "Hour": 9,
+      "Millisecond": 0,
+      "Minute": 41,
+      "Month": 4,
+      "Offset": "-07:00:00",
+      "Second": 33,
+      "Ticks": 636591228930000000,
+      "UtcTicks": 636591480930000000,
+      "TimeOfDay": "09:41:33",
+      "Year": 2018
+    },
+    "Description": "",
+    "Duration": "00:02:49",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/-tFjMEAtS0k/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCAO9ygroGF5BRGTBr8z7vxfVlz7Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-tFjMEAtS0k/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBc-6e5a5Tn2VyWemhgBME-b0c_Cw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-tFjMEAtS0k/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCPfOzQj1EpdfmEyD6MrUqxTs863w",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/-tFjMEAtS0k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBJ6MyjnnbJEZlDceiFvQvDFt8rg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-tFjMEAtS0k/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-tFjMEAtS0k/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/-tFjMEAtS0k/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 735980,
+      "LikeCount": 3593,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

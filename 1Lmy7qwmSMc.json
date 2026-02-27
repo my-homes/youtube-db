@@ -1,1 +1,115 @@
-{"id":"1Lmy7qwmSMc","title":"IVE 아이브 'BLACKHOLE' MV","file":"IVE 아이브 ’BLACKHOLE’ MV","author":"STARSHIP","duration":"00:03:24"}
+{
+  "id": "1Lmy7qwmSMc",
+  "title": "IVE 아이브 'BLACKHOLE' MV",
+  "author": "STARSHIP",
+  "duration": "00:03:24",
+  "detail": {
+    "Id": {
+      "Value": "1Lmy7qwmSMc"
+    },
+    "Url": "https://www.youtube.com/watch?v=1Lmy7qwmSMc",
+    "Title": "IVE 아이브 'BLACKHOLE' MV",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCYDmx2Sfpnaxg488yBpZIGg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCYDmx2Sfpnaxg488yBpZIGg",
+      "ChannelTitle": "STARSHIP",
+      "Title": "STARSHIP"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-23T01:00:12.0000000",
+      "UtcDateTime": "2026-02-23T09:00:12.0000000Z",
+      "LocalDateTime": "2026-02-23T18:00:12.0000000+09:00",
+      "Date": "2026-02-23T00:00:00.0000000",
+      "Day": 23,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 54,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 12,
+      "Ticks": 639074052120000000,
+      "UtcTicks": 639074340120000000,
+      "TimeOfDay": "01:00:12",
+      "Year": 2026
+    },
+    "Description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF\nSTARSHIP SQUARE (Global) : https://bit.ly/4i5Dl1g\nIVE US EXCLUSIVE STORE : https://shop.ive-starship.com/  \n\nIVE X (Twitter)\n: https://twitter.com/IVEstarship\n: https://twitter.com/IVE_twt\n: https://twitter.com/IVEstarship_JP\nIVE Instagram : https://instagram.com/IVEstarship\nIVE Facebook: https://fb.me/IVEstarship \nIVE Berriz: https://berriz.in/ko/IVE\nIVE TikTok: https://www.tiktok.com/@ive.official\nIVE Weibo: https://weibo.com/ivestarship\n\n#IVE #아이브 #アイヴ",
+    "Duration": "00:03:24",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0Kll2Rvw3r05fOnz_3tu1FbPeGA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIEMZ8t5uJKld-bJqcIXOfJz65Gg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCokQ6R_CREd13ERDweIOW1ww_uw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1Lmy7qwmSMc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZPYok7IwVNiFTpAWaKYTu_zfa3Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/1Lmy7qwmSMc/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1Lmy7qwmSMc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1Lmy7qwmSMc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1Lmy7qwmSMc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 9299109,
+      "LikeCount": 264760,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

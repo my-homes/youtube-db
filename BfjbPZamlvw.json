@@ -1,1 +1,115 @@
-{"id":"BfjbPZamlvw","title":"JENNIE - Mantra | Show! Music Core | MBC aired on 241019","file":"JENNIE - Mantra ｜ Show! Music Core ｜ MBC aired on 241019","author":"MBC WORLD","duration":"00:02:30"}
+{
+  "id": "BfjbPZamlvw",
+  "title": "JENNIE - Mantra | Show! Music Core | MBC aired on 241019",
+  "author": "MBC WORLD",
+  "duration": "00:02:30",
+  "detail": {
+    "Id": {
+      "Value": "BfjbPZamlvw"
+    },
+    "Url": "https://www.youtube.com/watch?v=BfjbPZamlvw",
+    "Title": "JENNIE - Mantra | Show! Music Core | MBC aired on 241019",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC70u2e8gK14R7QfFs7ehNDw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC70u2e8gK14R7QfFs7ehNDw",
+      "ChannelTitle": "MBC WORLD",
+      "Title": "MBC WORLD"
+    },
+    "UploadDate": {
+      "DateTime": "2024-10-21T21:55:02.0000000",
+      "UtcDateTime": "2024-10-22T04:55:02.0000000Z",
+      "LocalDateTime": "2024-10-22T13:55:02.0000000+09:00",
+      "Date": "2024-10-21T00:00:00.0000000",
+      "Day": 21,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 295,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 55,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 2,
+      "Ticks": 638651445020000000,
+      "UtcTicks": 638651697020000000,
+      "TimeOfDay": "21:55:02",
+      "Year": 2024
+    },
+    "Description": "#MBCWORLD #MBCKPOP #jennie  #mantra \n각국어 번역 자막 제작: 컨텐츠 제작의 마무리는 컨텐츠플라이! 글로벌 진출을 위한 최고의 파트너, CONTENTSFLY에서 제작되었습니다\nhttps://www.contentsfly.com",
+    "Duration": "00:02:30",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/BfjbPZamlvw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAcUB5GqWfSJkHtcs40wPcwjPS4vA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/BfjbPZamlvw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBb9nvnVBdPMmvNOWHk28kSyDnkGw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/BfjbPZamlvw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1JAyAyUgE_s5ZxV8xTaZI8oQbaw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/BfjbPZamlvw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfTHD3nIMgE170oiuNQmDFiG6tNg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/BfjbPZamlvw/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/BfjbPZamlvw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/BfjbPZamlvw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/BfjbPZamlvw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1030805,
+      "LikeCount": 26410,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

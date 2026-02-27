@@ -1,1 +1,120 @@
-{"id":"4LVGu7HMQFk","title":"新機動戦記ガンダムW Endless Waltz  LAST IMPRESSION by TWO-MIX","file":"新機動戦記ガンダムW Endless Waltz  LAST IMPRESSION by TWO-MIX","author":"Otaku生活","duration":"00:07:24"}
+{
+  "id": "4LVGu7HMQFk",
+  "title": "新機動戦記ガンダムW Endless Waltz  LAST IMPRESSION by TWO-MIX",
+  "author": "Otaku生活",
+  "duration": "00:07:24",
+  "detail": {
+    "Id": {
+      "Value": "4LVGu7HMQFk"
+    },
+    "Url": "https://www.youtube.com/watch?v=4LVGu7HMQFk",
+    "Title": "新機動戦記ガンダムW Endless Waltz  LAST IMPRESSION by TWO-MIX",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCLqoqwnlYTlhrEPdyhz28rQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCLqoqwnlYTlhrEPdyhz28rQ",
+      "ChannelTitle": "Otaku生活",
+      "Title": "Otaku生活"
+    },
+    "UploadDate": {
+      "DateTime": "2020-10-03T07:25:05.0000000",
+      "UtcDateTime": "2020-10-03T14:25:05.0000000Z",
+      "LocalDateTime": "2020-10-03T23:25:05.0000000+09:00",
+      "Date": "2020-10-03T00:00:00.0000000",
+      "Day": 3,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 277,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 25,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 5,
+      "Ticks": 637373067050000000,
+      "UtcTicks": 637373319050000000,
+      "TimeOfDay": "07:25:05",
+      "Year": 2020
+    },
+    "Description": "Wing Zero Ver.KA 11月発売、早く手に入りたいな...\n作詞：永野椎菜、作曲：高山みなみ、編曲・唄：TWO-MIX\nThe content of this video is purely for exposure of the show and / or for promotional purpose only. \nAll music and video belong to the original creators.\nすべての権利は正当な所有者 / 作成者に帰属します。あなたがこの音楽（または画像）の作成者で、この動画に使用されたくない場合はメッセージまたはこのYouTubeチャンネルの概要のメールアドレスにご連絡ください。私はすぐに削除します。",
+    "Duration": "00:07:24",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/4LVGu7HMQFk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCU821VIuyqfaYVxefT2yhR-1dODQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4LVGu7HMQFk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAzreK1EZbPbZemM3Wgjid0pSq23w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4LVGu7HMQFk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQUAj-HEJtI7HFuqZRSx7xiMJ29A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4LVGu7HMQFk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvnZcSKH7xrtVSuKlR5X4T21IgjA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/4LVGu7HMQFk/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4LVGu7HMQFk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4LVGu7HMQFk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4LVGu7HMQFk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "WING ZERO",
+      "AMV",
+      "GUMDAN W",
+      "GUMDAN"
+    ],
+    "Engagement": {
+      "ViewCount": 4799123,
+      "LikeCount": 19392,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

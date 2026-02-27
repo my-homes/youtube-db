@@ -1,1 +1,121 @@
-{"id":"aDAx5C6Dlao","title":"JENNIE (제니) - MANTRA (CRAZY ver.)","file":"JENNIE (제니) - MANTRA (CRAZY ver.)","author":"dijei 디제이","duration":"00:02:21"}
+{
+  "id": "aDAx5C6Dlao",
+  "title": "JENNIE (제니) - MANTRA (CRAZY ver.)",
+  "author": "dijei 디제이",
+  "duration": "00:02:21",
+  "detail": {
+    "Id": {
+      "Value": "aDAx5C6Dlao"
+    },
+    "Url": "https://www.youtube.com/watch?v=aDAx5C6Dlao",
+    "Title": "JENNIE (제니) - MANTRA (CRAZY ver.)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCATWDUoDV_EKkENCOKuZSsg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCATWDUoDV_EKkENCOKuZSsg",
+      "ChannelTitle": "dijei 디제이",
+      "Title": "dijei 디제이"
+    },
+    "UploadDate": {
+      "DateTime": "2024-10-11T19:53:04.0000000",
+      "UtcDateTime": "2024-10-12T02:53:04.0000000Z",
+      "LocalDateTime": "2024-10-12T11:53:04.0000000+09:00",
+      "Date": "2024-10-11T00:00:00.0000000",
+      "Day": 11,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 285,
+      "Hour": 19,
+      "Millisecond": 0,
+      "Minute": 53,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 4,
+      "Ticks": 638642731840000000,
+      "UtcTicks": 638642983840000000,
+      "TimeOfDay": "19:53:04",
+      "Year": 2024
+    },
+    "Description": "JENNIE - MANTRA x LE SSERAFIM - CRAZY\n사클: https://soundcloud.com/aidijei/jennie-mantra-crazy-ver\n\nhttps://app.sorisori.ai 에서 쉽고 빠르게 직접 만들어 보실 수 있습니다!\n소리소리AI 50%할인코드: DIJEI24\n\nsoundcloud: https://soundcloud.com/aidijei\nsupport me: https://www.buymeacoffee.com/dijei\ninquiries: dijeiofficial@gmail.com\n\n#jennie #jenniekim #jennierubyjane #blackpink #blackpinkjennie #제니 #만트라 #lesserafim #르세라핌 #remix #mashup #리믹스 #매시업  #ai커버 #aimusic #aicover #kpop #khh #krnb",
+    "Duration": "00:02:21",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/aDAx5C6Dlao/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAUU4CnyYbjjQnHdgc0tS_bjx2bhg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aDAx5C6Dlao/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCof7dLeQ4By3njMkpQc6r2sBz4Dg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aDAx5C6Dlao/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY7BMbRhi7LFXZM_sDuoaK7IpYjw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aDAx5C6Dlao/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzEuagAR1OVg0Z3lIKpOjvYmRFew",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/aDAx5C6Dlao/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aDAx5C6Dlao/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aDAx5C6Dlao/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/aDAx5C6Dlao/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "#aimusic",
+      "#aicover",
+      "ai",
+      "cover",
+      "ai커버"
+    ],
+    "Engagement": {
+      "ViewCount": 636569,
+      "LikeCount": 29003,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

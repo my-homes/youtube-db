@@ -1,1 +1,115 @@
-{"id":"ElewKzmOKfA","title":"Sailor Moon Cosmos Moonlight Densetsu Original Music Video [Fan Made] 〈ムーンライト伝説〉","file":"Sailor Moon Cosmos Moonlight Densetsu Original Music Video [Fan Made] 〈ムーンライト伝説〉","author":"セーラー考察部","duration":"00:03:00"}
+{
+  "id": "ElewKzmOKfA",
+  "title": "Sailor Moon Cosmos Moonlight Densetsu Original Music Video [Fan Made] 〈ムーンライト伝説〉",
+  "author": "セーラー考察部",
+  "duration": "00:03:00",
+  "detail": {
+    "Id": {
+      "Value": "ElewKzmOKfA"
+    },
+    "Url": "https://www.youtube.com/watch?v=ElewKzmOKfA",
+    "Title": "Sailor Moon Cosmos Moonlight Densetsu Original Music Video [Fan Made] 〈ムーンライト伝説〉",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCZc_bJSG5iMmCr1mDTiEMzg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCZc_bJSG5iMmCr1mDTiEMzg",
+      "ChannelTitle": "セーラー考察部",
+      "Title": "セーラー考察部"
+    },
+    "UploadDate": {
+      "DateTime": "2023-10-27T02:45:02.0000000",
+      "UtcDateTime": "2023-10-27T09:45:02.0000000Z",
+      "LocalDateTime": "2023-10-27T18:45:02.0000000+09:00",
+      "Date": "2023-10-27T00:00:00.0000000",
+      "Day": 27,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 300,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 45,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 2,
+      "Ticks": 638339715020000000,
+      "UtcTicks": 638339967020000000,
+      "TimeOfDay": "02:45:02",
+      "Year": 2023
+    },
+    "Description": "",
+    "Duration": "00:03:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/ElewKzmOKfA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCqV6keNC4bjiJDMlabbQXLi1zW9Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ElewKzmOKfA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAH8FILQRqYTmfY8uXpQTtLMRDegQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ElewKzmOKfA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJYWeqEp0QvAu0YgBWxcPeoPqsUw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ElewKzmOKfA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCNP3RLnMwuwhYsJPKZNjDTa88H8g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/ElewKzmOKfA/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ElewKzmOKfA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ElewKzmOKfA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ElewKzmOKfA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 812327,
+      "LikeCount": 6442,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

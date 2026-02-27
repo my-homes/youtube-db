@@ -1,1 +1,115 @@
-{"id":"ibitJDbJ-5A","title":"沢田研二 【勝手にしやがれ 】メタルversion もしもAI シンガーの Lunaが 沢田研二の勝手にしやがれを歌ってみたら[AI cover]","file":"沢田研二 【勝手にしやがれ 】メタルversion もしもAI シンガーの Lunaが 沢田研二の勝手にしやがれを歌ってみたら[AI cover]","author":"Neon Duet Luna and Sun もしもAI","duration":"00:03:36"}
+{
+  "id": "ibitJDbJ-5A",
+  "title": "沢田研二 【勝手にしやがれ 】メタルversion もしもAI シンガーの Lunaが 沢田研二の勝手にしやがれを歌ってみたら[AI cover]",
+  "author": "Neon Duet Luna and Sun もしもAI",
+  "duration": "00:03:36",
+  "detail": {
+    "Id": {
+      "Value": "ibitJDbJ-5A"
+    },
+    "Url": "https://www.youtube.com/watch?v=ibitJDbJ-5A",
+    "Title": "沢田研二 【勝手にしやがれ 】メタルversion もしもAI シンガーの Lunaが 沢田研二の勝手にしやがれを歌ってみたら[AI cover]",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCRnZUx8RRqB0TFD5S-ajKNQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCRnZUx8RRqB0TFD5S-ajKNQ",
+      "ChannelTitle": "Neon Duet Luna and Sun もしもAI",
+      "Title": "Neon Duet Luna and Sun もしもAI"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-21T06:22:05.0000000",
+      "UtcDateTime": "2025-12-21T14:22:05.0000000Z",
+      "LocalDateTime": "2025-12-21T23:22:05.0000000+09:00",
+      "Date": "2025-12-21T00:00:00.0000000",
+      "Day": 21,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 355,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 22,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 5,
+      "Ticks": 639018949250000000,
+      "UtcTicks": 639019237250000000,
+      "TimeOfDay": "06:22:05",
+      "Year": 2025
+    },
+    "Description": "沢田研二の勝手にしやがれをAIが歌ってみたら\n#沢田研二\n#ジュリー\n#勝手にしやがれ\n#jpop\n#AIcover\n#かわいい\n#メタル\n#metal\n#heavymetal\n#女性シンガー\n#famalevoice",
+    "Duration": "00:03:36",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/ibitJDbJ-5A/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBLSlhXYIhyKWE-XfNcxTWkzNyHtg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ibitJDbJ-5A/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCsB3VfSaB9IQ5o38X94V9y4FvAeA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ibitJDbJ-5A/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMI01BhK7EuQtLG-4Twp3__fpLyg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ibitJDbJ-5A/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADWWa36iyDweyqFYdisaH5gGTQ5Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/ibitJDbJ-5A/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ibitJDbJ-5A/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ibitJDbJ-5A/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ibitJDbJ-5A/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 7522,
+      "LikeCount": 76,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

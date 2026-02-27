@@ -1,1 +1,107 @@
-{"id":"PRiMJHV8cBQ","title":"宇宙海賊キャプテンハーロック","file":"宇宙海賊キャプテンハーロック","author":"ZAKU0421","duration":"00:03:34"}
+{
+  "id": "PRiMJHV8cBQ",
+  "title": "宇宙海賊キャプテンハーロック",
+  "author": "ZAKU0421",
+  "duration": "00:03:34",
+  "detail": {
+    "Id": {
+      "Value": "PRiMJHV8cBQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=PRiMJHV8cBQ",
+    "Title": "宇宙海賊キャプテンハーロック",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCACipuPaD1vtlPkgsv_XUzQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCACipuPaD1vtlPkgsv_XUzQ",
+      "ChannelTitle": "ZAKU0421",
+      "Title": "ZAKU0421"
+    },
+    "UploadDate": {
+      "DateTime": "2013-11-18T07:59:08.0000000",
+      "UtcDateTime": "2013-11-18T15:59:08.0000000Z",
+      "LocalDateTime": "2013-11-19T00:59:08.0000000+09:00",
+      "Date": "2013-11-18T00:00:00.0000000",
+      "Day": 18,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 322,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 59,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 8,
+      "Ticks": 635203583480000000,
+      "UtcTicks": 635203871480000000,
+      "TimeOfDay": "07:59:08",
+      "Year": 2013
+    },
+    "Description": "description",
+    "Duration": "00:03:34",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/PRiMJHV8cBQ/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGHIgVCg2MA8=&rs=AOn4CLC_2Edz6avC1O4e7128y-nFnDOo8A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/PRiMJHV8cBQ/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGHIgVCg2MA8=&rs=AOn4CLD8P0fw0lM_hFI--NjO7DzKmzkPmg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/PRiMJHV8cBQ/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIFQoNjAP&rs=AOn4CLBp3jb8YGOnf5FAqhsuTXAieSDqHQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/PRiMJHV8cBQ/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhyIFQoNjAP&rs=AOn4CLBqwvvFwk8ATzB9KzasNEiKYYCH0A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/PRiMJHV8cBQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/PRiMJHV8cBQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/PRiMJHV8cBQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 3446348,
+      "LikeCount": 14889,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,107 @@
-{"id":"0efBc6HFMYo","title":"必殺始末人 南野陽子 田原俊彦","file":"必殺始末人 南野陽子 田原俊彦","author":"yoshimi","duration":"00:08:00"}
+{
+  "id": "0efBc6HFMYo",
+  "title": "必殺始末人 南野陽子 田原俊彦",
+  "author": "yoshimi",
+  "duration": "00:08:00",
+  "detail": {
+    "Id": {
+      "Value": "0efBc6HFMYo"
+    },
+    "Url": "https://www.youtube.com/watch?v=0efBc6HFMYo",
+    "Title": "必殺始末人 南野陽子 田原俊彦",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCzctoTm0rh_bZRZysl_aDJQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCzctoTm0rh_bZRZysl_aDJQ",
+      "ChannelTitle": "yoshimi",
+      "Title": "yoshimi"
+    },
+    "UploadDate": {
+      "DateTime": "2022-08-13T00:53:50.0000000",
+      "UtcDateTime": "2022-08-13T07:53:50.0000000Z",
+      "LocalDateTime": "2022-08-13T16:53:50.0000000+09:00",
+      "Date": "2022-08-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 225,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 53,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 50,
+      "Ticks": 637959488300000000,
+      "UtcTicks": 637959740300000000,
+      "TimeOfDay": "00:53:50",
+      "Year": 2022
+    },
+    "Description": "松竹チャンネル https://www.youtube.com/@ShochikuOfficial\n松竹 必殺始末人 https://www.shochiku.co.jp/cinema/database/04465/\nhttps://youtu.be/-nFxvjNl934\nhttps://youtu.be/Vj_mUGdLwP8",
+    "Duration": "00:08:00",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/0efBc6HFMYo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkFqULkFX8nSd2JxL7tQxlovAZKQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0efBc6HFMYo/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA08VDZAPUheaalDry20VaNAyYikg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0efBc6HFMYo/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBT_4uYWbD9tJrR53Byv_yuM4JYww",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0efBc6HFMYo/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAY61Xzau-F--KrllO_5VcoXg4fOQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0efBc6HFMYo/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0efBc6HFMYo/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0efBc6HFMYo/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 176381,
+      "LikeCount": 974,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

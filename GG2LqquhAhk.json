@@ -1,1 +1,107 @@
-{"id":"GG2LqquhAhk","title":"【Gメン'75 メインテーマ】エレクトーン演奏","file":"【Gメン’75 メインテーマ】エレクトーン演奏","author":"mayu music channel🌻","duration":"00:02:39"}
+{
+  "id": "GG2LqquhAhk",
+  "title": "【Gメン'75 メインテーマ】エレクトーン演奏",
+  "author": "mayu music channel🌻",
+  "duration": "00:02:39",
+  "detail": {
+    "Id": {
+      "Value": "GG2LqquhAhk"
+    },
+    "Url": "https://www.youtube.com/watch?v=GG2LqquhAhk",
+    "Title": "【Gメン'75 メインテーマ】エレクトーン演奏",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCpyVJPBO62q0qZD1x3AYF5g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCpyVJPBO62q0qZD1x3AYF5g",
+      "ChannelTitle": "mayu music channel🌻",
+      "Title": "mayu music channel🌻"
+    },
+    "UploadDate": {
+      "DateTime": "2024-09-14T04:00:25.0000000",
+      "UtcDateTime": "2024-09-14T11:00:25.0000000Z",
+      "LocalDateTime": "2024-09-14T20:00:25.0000000+09:00",
+      "Date": "2024-09-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 258,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 25,
+      "Ticks": 638618832250000000,
+      "UtcTicks": 638619084250000000,
+      "TimeOfDay": "04:00:25",
+      "Year": 2024
+    },
+    "Description": "リクエスト曲...♪*ﾟ\n\n\n#electone #エレクトーン #エレクトーン弾いてみた #エレクトーン演奏 #演奏してみた #演奏動画 #電子オルガン #gメン \n\n\n♪使用楽譜\nGメン'75 メイン・テーマ [STAGEAエレクトーンで弾く (グレード7〜5級) Vol.62 テレビドラマ・スーパーヒット10 (1960〜70年代編)]\n\nhttps://www.print-gakufu.com/score/detail/439143/",
+    "Duration": "00:02:39",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/GG2LqquhAhk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDEw56G31-JXJXd19S4dFFTPxTHAg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/GG2LqquhAhk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDZPSstkI6Z25R-5tVgaNA2gqjc-w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/GG2LqquhAhk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwsxeXuKe7-RxdliH4cBofEJVKtQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/GG2LqquhAhk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxPjrd3UdjpAw5AdV9HmjKKcCf8Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/GG2LqquhAhk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/GG2LqquhAhk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/GG2LqquhAhk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 13864,
+      "LikeCount": 256,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

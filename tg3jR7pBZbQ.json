@@ -1,1 +1,107 @@
-{"id":"tg3jR7pBZbQ","title":"T-ARA MV Remix Kpop","file":"T-ARA MV Remix Kpop","author":"활짱","duration":"01:02:38"}
+{
+  "id": "tg3jR7pBZbQ",
+  "title": "T-ARA MV Remix Kpop",
+  "author": "활짱",
+  "duration": "01:02:38",
+  "detail": {
+    "Id": {
+      "Value": "tg3jR7pBZbQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=tg3jR7pBZbQ",
+    "Title": "T-ARA MV Remix Kpop",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCIZ7yjxZAV41RqdLLz6d80A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCIZ7yjxZAV41RqdLLz6d80A",
+      "ChannelTitle": "활짱",
+      "Title": "활짱"
+    },
+    "UploadDate": {
+      "DateTime": "2022-07-16T00:18:44.0000000",
+      "UtcDateTime": "2022-07-16T07:18:44.0000000Z",
+      "LocalDateTime": "2022-07-16T16:18:44.0000000+09:00",
+      "Date": "2022-07-16T00:00:00.0000000",
+      "Day": 16,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 197,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 18,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 44,
+      "Ticks": 637935275240000000,
+      "UtcTicks": 637935527240000000,
+      "TimeOfDay": "00:18:44",
+      "Year": 2022
+    },
+    "Description": "",
+    "Duration": "01:02:38",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/tg3jR7pBZbQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLChnOQEG_rkqFn5QRbAv6bHHcs2iA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tg3jR7pBZbQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdzpEQyTbCQaO5cdnbmIblnbnXWw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tg3jR7pBZbQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKfNvELs16ZIHumEQf7k_YX7VwKQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tg3jR7pBZbQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB9dg6HBqhd0nY5--LSC_VaohhhtQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tg3jR7pBZbQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tg3jR7pBZbQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tg3jR7pBZbQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1267262,
+      "LikeCount": 11509,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

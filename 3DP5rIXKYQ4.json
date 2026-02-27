@@ -1,1 +1,125 @@
-{"id":"3DP5rIXKYQ4","title":"JENNIE - Mantra (Jimmy Kimmel Live!)","file":"JENNIE - Mantra (Jimmy Kimmel Live!)","author":"JennieRubyJaneVEVO","duration":"00:02:32"}
+{
+  "id": "3DP5rIXKYQ4",
+  "title": "JENNIE - Mantra (Jimmy Kimmel Live!)",
+  "author": "JennieRubyJaneVEVO",
+  "duration": "00:02:32",
+  "detail": {
+    "Id": {
+      "Value": "3DP5rIXKYQ4"
+    },
+    "Url": "https://www.youtube.com/watch?v=3DP5rIXKYQ4",
+    "Title": "JENNIE - Mantra (Jimmy Kimmel Live!)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCN9_L9lA9kqJbGANLRus_1A"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCN9_L9lA9kqJbGANLRus_1A",
+      "ChannelTitle": "JennieRubyJaneVEVO",
+      "Title": "JennieRubyJaneVEVO"
+    },
+    "UploadDate": {
+      "DateTime": "2024-10-16T00:00:02.0000000",
+      "UtcDateTime": "2024-10-16T07:00:02.0000000Z",
+      "LocalDateTime": "2024-10-16T16:00:02.0000000+09:00",
+      "Date": "2024-10-16T00:00:00.0000000",
+      "Day": 16,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 290,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 2,
+      "Ticks": 638646336020000000,
+      "UtcTicks": 638646588020000000,
+      "TimeOfDay": "00:00:02",
+      "Year": 2024
+    },
+    "Description": "Jimmy Kimmel Live! Performance for “Mantra” by JENNIE out now: https://jennie.lnk.to/mantra\n\nFollow JENNIE -\n\nInstagram: https://www.instagram.com/jennierubyjane\nTikTok: https://www.tiktok.com/@jennierubyjane\nTwitter: https://twitter.com/jennierubyjane\n\nhttps://jenn.ie\n\n#JENNIE #Mantra #JimmyKimmelLive",
+    "Duration": "00:02:32",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/3DP5rIXKYQ4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3KrIVNj9z2MTjFwa_hiaTUc6t_A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3DP5rIXKYQ4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfFsp857-5_qi01D5SzVujCd8pTg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3DP5rIXKYQ4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjk8eiKx4OYiubtSRFuKXtRlBiyA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/3DP5rIXKYQ4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsMPc2dYduENrmZJYt_U_u-GxbKA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/3DP5rIXKYQ4/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3DP5rIXKYQ4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3DP5rIXKYQ4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/3DP5rIXKYQ4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Jimmy Kimmel Live",
+      "JENNIE Performance",
+      "Mantra Performance",
+      "This That Pretty Girl Mantra",
+      "Mantra Dance",
+      "JENNIE Kimmel",
+      "JENNIE",
+      "K-Pop",
+      "Mantra"
+    ],
+    "Engagement": {
+      "ViewCount": 15561500,
+      "LikeCount": 614868,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

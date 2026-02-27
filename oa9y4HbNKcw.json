@@ -1,1 +1,123 @@
-{"id":"oa9y4HbNKcw","title":"[Vietsub/歌詞付き] 君をのせて - Kimi wo nosete","file":"[Vietsub／歌詞付き] 君をのせて - Kimi wo nosete","author":"Kientit","duration":"00:03:18"}
+{
+  "id": "oa9y4HbNKcw",
+  "title": "[Vietsub/歌詞付き] 君をのせて - Kimi wo nosete",
+  "author": "Kientit",
+  "duration": "00:03:18",
+  "detail": {
+    "Id": {
+      "Value": "oa9y4HbNKcw"
+    },
+    "Url": "https://www.youtube.com/watch?v=oa9y4HbNKcw",
+    "Title": "[Vietsub/歌詞付き] 君をのせて - Kimi wo nosete",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClREgTjzs8-n8aPkmfzcM6w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClREgTjzs8-n8aPkmfzcM6w",
+      "ChannelTitle": "Kientit",
+      "Title": "Kientit"
+    },
+    "UploadDate": {
+      "DateTime": "2019-05-12T08:14:16.0000000",
+      "UtcDateTime": "2019-05-12T15:14:16.0000000Z",
+      "LocalDateTime": "2019-05-13T00:14:16.0000000+09:00",
+      "Date": "2019-05-12T00:00:00.0000000",
+      "Day": 12,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 132,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 14,
+      "Month": 5,
+      "Offset": "-07:00:00",
+      "Second": 16,
+      "Ticks": 636932456560000000,
+      "UtcTicks": 636932708560000000,
+      "TimeOfDay": "08:14:16",
+      "Year": 2019
+    },
+    "Description": "Laputa: Castle in the sky -  Ending song\nEnjoy!",
+    "Duration": "00:03:18",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/oa9y4HbNKcw/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gVShlMA8=&rs=AOn4CLAu2UwWm4o8snuhnC5oG-tZfvC49Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/oa9y4HbNKcw/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gVShlMA8=&rs=AOn4CLDHt-0GLV2go18jx81ablLi0LVSMA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/oa9y4HbNKcw/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFUoZTAP&rs=AOn4CLCzAAS14D9ZLjT2wLoVOiqVczJaVw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/oa9y4HbNKcw/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IFUoZTAP&rs=AOn4CLAXDKRuj5Pj52MkrDDM-qBTDTsK_Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/oa9y4HbNKcw/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gVShlMA8=&rs=AOn4CLA-7YbCqsDfobbD84NIcFF1LAC3Ng",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/oa9y4HbNKcw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/oa9y4HbNKcw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/oa9y4HbNKcw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Kimi wo nosete",
+      "君をのせて",
+      "Castle",
+      "Tenkuu no Shiro Laputa",
+      "Castle in the Sky",
+      "Ghibli",
+      "Vietsub"
+    ],
+    "Engagement": {
+      "ViewCount": 7327335,
+      "LikeCount": 48036,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

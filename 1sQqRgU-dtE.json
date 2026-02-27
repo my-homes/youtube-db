@@ -1,1 +1,121 @@
-{"id":"1sQqRgU-dtE","title":"Iria Solari VS Gundam EX RX-78 | Gundam: Requiem for Vengeance","file":"Iria Solari VS Gundam EX RX-78 ｜ Gundam： Requiem for Vengeance","author":"Extra Heroes","duration":"00:03:09"}
+{
+  "id": "1sQqRgU-dtE",
+  "title": "Iria Solari VS Gundam EX RX-78 | Gundam: Requiem for Vengeance",
+  "author": "Extra Heroes",
+  "duration": "00:03:09",
+  "detail": {
+    "Id": {
+      "Value": "1sQqRgU-dtE"
+    },
+    "Url": "https://www.youtube.com/watch?v=1sQqRgU-dtE",
+    "Title": "Iria Solari VS Gundam EX RX-78 | Gundam: Requiem for Vengeance",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCIHHdhSy14s1JSpyD3wVSdg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCIHHdhSy14s1JSpyD3wVSdg",
+      "ChannelTitle": "Extra Heroes",
+      "Title": "Extra Heroes"
+    },
+    "UploadDate": {
+      "DateTime": "2024-10-17T02:43:54.0000000",
+      "UtcDateTime": "2024-10-17T09:43:54.0000000Z",
+      "LocalDateTime": "2024-10-17T18:43:54.0000000+09:00",
+      "Date": "2024-10-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 291,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 43,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 54,
+      "Ticks": 638647298340000000,
+      "UtcTicks": 638647550340000000,
+      "TimeOfDay": "02:43:54",
+      "Year": 2024
+    },
+    "Description": "New anime live action adaptation beam saber fight scene\nZeon VS Federation, Captain Iria and her team infiltrate the federation camp. The Kid Gundam kills Lesean, RX 78 destroys the Mobile Suit and Alfee Zeon army.\n#gundam #netflix #liveaction",
+    "Duration": "00:03:09",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/1sQqRgU-dtE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAU9hC5X76D7X-JGIUw6OzVAxT8rA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1sQqRgU-dtE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBiojy-IF2pUK1E-H3Y8JGLaURdVg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1sQqRgU-dtE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjcLtBljMZS4Goxkv_OvR2-MAfNw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/1sQqRgU-dtE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC7fnZWWRpcFb3NjrJsSZ0vn3LE5A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/1sQqRgU-dtE/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1sQqRgU-dtE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1sQqRgU-dtE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/1sQqRgU-dtE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Netflix",
+      "Action",
+      "Gundam",
+      "Anime",
+      "Live Action"
+    ],
+    "Engagement": {
+      "ViewCount": 688864,
+      "LikeCount": 5311,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

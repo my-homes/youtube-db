@@ -1,1 +1,115 @@
-{"id":"dpkzalOV3Ng","title":"KARA - Pop Star + Mister  (2014)","file":"KARA - Pop Star + Mister  (2014)","author":"KaraTour2014","duration":"00:06:54"}
+{
+  "id": "dpkzalOV3Ng",
+  "title": "KARA - Pop Star + Mister  (2014)",
+  "author": "KaraTour2014",
+  "duration": "00:06:54",
+  "detail": {
+    "Id": {
+      "Value": "dpkzalOV3Ng"
+    },
+    "Url": "https://www.youtube.com/watch?v=dpkzalOV3Ng",
+    "Title": "KARA - Pop Star + Mister  (2014)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCJEw5r-z62xKX6zNcWcGy-Q"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCJEw5r-z62xKX6zNcWcGy-Q",
+      "ChannelTitle": "KaraTour2014",
+      "Title": "KaraTour2014"
+    },
+    "UploadDate": {
+      "DateTime": "2016-09-26T06:30:04.0000000",
+      "UtcDateTime": "2016-09-26T13:30:04.0000000Z",
+      "LocalDateTime": "2016-09-26T22:30:04.0000000+09:00",
+      "Date": "2016-09-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 270,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 4,
+      "Ticks": 636104682040000000,
+      "UtcTicks": 636104934040000000,
+      "TimeOfDay": "06:30:04",
+      "Year": 2016
+    },
+    "Description": "",
+    "Duration": "00:06:54",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/dpkzalOV3Ng/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gQCh_MA8=&rs=AOn4CLAQ2xcqci1yZs8cqb-AL3eX7cDedQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dpkzalOV3Ng/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGD4gQCh_MA8=&rs=AOn4CLBTNPXCVB6nlUWC4vrnZHdDDDY7fA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dpkzalOV3Ng/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IEAofzAP&rs=AOn4CLCN43N079QsJYckrOYOyKt7iB7ALw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dpkzalOV3Ng/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARg-IEAofzAP&rs=AOn4CLD3nDTtEP8s_aOyf-2FMo6lBXdAFg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/dpkzalOV3Ng/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGD4gQCh_MA8=&rs=AOn4CLCVCvMji1VsS6I3PgfkQQXWBFr3MA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dpkzalOV3Ng/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dpkzalOV3Ng/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/dpkzalOV3Ng/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 702931,
+      "LikeCount": 3850,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,125 @@
-{"id":"ksv6XrkLBwc","title":"好きだな君が / 道重さゆみ","file":"好きだな君が ／ 道重さゆみ","author":"Hello!MM","duration":"00:02:45"}
+{
+  "id": "ksv6XrkLBwc",
+  "title": "好きだな君が / 道重さゆみ",
+  "author": "Hello!MM",
+  "duration": "00:02:45",
+  "detail": {
+    "Id": {
+      "Value": "ksv6XrkLBwc"
+    },
+    "Url": "https://www.youtube.com/watch?v=ksv6XrkLBwc",
+    "Title": "好きだな君が / 道重さゆみ",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCvVxt6Usj6t_oWR3EQWPQxw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCvVxt6Usj6t_oWR3EQWPQxw",
+      "ChannelTitle": "Hello!MM",
+      "Title": "Hello!MM"
+    },
+    "UploadDate": {
+      "DateTime": "2023-08-14T15:20:33.0000000",
+      "UtcDateTime": "2023-08-14T22:20:33.0000000Z",
+      "LocalDateTime": "2023-08-15T07:20:33.0000000+09:00",
+      "Date": "2023-08-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 226,
+      "Hour": 15,
+      "Millisecond": 0,
+      "Minute": 20,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 33,
+      "Ticks": 638276232330000000,
+      "UtcTicks": 638276484330000000,
+      "TimeOfDay": "15:20:33",
+      "Year": 2023
+    },
+    "Description": "",
+    "Duration": "00:02:45",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/ksv6XrkLBwc/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFMgOyhyMA8=&rs=AOn4CLD51nzdxQPqmJQrumUulXMRlucJ6g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ksv6XrkLBwc/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGFMgOyhyMA8=&rs=AOn4CLBVdgajZVp0Es1Zef1BqNT3okbxJg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ksv6XrkLBwc/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIDsocjAP&rs=AOn4CLBGNj4R0MXB8Y-ZWzlZnhYcsGeZ9A",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ksv6XrkLBwc/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhTIDsocjAP&rs=AOn4CLAbuj49pjAK2uxCrdOP8jTcKLkqaw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ksv6XrkLBwc/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGFMgOyhyMA8=&rs=AOn4CLB5Hyd_jDGcgG413G5UCTF0gw3vVQ",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ksv6XrkLBwc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ksv6XrkLBwc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ksv6XrkLBwc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "モーニング娘。",
+      "モーニング娘",
+      "MORNING MUSUME",
+      "モーニング娘。 ’16",
+      "モーニング娘。 ’17",
+      "モーニング娘。 ’18",
+      "モーニング娘。 ’19",
+      "モーニング娘。 ’20",
+      "モーニング娘。 ’21"
+    ],
+    "Engagement": {
+      "ViewCount": 4094,
+      "LikeCount": 84,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,1 +1,123 @@
-{"id":"Xn_YZ0K232M","title":"【MAD】機動戦士ガンダム　　　BEYOND THE TIME ～メビウスの宇宙を越えて～","file":"【MAD】機動戦士ガンダム   BEYOND THE TIME ～メビウスの宇宙を越えて～","author":"Raiza","duration":"00:05:36"}
+{
+  "id": "Xn_YZ0K232M",
+  "title": "【MAD】機動戦士ガンダム　　　BEYOND THE TIME ～メビウスの宇宙を越えて～",
+  "author": "Raiza",
+  "duration": "00:05:36",
+  "detail": {
+    "Id": {
+      "Value": "Xn_YZ0K232M"
+    },
+    "Url": "https://www.youtube.com/watch?v=Xn_YZ0K232M",
+    "Title": "【MAD】機動戦士ガンダム　　　BEYOND THE TIME ～メビウスの宇宙を越えて～",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC1R_sj32ExjoHm8-l8pBjMA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC1R_sj32ExjoHm8-l8pBjMA",
+      "ChannelTitle": "Raiza",
+      "Title": "Raiza"
+    },
+    "UploadDate": {
+      "DateTime": "2023-06-04T23:23:48.0000000",
+      "UtcDateTime": "2023-06-05T06:23:48.0000000Z",
+      "LocalDateTime": "2023-06-05T15:23:48.0000000+09:00",
+      "Date": "2023-06-04T00:00:00.0000000",
+      "Day": 4,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 155,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 23,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 48,
+      "Ticks": 638215178280000000,
+      "UtcTicks": 638215430280000000,
+      "TimeOfDay": "23:23:48",
+      "Year": 2023
+    },
+    "Description": "お借りした曲は森口博子さんがカヴァーした「BEYOND THE TIME ～メビウスの宇宙を越えて～」（2022年バージョン）になります。\n＃機動戦士ガンダム\n\n\n\n\nお借りした曲https://www.youtube.com/watch?v=_2xBsSKVeX8&ab_channel=HirokoMoriguchi-Topic",
+    "Duration": "00:05:36",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Xn_YZ0K232M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDoJvHzlMViygYrEvuD6UA0ypdxUw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Xn_YZ0K232M/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7dgalWPNXN2s362VZbFCSXtdsXw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Xn_YZ0K232M/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBPuGSNN4XRPkeoDB-l7LbNG-8xTg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Xn_YZ0K232M/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDMFHGVT6Z3LWm7jcZ-4-USqXh8qA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/Xn_YZ0K232M/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Xn_YZ0K232M/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Xn_YZ0K232M/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Xn_YZ0K232M/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "機動戦士ガンダム",
+      "森口博子",
+      "メビウスの宇宙を越えて",
+      "ガンダムオリジン",
+      "ククルスドアンの島",
+      "オリジン",
+      "ORIGIN"
+    ],
+    "Engagement": {
+      "ViewCount": 1634265,
+      "LikeCount": 11674,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

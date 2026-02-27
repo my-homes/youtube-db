@@ -1,1 +1,113 @@
-{"id":"Zhu8FYd3Krc","title":"ウルトラマンタロウ 最終回 さらばタロウよ！","file":"ウルトラマンタロウ 最終回 さらばタロウよ！","author":"peace7755","duration":"00:03:09"}
+{
+  "id": "Zhu8FYd3Krc",
+  "title": "ウルトラマンタロウ 最終回 さらばタロウよ！",
+  "author": "peace7755",
+  "duration": "00:03:09",
+  "detail": {
+    "Id": {
+      "Value": "Zhu8FYd3Krc"
+    },
+    "Url": "https://www.youtube.com/watch?v=Zhu8FYd3Krc",
+    "Title": "ウルトラマンタロウ 最終回 さらばタロウよ！",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC9p1j5SpNmcc7HJwCx9UF3Q"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC9p1j5SpNmcc7HJwCx9UF3Q",
+      "ChannelTitle": "peace7755",
+      "Title": "peace7755"
+    },
+    "UploadDate": {
+      "DateTime": "2025-03-20T02:51:24.0000000",
+      "UtcDateTime": "2025-03-20T09:51:24.0000000Z",
+      "LocalDateTime": "2025-03-20T18:51:24.0000000+09:00",
+      "Date": "2025-03-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 79,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 51,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 24,
+      "Ticks": 638780358840000000,
+      "UtcTicks": 638780610840000000,
+      "TimeOfDay": "02:51:24",
+      "Year": 2025
+    },
+    "Description": "第53話 ｢さらばタロウよ！ウルトラの母よ！｣",
+    "Duration": "00:03:09",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Zhu8FYd3Krc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAPPeVT658ylQlcbnpi3dhY9Ec39A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Zhu8FYd3Krc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJ0OkTI1VzxWcmq70I0W36parRHg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Zhu8FYd3Krc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCiCtpKj_6YQNBlihqehlFG5jwLWw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Zhu8FYd3Krc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvp9P8NBSNkrhdGuaS5zbZiQEQMQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Zhu8FYd3Krc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Zhu8FYd3Krc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Zhu8FYd3Krc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "peace7755",
+      "特撮",
+      "ウルトラＱ",
+      "ウルトラセブン",
+      "ウルトラマン"
+    ],
+    "Engagement": {
+      "ViewCount": 139019,
+      "LikeCount": 707,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

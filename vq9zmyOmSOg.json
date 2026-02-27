@@ -1,1 +1,115 @@
-{"id":"vq9zmyOmSOg","title":"キューティーハニー THE LIVE OPフル / ワイルド☆三人娘","file":"キューティーハニー THE LIVE OPフル ／ ワイルド☆三人娘","author":"kebabple","duration":"00:03:26"}
+{
+  "id": "vq9zmyOmSOg",
+  "title": "キューティーハニー THE LIVE OPフル / ワイルド☆三人娘",
+  "author": "kebabple",
+  "duration": "00:03:26",
+  "detail": {
+    "Id": {
+      "Value": "vq9zmyOmSOg"
+    },
+    "Url": "https://www.youtube.com/watch?v=vq9zmyOmSOg",
+    "Title": "キューティーハニー THE LIVE OPフル / ワイルド☆三人娘",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCtQ4DnofkdfhV4hBebS1WRA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCtQ4DnofkdfhV4hBebS1WRA",
+      "ChannelTitle": "kebabple",
+      "Title": "kebabple"
+    },
+    "UploadDate": {
+      "DateTime": "2010-12-26T03:41:25.0000000",
+      "UtcDateTime": "2010-12-26T11:41:25.0000000Z",
+      "LocalDateTime": "2010-12-26T20:41:25.0000000+09:00",
+      "Date": "2010-12-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 360,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 41,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 25,
+      "Ticks": 634289316850000000,
+      "UtcTicks": 634289604850000000,
+      "TimeOfDay": "03:41:25",
+      "Year": 2010
+    },
+    "Description": "OPベースで編集。泡々なのは大人の事情。",
+    "Duration": "00:03:26",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/vq9zmyOmSOg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGGUgSihjMA8=&rs=AOn4CLA4zlXVPUzVa5ettkSxsW_mA7UVqg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vq9zmyOmSOg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHUBoAC4AOKAgwIABABGGUgSihjMA8=&rs=AOn4CLA0O0-qOGjsHhaoXBBnuAciV_jDCg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vq9zmyOmSOg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIEooYzAP&rs=AOn4CLC6k1OJnOgGDhAVMt9h4yAl7GZQeA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vq9zmyOmSOg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAuADigIMCAAQARhlIEooYzAP&rs=AOn4CLAHJpCgmLQq29PRWFJvJ2A9zyZKAA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vq9zmyOmSOg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vq9zmyOmSOg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vq9zmyOmSOg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "キューティーハニー",
+      "ワイルド三人娘",
+      "原幹恵",
+      "cutey",
+      "honey",
+      "anime",
+      "栗林みな実"
+    ],
+    "Engagement": {
+      "ViewCount": 124753,
+      "LikeCount": 532,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

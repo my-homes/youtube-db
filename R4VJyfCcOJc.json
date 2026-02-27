@@ -1,1 +1,118 @@
-{"id":"R4VJyfCcOJc","title":"Sabrina Carpenter - Eyes Wide Open (Official Video)","file":"Sabrina Carpenter - Eyes Wide Open (Official Video)","author":"SabrinaCarpenterVEVO","duration":"00:03:29"}
+{
+  "id": "R4VJyfCcOJc",
+  "title": "Sabrina Carpenter - Eyes Wide Open (Official Video)",
+  "author": "SabrinaCarpenterVEVO",
+  "duration": "00:03:29",
+  "detail": {
+    "Id": {
+      "Value": "R4VJyfCcOJc"
+    },
+    "Url": "https://www.youtube.com/watch?v=R4VJyfCcOJc",
+    "Title": "Sabrina Carpenter - Eyes Wide Open (Official Video)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC4mYKePIas5YgGfYZ2J2OxQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC4mYKePIas5YgGfYZ2J2OxQ",
+      "ChannelTitle": "SabrinaCarpenterVEVO",
+      "Title": "SabrinaCarpenterVEVO"
+    },
+    "UploadDate": {
+      "DateTime": "2015-06-14T17:30:00.0000000",
+      "UtcDateTime": "2015-06-15T00:30:00.0000000Z",
+      "LocalDateTime": "2015-06-15T09:30:00.0000000+09:00",
+      "Date": "2015-06-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 165,
+      "Hour": 17,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 6,
+      "Offset": "-07:00:00",
+      "Second": 0,
+      "Ticks": 635698998000000000,
+      "UtcTicks": 635699250000000000,
+      "TimeOfDay": "17:30:00",
+      "Year": 2015
+    },
+    "Description": "Sabrina Carpenter - Eyes Wide Open (Official Video)\n\nSabrina’s debut album, “Eyes Wide Open” is available now!\niTunes: http://smarturl.it/sca1\nAmazon: http://smarturl.it/scama1\nStreaming: http://smarturl.it/scsa1 \n\nhttps://twitter.com/SabrinaAnnLynn \nhttp://instagram.com/sabrinacarpenter \nhttps://www.facebook.com/SabrinaCarpe... \nhttp://www.sabrinacarpenter.com\n\nhttp://vevo.ly/nkWrQa",
+    "Duration": "00:03:29",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/R4VJyfCcOJc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgslyAaRdZkTuMrcc9IBgGVCNfvQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/R4VJyfCcOJc/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCU6zRXSvYHv8ILvDCBICz6IY9feA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/R4VJyfCcOJc/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV-W7_-LHjJcnzptRLZV_1lQauCg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/R4VJyfCcOJc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCSlOoA40syeG1SHm9i2UgY-s9gtA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/R4VJyfCcOJc/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/R4VJyfCcOJc/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/R4VJyfCcOJc/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/R4VJyfCcOJc/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Sabrina Carpenter",
+      "Girl Meets World"
+    ],
+    "Engagement": {
+      "ViewCount": 82373752,
+      "LikeCount": 957037,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
