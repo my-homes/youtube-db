@@ -1,0 +1,115 @@
+{
+  "id": "qc7SXhI5JeE",
+  "title": "[ホンジユン] 秋桜 (Original by. 山口百恵)",
+  "author": "홍지윤",
+  "duration": "00:03:46",
+  "detail": {
+    "Id": {
+      "Value": "qc7SXhI5JeE"
+    },
+    "Url": "https://www.youtube.com/watch?v=qc7SXhI5JeE",
+    "Title": "[ホンジユン] 秋桜 (Original by. 山口百恵)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-12-13T01:00:53.0000000",
+      "UtcDateTime": "2024-12-13T09:00:53.0000000Z",
+      "LocalDateTime": "2024-12-13T18:00:53.0000000+09:00",
+      "Date": "2024-12-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 348,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 53,
+      "Ticks": 638696484530000000,
+      "UtcTicks": 638696772530000000,
+      "TimeOfDay": "01:00:53",
+      "Year": 2024
+    },
+    "Description": "홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover #coversong #秋桜 #山口百恵",
+    "Duration": "00:03:46",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/qc7SXhI5JeE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPNe6cBUJintipnZB7m7wZ_S501Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qc7SXhI5JeE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBF-8wiR0v6NbiGXQXmAUzyJlv_FQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qc7SXhI5JeE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDO_9VU_FK8PTFw1scBGeVTh3oURw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qc7SXhI5JeE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCceqHvdLNa3Eh_ZYIVa8-vzMRumQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/qc7SXhI5JeE/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qc7SXhI5JeE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qc7SXhI5JeE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/qc7SXhI5JeE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 127094,
+      "LikeCount": 1462,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

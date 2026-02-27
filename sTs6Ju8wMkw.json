@@ -1,0 +1,115 @@
+{
+  "id": "sTs6Ju8wMkw",
+  "title": "[ホンジユン] 青い珊瑚礁 (Original by. 松田聖子)",
+  "author": "홍지윤",
+  "duration": "00:03:46",
+  "detail": {
+    "Id": {
+      "Value": "sTs6Ju8wMkw"
+    },
+    "Url": "https://www.youtube.com/watch?v=sTs6Ju8wMkw",
+    "Title": "[ホンジユン] 青い珊瑚礁 (Original by. 松田聖子)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-08-09T02:00:55.0000000",
+      "UtcDateTime": "2024-08-09T09:00:55.0000000Z",
+      "LocalDateTime": "2024-08-09T18:00:55.0000000+09:00",
+      "Date": "2024-08-09T00:00:00.0000000",
+      "Day": 9,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 222,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 55,
+      "Ticks": 638587656550000000,
+      "UtcTicks": 638587908550000000,
+      "TimeOfDay": "02:00:55",
+      "Year": 2024
+    },
+    "Description": "#홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover  #coversong #青い珊瑚礁#松田聖子 #마츠다세이코 #푸른산호초",
+    "Duration": "00:03:46",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/sTs6Ju8wMkw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCPYS6-8HkJ5KQbhmeTflTaxc2guA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sTs6Ju8wMkw/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDh53DQZezOzL45ANPDJTHD_Sbhdw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sTs6Ju8wMkw/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDt5iFy9h1mhTJRGH3_vx_Dje-1LA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sTs6Ju8wMkw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1oz9jJte6cDwkr-UzlC5rdc0tCA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/sTs6Ju8wMkw/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sTs6Ju8wMkw/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sTs6Ju8wMkw/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/sTs6Ju8wMkw/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 60399,
+      "LikeCount": 1229,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

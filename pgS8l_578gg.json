@@ -1,0 +1,115 @@
+{
+  "id": "pgS8l_578gg",
+  "title": "[ホンジユン] 難破船 (Original by. 中森明菜)",
+  "author": "홍지윤",
+  "duration": "00:04:33",
+  "detail": {
+    "Id": {
+      "Value": "pgS8l_578gg"
+    },
+    "Url": "https://www.youtube.com/watch?v=pgS8l_578gg",
+    "Title": "[ホンジユン] 難破船 (Original by. 中森明菜)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClhihMpROGLmBKijG0psf4g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClhihMpROGLmBKijG0psf4g",
+      "ChannelTitle": "홍지윤",
+      "Title": "홍지윤"
+    },
+    "UploadDate": {
+      "DateTime": "2024-11-29T01:01:03.0000000",
+      "UtcDateTime": "2024-11-29T09:01:03.0000000Z",
+      "LocalDateTime": "2024-11-29T18:01:03.0000000+09:00",
+      "Date": "2024-11-29T00:00:00.0000000",
+      "Day": 29,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 334,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 3,
+      "Ticks": 638684388630000000,
+      "UtcTicks": 638684676630000000,
+      "TimeOfDay": "01:01:03",
+      "Year": 2024
+    },
+    "Description": "홍지윤 #hongjiyun #ホンジユン #演歌 #トロット #엔카 #cover #coversong #難破船  #中森明菜",
+    "Duration": "00:04:33",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/pgS8l_578gg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAQDanzYslGA0LCrCuTgrjAFpyiNg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/pgS8l_578gg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC6L8Ju-iNfxPUuC2JYlj-cu6aUpA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/pgS8l_578gg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDiliS7wopzOeLiIV0CQnIOk4Mrxw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/pgS8l_578gg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoWJ7PKBnFhsR0hZ8x9070tMFKrQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/pgS8l_578gg/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/pgS8l_578gg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/pgS8l_578gg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/pgS8l_578gg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 132050,
+      "LikeCount": 1479,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
