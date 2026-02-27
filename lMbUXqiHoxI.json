@@ -1,0 +1,107 @@
+{
+  "id": "lMbUXqiHoxI",
+  "title": "记事本 - Ji Shi Ben - 陈慧琳 - DJ版 ProgHouse Mix - Buku Catatan #dj抖音版",
+  "author": "Yaki Ling Remix Collection",
+  "duration": "00:04:40",
+  "detail": {
+    "Id": {
+      "Value": "lMbUXqiHoxI"
+    },
+    "Url": "https://www.youtube.com/watch?v=lMbUXqiHoxI",
+    "Title": "记事本 - Ji Shi Ben - 陈慧琳 - DJ版 ProgHouse Mix - Buku Catatan #dj抖音版",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCQPAp18FRGyTsi9g88M9s7g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCQPAp18FRGyTsi9g88M9s7g",
+      "ChannelTitle": "Yaki Ling Remix Collection",
+      "Title": "Yaki Ling Remix Collection"
+    },
+    "UploadDate": {
+      "DateTime": "2022-12-26T01:59:50.0000000",
+      "UtcDateTime": "2022-12-26T09:59:50.0000000Z",
+      "LocalDateTime": "2022-12-26T18:59:50.0000000+09:00",
+      "Date": "2022-12-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 360,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 59,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 50,
+      "Ticks": 638076167900000000,
+      "UtcTicks": 638076455900000000,
+      "TimeOfDay": "01:59:50",
+      "Year": 2022
+    },
+    "Description": "",
+    "Duration": "00:04:40",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/lMbUXqiHoxI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBfWRPWszNL6krFI5udXYxMyVMYiQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lMbUXqiHoxI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBay5PqK6zZgw56oijv13bVg715sw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lMbUXqiHoxI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB2OU41E1FRd64rwqELJg5Bo3BSyw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lMbUXqiHoxI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMBa-wS_seCRLa3XMbPu5w2Ac9TA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lMbUXqiHoxI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lMbUXqiHoxI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lMbUXqiHoxI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 192181,
+      "LikeCount": 841,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
