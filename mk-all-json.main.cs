@@ -7,9 +7,7 @@ try
 {
     ShowDetail = true;
     SilentFlag = true;
-    //string path = HomeFolder("youtube-db");
     string path = ".";
-    //Log(path);
     string output = GetProcessStdout(
         Encoding.UTF8,
         "dir-multi.exe",
