@@ -23,7 +23,7 @@ try
         Log(line);
         if (!line.EndsWith(".json")) continue;
         var eo = FromFile(line);
-        videoDict.Add(eo["id"].Cast<string>(), eo);
+        videoDict.Add(eo["id"].Cast<string>(), eo.Clone(maxDepth: 1));
     }
     Log(videoDict.Count);
     DumpObjectAsJson(videoDict);
