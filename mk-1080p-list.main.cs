@@ -12,6 +12,7 @@ try
     var all = FromFile("all/all.json");
     var videoPathList = FromFile("all/1080p-full-path.json");
     Log(videoPathList);
+    var result = NewObject();
     foreach(var videoPath in videoPathList.AsList!)
     {
         string fullPath = videoPath.Cast<string>();
@@ -34,8 +35,10 @@ try
             info.Dynamic.minutes = minutes;
             info.Dynamic.path = fullPath;
             Log(info);
+            result.Add(info);
         }
     }
+    DumpObjectAsJson(result);
 }
 catch (Exception e)
 {
