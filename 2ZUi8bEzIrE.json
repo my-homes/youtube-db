@@ -1,0 +1,118 @@
+{
+  "id": "2ZUi8bEzIrE",
+  "title": "話しかけたかった   南野陽子",
+  "author": "SOU16",
+  "duration": "00:04:15",
+  "detail": {
+    "Id": {
+      "Value": "2ZUi8bEzIrE"
+    },
+    "Url": "https://www.youtube.com/watch?v=2ZUi8bEzIrE",
+    "Title": "話しかけたかった   南野陽子",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCdTMehqR6hHUoJkrREsNkdQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCdTMehqR6hHUoJkrREsNkdQ",
+      "ChannelTitle": "SOU16",
+      "Title": "SOU16"
+    },
+    "UploadDate": {
+      "DateTime": "2025-07-29T15:00:02.0000000",
+      "UtcDateTime": "2025-07-29T22:00:02.0000000Z",
+      "LocalDateTime": "2025-07-30T07:00:02.0000000+09:00",
+      "Date": "2025-07-29T00:00:00.0000000",
+      "Day": 29,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 210,
+      "Hour": 15,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 2,
+      "Ticks": 638893980020000000,
+      "UtcTicks": 638894232020000000,
+      "TimeOfDay": "15:00:02",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:04:15",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/2ZUi8bEzIrE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAMJuARQ0CwDvbpXrOa1vOWZLWIgg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2ZUi8bEzIrE/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDLhHrYJdcqgL_gmiM1j9nIXEaMTQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2ZUi8bEzIrE/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TsrB5C1dNiUw1YFLJ8ej7EN5zA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/2ZUi8bEzIrE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCv5QoXUfXH7c6Fpokoy8bLCTNT4g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/2ZUi8bEzIrE/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2ZUi8bEzIrE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2ZUi8bEzIrE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/2ZUi8bEzIrE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "南野陽子",
+      "話しかけたかった"
+    ],
+    "Engagement": {
+      "ViewCount": 30219,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

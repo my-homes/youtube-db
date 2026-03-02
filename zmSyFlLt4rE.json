@@ -1,0 +1,115 @@
+{
+  "id": "zmSyFlLt4rE",
+  "title": "秋からも、そばにいて Yoko Minamino 南野陽子 1988.10.24",
+  "author": "Toru Suzuki",
+  "duration": "00:03:07",
+  "detail": {
+    "Id": {
+      "Value": "zmSyFlLt4rE"
+    },
+    "Url": "https://www.youtube.com/watch?v=zmSyFlLt4rE",
+    "Title": "秋からも、そばにいて Yoko Minamino 南野陽子 1988.10.24",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCKcSrBb2uZ0PjGxPYMkm0xg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCKcSrBb2uZ0PjGxPYMkm0xg",
+      "ChannelTitle": "Toru Suzuki",
+      "Title": "Toru Suzuki"
+    },
+    "UploadDate": {
+      "DateTime": "2021-11-02T21:50:31.0000000",
+      "UtcDateTime": "2021-11-03T04:50:31.0000000Z",
+      "LocalDateTime": "2021-11-03T13:50:31.0000000+09:00",
+      "Date": "2021-11-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 306,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 50,
+      "Month": 11,
+      "Offset": "-07:00:00",
+      "Second": 31,
+      "Ticks": 637714866310000000,
+      "UtcTicks": 637715118310000000,
+      "TimeOfDay": "21:50:31",
+      "Year": 2021
+    },
+    "Description": "NTV歌のトップテン 1988年10月24日放送　麹町Gスタジオ",
+    "Duration": "00:03:07",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/zmSyFlLt4rE/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-DoACuAiKAgwIABABGGUgTig-MA8=&rs=AOn4CLAp2_6IEXyT6eFrsyzYHlEEzh69xg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zmSyFlLt4rE/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-DoACuAiKAgwIABABGGUgTig-MA8=&rs=AOn4CLCjAGa91chATQzI60P8Y6qY65_CvA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zmSyFlLt4rE/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhlIE4oPjAP&rs=AOn4CLBnkj2cu42WmQyGjJ-now374HZ2Qw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zmSyFlLt4rE/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhlIE4oPjAP&rs=AOn4CLAchNa_Kx8OuTSQup2LLCeNFga60g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zmSyFlLt4rE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGGUgTig-MA8=&rs=AOn4CLDKo0gSbHX3LdPKC3SPj4PAgRyZcA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zmSyFlLt4rE/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zmSyFlLt4rE/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zmSyFlLt4rE/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 251313,
+      "LikeCount": 2143,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

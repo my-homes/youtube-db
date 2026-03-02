@@ -1,0 +1,115 @@
+{
+  "id": "KSKZSb7wRcg",
+  "title": "はいからさんが通る Yoko Minamino 南野陽子 1988.2.15",
+  "author": "Toru Suzuki",
+  "duration": "00:02:39",
+  "detail": {
+    "Id": {
+      "Value": "KSKZSb7wRcg"
+    },
+    "Url": "https://www.youtube.com/watch?v=KSKZSb7wRcg",
+    "Title": "はいからさんが通る Yoko Minamino 南野陽子 1988.2.15",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCKcSrBb2uZ0PjGxPYMkm0xg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCKcSrBb2uZ0PjGxPYMkm0xg",
+      "ChannelTitle": "Toru Suzuki",
+      "Title": "Toru Suzuki"
+    },
+    "UploadDate": {
+      "DateTime": "2021-11-05T08:37:08.0000000",
+      "UtcDateTime": "2021-11-05T15:37:08.0000000Z",
+      "LocalDateTime": "2021-11-06T00:37:08.0000000+09:00",
+      "Date": "2021-11-05T00:00:00.0000000",
+      "Day": 5,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 309,
+      "Hour": 8,
+      "Millisecond": 0,
+      "Minute": 37,
+      "Month": 11,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 637716982280000000,
+      "UtcTicks": 637717234280000000,
+      "TimeOfDay": "08:37:08",
+      "Year": 2021
+    },
+    "Description": "NTV歌のトップテン 1988年2月15日放送　渋谷公会堂",
+    "Duration": "00:02:39",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/KSKZSb7wRcg/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-DoACuAiKAgwIABABGDUgXShyMA8=&rs=AOn4CLCWScmbVJn1qP9WsEPso2pmJ4sh8g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KSKZSb7wRcg/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-DoACuAiKAgwIABABGDUgXShyMA8=&rs=AOn4CLD7RnYs_OrwhaUItzVj0dlXaL9XKQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KSKZSb7wRcg/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARg1IF0ocjAP&rs=AOn4CLDePoRMc1u8qJlj4-eywkEPbsIFhg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KSKZSb7wRcg/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARg1IF0ocjAP&rs=AOn4CLD7UhXNEu9BDp5_LigV4aU2y1qERg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/KSKZSb7wRcg/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGDUgXShyMA8=&rs=AOn4CLDzjiyh-AplX4UEBgKAtytFpwTETw",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KSKZSb7wRcg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KSKZSb7wRcg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/KSKZSb7wRcg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 317507,
+      "LikeCount": 2266,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
