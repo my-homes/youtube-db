@@ -1,0 +1,115 @@
+{
+  "id": "zDCJ6MTkPW0",
+  "title": "杉村尚美 - サンセット・メモリー 【炎の犬】",
+  "author": "Free VSTe Second",
+  "duration": "00:03:54",
+  "detail": {
+    "Id": {
+      "Value": "zDCJ6MTkPW0"
+    },
+    "Url": "https://www.youtube.com/watch?v=zDCJ6MTkPW0",
+    "Title": "杉村尚美 - サンセット・メモリー 【炎の犬】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCeswjHebdYtNoVWRssvwgyQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCeswjHebdYtNoVWRssvwgyQ",
+      "ChannelTitle": "Free VSTe Second",
+      "Title": "Free VSTe Second"
+    },
+    "UploadDate": {
+      "DateTime": "2025-02-13T07:20:19.0000000",
+      "UtcDateTime": "2025-02-13T15:20:19.0000000Z",
+      "LocalDateTime": "2025-02-14T00:20:19.0000000+09:00",
+      "Date": "2025-02-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 44,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 20,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 19,
+      "Ticks": 638750280190000000,
+      "UtcTicks": 638750568190000000,
+      "TimeOfDay": "07:20:19",
+      "Year": 2025
+    },
+    "Description": "大昔の再うp。アップするに当たり適当に音量下げたけど、まだココの音量調整オーバー。",
+    "Duration": "00:03:54",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/zDCJ6MTkPW0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihMMA8=&rs=AOn4CLBoL0HVjpuZUUZScFdmjR2F89wdnQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zDCJ6MTkPW0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgWihMMA8=&rs=AOn4CLAMrBgXI5k_5nCC7FDP-4lJDPzJrw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zDCJ6MTkPW0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooTDAP&rs=AOn4CLDWxRYo2IBfqZDYAj9D7cOD2AvLgw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zDCJ6MTkPW0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFooTDAP&rs=AOn4CLCg8H5STwhuRtowgegb5eUDsj_oFg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/zDCJ6MTkPW0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWihMMA8=&rs=AOn4CLAQJhsWjveEE1ctQJxU-3awXc6-Tw",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zDCJ6MTkPW0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zDCJ6MTkPW0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/zDCJ6MTkPW0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 37027,
+      "LikeCount": 430,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

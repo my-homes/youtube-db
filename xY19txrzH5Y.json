@@ -1,0 +1,115 @@
+{
+  "id": "xY19txrzH5Y",
+  "title": "秋からも、そばにいて   南野陽子",
+  "author": "SOU16",
+  "duration": "00:02:26",
+  "detail": {
+    "Id": {
+      "Value": "xY19txrzH5Y"
+    },
+    "Url": "https://www.youtube.com/watch?v=xY19txrzH5Y",
+    "Title": "秋からも、そばにいて   南野陽子",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCdTMehqR6hHUoJkrREsNkdQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCdTMehqR6hHUoJkrREsNkdQ",
+      "ChannelTitle": "SOU16",
+      "Title": "SOU16"
+    },
+    "UploadDate": {
+      "DateTime": "2025-11-22T06:05:17.0000000",
+      "UtcDateTime": "2025-11-22T14:05:17.0000000Z",
+      "LocalDateTime": "2025-11-22T23:05:17.0000000+09:00",
+      "Date": "2025-11-22T00:00:00.0000000",
+      "Day": 22,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 326,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 5,
+      "Month": 11,
+      "Offset": "-08:00:00",
+      "Second": 17,
+      "Ticks": 638993883170000000,
+      "UtcTicks": 638994171170000000,
+      "TimeOfDay": "06:05:17",
+      "Year": 2025
+    },
+    "Description": "Blooming Girls プレミアム・ライブ2012",
+    "Duration": "00:02:26",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/xY19txrzH5Y/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVChMMA8=&rs=AOn4CLCYOxn3sghvrYx6Gi4JsFsATDXLOw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xY19txrzH5Y/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgVChMMA8=&rs=AOn4CLC3dL6vMXnenVXCPn3qLvecghAv_g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xY19txrzH5Y/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoTDAP&rs=AOn4CLBeTyr_sDRYTJDGWlPuGSknwMt4nQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xY19txrzH5Y/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFQoTDAP&rs=AOn4CLAYrjQVKYuRE7aoWvbbAtRuy1RT-g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/xY19txrzH5Y/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgVChMMA8=&rs=AOn4CLCPzMhXAilECEGWmJ6foNOnL69kzg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xY19txrzH5Y/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xY19txrzH5Y/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/xY19txrzH5Y/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1157,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

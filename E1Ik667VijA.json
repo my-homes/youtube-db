@@ -1,0 +1,109 @@
+{
+  "id": "E1Ik667VijA",
+  "title": "826aska in ハートピア春江 　「 宇宙戦艦ヤマト 」",
+  "author": "neokoba",
+  "duration": "00:04:38",
+  "detail": {
+    "Id": {
+      "Value": "E1Ik667VijA"
+    },
+    "Url": "https://www.youtube.com/watch?v=E1Ik667VijA",
+    "Title": "826aska in ハートピア春江 　「 宇宙戦艦ヤマト 」",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC_2R3gJPvBVHW9Av7cTiUpw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC_2R3gJPvBVHW9Av7cTiUpw",
+      "ChannelTitle": "neokoba",
+      "Title": "neokoba"
+    },
+    "UploadDate": {
+      "DateTime": "2017-08-09T01:04:24.0000000",
+      "UtcDateTime": "2017-08-09T08:04:24.0000000Z",
+      "LocalDateTime": "2017-08-09T17:04:24.0000000+09:00",
+      "Date": "2017-08-09T00:00:00.0000000",
+      "Day": 9,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 221,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 4,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 24,
+      "Ticks": 636378374640000000,
+      "UtcTicks": 636378626640000000,
+      "TimeOfDay": "01:04:24",
+      "Year": 2017
+    },
+    "Description": "2017年７月29日\nでんすけ祭り\nハートピア春江",
+    "Duration": "00:04:38",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/E1Ik667VijA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCLiWLUr7zewG3wUcbGf-x6f3KotA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E1Ik667VijA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD4wY4-rdHhULipEoQCxuYrllnu3w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E1Ik667VijA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAo_CS4Yejdn-JZl_a9c_mHSBwIIQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/E1Ik667VijA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC-UH51sGhVZorfLikbKg6C9C8Abw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E1Ik667VijA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E1Ik667VijA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/E1Ik667VijA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "エレクトーン"
+    ],
+    "Engagement": {
+      "ViewCount": 348121,
+      "LikeCount": 1728,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

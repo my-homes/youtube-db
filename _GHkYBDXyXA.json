@@ -1,0 +1,152 @@
+{
+  "id": "_GHkYBDXyXA",
+  "title": "<!DOCTYPE html><html><head><script nonce=\"9DOln0RRj1z5oe1OZUCQ3w\">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!=\"undefined\"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length==\"number\")return{next:k(a)};throw Error(String(a)+\" is not an iterable or ArrayLike\");}var m=typeof Object.defineProperties==\"function\"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};\nfunction n(a){a=[\"object\"==typeof globalThis&&globalThis,a,\"object\"==typeof window&&window,\"object\"==typeof self&&self,\"object\"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error(\"Cannot find global object\");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(\".\");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}\nq(\"Object.is\",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q(\"Array.prototype.includes\",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});\nq(\"String.prototype.includes\",function(a){return a?a:function(b,c){if(this==null)throw new TypeError(\"The 'this' value for String.prototype.includes must not be null or undefined\");if(b instanceof RegExp)throw new TypeError(\"First argument to String.prototype.includes must not be a regular expression\");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a(\"https://csp.withgoogle.com/csp/proto/\"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open(\"POST\",a);c.send(b)}\nfunction v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__(\"__proto__\"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:\"ACCESS_GET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}\nfunction z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__(\"__proto__\"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:\"ACCESS_SET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}\nvar D=\"constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x\".split(\" \"),E=D.concat,F=navigator.userAgent.match(/Firefox\\/([0-9]+)\\./),G=(!F||F.length<2?0:Number(F[1])<75)?[\"toSource\"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];\nfunction C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:\"SEAL\",origin:(h=window.location.origin)!=null?h:\"unknown\",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:\"HEARTBEAT\"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,\"__proto__\",{enumerable:!1,get:v(),set:z()})}catch(a){}}\n(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!==\"loading\"?B(b,a):document.addEventListener(\"DOMContentLoaded\",function(){B(b,a)})))})();}).call(this);\n</script><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"WdlIixTt-UtS0M6L5OylzA\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">ReferenceError: g is not defined（行 16、ファイル「yt.service」）</div></body></html>",
+  "author": "MIRAGE PHANTOM – Anison Metal Covers –",
+  "duration": "00:04:25",
+  "detail": {
+    "Id": {
+      "Value": "_GHkYBDXyXA"
+    },
+    "Url": "https://www.youtube.com/watch?v=_GHkYBDXyXA",
+    "Title": "🎸【Metal Cover】機動戦士ガンダムⅡ 哀・戦士編 『哀 戦士』",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCnnxfjgEZ39GSMiteFSiXoA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCnnxfjgEZ39GSMiteFSiXoA",
+      "ChannelTitle": "MIRAGE PHANTOM – Anison Metal Covers –",
+      "Title": "MIRAGE PHANTOM – Anison Metal Covers –"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-16T20:58:17.0000000",
+      "UtcDateTime": "2026-02-17T04:58:17.0000000Z",
+      "LocalDateTime": "2026-02-17T13:58:17.0000000+09:00",
+      "Date": "2026-02-16T00:00:00.0000000",
+      "Day": 16,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 47,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 58,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 17,
+      "Ticks": 639068722970000000,
+      "UtcTicks": 639069010970000000,
+      "TimeOfDay": "20:58:17",
+      "Year": 2026
+    },
+    "Description": "井上大輔さんが歌い上げた名曲\n「哀戦士」。\n\n機動戦士ガンダムという作品の中で、\n物語の重みとともに心に刻まれた楽曲です。\n\n戦いの悲しみ、\nそれでも前を向く強さ。\nあの時代の空気ごと胸に響く一曲だと感じています。\n\n今回はその大切な楽曲に、\n最大限の敬意と感謝を込めて\nヘヴィメタルライブアレンジでカバーさせていただきました。\n\n原曲の持つ情感や世界観を大切にしながら、\n重厚なバンドサウンドで新たな表現に挑戦しています。\n\nこのアレンジは\n原曲への愛から生まれた一つの解釈です。\n\nあの時代を知る方にも、\nこれから触れる方にも、\nこの名曲の魅力が改めて伝われば嬉しいです。\n\n#哀戦士\n#井上大輔\n#機動戦士ガンダム\n#宇宙世紀\n#ガンダム挿入歌\n#Gundam\n#UC\n#AnimeSong\n#Anisong\n#Metalcore\n#HeavyMetal\n#SymphonicMetal\n#AI歌姫\n#歌ってみた\n#メタルアレンジ\n#ライブアレンジ\n#アニソンメタル\n#戦場の歌\n#魂の歌\n#GlobalHarmonyEnsemble\n#GHE\n#MiragePhantom",
+    "Duration": "00:04:25",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/_GHkYBDXyXA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC3bXeG8nl8LD-f6V8l42bTP344mw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/_GHkYBDXyXA/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDzdxHsI94BzkMEgIhx7y7tM1V09A",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/_GHkYBDXyXA/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBJEdewnc3BAH_8rvRID_bQ-yQXew",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/_GHkYBDXyXA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpp3kY8MY9eNN6N1cHG5KUO4rLFA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/_GHkYBDXyXA/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/_GHkYBDXyXA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/_GHkYBDXyXA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/_GHkYBDXyXA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "MIRAGE PHANTOM",
+      "Mirage Phantom",
+      "ミラージュファントム",
+      "アニソンメタル",
+      "アニソンカバー",
+      "アニメソングメタル",
+      "アニソンヘヴィメタル",
+      "メタルアレンジ",
+      "メタルカバー",
+      "ヘヴィメタル",
+      "モダンメタル",
+      "メタルコア",
+      "パワーメタル",
+      "シンフォニックメタル",
+      "アニメ主題歌",
+      "アニメOP",
+      "アニメED",
+      "歌ってみた",
+      "歌ってみたメタル",
+      "AI歌ってみた",
+      "バーチャルシンガー",
+      "アニメ音楽",
+      "アニソン",
+      "アイナ",
+      "ルナ",
+      "モモ",
+      "anison metal",
+      "anime metal",
+      "anime metal cover",
+      "anime song metal",
+      "metal anime cover",
+      "japanese anime metal",
+      "anime opening metal",
+      "anime ending metal",
+      "metal cover anime",
+      "virtual metal band"
+    ],
+    "Engagement": {
+      "ViewCount": 1864,
+      "LikeCount": 50,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

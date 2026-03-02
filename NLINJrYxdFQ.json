@@ -1,0 +1,107 @@
+{
+  "id": "NLINJrYxdFQ",
+  "title": "南野陽子 必殺！ BGM",
+  "author": "yoshimi",
+  "duration": "00:04:27",
+  "detail": {
+    "Id": {
+      "Value": "NLINJrYxdFQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=NLINJrYxdFQ",
+    "Title": "南野陽子 必殺！ BGM",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCzctoTm0rh_bZRZysl_aDJQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCzctoTm0rh_bZRZysl_aDJQ",
+      "ChannelTitle": "yoshimi",
+      "Title": "yoshimi"
+    },
+    "UploadDate": {
+      "DateTime": "2023-02-15T01:36:46.0000000",
+      "UtcDateTime": "2023-02-15T09:36:46.0000000Z",
+      "LocalDateTime": "2023-02-15T18:36:46.0000000+09:00",
+      "Date": "2023-02-15T00:00:00.0000000",
+      "Day": 15,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 46,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 36,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 46,
+      "Ticks": 638120218060000000,
+      "UtcTicks": 638120506060000000,
+      "TimeOfDay": "01:36:46",
+      "Year": 2023
+    },
+    "Description": "松竹チャンネル https://www.youtube.com/@ShochikuOfficial\n【松竹】必殺始末人 https://www.shochiku.co.jp/cinema/database/04465/\n必殺始末人 かもめ（南野陽子）刺殺シーン3連！\nhttps://youtu.be/0efBc6HFMYo\nhttps://youtu.be/-nFxvjNl934\nhttps://youtu.be/Vj_mUGdLwP8",
+    "Duration": "00:04:27",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/NLINJrYxdFQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4fr--LQ18K2jBz4N1LdbawzXsfw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NLINJrYxdFQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBRp4Fq6EIzdeYg4cziuTrKv1L9Kw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NLINJrYxdFQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASazcJcjkOUumBKL09yJaKmpJpHA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/NLINJrYxdFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBnl62eUKka-IX090zCuJzipcOCWA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NLINJrYxdFQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NLINJrYxdFQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/NLINJrYxdFQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 858197,
+      "LikeCount": 3070,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

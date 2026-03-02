@@ -1,0 +1,110 @@
+{
+  "id": "lUbfCeN_MN8",
+  "title": "吐息でネット  南野陽子  LIVE’91",
+  "author": "SOU16",
+  "duration": "00:03:27",
+  "detail": {
+    "Id": {
+      "Value": "lUbfCeN_MN8"
+    },
+    "Url": "https://www.youtube.com/watch?v=lUbfCeN_MN8",
+    "Title": "吐息でネット  南野陽子  LIVE’91",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCdTMehqR6hHUoJkrREsNkdQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCdTMehqR6hHUoJkrREsNkdQ",
+      "ChannelTitle": "SOU16",
+      "Title": "SOU16"
+    },
+    "UploadDate": {
+      "DateTime": "2024-04-17T06:34:50.0000000",
+      "UtcDateTime": "2024-04-17T13:34:50.0000000Z",
+      "LocalDateTime": "2024-04-17T22:34:50.0000000+09:00",
+      "Date": "2024-04-17T00:00:00.0000000",
+      "Day": 17,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 108,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 34,
+      "Month": 4,
+      "Offset": "-07:00:00",
+      "Second": 50,
+      "Ticks": 638489324900000000,
+      "UtcTicks": 638489576900000000,
+      "TimeOfDay": "06:34:50",
+      "Year": 2024
+    },
+    "Description": "作詞：田口俊\n作曲：柴矢俊彦\n88年カネボウCMソング\n\n1991 時の流れに DVD",
+    "Duration": "00:03:27",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/lUbfCeN_MN8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJ-9zzSzXs8Td5kYSULfLRV3J4OQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lUbfCeN_MN8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCgK-sLyl3_CBspIRpKz0_FNleh0g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lUbfCeN_MN8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2wS9shbpruXxC1SnTZtTGrrKIrQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/lUbfCeN_MN8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjeXY3o7uSjbKvjG6AQV_h4PLe7g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lUbfCeN_MN8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lUbfCeN_MN8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/lUbfCeN_MN8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "南野陽子",
+      "吐息でネット"
+    ],
+    "Engagement": {
+      "ViewCount": 59642,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

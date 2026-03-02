@@ -1,0 +1,118 @@
+{
+  "id": "XulY5KZ_EFA",
+  "title": "千本桜｜Rock Dance Cover",
+  "author": "クルーズトム",
+  "duration": "00:04:28",
+  "detail": {
+    "Id": {
+      "Value": "XulY5KZ_EFA"
+    },
+    "Url": "https://www.youtube.com/watch?v=XulY5KZ_EFA",
+    "Title": "千本桜｜Rock Dance Cover",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCYar5kdRZtugnnbcRhmi0dQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCYar5kdRZtugnnbcRhmi0dQ",
+      "ChannelTitle": "クルーズトム",
+      "Title": "クルーズトム"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-08T21:43:32.0000000",
+      "UtcDateTime": "2026-02-09T05:43:32.0000000Z",
+      "LocalDateTime": "2026-02-09T14:43:32.0000000+09:00",
+      "Date": "2026-02-08T00:00:00.0000000",
+      "Day": 8,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 39,
+      "Hour": 21,
+      "Millisecond": 0,
+      "Minute": 43,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 32,
+      "Ticks": 639061838120000000,
+      "UtcTicks": 639062126120000000,
+      "TimeOfDay": "21:43:32",
+      "Year": 2026
+    },
+    "Description": "リズムを変えロック感だした千本桜です。\n最後が原曲から少しアレンジになっております。\n\n#千本桜\n#歌ってみた\n#Cover\n#ボカロ\n#ボカロカバー\n#ロックダンス\n#踊れる\n#和ロック",
+    "Duration": "00:04:28",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/XulY5KZ_EFA/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTShVMA8=&rs=AOn4CLDBzwawAYwhDWW7FhXUJsXY2u1-6g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/XulY5KZ_EFA/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGGUgTShVMA8=&rs=AOn4CLCgdGCMVC7_WOhuxXXNOKvfNx5joQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/XulY5KZ_EFA/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE0oVTAP&rs=AOn4CLB0xk_l5qiUFWUjEivLN2g3jGFCPw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/XulY5KZ_EFA/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIE0oVTAP&rs=AOn4CLAxaQeUtXb9b_5jNoEUwGuYOhSc4g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/XulY5KZ_EFA/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgTShVMA8=&rs=AOn4CLB5eIaD-5dB1lPPgZa2upmk4mbu_A",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/XulY5KZ_EFA/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/XulY5KZ_EFA/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/XulY5KZ_EFA/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "千本桜",
+      "ボカロ"
+    ],
+    "Engagement": {
+      "ViewCount": 4246,
+      "LikeCount": 73,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "id": "eRzdgpZqxfg",
+  "title": "さよならのめまい   南野陽子",
+  "author": "SOU16",
+  "duration": "00:02:13",
+  "detail": {
+    "Id": {
+      "Value": "eRzdgpZqxfg"
+    },
+    "Url": "https://www.youtube.com/watch?v=eRzdgpZqxfg",
+    "Title": "さよならのめまい   南野陽子",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCdTMehqR6hHUoJkrREsNkdQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCdTMehqR6hHUoJkrREsNkdQ",
+      "ChannelTitle": "SOU16",
+      "Title": "SOU16"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-13T02:16:05.0000000",
+      "UtcDateTime": "2025-12-13T10:16:05.0000000Z",
+      "LocalDateTime": "2025-12-13T19:16:05.0000000+09:00",
+      "Date": "2025-12-13T00:00:00.0000000",
+      "Day": 13,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 347,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 16,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 5,
+      "Ticks": 639011889650000000,
+      "UtcTicks": 639012177650000000,
+      "TimeOfDay": "02:16:05",
+      "Year": 2025
+    },
+    "Description": "レッツGOアイドル 1986.2.16放送\n©︎テレビ東京\n\n作詞：来生えつこ\n作曲：来生たかお\n南野陽子 2ndシングル\nドラマ『スケバン刑事Ⅱ 少女鉄仮面伝説』挿入歌",
+    "Duration": "00:02:13",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/eRzdgpZqxfg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDbiEHe-gl6rFSBsqVuouYdoFYC_A",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/eRzdgpZqxfg/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB25TJyHFKRJvzCjHWhjRjj-mGAGQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/eRzdgpZqxfg/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzkWM9MTzLWMGGYfya-nkXjL6Eqg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/eRzdgpZqxfg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDVg86RjvTzkpPSovqZrh2i2gRRQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/eRzdgpZqxfg/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/eRzdgpZqxfg/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/eRzdgpZqxfg/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "南野陽子",
+      "さよならのめまい",
+      "来生たかお",
+      "スケバン刑事Ⅱ",
+      "スケバン刑事Ⅱ少女鉄仮面伝説"
+    ],
+    "Engagement": {
+      "ViewCount": 1158,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

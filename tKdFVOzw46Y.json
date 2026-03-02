@@ -1,0 +1,119 @@
+{
+  "id": "tKdFVOzw46Y",
+  "title": "【AIきりたん】ウルトラマンタロウ【NEUTRINO合唱団】(NEUTRINOカバー)",
+  "author": "NegibatP ONGAKU Channel",
+  "duration": "00:02:36",
+  "detail": {
+    "Id": {
+      "Value": "tKdFVOzw46Y"
+    },
+    "Url": "https://www.youtube.com/watch?v=tKdFVOzw46Y",
+    "Title": "【AIきりたん】ウルトラマンタロウ【NEUTRINO合唱団】(NEUTRINOカバー)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC09UsmT1t9nL6uDNY7jpGjQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC09UsmT1t9nL6uDNY7jpGjQ",
+      "ChannelTitle": "NegibatP ONGAKU Channel",
+      "Title": "NegibatP ONGAKU Channel"
+    },
+    "UploadDate": {
+      "DateTime": "2024-08-28T03:47:26.0000000",
+      "UtcDateTime": "2024-08-28T10:47:26.0000000Z",
+      "LocalDateTime": "2024-08-28T19:47:26.0000000+09:00",
+      "Date": "2024-08-28T00:00:00.0000000",
+      "Day": 28,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 241,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 47,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 26,
+      "Ticks": 638604136460000000,
+      "UtcTicks": 638604388460000000,
+      "TimeOfDay": "03:47:26",
+      "Year": 2024
+    },
+    "Description": "ニコニコ動画公開分(2023年8月11日投稿) → \nhttps://www.nicovideo.jp/watch/sm42610197\n《変更点》なし\n\n以前マクロスを公開したので、マクロスと言えばバルキリー…バルキー…バルキー星人。ということでタロウです。\n\n…って感じのくだりをニコニコ版の動画説明文でやったので、YouTubeでも合わせました。せっかくだし。",
+    "Duration": "00:02:36",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/tKdFVOzw46Y/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCvg03KCeJKmACnNJZHkEOnuCoSxw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tKdFVOzw46Y/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCUMJ7HI1rJE21M_dlyYcnNPqQjtg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tKdFVOzw46Y/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdxJAvqWD1LgqEcVl1VhYrgpjt_Q",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tKdFVOzw46Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBakUclMwXRB_KuCCr5esRQVKWUUQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/tKdFVOzw46Y/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tKdFVOzw46Y/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tKdFVOzw46Y/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/tKdFVOzw46Y/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "NEUTRINO",
+      "AIきりたん",
+      "ウルトラマンタロウ"
+    ],
+    "Engagement": {
+      "ViewCount": 72561,
+      "LikeCount": 706,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

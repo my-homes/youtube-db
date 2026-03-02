@@ -1,0 +1,115 @@
+{
+  "id": "kX9yi28QU_A",
+  "title": "秋からも、そばにいて＆秋のIndication　 南野陽子　音源交換Ver.",
+  "author": "memorial 623",
+  "duration": "00:06:03",
+  "detail": {
+    "Id": {
+      "Value": "kX9yi28QU_A"
+    },
+    "Url": "https://www.youtube.com/watch?v=kX9yi28QU_A",
+    "Title": "秋からも、そばにいて＆秋のIndication　 南野陽子　音源交換Ver.",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClzrSf0BHVsS4mdPpot98Jg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClzrSf0BHVsS4mdPpot98Jg",
+      "ChannelTitle": "memorial 623",
+      "Title": "memorial 623"
+    },
+    "UploadDate": {
+      "DateTime": "2025-10-31T06:20:22.0000000",
+      "UtcDateTime": "2025-10-31T13:20:22.0000000Z",
+      "LocalDateTime": "2025-10-31T22:20:22.0000000+09:00",
+      "Date": "2025-10-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 304,
+      "Hour": 6,
+      "Millisecond": 0,
+      "Minute": 20,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 22,
+      "Ticks": 638974884220000000,
+      "UtcTicks": 638975136220000000,
+      "TimeOfDay": "06:20:22",
+      "Year": 2025
+    },
+    "Description": "",
+    "Duration": "00:06:03",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/kX9yi28QU_A/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gOigTMA8=&rs=AOn4CLA3odXLrs3yl-CSo71DfuNDVwNoJg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kX9yi28QU_A/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGH8gOigTMA8=&rs=AOn4CLCnMv-0-MihqL74xEPYwrqe8_BR9g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kX9yi28QU_A/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IDooEzAP&rs=AOn4CLBPl8f-tucF0g6kNuQbHAmnJVShCg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kX9yi28QU_A/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARh_IDooEzAP&rs=AOn4CLCZYQ-Tjw9f1mXc_qPvtg2QfmSfpA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/kX9yi28QU_A/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gOigTMA8=&rs=AOn4CLCqCESOMG3YJ2hr5C2Wd0JhWuNkvA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kX9yi28QU_A/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kX9yi28QU_A/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/kX9yi28QU_A/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 16138,
+      "LikeCount": 218,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "id": "pfxaNor-gH4",
+  "title": "<!DOCTYPE html><html><head><script nonce=\"a8duALrg9rQMYa2H1ftOdA\">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!=\"undefined\"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length==\"number\")return{next:k(a)};throw Error(String(a)+\" is not an iterable or ArrayLike\");}var m=typeof Object.defineProperties==\"function\"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};\nfunction n(a){a=[\"object\"==typeof globalThis&&globalThis,a,\"object\"==typeof window&&window,\"object\"==typeof self&&self,\"object\"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error(\"Cannot find global object\");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(\".\");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}\nq(\"Object.is\",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q(\"Array.prototype.includes\",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});\nq(\"String.prototype.includes\",function(a){return a?a:function(b,c){if(this==null)throw new TypeError(\"The 'this' value for String.prototype.includes must not be null or undefined\");if(b instanceof RegExp)throw new TypeError(\"First argument to String.prototype.includes must not be a regular expression\");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a(\"https://csp.withgoogle.com/csp/proto/\"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open(\"POST\",a);c.send(b)}\nfunction v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__(\"__proto__\"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:\"ACCESS_GET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}\nfunction z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__(\"__proto__\"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:\"ACCESS_SET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}\nvar D=\"constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x\".split(\" \"),E=D.concat,F=navigator.userAgent.match(/Firefox\\/([0-9]+)\\./),G=(!F||F.length<2?0:Number(F[1])<75)?[\"toSource\"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];\nfunction C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:\"SEAL\",origin:(h=window.location.origin)!=null?h:\"unknown\",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:\"HEARTBEAT\"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,\"__proto__\",{enumerable:!1,get:v(),set:z()})}catch(a){}}\n(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!==\"loading\"?B(b,a):document.addEventListener(\"DOMContentLoaded\",function(){B(b,a)})))})();}).call(this);\n</script><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"zMdVCeQ3zM3ObNVPnTn9XQ\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">ReferenceError: g is not defined（行 16、ファイル「yt.service」）</div></body></html>",
+  "author": "波利花菜园BoliFlowerGarden",
+  "duration": "00:03:40",
+  "detail": {
+    "Id": {
+      "Value": "pfxaNor-gH4"
+    },
+    "Url": "https://www.youtube.com/watch?v=pfxaNor-gH4",
+    "Title": "【飞机FeiJiX青描Emeow】DALI - ムーンライト伝説(Moonlight Densetsu) 美少女戦士セーラームーン(Sailor Moon) OP 月光☾传说 Dance Cover",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCU6gpudgadALCTEK8WI_frA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCU6gpudgadALCTEK8WI_frA",
+      "ChannelTitle": "波利花菜园BoliFlowerGarden",
+      "Title": "波利花菜园BoliFlowerGarden"
+    },
+    "UploadDate": {
+      "DateTime": "2020-01-18T13:44:52.0000000",
+      "UtcDateTime": "2020-01-18T21:44:52.0000000Z",
+      "LocalDateTime": "2020-01-19T06:44:52.0000000+09:00",
+      "Date": "2020-01-18T00:00:00.0000000",
+      "Day": 18,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 18,
+      "Hour": 13,
+      "Millisecond": 0,
+      "Minute": 44,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 52,
+      "Ticks": 637149518920000000,
+      "UtcTicks": 637149806920000000,
+      "TimeOfDay": "13:44:52",
+      "Year": 2020
+    },
+    "Description": "Pop子和Pipi美报道!\n\n喜欢我们的话请关注我们并多多点赞、分享。如果不希望错过我们的新作品，记得将『订阅』旁边的通知小铃铛设置为全部。\n\nPopuko and Pipimi are coming! XD\n\nIf you like it, please thump up, share it, and follow us! Do not forget to set the notification option to “All” (the shaking ring near the subscribe button) if you do not want to miss our new works, thank you! \n\n摄影 Cameraman: 比比嘻 \n后期 Post-Production: 螺旋丸SAMA\n演员 Cast: \n愛野美奈子(Aino Minako, Sailor Venus) - 飞机(FeiJi)\n水野亞美(Ami Mizuno, Sailor Mercury) - 青描(Emeow)\n\nBilibili Link: https://www.bilibili.com/video/av82873603\nOriginal Music: https://www.youtube.com/watch?v=7LywczXfwZE\n\n波利花菜园是一支来自武汉的COS和舞蹈团队，欢迎关注波利的微博。由于版权原因，我们无法将所有波利的作品上传至YouTube，大家可以到波利的Bilibili官方频道观看所有的作品。另外我们也会在抖音上发一些小片段。\n \n波利花菜园(BoliFlowerGarden) is a large cosplay association located in Wuhan, China.  You can follow Boli on Weibo. Because of copyright issues, not all of Boli's works can be uploaded on YouTube (mainly Love Live! dance covers), you can check all the latest and past videos on Bilibili. \n \n哔哩哔哩 Bilibili: https://space.bilibili.com/724686/\n微博 Weibo: https://www.weibo.com/bolihuacaiyuan\n抖音 TikTok(China Version) ID: bolihuacaiyuan Account: 343880810",
+    "Duration": "00:03:40",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/pfxaNor-gH4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvP19HXWlxXUOYlvZJeSaiRLPmUA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/pfxaNor-gH4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAnCXftntbB65FanRHzA4Jb7M3_GA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/pfxaNor-gH4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBsqIskcIgeDis_2mqYhpU8_CkAAw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/pfxaNor-gH4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDutJUAb0HdcR0EPDnpgLlVqS3NmQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/pfxaNor-gH4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/pfxaNor-gH4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/pfxaNor-gH4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "ムーンライト伝説",
+      "美少女戦士",
+      "DALI",
+      "Sailor Moon",
+      "Moonlight",
+      "Dance",
+      "Cosplay",
+      "Cover",
+      "波利花菜园",
+      "PollyFlowerGarden",
+      "Boli",
+      "ガーデン",
+      "BoliFlowerGarden",
+      "Music",
+      "踊ってみた",
+      "翻跳",
+      "飞机",
+      "Feiji",
+      "青描",
+      "Emeow",
+      "Wuhan",
+      "武汉"
+    ],
+    "Engagement": {
+      "ViewCount": 104869,
+      "LikeCount": 2192,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

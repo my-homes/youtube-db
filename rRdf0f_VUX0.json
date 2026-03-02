@@ -1,0 +1,115 @@
+{
+  "id": "rRdf0f_VUX0",
+  "title": "黄色いボールを追いかけて",
+  "author": "ななざき02",
+  "duration": "00:03:10",
+  "detail": {
+    "Id": {
+      "Value": "rRdf0f_VUX0"
+    },
+    "Url": "https://www.youtube.com/watch?v=rRdf0f_VUX0",
+    "Title": "黄色いボールを追いかけて",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCKRGNhfFnW3_HnEk-d4t_mg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCKRGNhfFnW3_HnEk-d4t_mg",
+      "ChannelTitle": "ななざき02",
+      "Title": "ななざき02"
+    },
+    "UploadDate": {
+      "DateTime": "2026-03-01T05:55:02.0000000",
+      "UtcDateTime": "2026-03-01T13:55:02.0000000Z",
+      "LocalDateTime": "2026-03-01T22:55:02.0000000+09:00",
+      "Date": "2026-03-01T00:00:00.0000000",
+      "Day": 1,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 60,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 55,
+      "Month": 3,
+      "Offset": "-08:00:00",
+      "Second": 2,
+      "Ticks": 639079413020000000,
+      "UtcTicks": 639079701020000000,
+      "TimeOfDay": "05:55:02",
+      "Year": 2026
+    },
+    "Description": "ななざき02とGrokが作詩と作曲、sunoで作成しました\n歌詞と発音に変なところがあります",
+    "Duration": "00:03:10",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/rRdf0f_VUX0/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHOBYAC0AWKAgwIABABGEkgZShjMA8=&rs=AOn4CLCEV3WML_4K7Wo9aQ-x464aXg-JUg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rRdf0f_VUX0/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AHOBYAC0AWKAgwIABABGEkgZShjMA8=&rs=AOn4CLDFRkmv3W5sxNbOxZGCiNc1fEa5zw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rRdf0f_VUX0/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAtAFigIMCAAQARhJIGUoYzAP&rs=AOn4CLD6XwdMFkn6EAba2QDqfr_Ujm_BBQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rRdf0f_VUX0/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgBzgWAAtAFigIMCAAQARhJIGUoYzAP&rs=AOn4CLCM-4FA6-kc_JP-iph4WS4AKsJU2Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/rRdf0f_VUX0/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AHOBYAC0AWKAgwIABABGEkgZShjMA8=&rs=AOn4CLAE78YZLIUMW2YiZ2JQmIjAFfGtuA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rRdf0f_VUX0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rRdf0f_VUX0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/rRdf0f_VUX0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 48,
+      "LikeCount": 3,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "id": "iJu7qtYvZK8",
+  "title": "Thunderbirds Are Go | Zero-XL Launch",
+  "author": "Thunderbirds Are Go Launches",
+  "duration": "00:08:26",
+  "detail": {
+    "Id": {
+      "Value": "iJu7qtYvZK8"
+    },
+    "Url": "https://www.youtube.com/watch?v=iJu7qtYvZK8",
+    "Title": "Thunderbirds Are Go | Zero-XL Launch",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCOz5vubbg32BNsYI3eDT1ZA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCOz5vubbg32BNsYI3eDT1ZA",
+      "ChannelTitle": "Thunderbirds Are Go Launches",
+      "Title": "Thunderbirds Are Go Launches"
+    },
+    "UploadDate": {
+      "DateTime": "2023-07-14T04:00:36.0000000",
+      "UtcDateTime": "2023-07-14T11:00:36.0000000Z",
+      "LocalDateTime": "2023-07-14T20:00:36.0000000+09:00",
+      "Date": "2023-07-14T00:00:00.0000000",
+      "Day": 14,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 195,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 36,
+      "Ticks": 638249040360000000,
+      "UtcTicks": 638249292360000000,
+      "TimeOfDay": "04:00:36",
+      "Year": 2023
+    },
+    "Description": "Hello and welcome to the Zero-XL's launch sequence.\n\nEpisode: The Long Reach Part 1",
+    "Duration": "00:08:26",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/iJu7qtYvZK8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCkaGnFlTw0PCWG8NsJ1LpKMkQh4Q",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iJu7qtYvZK8/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAk4WX6Gp3j9OhISVl2_ytqnOyhg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iJu7qtYvZK8/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsq1HF4epxJpahhqHlfTOyVdZKMA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iJu7qtYvZK8/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDk4WxUtOVjs-lmU_Dloebl4lJVDA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/iJu7qtYvZK8/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iJu7qtYvZK8/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iJu7qtYvZK8/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/iJu7qtYvZK8/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Thunderbirds Are Go",
+      "Thunderbirds",
+      "Thunderbird 1",
+      "Thunderbird 2",
+      "Thunderbird 3",
+      "Thunderbird 4",
+      "Thunderbird 5",
+      "Zero-XL",
+      "Scott Tracy",
+      "Virgil Tracy",
+      "Alan Tracy",
+      "Gordon Tracy",
+      "John Tracy",
+      "Kayo Kyrano",
+      "Brains Hackenbacker"
+    ],
+    "Engagement": {
+      "ViewCount": 1088488,
+      "LikeCount": 5950,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "CrF6EC1SI28",
+  "title": "<!DOCTYPE html><html><head><script nonce=\"b_LODnAOzwJRmhGT8Ipxyg\">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!=\"undefined\"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length==\"number\")return{next:k(a)};throw Error(String(a)+\" is not an iterable or ArrayLike\");}var m=typeof Object.defineProperties==\"function\"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};\nfunction n(a){a=[\"object\"==typeof globalThis&&globalThis,a,\"object\"==typeof window&&window,\"object\"==typeof self&&self,\"object\"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error(\"Cannot find global object\");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(\".\");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}\nq(\"Object.is\",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q(\"Array.prototype.includes\",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});\nq(\"String.prototype.includes\",function(a){return a?a:function(b,c){if(this==null)throw new TypeError(\"The 'this' value for String.prototype.includes must not be null or undefined\");if(b instanceof RegExp)throw new TypeError(\"First argument to String.prototype.includes must not be a regular expression\");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a(\"https://csp.withgoogle.com/csp/proto/\"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open(\"POST\",a);c.send(b)}\nfunction v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__(\"__proto__\"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:\"ACCESS_GET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}\nfunction z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__(\"__proto__\"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:\"ACCESS_SET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}\nvar D=\"constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x\".split(\" \"),E=D.concat,F=navigator.userAgent.match(/Firefox\\/([0-9]+)\\./),G=(!F||F.length<2?0:Number(F[1])<75)?[\"toSource\"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];\nfunction C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:\"SEAL\",origin:(h=window.location.origin)!=null?h:\"unknown\",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:\"HEARTBEAT\"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,\"__proto__\",{enumerable:!1,get:v(),set:z()})}catch(a){}}\n(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!==\"loading\"?B(b,a):document.addEventListener(\"DOMContentLoaded\",function(){B(b,a)})))})();}).call(this);\n</script><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"JHJmkY2XVgnQO5OdpujUJQ\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">ReferenceError: g is not defined（行 16、ファイル「yt.service」）</div></body></html>",
+  "author": "MIRAGE PHANTOM – Anison Metal Covers –",
+  "duration": "00:04:59",
+  "detail": {
+    "Id": {
+      "Value": "CrF6EC1SI28"
+    },
+    "Url": "https://www.youtube.com/watch?v=CrF6EC1SI28",
+    "Title": "🎸【Metal Cover】sister's noise – Heavy Metal Live – MIRAGE PHANTOM",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCnnxfjgEZ39GSMiteFSiXoA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCnnxfjgEZ39GSMiteFSiXoA",
+      "ChannelTitle": "MIRAGE PHANTOM – Anison Metal Covers –",
+      "Title": "MIRAGE PHANTOM – Anison Metal Covers –"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-18T04:51:12.0000000",
+      "UtcDateTime": "2026-02-18T12:51:12.0000000Z",
+      "LocalDateTime": "2026-02-18T21:51:12.0000000+09:00",
+      "Date": "2026-02-18T00:00:00.0000000",
+      "Day": 18,
+      "DayOfWeek": "Wednesday",
+      "DayOfYear": 49,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 51,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 12,
+      "Ticks": 639069870720000000,
+      "UtcTicks": 639070158720000000,
+      "TimeOfDay": "04:51:12",
+      "Year": 2026
+    },
+    "Description": "TVアニメ『とある科学の超電磁砲』オープニングテーマ\nfripSide「sister's noise」を、\nMIRAGE PHANTOMがヘヴィメタルライブアレンジでカバーしました。\n\n原曲が持つ圧倒的な疾走感、\n透明感あふれるハイトーンボーカル、\nそして“限界を超えていく意志”というテーマに、\n最大限のリスペクトを込めて制作しています。\n\n学園都市を舞台に描かれた、\n能力と青春が交差する物語。\nあの高揚感と緊張感を大切にしながら、\n重厚なギターとエネルギッシュなライブサウンドで表現しました。\n\n原曲の素晴らしさと、\n作品が生み出した熱量に深い感謝を込めてお届けします。\n\n⚡ センター：ルナ\n⚡ ギター：アイナ\n⚡ キーボード：モモ\n\nThis is a fan-made metal cover.\nAll rights belong to fripSide and the respective rights holders.\n\n※本動画は非公式のファンカバー作品です。\n原曲の権利は各権利者様に帰属します。\n\n🔥 ハッシュタグ\n\n#sistersnoise\n#fripSide\n#とある科学の超電磁砲\n#超電磁砲\n#Railgun\n#Toaru\n#AnimeOpening\n#アニソンカバー\n#ヘヴィメタル\n#メタルアレンジ\n#AnimeMetal\n#MetalCover\n#MIRAGEPHANTOM\n#歌ってみた\n#HeavyMetalLive",
+    "Duration": "00:04:59",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/CrF6EC1SI28/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBPuIcn9TvGr2QNvkA-cGq1emOPDg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CrF6EC1SI28/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBNkdj1ef54FBm7fhxQpYe6dcv1qA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CrF6EC1SI28/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtNKdfOoZqASJy5NqkbCmx0vhUoA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/CrF6EC1SI28/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLGN5jCrPlIlrOi3mFnZ92FiJdlA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/CrF6EC1SI28/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CrF6EC1SI28/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CrF6EC1SI28/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/CrF6EC1SI28/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "MIRAGE PHANTOM",
+      "Mirage Phantom",
+      "ミラージュファントム",
+      "アニソンメタル",
+      "アニソンカバー",
+      "アニメソングメタル",
+      "アニソンヘヴィメタル",
+      "メタルアレンジ",
+      "メタルカバー",
+      "ヘヴィメタル",
+      "モダンメタル",
+      "メタルコア",
+      "パワーメタル",
+      "シンフォニックメタル",
+      "アニメ主題歌",
+      "アニメOP",
+      "アニメED",
+      "歌ってみた",
+      "歌ってみたメタル",
+      "AI歌ってみた",
+      "バーチャルシンガー",
+      "アニメ音楽",
+      "アニソン",
+      "アイナ",
+      "ルナ",
+      "モモ",
+      "anison metal",
+      "anime metal",
+      "anime metal cover",
+      "anime song metal",
+      "metal anime cover",
+      "japanese anime metal",
+      "anime opening metal",
+      "anime ending metal",
+      "metal cover anime",
+      "virtual metal band"
+    ],
+    "Engagement": {
+      "ViewCount": 9022,
+      "LikeCount": 158,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

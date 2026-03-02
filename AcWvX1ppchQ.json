@@ -1,0 +1,121 @@
+{
+  "id": "AcWvX1ppchQ",
+  "title": "楽園のDoor   南野陽子",
+  "author": "SOU16",
+  "duration": "00:02:54",
+  "detail": {
+    "Id": {
+      "Value": "AcWvX1ppchQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=AcWvX1ppchQ",
+    "Title": "楽園のDoor   南野陽子",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCdTMehqR6hHUoJkrREsNkdQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCdTMehqR6hHUoJkrREsNkdQ",
+      "ChannelTitle": "SOU16",
+      "Title": "SOU16"
+    },
+    "UploadDate": {
+      "DateTime": "2025-12-28T03:00:49.0000000",
+      "UtcDateTime": "2025-12-28T11:00:49.0000000Z",
+      "LocalDateTime": "2025-12-28T20:00:49.0000000+09:00",
+      "Date": "2025-12-28T00:00:00.0000000",
+      "Day": 28,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 362,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 49,
+      "Ticks": 639024876490000000,
+      "UtcTicks": 639025164490000000,
+      "TimeOfDay": "03:00:49",
+      "Year": 2025
+    },
+    "Description": "楽園のDoor \n映画 スケバン刑事 主題歌\n南野陽子 6ndシングル\n\n作詞：小倉めぐみ\n作曲：来生たかお",
+    "Duration": "00:02:54",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/AcWvX1ppchQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD1_xrp3v0pCLhx0JWIDafryS1U5g",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AcWvX1ppchQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB4KK3kVjLbWN7pT_TpVbyd8WmHIQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AcWvX1ppchQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBCQY5Xdy31KGZ2G0AWk3LIzxWA1w",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/AcWvX1ppchQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDr8YHUcYwS4V1YbXsTCRNwtn-IPQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/AcWvX1ppchQ/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AcWvX1ppchQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AcWvX1ppchQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/AcWvX1ppchQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "南野陽子",
+      "楽園のDoor",
+      "来生たかお",
+      "小倉めぐみ",
+      "スケバン刑事"
+    ],
+    "Engagement": {
+      "ViewCount": 2063,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

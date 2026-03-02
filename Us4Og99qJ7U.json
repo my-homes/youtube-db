@@ -1,0 +1,132 @@
+{
+  "id": "Us4Og99qJ7U",
+  "title": "<!DOCTYPE html><html><head><script nonce=\"8BPGuaH8WyHcOmn3wAgrKQ\">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!=\"undefined\"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length==\"number\")return{next:k(a)};throw Error(String(a)+\" is not an iterable or ArrayLike\");}var m=typeof Object.defineProperties==\"function\"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};\nfunction n(a){a=[\"object\"==typeof globalThis&&globalThis,a,\"object\"==typeof window&&window,\"object\"==typeof self&&self,\"object\"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error(\"Cannot find global object\");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(\".\");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}\nq(\"Object.is\",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q(\"Array.prototype.includes\",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});\nq(\"String.prototype.includes\",function(a){return a?a:function(b,c){if(this==null)throw new TypeError(\"The 'this' value for String.prototype.includes must not be null or undefined\");if(b instanceof RegExp)throw new TypeError(\"First argument to String.prototype.includes must not be a regular expression\");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a(\"https://csp.withgoogle.com/csp/proto/\"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open(\"POST\",a);c.send(b)}\nfunction v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__(\"__proto__\"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:\"ACCESS_GET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}\nfunction z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__(\"__proto__\"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:\"ACCESS_SET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}\nvar D=\"constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x\".split(\" \"),E=D.concat,F=navigator.userAgent.match(/Firefox\\/([0-9]+)\\./),G=(!F||F.length<2?0:Number(F[1])<75)?[\"toSource\"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];\nfunction C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:\"SEAL\",origin:(h=window.location.origin)!=null?h:\"unknown\",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:\"HEARTBEAT\"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,\"__proto__\",{enumerable:!1,get:v(),set:z()})}catch(a){}}\n(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!==\"loading\"?B(b,a):document.addEventListener(\"DOMContentLoaded\",function(){B(b,a)})))})();}).call(this);\n</script><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"jWfThuSmhekYBkVE2VT95Q\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">ReferenceError: g is not defined（行 16、ファイル「yt.service」）</div></body></html>",
+  "author": "MUSIC Liverary",
+  "duration": "00:04:37",
+  "detail": {
+    "Id": {
+      "Value": "Us4Og99qJ7U"
+    },
+    "Url": "https://www.youtube.com/watch?v=Us4Og99qJ7U",
+    "Title": "南野陽子「吐息でネット」(「ETE DU CINEMA SUMMER CONCERT '88」＜1988年＞)",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCcTueFdDQqmC_q8O8myVHXA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCcTueFdDQqmC_q8O8myVHXA",
+      "ChannelTitle": "MUSIC Liverary",
+      "Title": "MUSIC Liverary"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-19T23:59:00.0000000",
+      "UtcDateTime": "2026-02-20T07:59:00.0000000Z",
+      "LocalDateTime": "2026-02-20T16:59:00.0000000+09:00",
+      "Date": "2026-02-19T00:00:00.0000000",
+      "Day": 19,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 50,
+      "Hour": 23,
+      "Millisecond": 0,
+      "Minute": 59,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 0,
+      "Ticks": 639071423400000000,
+      "UtcTicks": 639071711400000000,
+      "TimeOfDay": "23:59:00",
+      "Year": 2026
+    },
+    "Description": "「吐息でネット」の楽曲配信はこちら https://aldelight.lnk.to/ToikideNet\nその他の南野陽子の楽曲配信はこちら https://lnk.to/Yoko_Minamino\n\n「吐息でネット」\n1988年2月26日発売\n作詞：田口 俊   作曲：柴矢俊彦　 編曲：萩田光雄\n\n卒業式に　はなやぐ並木路\n駆けてゆく学生達\nそうよあなたを　愛しはじめたのは\nほら あの頃\n\nmy true love\n初恋じゃなくてよかった\nだってあなたを\n遠くから見てるだけなんていや\n\n吐息でネット\n包んでしまいたいハート\nなにげないKissが\nとても　いとしくて\n吐息でネット\nあなたを縛りたい　そっと\nやきもちじゃなくて\n言いつくせない　愛がもどかしいの\n\n年上なのに　可愛く思えるの\nふとしたあなたの仕草\n怒らないでね\nだけどそんな瞬間が一番好き\n\nmy true love\n変わってく　私がわかる\n朝の光に\n腕の中　目覚めるそのたびに\n\n吐息でネット\n甘く閉じこめたいハート\n見上げた横顔\nふいに　せつなくて\n吐息でネット\nあなたに染まりたい　もっと\n背のびじゃなくって　\n綺麗でいたい　いつもあなただけに\n\nmy true love\n見つめてて　ねえ私だけ\nあなたのそばで\n少しずつ大人になってゆくわ\n\n吐息でネット\n包んでしまいたいハート\nなにげないKissが\nとても　いとしくて\n吐息でネット\nあなたを縛りたい　ずっと\nわがままじゃなくて\n舞い散る花が　肩におりるように\n\n「ETE DU CINEMA SUMMER CONCERT '88」＜1988年＞\n収録：1988年8月30日　新宿厚生年金会館\n\n南野陽子 商品購入はこちら\nhttps://www.sonymusicshop.jp/m/arti/artiItm.php?site=S&cd=83130987\n\n#南野陽子 #吐息でネット #ナンノ",
+    "Duration": "00:04:37",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Us4Og99qJ7U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB7RmSDt9ucQjwPUX9XmEIPbn7Leg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Us4Og99qJ7U/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC8pHIRgbkm7rlZLpUNof7-tQy4LQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Us4Og99qJ7U/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDKTiwGjbxj4MwjzsXjKFNLQaEhqQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Us4Og99qJ7U/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUga7julDZNmr3rEo_M_Vn1YGS9Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/Us4Og99qJ7U/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Us4Og99qJ7U/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Us4Og99qJ7U/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Us4Og99qJ7U/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "南野陽子",
+      "ナンノ",
+      "YokoMinamino",
+      "NANNO",
+      "80年代",
+      "アイドル",
+      "中山美穂",
+      "斉藤由貴",
+      "工藤静香",
+      "40周年",
+      "萩田光雄",
+      "スケバン刑事",
+      "はいからさんが通る",
+      "田口俊",
+      "柴矢俊彦",
+      "吐息でネット"
+    ],
+    "Engagement": {
+      "ViewCount": 19464,
+      "LikeCount": 320,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

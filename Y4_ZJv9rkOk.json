@@ -1,0 +1,123 @@
+{
+  "id": "Y4_ZJv9rkOk",
+  "title": "<!DOCTYPE html><html><head><script nonce=\"x5XFVuz4SG-ozy1WsniE9A\">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!=\"undefined\"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length==\"number\")return{next:k(a)};throw Error(String(a)+\" is not an iterable or ArrayLike\");}var m=typeof Object.defineProperties==\"function\"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};\nfunction n(a){a=[\"object\"==typeof globalThis&&globalThis,a,\"object\"==typeof window&&window,\"object\"==typeof self&&self,\"object\"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error(\"Cannot find global object\");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(\".\");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}\nq(\"Object.is\",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q(\"Array.prototype.includes\",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});\nq(\"String.prototype.includes\",function(a){return a?a:function(b,c){if(this==null)throw new TypeError(\"The 'this' value for String.prototype.includes must not be null or undefined\");if(b instanceof RegExp)throw new TypeError(\"First argument to String.prototype.includes must not be a regular expression\");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a(\"https://csp.withgoogle.com/csp/proto/\"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open(\"POST\",a);c.send(b)}\nfunction v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__(\"__proto__\"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:\"ACCESS_GET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}\nfunction z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__(\"__proto__\"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:\"ACCESS_SET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}\nvar D=\"constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x\".split(\" \"),E=D.concat,F=navigator.userAgent.match(/Firefox\\/([0-9]+)\\./),G=(!F||F.length<2?0:Number(F[1])<75)?[\"toSource\"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];\nfunction C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:\"SEAL\",origin:(h=window.location.origin)!=null?h:\"unknown\",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:\"HEARTBEAT\"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,\"__proto__\",{enumerable:!1,get:v(),set:z()})}catch(a){}}\n(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!==\"loading\"?B(b,a):document.addEventListener(\"DOMContentLoaded\",function(){B(b,a)})))})();}).call(this);\n</script><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"Z51m1FiumY5PivL7_wyDmw\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">ReferenceError: g is not defined（行 16、ファイル「yt.service」）</div></body></html>",
+  "author": "明日都ひとみ♡ラブリー歌ステージ",
+  "duration": "00:03:07",
+  "detail": {
+    "Id": {
+      "Value": "Y4_ZJv9rkOk"
+    },
+    "Url": "https://www.youtube.com/watch?v=Y4_ZJv9rkOk",
+    "Title": "【ムーンライト伝説】を熱唱！🌟炎を操るセーラーマーズ☆愛と情熱で歌ってみた！明日都ひとみ",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCybLchCJ83bywCdE2_EtDjg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCybLchCJ83bywCdE2_EtDjg",
+      "ChannelTitle": "明日都ひとみ♡ラブリー歌ステージ",
+      "Title": "明日都ひとみ♡ラブリー歌ステージ"
+    },
+    "UploadDate": {
+      "DateTime": "2025-07-31T04:27:22.0000000",
+      "UtcDateTime": "2025-07-31T11:27:22.0000000Z",
+      "LocalDateTime": "2025-07-31T20:27:22.0000000+09:00",
+      "Date": "2025-07-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 212,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 27,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 22,
+      "Ticks": 638895328420000000,
+      "UtcTicks": 638895580420000000,
+      "TimeOfDay": "04:27:22",
+      "Year": 2025
+    },
+    "Description": "【マーズコスで歌ってみた】「火星に代わって折檻よ！」お待たせしましたぁー(^_-)\n\nセーラームーンジュピターのコスプレが、大好評につき、\n\n今回は、セーラームーンマーズのコスプレしましたぁー(^O^)歌は、もちろん【ムーライト伝説】歌ってます。\n\n次回は、何しようかな。リクエストもお待ちしております(^O^)\n\n感想などコメントで教えていただけると励みになります💌\n\n作詞：小田佳奈子\n作曲：小諸鉄矢\nアレンジ、音源制作：BINBN\nアニメ『美少女戦士セーラームーン』オープニングテーマ\n\nI covered “Moonlight Densetsu”, the opening song of Sailor Moon 🌙✨\nThis time, I dressed up as Sailor Mars 💖⚡️\nSinging in cosplay was so much fun—I hope you enjoy it too! 🎶\n\n他の戦士たちの歌もご視聴ください💕\n\nhttps://youtube.com/playlist?list=PLV76BWm2TpH6Yz_LK7gA_A5FEympPVQJM&si=-zT0QJNDzn5f2K0g\n\n他にアニソン、昭和歌謡、オリジナルソングも歌っています(^O^)是非ご視聴くださいませ💕\n\nhttps://youtube.com/playlist?list=PLV76BWm2TpH4p_EEtozqTSY8cNxrPctM0&si=VLki9FlUuK_6XUfI\nhttps://youtube.com/playlist?list=PLV76BWm2TpH6AYU1szcJGmglcTCCINEpU&si=gwv8SGhP0SiBKdSB\nhttps://youtube.com/playlist?list=PLV76BWm2TpH4Rdlh8oonTP1iy7IvCshoe&si=7L58x3gH0MzGvE0j\n\n⭕️TikTok\nhttps://www.tiktok.com/@hitomita_asuto?_t=ZS-8zUXZl9VDOM&_r=1\n⭕️明日都ひとみ公式X\nhttps://x.com/astohitomi\n⭕️公式インスタグラム\nhttps://www.instagram.com/asuto_hitomi?igsh=MTV1ODRjZnp6cWo3NA==\n\n#セーラーマーズ #カバー #sailormoon  #hitomiasuto #sailormars  #cosplayer #簡単振り付け\n\n👉「🌸お楽しみ頂けましたらチャンネル登録もよろしくお願いいたします！」",
+    "Duration": "00:03:07",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/Y4_ZJv9rkOk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCNwDIUvbE8l3EVNNR0avN9a6ctgg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Y4_ZJv9rkOk/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB5lsfMlvvokKcTrUoMPeWu5ZXg9w",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Y4_ZJv9rkOk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwCV4sUkTQKwh7HRgNFSzD35hddA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/Y4_ZJv9rkOk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLArOtnbn2cgZPmLXJRGqqMOHWdoyw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/Y4_ZJv9rkOk/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Y4_ZJv9rkOk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Y4_ZJv9rkOk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/Y4_ZJv9rkOk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "歌ってみた",
+      "かわいい衣装",
+      "振り付け",
+      "コスプレ",
+      "昭和歌謡",
+      "アニソン",
+      "ラブリー"
+    ],
+    "Engagement": {
+      "ViewCount": 9325,
+      "LikeCount": 205,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

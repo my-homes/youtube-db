@@ -1,0 +1,115 @@
+{
+  "id": "FFOL0oILcyM",
+  "title": "宇宙戦艦ヤマト　完結編　発進シーン",
+  "author": "monotoon pod2",
+  "duration": "00:05:06",
+  "detail": {
+    "Id": {
+      "Value": "FFOL0oILcyM"
+    },
+    "Url": "https://www.youtube.com/watch?v=FFOL0oILcyM",
+    "Title": "宇宙戦艦ヤマト　完結編　発進シーン",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCyrJNYzc_dTyQi1FzKGBpBQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCyrJNYzc_dTyQi1FzKGBpBQ",
+      "ChannelTitle": "monotoon pod2",
+      "Title": "monotoon pod2"
+    },
+    "UploadDate": {
+      "DateTime": "2021-12-20T05:31:21.0000000",
+      "UtcDateTime": "2021-12-20T13:31:21.0000000Z",
+      "LocalDateTime": "2021-12-20T22:31:21.0000000+09:00",
+      "Date": "2021-12-20T00:00:00.0000000",
+      "Day": 20,
+      "DayOfWeek": "Monday",
+      "DayOfYear": 354,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 31,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 21,
+      "Ticks": 637755750810000000,
+      "UtcTicks": 637756038810000000,
+      "TimeOfDay": "05:31:21",
+      "Year": 2021
+    },
+    "Description": "",
+    "Duration": "00:05:06",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/FFOL0oILcyM/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-DoACuAiKAgwIABABGFwgZShEMA8=&rs=AOn4CLDTlFTfoxRPyjF5d5Q5JibhStWJnQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FFOL0oILcyM/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-DoACuAiKAgwIABABGFwgZShEMA8=&rs=AOn4CLAm0JHrs1u5Sc1v6ffL5FtMTKyeLQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FFOL0oILcyM/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhcIGUoRDAP&rs=AOn4CLCmBWh1Xl5kCWxRdO-rrptFsu2xFA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FFOL0oILcyM/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_g6AArgIigIMCAAQARhcIGUoRDAP&rs=AOn4CLAjWB1yq5AuHpSGJptIeibeSjPNpQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FFOL0oILcyM/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-DoACuAiKAgwIABABGFwgZShEMA8=&rs=AOn4CLDnbFL7yCdht9ygbvRWm6o9SOX9HA",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FFOL0oILcyM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FFOL0oILcyM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FFOL0oILcyM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 307681,
+      "LikeCount": 1733,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

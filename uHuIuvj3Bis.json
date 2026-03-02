@@ -1,0 +1,115 @@
+{
+  "id": "uHuIuvj3Bis",
+  "title": "「疾風ザブングル」【歌ってみた】covered by DANN",
+  "author": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+  "duration": "00:03:44",
+  "detail": {
+    "Id": {
+      "Value": "uHuIuvj3Bis"
+    },
+    "Url": "https://www.youtube.com/watch?v=uHuIuvj3Bis",
+    "Title": "「疾風ザブングル」【歌ってみた】covered by DANN",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCnCvNHeOHpMyKQ4A47nQ8FQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCnCvNHeOHpMyKQ4A47nQ8FQ",
+      "ChannelTitle": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music",
+      "Title": "諸星弾（ﾓﾛﾎﾞｼ･ﾀﾞﾝ）おんがくチャンネル／DANN's Music"
+    },
+    "UploadDate": {
+      "DateTime": "2022-01-27T03:04:32.0000000",
+      "UtcDateTime": "2022-01-27T11:04:32.0000000Z",
+      "LocalDateTime": "2022-01-27T20:04:32.0000000+09:00",
+      "Date": "2022-01-27T00:00:00.0000000",
+      "Day": 27,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 27,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 4,
+      "Month": 1,
+      "Offset": "-08:00:00",
+      "Second": 32,
+      "Ticks": 637788494720000000,
+      "UtcTicks": 637788782720000000,
+      "TimeOfDay": "03:04:32",
+      "Year": 2022
+    },
+    "Description": "",
+    "Duration": "00:03:44",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/uHuIuvj3Bis/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCJG118LaiAx_Pwko3Buvrd47Efkg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/uHuIuvj3Bis/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwHEfXVWQmwQm5Ljpw9EvFLZuxMg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/uHuIuvj3Bis/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALZ6xKJcdXYzRafV5KpRX0VLZvEg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/uHuIuvj3Bis/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCa2N7mpYBEdKaOT-Ylk99bCUuufg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/uHuIuvj3Bis/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/uHuIuvj3Bis/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/uHuIuvj3Bis/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/uHuIuvj3Bis/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 9409,
+      "LikeCount": 277,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

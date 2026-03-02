@@ -1,0 +1,123 @@
+{
+  "id": "4ScrQ_kf7bY",
+  "title": "<!DOCTYPE html><html><head><script nonce=\"AGsq10zr-_VEPB3y91zttQ\">window['ppConfig'] = {productName: '26981ed0d57bbad37e728ff58134270c', deleteIsEnforced:  false , sealIsEnforced:  false , heartbeatRate:  0.5 , periodicReportingRateMillis:  60000.0 , disableAllReporting:  false };(function(){'use strict';function k(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}}function l(a){var b=typeof Symbol!=\"undefined\"&&Symbol.iterator&&a[Symbol.iterator];if(b)return b.call(a);if(typeof a.length==\"number\")return{next:k(a)};throw Error(String(a)+\" is not an iterable or ArrayLike\");}var m=typeof Object.defineProperties==\"function\"?Object.defineProperty:function(a,b,c){if(a==Array.prototype||a==Object.prototype)return a;a[b]=c.value;return a};\nfunction n(a){a=[\"object\"==typeof globalThis&&globalThis,a,\"object\"==typeof window&&window,\"object\"==typeof self&&self,\"object\"==typeof global&&global];for(var b=0;b<a.length;++b){var c=a[b];if(c&&c.Math==Math)return c}throw Error(\"Cannot find global object\");}var p=n(this);function q(a,b){if(b)a:{var c=p;a=a.split(\".\");for(var d=0;d<a.length-1;d++){var e=a[d];if(!(e in c))break a;c=c[e]}a=a[a.length-1];d=c[a];b=b(d);b!=d&&b!=null&&m(c,a,{configurable:!0,writable:!0,value:b})}}\nq(\"Object.is\",function(a){return a?a:function(b,c){return b===c?b!==0||1/b===1/c:b!==b&&c!==c}});q(\"Array.prototype.includes\",function(a){return a?a:function(b,c){var d=this;d instanceof String&&(d=String(d));var e=d.length;c=c||0;for(c<0&&(c=Math.max(c+e,0));c<e;c++){var f=d[c];if(f===b||Object.is(f,b))return!0}return!1}});\nq(\"String.prototype.includes\",function(a){return a?a:function(b,c){if(this==null)throw new TypeError(\"The 'this' value for String.prototype.includes must not be null or undefined\");if(b instanceof RegExp)throw new TypeError(\"First argument to String.prototype.includes must not be a regular expression\");return this.indexOf(b,c||0)!==-1}});function r(a,b,c){a(\"https://csp.withgoogle.com/csp/proto/\"+encodeURIComponent(b),JSON.stringify(c))}function t(){var a;if((a=window.ppConfig)==null?0:a.disableAllReporting)return function(){};var b,c,d,e;return(e=(b=window)==null?void 0:(c=b.navigator)==null?void 0:(d=c.sendBeacon)==null?void 0:d.bind(navigator))!=null?e:u}function u(a,b){var c=new XMLHttpRequest;c.open(\"POST\",a);c.send(b)}\nfunction v(){var a=(w=Object.prototype)==null?void 0:w.__lookupGetter__(\"__proto__\"),b=x,c=y;return function(){var d=a.call(this),e,f,g,h;r(c,b,{type:\"ACCESS_GET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}\nfunction z(){var a=(A=Object.prototype)==null?void 0:A.__lookupSetter__(\"__proto__\"),b=x,c=y;return function(d){d=a.call(this,d);var e,f,g,h;r(c,b,{type:\"ACCESS_SET\",origin:(f=window.location.origin)!=null?f:\"unknown\",report:{className:(g=d==null?void 0:(e=d.constructor)==null?void 0:e.name)!=null?g:\"unknown\",stackTrace:(h=Error().stack)!=null?h:\"unknown\"}});return d}}function B(a,b){C(a.productName,b);setInterval(function(){C(a.productName,b)},a.periodicReportingRateMillis)}\nvar D=\"constructor __defineGetter__ __defineSetter__ hasOwnProperty __lookupGetter__ __lookupSetter__ isPrototypeOf propertyIsEnumerable toString valueOf __proto__ toLocaleString x_ngfn_x\".split(\" \"),E=D.concat,F=navigator.userAgent.match(/Firefox\\/([0-9]+)\\./),G=(!F||F.length<2?0:Number(F[1])<75)?[\"toSource\"]:[],H;if(G instanceof Array)H=G;else{for(var I=l(G),J,K=[];!(J=I.next()).done;)K.push(J.value);H=K}var L=E.call(D,H),M=[];\nfunction C(a,b){for(var c=[],d=l(Object.getOwnPropertyNames(Object.prototype)),e=d.next();!e.done;e=d.next())e=e.value,L.includes(e)||M.includes(e)||c.push(e);e=Object.prototype;d=[];for(var f=0;f<c.length;f++){var g=c[f];d[f]={name:g,descriptor:Object.getOwnPropertyDescriptor(Object.prototype,g),type:typeof e[g]}}if(d.length!==0){c=l(d);for(e=c.next();!e.done;e=c.next())M.push(e.value.name);var h;r(b,a,{type:\"SEAL\",origin:(h=window.location.origin)!=null?h:\"unknown\",report:{blockers:d}})}};var N=Math.random(),O=t(),P=window.ppConfig;P&&(P.disableAllReporting||P.deleteIsEnforced&&P.sealIsEnforced||N<P.heartbeatRate&&r(O,P.productName,{origin:window.location.origin,type:\"HEARTBEAT\"}));var y=t(),Q=window.ppConfig;if(Q)if(Q.deleteIsEnforced)delete Object.prototype.__proto__;else if(!Q.disableAllReporting){var x=Q.productName;try{var w,A;Object.defineProperty(Object.prototype,\"__proto__\",{enumerable:!1,get:v(),set:z()})}catch(a){}}\n(function(){var a=t(),b=window.ppConfig;b&&(b.sealIsEnforced?Object.seal(Object.prototype):b.disableAllReporting||(document.readyState!==\"loading\"?B(b,a):document.addEventListener(\"DOMContentLoaded\",function(){B(b,a)})))})();}).call(this);\n</script><link rel=\"shortcut icon\" href=\"//ssl.gstatic.com/docs/script/images/favicon.ico\"><title>エラー</title><style type=\"text/css\" nonce=\"QzelmRX3Y6-N9WsjINHBvw\">body {background-color: #fff; margin: 0; padding: 0;}.errorMessage {font-family: Arial,sans-serif; font-size: 12pt; font-weight: bold; line-height: 150%; padding-top: 25px;}</style></head><body style=\"margin:20px\"><div><img alt=\"Google Apps Script\" src=\"//ssl.gstatic.com/docs/script/images/logo.png\"></div><div style=\"text-align:center;font-family:monospace;margin:50px auto 0;max-width:600px\">ReferenceError: g is not defined（行 16、ファイル「yt.service」）</div></body></html>",
+  "author": "明日都ひとみ♡ラブリー歌ステージ",
+  "duration": "00:02:41",
+  "detail": {
+    "Id": {
+      "Value": "4ScrQ_kf7bY"
+    },
+    "Url": "https://www.youtube.com/watch?v=4ScrQ_kf7bY",
+    "Title": "* 【歌ってみた】ラムのラブソング💖（うる星やつら）明日都ひとみ／コスプレ＆振付あり✨",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCybLchCJ83bywCdE2_EtDjg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCybLchCJ83bywCdE2_EtDjg",
+      "ChannelTitle": "明日都ひとみ♡ラブリー歌ステージ",
+      "Title": "明日都ひとみ♡ラブリー歌ステージ"
+    },
+    "UploadDate": {
+      "DateTime": "2025-09-12T02:00:08.0000000",
+      "UtcDateTime": "2025-09-12T09:00:08.0000000Z",
+      "LocalDateTime": "2025-09-12T18:00:08.0000000+09:00",
+      "Date": "2025-09-12T00:00:00.0000000",
+      "Day": 12,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 255,
+      "Hour": 2,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 8,
+      "Ticks": 638932392080000000,
+      "UtcTicks": 638932644080000000,
+      "TimeOfDay": "02:00:08",
+      "Year": 2025
+    },
+    "Description": "アニメ「うる星やつら｣主題歌『ラムのラブソング』を歌いましたぁ💕  \nラムちゃんのかわいさを歌にも表現してみましたが、どうかな(^O^)？\n\n衣装はすごく迷いましたが💦トラ柄の水着風衣装に挑戦！  \n衣装に負けないように、踊りもがんばってみましたぁp(^-^)q✨\n\nお気に入りは「トラポーズ」🐯  \n間奏と最後の決めポーズにいれてるので、ぜひ最後まで楽しんでくださいね💖\n\n  お楽しみいただけましたら、チャンネル登録＆コメントで応援よろしくお願いします🌸\n\n作詞：伊藤アキラ　　作曲：小林泉美\n編曲、演奏：BINBN\n\n他にアニソン、昭和歌謡、オリジナルソングも歌っています(^O^)是非ご視聴くださいませ💕\n\nhttps://youtube.com/playlist?list=PLV76BWm2TpH4p_EEtozqTSY8cNxrPctM0&si=VLki9FlUuK_6XUfI\nhttps://youtube.com/playlist?list=PLV76BWm2TpH6AYU1szcJGmglcTCCINEpU&si=gwv8SGhP0SiBKdSB\nhttps://youtube.com/playlist?list=PLV76BWm2TpH4Rdlh8oonTP1iy7IvCshoe&si=7L58x3gH0MzGvE0j\n\n⭕️TikTok\nhttps://www.tiktok.com/@hitomita_asuto?_t=ZS-8zUXZl9VDOM&_r=1\n⭕️明日都ひとみ公式X\nhttps://x.com/astohitomi\n⭕️公式インスタグラム\nhttps://www.instagram.com/asuto_hitomi?igsh=MTV1ODRjZnp6cWo3NA==\n\n#歌ってみた #アニソン #アニソンカバー #コスプレ #振付 #明日都ひとみ\n#女性ボーカル #カバー曲 #音楽好きと繋がりたい #うる星やつら #ラムのラブソング #アニメソング",
+    "Duration": "00:02:41",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/4ScrQ_kf7bY/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAYBOgJaqjL96UlYQOJlTxOtrXQwg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4ScrQ_kf7bY/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDevC3dTciIYygmAEjPU06T2g7oog",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4ScrQ_kf7bY/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxlGAvsIprUMgGDTLBivT0Mup_vg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/4ScrQ_kf7bY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCXY-R8v5XAeIWmnjl-m16MOCMHVA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/4ScrQ_kf7bY/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4ScrQ_kf7bY/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4ScrQ_kf7bY/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/4ScrQ_kf7bY/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "歌ってみた",
+      "可愛い衣装",
+      "振り付け",
+      "コスプレ",
+      "ラブリー",
+      "昭和歌謡",
+      "アニソン"
+    ],
+    "Engagement": {
+      "ViewCount": 1512,
+      "LikeCount": 30,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
