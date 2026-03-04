@@ -1,0 +1,118 @@
+{
+  "id": "vJANeAwsAFQ",
+  "title": "요요미 - 이건 너무 하잖아요 (김정미)  - Cover by YOYOMI",
+  "author": "요요미 - YOYOMI",
+  "duration": "00:03:03",
+  "detail": {
+    "Id": {
+      "Value": "vJANeAwsAFQ"
+    },
+    "Url": "https://www.youtube.com/watch?v=vJANeAwsAFQ",
+    "Title": "요요미 - 이건 너무 하잖아요 (김정미)  - Cover by YOYOMI",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC_UKEsQBkJ9ZOJkKpJs_54g"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC_UKEsQBkJ9ZOJkKpJs_54g",
+      "ChannelTitle": "요요미 - YOYOMI",
+      "Title": "요요미 - YOYOMI"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-26T05:00:21.0000000",
+      "UtcDateTime": "2026-02-26T13:00:21.0000000Z",
+      "LocalDateTime": "2026-02-26T22:00:21.0000000+09:00",
+      "Date": "2026-02-26T00:00:00.0000000",
+      "Day": 26,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 57,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 21,
+      "Ticks": 639076788210000000,
+      "UtcTicks": 639077076210000000,
+      "TimeOfDay": "05:00:21",
+      "Year": 2026
+    },
+    "Description": "Melon Music: https://www.melon.com/artist/timeline.htm?artistId=2087365\nAppleMusic:https://music.apple.com/kr/artist/%EC%9A%94%EC%9A%94%EB%AF%B8/1457305792\n\nYOYOMI instagram : https://www.instagram.com/official.yoyomi\nYOYOMI TikTok : https://www.tiktok.com/@yoyomi.korea\n                             : https://www.tiktok.com/@yoyomi.korea2\nNAVER Official Fan Cafe : https://cafe.naver.com/nandayomi\nYOYOMI Official Home Page : http://www.yoyomi.co.kr\nYOYOMI Official Facebook: https://www.facebook.com/yoyomi.korea/\nYOYOMI Official Instagram: https://www.instagram.com/official.yoyomi/\n------------------------------------------------------------------------------------------------\n\nⓒ 2018 SMET Entertainment. All Rights Reserved",
+    "Duration": "00:03:03",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/vJANeAwsAFQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLARTn-s-eqLwD0Nh8K8eb_A7VkbDQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vJANeAwsAFQ/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDfKGxpbsj7oqoxljksBvoCQpGUvg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vJANeAwsAFQ/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfzQVP30XRTajjyn87g911F7aCBA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/vJANeAwsAFQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsK_E6-a0H9WtpZo_J-uQASVaq2Q",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/vJANeAwsAFQ/maxresdefault.webp?v=699eb97b",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vJANeAwsAFQ/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vJANeAwsAFQ/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/vJANeAwsAFQ/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "요요미",
+      "커버송"
+    ],
+    "Engagement": {
+      "ViewCount": 11208,
+      "LikeCount": 768,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

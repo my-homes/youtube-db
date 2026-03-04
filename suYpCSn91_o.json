@@ -1,0 +1,124 @@
+{
+  "id": "suYpCSn91_o",
+  "title": "홍진영 - 사랑은 꽃잎처럼 [열린 음악회/Open Concert] 20200830",
+  "author": "KBS 레전드 케이팝",
+  "duration": "00:03:35",
+  "detail": {
+    "Id": {
+      "Value": "suYpCSn91_o"
+    },
+    "Url": "https://www.youtube.com/watch?v=suYpCSn91_o",
+    "Title": "홍진영 - 사랑은 꽃잎처럼 [열린 음악회/Open Concert] 20200830",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCR5cyf8hncN_AaQPfmvmlgA"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCR5cyf8hncN_AaQPfmvmlgA",
+      "ChannelTitle": "KBS 레전드 케이팝",
+      "Title": "KBS 레전드 케이팝"
+    },
+    "UploadDate": {
+      "DateTime": "2020-08-30T03:47:51.0000000",
+      "UtcDateTime": "2020-08-30T10:47:51.0000000Z",
+      "LocalDateTime": "2020-08-30T19:47:51.0000000+09:00",
+      "Date": "2020-08-30T00:00:00.0000000",
+      "Day": 30,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 243,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 47,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 51,
+      "Ticks": 637343560710000000,
+      "UtcTicks": 637343812710000000,
+      "TimeOfDay": "03:47:51",
+      "Year": 2020
+    },
+    "Description": "홍진영 - 사랑은 꽃잎처럼",
+    "Duration": "00:03:35",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/suYpCSn91_o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAeUX5knrrziTKBQgKKbC0lKZJSQA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/suYpCSn91_o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAPVwP4fv7bq4aV70mFSxuP7sLcQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/suYpCSn91_o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBMKFhMW-1awhvIKmB5_u8-wwq7_g",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/suYpCSn91_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoMjl4AuwoBth_qiaxwjMP9SZ0nQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/suYpCSn91_o/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/suYpCSn91_o/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/suYpCSn91_o/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/suYpCSn91_o/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "이현주",
+      "코요태",
+      "엘리스",
+      "성민제",
+      "조윤성",
+      "노브레인",
+      "홍진영",
+      "더원"
+    ],
+    "Engagement": {
+      "ViewCount": 284727,
+      "LikeCount": 1405,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

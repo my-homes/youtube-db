@@ -1,0 +1,115 @@
+{
+  "id": "J4KuN5HvWAI",
+  "title": "베이비복스 - 우연 ㅣ 리믹스 ㅣ MEGA REMIX",
+  "author": "MEGA REMIX (메가리믹스)",
+  "duration": "00:03:53",
+  "detail": {
+    "Id": {
+      "Value": "J4KuN5HvWAI"
+    },
+    "Url": "https://www.youtube.com/watch?v=J4KuN5HvWAI",
+    "Title": "베이비복스 - 우연 ㅣ 리믹스 ㅣ MEGA REMIX",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCy5xBeImkiYS7gaZiR0WUvQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCy5xBeImkiYS7gaZiR0WUvQ",
+      "ChannelTitle": "MEGA REMIX (메가리믹스)",
+      "Title": "MEGA REMIX (메가리믹스)"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-05T13:57:09.0000000",
+      "UtcDateTime": "2026-02-05T21:57:09.0000000Z",
+      "LocalDateTime": "2026-02-06T06:57:09.0000000+09:00",
+      "Date": "2026-02-05T00:00:00.0000000",
+      "Day": 5,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 36,
+      "Hour": 13,
+      "Millisecond": 0,
+      "Minute": 57,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 9,
+      "Ticks": 639058966290000000,
+      "UtcTicks": 639059254290000000,
+      "TimeOfDay": "13:57:09",
+      "Year": 2026
+    },
+    "Description": "#리믹스 #베이비복스 #우연",
+    "Duration": "00:03:53",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/J4KuN5HvWAI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCYjKydn1NWczsEUuJRasB_Yr4-Mg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J4KuN5HvWAI/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCBRuvUDXK5ExiGvzBAwATU8I0V3Q",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J4KuN5HvWAI/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdPCUb9jOB_uwCF4wAmLC-qeYqAw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J4KuN5HvWAI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCtbLw87d3CDguCJROPHRmFVkveKQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/J4KuN5HvWAI/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/J4KuN5HvWAI/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/J4KuN5HvWAI/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/J4KuN5HvWAI/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 13011,
+      "LikeCount": 117,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

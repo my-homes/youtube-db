@@ -1,0 +1,107 @@
+{
+  "id": "ul8v7-09p_o",
+  "title": "南野陽子 接近( アプローチ )",
+  "author": "water 8",
+  "duration": "00:02:29",
+  "detail": {
+    "Id": {
+      "Value": "ul8v7-09p_o"
+    },
+    "Url": "https://www.youtube.com/watch?v=ul8v7-09p_o",
+    "Title": "南野陽子 接近( アプローチ )",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCH8FD4OK7roPVFv17Lru87w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCH8FD4OK7roPVFv17Lru87w",
+      "ChannelTitle": "water 8",
+      "Title": "water 8"
+    },
+    "UploadDate": {
+      "DateTime": "2019-02-02T05:39:08.0000000",
+      "UtcDateTime": "2019-02-02T13:39:08.0000000Z",
+      "LocalDateTime": "2019-02-02T22:39:08.0000000+09:00",
+      "Date": "2019-02-02T00:00:00.0000000",
+      "Day": 2,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 33,
+      "Hour": 5,
+      "Millisecond": 0,
+      "Minute": 39,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 8,
+      "Ticks": 636846827480000000,
+      "UtcTicks": 636847115480000000,
+      "TimeOfDay": "05:39:08",
+      "Year": 2019
+    },
+    "Description": "",
+    "Duration": "00:02:29",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/ul8v7-09p_o/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4SvblIWdjQRZCAALWkpNdcY6OcA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ul8v7-09p_o/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCnDRWO7-NjjxDp6jqnYphw5TBebg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ul8v7-09p_o/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuV6XxF62IMvvzosZ0vQBURKHxBQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/ul8v7-09p_o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAFuNv-H8ZN3qwVWwVvOVS4aB9JYw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ul8v7-09p_o/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ul8v7-09p_o/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/ul8v7-09p_o/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 243528,
+      "LikeCount": 1005,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

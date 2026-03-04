@@ -1,0 +1,115 @@
+{
+  "id": "jb-cKx5_gVk",
+  "title": "メモリーグラス 〜New Version〜　堀江 淳",
+  "author": "Masahiro Kawanishi",
+  "duration": "00:03:51",
+  "detail": {
+    "Id": {
+      "Value": "jb-cKx5_gVk"
+    },
+    "Url": "https://www.youtube.com/watch?v=jb-cKx5_gVk",
+    "Title": "メモリーグラス 〜New Version〜　堀江 淳",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClCkXNaXLxNKYNh0SX8O57w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClCkXNaXLxNKYNh0SX8O57w",
+      "ChannelTitle": "Masahiro Kawanishi",
+      "Title": "Masahiro Kawanishi"
+    },
+    "UploadDate": {
+      "DateTime": "2016-08-19T10:17:27.0000000",
+      "UtcDateTime": "2016-08-19T17:17:27.0000000Z",
+      "LocalDateTime": "2016-08-20T02:17:27.0000000+09:00",
+      "Date": "2016-08-19T00:00:00.0000000",
+      "Day": 19,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 232,
+      "Hour": 10,
+      "Millisecond": 0,
+      "Minute": 17,
+      "Month": 8,
+      "Offset": "-07:00:00",
+      "Second": 27,
+      "Ticks": 636071986470000000,
+      "UtcTicks": 636072238470000000,
+      "TimeOfDay": "10:17:27",
+      "Year": 2016
+    },
+    "Description": "My Image Photo Movie.\n質問などTwitter、FacebookのDMからお願いします。\nFacebook：https://www.facebook.com/masahiro.kawanishi.9\nTwitter：https://twitter.com/iMac_Masahiro",
+    "Duration": "00:03:51",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/jb-cKx5_gVk/hqdefault.jpg?sqp=-oaymwE1CKgBEF5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQyg-MA8=&rs=AOn4CLADGbXoqhM63RG5G7NSPFJRZSZTDg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/jb-cKx5_gVk/hqdefault.jpg?sqp=-oaymwE1CMQBEG5IVfKriqkDKAgBFQAAiEIYAXABwAEG8AEB-AH-CYAC0AWKAgwIABABGHIgQyg-MA8=&rs=AOn4CLDRot0nx_UAvNXAT9JOMFdzvgJ1ng",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/jb-cKx5_gVk/hqdefault.jpg?sqp=-oaymwE2CPYBEIoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEMoPjAP&rs=AOn4CLCxMKYgHlSN0T9ZXY1_H6TfFsYOGA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/jb-cKx5_gVk/hqdefault.jpg?sqp=-oaymwE2CNACELwBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhyIEMoPjAP&rs=AOn4CLCu7mGwj9r-8ZgVQjsZhl71o59v1g",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/jb-cKx5_gVk/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgQyg-MA8=&rs=AOn4CLBk7PcCZF9Qyw0VnE9eJBJN8ykr3w",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/jb-cKx5_gVk/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/jb-cKx5_gVk/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/jb-cKx5_gVk/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 16509860,
+      "LikeCount": 0,
+      "DislikeCount": 0,
+      "AverageRating": 0
+    }
+  }
+}

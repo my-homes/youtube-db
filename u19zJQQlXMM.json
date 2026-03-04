@@ -1,0 +1,107 @@
+{
+  "id": "u19zJQQlXMM",
+  "title": "田中れいな secret base～君がくれたもの～",
+  "author": "そら豆_田中れいなファン",
+  "duration": "00:02:58",
+  "detail": {
+    "Id": {
+      "Value": "u19zJQQlXMM"
+    },
+    "Url": "https://www.youtube.com/watch?v=u19zJQQlXMM",
+    "Title": "田中れいな secret base～君がくれたもの～",
+    "Author": {
+      "ChannelId": {
+        "Value": "UClN0RRb0CeC6eyUHQi49QjQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UClN0RRb0CeC6eyUHQi49QjQ",
+      "ChannelTitle": "そら豆_田中れいなファン",
+      "Title": "そら豆_田中れいなファン"
+    },
+    "UploadDate": {
+      "DateTime": "2023-09-09T20:32:20.0000000",
+      "UtcDateTime": "2023-09-10T03:32:20.0000000Z",
+      "LocalDateTime": "2023-09-10T12:32:20.0000000+09:00",
+      "Date": "2023-09-09T00:00:00.0000000",
+      "Day": 9,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 252,
+      "Hour": 20,
+      "Millisecond": 0,
+      "Minute": 32,
+      "Month": 9,
+      "Offset": "-07:00:00",
+      "Second": 20,
+      "Ticks": 638298883400000000,
+      "UtcTicks": 638299135400000000,
+      "TimeOfDay": "20:32:20",
+      "Year": 2023
+    },
+    "Description": "",
+    "Duration": "00:02:58",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/u19zJQQlXMM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBpZ7Qdemd9kaWku9A2Qcimcg2ZVw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/u19zJQQlXMM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCura6ThfRFWVuCFM2p0WS33Lqkng",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/u19zJQQlXMM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB245UWdWc4BipZ0h7GY0pQFYj-Pw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/u19zJQQlXMM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdkuXql2HjLBLkWhpXa7NF9IMCiA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/u19zJQQlXMM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/u19zJQQlXMM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/u19zJQQlXMM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 12191,
+      "LikeCount": 107,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

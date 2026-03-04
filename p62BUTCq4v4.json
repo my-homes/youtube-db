@@ -1,0 +1,115 @@
+{
+  "id": "p62BUTCq4v4",
+  "title": "소호대 - 사랑 그리고 추억 ㅣ 리믹스 ㅣ MEGA REMIX",
+  "author": "MEGA REMIX (메가리믹스)",
+  "duration": "00:04:33",
+  "detail": {
+    "Id": {
+      "Value": "p62BUTCq4v4"
+    },
+    "Url": "https://www.youtube.com/watch?v=p62BUTCq4v4",
+    "Title": "소호대 - 사랑 그리고 추억 ㅣ 리믹스 ㅣ MEGA REMIX",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCy5xBeImkiYS7gaZiR0WUvQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCy5xBeImkiYS7gaZiR0WUvQ",
+      "ChannelTitle": "MEGA REMIX (메가리믹스)",
+      "Title": "MEGA REMIX (메가리믹스)"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-07T14:00:46.0000000",
+      "UtcDateTime": "2026-02-07T22:00:46.0000000Z",
+      "LocalDateTime": "2026-02-08T07:00:46.0000000+09:00",
+      "Date": "2026-02-07T00:00:00.0000000",
+      "Day": 7,
+      "DayOfWeek": "Saturday",
+      "DayOfYear": 38,
+      "Hour": 14,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 46,
+      "Ticks": 639060696460000000,
+      "UtcTicks": 639060984460000000,
+      "TimeOfDay": "14:00:46",
+      "Year": 2026
+    },
+    "Description": "#리믹스 #소호대 #사랑그리고추억",
+    "Duration": "00:04:33",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/p62BUTCq4v4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJjvCGx6Zcp3mC8ESwM9kGaVJ3Vg",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/p62BUTCq4v4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA6bE0kG_zKpOn1zYiYNu1WCmi_Hw",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/p62BUTCq4v4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAur5YmwWo_lbtQs64I5OSu9oGmxA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/p62BUTCq4v4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA1JyNogW2Ml0jYWpJ5-m6kPBOpBw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/p62BUTCq4v4/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/p62BUTCq4v4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/p62BUTCq4v4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/p62BUTCq4v4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 7724,
+      "LikeCount": 63,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

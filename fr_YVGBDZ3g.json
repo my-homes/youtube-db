@@ -1,0 +1,115 @@
+{
+  "id": "fr_YVGBDZ3g",
+  "title": "비비(B.B) - 하늘땅별땅 ㅣ 리믹스 ㅣ MEGA REMIX",
+  "author": "MEGA REMIX (메가리믹스)",
+  "duration": "00:03:55",
+  "detail": {
+    "Id": {
+      "Value": "fr_YVGBDZ3g"
+    },
+    "Url": "https://www.youtube.com/watch?v=fr_YVGBDZ3g",
+    "Title": "비비(B.B) - 하늘땅별땅 ㅣ 리믹스 ㅣ MEGA REMIX",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCy5xBeImkiYS7gaZiR0WUvQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCy5xBeImkiYS7gaZiR0WUvQ",
+      "ChannelTitle": "MEGA REMIX (메가리믹스)",
+      "Title": "MEGA REMIX (메가리믹스)"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-06T14:00:52.0000000",
+      "UtcDateTime": "2026-02-06T22:00:52.0000000Z",
+      "LocalDateTime": "2026-02-07T07:00:52.0000000+09:00",
+      "Date": "2026-02-06T00:00:00.0000000",
+      "Day": 6,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 37,
+      "Hour": 14,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 52,
+      "Ticks": 639059832520000000,
+      "UtcTicks": 639060120520000000,
+      "TimeOfDay": "14:00:52",
+      "Year": 2026
+    },
+    "Description": "#리믹스 #비비 #하늘땅별땅",
+    "Duration": "00:03:55",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/fr_YVGBDZ3g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA2bM_2Httg8QWDEt7K21p9PnRjuw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/fr_YVGBDZ3g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBAsqKEdm5hkZr5Jafz4DaKFkA94g",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/fr_YVGBDZ3g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC2Iez9A2ec1SI-kJ82VivIsr-F1w",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/fr_YVGBDZ3g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbX6qZJCadlMkA-iC1SpLW_eVo-A",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/fr_YVGBDZ3g/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/fr_YVGBDZ3g/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/fr_YVGBDZ3g/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/fr_YVGBDZ3g/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 18707,
+      "LikeCount": 208,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "id": "hBKng7-QNKM",
+  "title": "권소영 - C.O.C ㅣ 리믹스 ㅣ MEGA REMIX",
+  "author": "MEGA REMIX (메가리믹스)",
+  "duration": "00:03:53",
+  "detail": {
+    "Id": {
+      "Value": "hBKng7-QNKM"
+    },
+    "Url": "https://www.youtube.com/watch?v=hBKng7-QNKM",
+    "Title": "권소영 - C.O.C ㅣ 리믹스 ㅣ MEGA REMIX",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCy5xBeImkiYS7gaZiR0WUvQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCy5xBeImkiYS7gaZiR0WUvQ",
+      "ChannelTitle": "MEGA REMIX (메가리믹스)",
+      "Title": "MEGA REMIX (메가리믹스)"
+    },
+    "UploadDate": {
+      "DateTime": "2026-02-05T00:00:58.0000000",
+      "UtcDateTime": "2026-02-05T08:00:58.0000000Z",
+      "LocalDateTime": "2026-02-05T17:00:58.0000000+09:00",
+      "Date": "2026-02-05T00:00:00.0000000",
+      "Day": 5,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 36,
+      "Hour": 0,
+      "Millisecond": 0,
+      "Minute": 0,
+      "Month": 2,
+      "Offset": "-08:00:00",
+      "Second": 58,
+      "Ticks": 639058464580000000,
+      "UtcTicks": 639058752580000000,
+      "TimeOfDay": "00:00:58",
+      "Year": 2026
+    },
+    "Description": "#리믹스 #권소영 #coc",
+    "Duration": "00:03:53",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/hBKng7-QNKM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDt0Gec9n6OXgLa667BweH_UdfigQ",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hBKng7-QNKM/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCiLm1WcLtSO6IPRrSgC57aFhan6Q",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hBKng7-QNKM/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCV51CE78f_-s_or0cdCNPkqZM-GA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hBKng7-QNKM/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCY2o_bzT7R104p53XqACV3qyvNCw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/hBKng7-QNKM/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hBKng7-QNKM/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hBKng7-QNKM/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/hBKng7-QNKM/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 16755,
+      "LikeCount": 146,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

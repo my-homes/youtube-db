@@ -1,0 +1,119 @@
+{
+  "id": "FVZyuTjznU0",
+  "title": "홍진영(Hong Jin Young) - 오늘 밤에[열린음악회/Open Concert].20190324",
+  "author": "KBS Kpop",
+  "duration": "00:02:56",
+  "detail": {
+    "Id": {
+      "Value": "FVZyuTjznU0"
+    },
+    "Url": "https://www.youtube.com/watch?v=FVZyuTjznU0",
+    "Title": "홍진영(Hong Jin Young) - 오늘 밤에[열린음악회/Open Concert].20190324",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCeLPm9yH_a_QH8n6445G-Ow"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCeLPm9yH_a_QH8n6445G-Ow",
+      "ChannelTitle": "KBS Kpop",
+      "Title": "KBS Kpop"
+    },
+    "UploadDate": {
+      "DateTime": "2019-03-24T03:46:38.0000000",
+      "UtcDateTime": "2019-03-24T10:46:38.0000000Z",
+      "LocalDateTime": "2019-03-24T19:46:38.0000000+09:00",
+      "Date": "2019-03-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 83,
+      "Hour": 3,
+      "Millisecond": 0,
+      "Minute": 46,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 38,
+      "Ticks": 636889959980000000,
+      "UtcTicks": 636890211980000000,
+      "TimeOfDay": "03:46:38",
+      "Year": 2019
+    },
+    "Description": "홍진영(Hong Jin Young) - 오늘 밤에[열린음악회/Open Concert].20190324",
+    "Duration": "00:02:56",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/FVZyuTjznU0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCI8fgg8euFiKh7a_ZmTbFghrAbdA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FVZyuTjznU0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC-R4IwBLFKRZR8Z2ftJ5majOv-xQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FVZyuTjznU0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWZvOpybj9FEwvcx8PUhEY87Y13w",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/FVZyuTjznU0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4o-3sHxpxSt3R5EcIeqE9nn8cgw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/FVZyuTjznU0/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FVZyuTjznU0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FVZyuTjznU0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/FVZyuTjznU0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "Korean Music Show K-pop KBS",
+      "뮤직",
+      "케이팝"
+    ],
+    "Engagement": {
+      "ViewCount": 93152,
+      "LikeCount": 955,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

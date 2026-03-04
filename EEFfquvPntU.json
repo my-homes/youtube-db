@@ -1,0 +1,125 @@
+{
+  "id": "EEFfquvPntU",
+  "title": "HONG JINYOUNG, Love Tonight [THE SHOW 190312]",
+  "author": "THE K-POP",
+  "duration": "00:03:09",
+  "detail": {
+    "Id": {
+      "Value": "EEFfquvPntU"
+    },
+    "Url": "https://www.youtube.com/watch?v=EEFfquvPntU",
+    "Title": "HONG JINYOUNG, Love Tonight [THE SHOW 190312]",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCoRXPcv8XK5fAplLbk9PTww"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCoRXPcv8XK5fAplLbk9PTww",
+      "ChannelTitle": "THE K-POP",
+      "Title": "THE K-POP"
+    },
+    "UploadDate": {
+      "DateTime": "2019-03-12T04:13:19.0000000",
+      "UtcDateTime": "2019-03-12T11:13:19.0000000Z",
+      "LocalDateTime": "2019-03-12T20:13:19.0000000+09:00",
+      "Date": "2019-03-12T00:00:00.0000000",
+      "Day": 12,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 71,
+      "Hour": 4,
+      "Millisecond": 0,
+      "Minute": 13,
+      "Month": 3,
+      "Offset": "-07:00:00",
+      "Second": 19,
+      "Ticks": 636879607990000000,
+      "UtcTicks": 636879859990000000,
+      "TimeOfDay": "04:13:19",
+      "Year": 2019
+    },
+    "Description": "#홍진영, 오늘 밤에\n#HONG JINYOUNG, Love Tonight \n\nThe K-POP : SBS PLUS\n\nAll about K-POP in Korea!\nOfficial  K-POP YouTube channel of SBS Plus.\nPlease don’t forget to click Subscribe.\nEnjoy your YouTube life with THE K-POP.",
+    "Duration": "00:03:09",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/EEFfquvPntU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAsAi_ftz-oGEQFK33oBZbSgDEoFw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EEFfquvPntU/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDYObl19n3SEPd7iro-S-eUFHtYnQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EEFfquvPntU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcPcLSg3_oGdMS89uv76QsDFRQhg",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/EEFfquvPntU/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCaRu90NNytqeN9FH96jgXpZ5oJDQ",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/EEFfquvPntU/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EEFfquvPntU/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EEFfquvPntU/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/EEFfquvPntU/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "K-pop",
+      "Kpop",
+      "SBS",
+      "SBS PLUS",
+      "Korea",
+      "HONG JINYOUNG",
+      "Love Tonight",
+      "홍진영",
+      "오늘 밤에"
+    ],
+    "Engagement": {
+      "ViewCount": 100282,
+      "LikeCount": 1589,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

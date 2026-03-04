@@ -1,0 +1,124 @@
+{
+  "id": "VY7e40KpWFs",
+  "title": "'홍진영 - 오늘 밤에' | 다이아몬드 콘서트",
+  "author": "캐내네 뮤직",
+  "duration": "00:03:08",
+  "detail": {
+    "Id": {
+      "Value": "VY7e40KpWFs"
+    },
+    "Url": "https://www.youtube.com/watch?v=VY7e40KpWFs",
+    "Title": "'홍진영 - 오늘 밤에' | 다이아몬드 콘서트",
+    "Author": {
+      "ChannelId": {
+        "Value": "UC67y0yAO7P-As42nUnjAXSg"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UC67y0yAO7P-As42nUnjAXSg",
+      "ChannelTitle": "캐내네 뮤직",
+      "Title": "캐내네 뮤직"
+    },
+    "UploadDate": {
+      "DateTime": "2020-12-31T01:30:05.0000000",
+      "UtcDateTime": "2020-12-31T09:30:05.0000000Z",
+      "LocalDateTime": "2020-12-31T18:30:05.0000000+09:00",
+      "Date": "2020-12-31T00:00:00.0000000",
+      "Day": 31,
+      "DayOfWeek": "Thursday",
+      "DayOfYear": 366,
+      "Hour": 1,
+      "Millisecond": 0,
+      "Minute": 30,
+      "Month": 12,
+      "Offset": "-08:00:00",
+      "Second": 5,
+      "Ticks": 637449750050000000,
+      "UtcTicks": 637450038050000000,
+      "TimeOfDay": "01:30:05",
+      "Year": 2020
+    },
+    "Description": "♥구독과 좋아요는 캐내네의 힘이 됩니다♥\n\n\n본 영상의 저작권은 KNN에 있습니다.\n다운로드 및 2차가공 모두 허락하지 않습니다.\n\n#다이아몬드콘서트 #홍진영 #사랑의배터리",
+    "Duration": "00:03:08",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/VY7e40KpWFs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAAVeJmxrHzUpDUKHg17kNcioujbw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/VY7e40KpWFs/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBnqdYCxgNd83maQdXX_LhZ5YNDdQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/VY7e40KpWFs/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsa8LZCklBsGR-XTW9lOPhEcESXQ",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/VY7e40KpWFs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCt8g6XNHEXGMYO6Qa_W-3259LIiA",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/VY7e40KpWFs/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/VY7e40KpWFs/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/VY7e40KpWFs/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/VY7e40KpWFs/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "다이아몬드 콘서트",
+      "트로트",
+      "성인가요",
+      "다이아몬드",
+      "콘서트",
+      "홍진영",
+      "오늘 밤에",
+      "홍진영 오늘 밤에"
+    ],
+    "Engagement": {
+      "ViewCount": 6705,
+      "LikeCount": 84,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

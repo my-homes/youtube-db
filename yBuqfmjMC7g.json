@@ -1,0 +1,115 @@
+{
+  "id": "yBuqfmjMC7g",
+  "title": "Love Tonight - Hong Jin Young | 오늘밤에 - 홍진영 LIVE 2020.04.01",
+  "author": "Hongvely Vietnam",
+  "duration": "00:02:56",
+  "detail": {
+    "Id": {
+      "Value": "yBuqfmjMC7g"
+    },
+    "Url": "https://www.youtube.com/watch?v=yBuqfmjMC7g",
+    "Title": "Love Tonight - Hong Jin Young | 오늘밤에 - 홍진영 LIVE 2020.04.01",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCX0Z3fOjJ5yUjgR4U7Z3q-w"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCX0Z3fOjJ5yUjgR4U7Z3q-w",
+      "ChannelTitle": "Hongvely Vietnam",
+      "Title": "Hongvely Vietnam"
+    },
+    "UploadDate": {
+      "DateTime": "2020-04-03T22:21:51.0000000",
+      "UtcDateTime": "2020-04-04T05:21:51.0000000Z",
+      "LocalDateTime": "2020-04-04T14:21:51.0000000+09:00",
+      "Date": "2020-04-03T00:00:00.0000000",
+      "Day": 3,
+      "DayOfWeek": "Friday",
+      "DayOfYear": 94,
+      "Hour": 22,
+      "Millisecond": 0,
+      "Minute": 21,
+      "Month": 4,
+      "Offset": "-07:00:00",
+      "Second": 51,
+      "Ticks": 637215493110000000,
+      "UtcTicks": 637215745110000000,
+      "TimeOfDay": "22:21:51",
+      "Year": 2020
+    },
+    "Description": "#오늘밤에 #HONGJINYOUNG #홍진영\nPlease listen to her new song \" Love Is Like A Petal \" ❤",
+    "Duration": "00:02:56",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/yBuqfmjMC7g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLArJQlGNX48hEvBnyNpl6Toejwi-w",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/yBuqfmjMC7g/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCIx6fylyElwQsgYkl5-_WLLcOSvA",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/yBuqfmjMC7g/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBBzBPXk3blaNARVZjpcxqztq2PJA",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/yBuqfmjMC7g/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWSYQSkL1kudbUb3OlSfQadxQ7Yw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi_webp/yBuqfmjMC7g/maxresdefault.webp",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/yBuqfmjMC7g/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/yBuqfmjMC7g/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/yBuqfmjMC7g/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 44015,
+      "LikeCount": 383,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
