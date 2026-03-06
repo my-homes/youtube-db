@@ -1,0 +1,117 @@
+{
+  "id": "0dkfUo--Uq4",
+  "title": "バビル二世 【女声】",
+  "author": "カバmusic",
+  "duration": "00:02:27",
+  "detail": {
+    "Id": {
+      "Value": "0dkfUo--Uq4"
+    },
+    "Url": "https://www.youtube.com/watch?v=0dkfUo--Uq4",
+    "Title": "バビル二世 【女声】",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCIRatQwjbaOGZnhanEsyIWw"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCIRatQwjbaOGZnhanEsyIWw",
+      "ChannelTitle": "カバmusic",
+      "Title": "カバmusic"
+    },
+    "UploadDate": {
+      "DateTime": "2023-10-24T15:01:48.0000000",
+      "UtcDateTime": "2023-10-24T22:01:48.0000000Z",
+      "LocalDateTime": "2023-10-25T07:01:48.0000000+09:00",
+      "Date": "2023-10-24T00:00:00.0000000",
+      "Day": 24,
+      "DayOfWeek": "Tuesday",
+      "DayOfYear": 297,
+      "Hour": 15,
+      "Millisecond": 0,
+      "Minute": 1,
+      "Month": 10,
+      "Offset": "-07:00:00",
+      "Second": 48,
+      "Ticks": 638337565080000000,
+      "UtcTicks": 638337817080000000,
+      "TimeOfDay": "15:01:48",
+      "Year": 2023
+    },
+    "Description": "「バビル2世」は横山光輝の漫画をアニメ化した作品。\n放映は1973年～。\nロデム、ロプロス、ポセイドンはカッコよかったな。\n\nそのオープニングをSynthesizerVでカバーしました。\n\n歌っているAIボーカルは、Cong Zheng、重音テト、ASTERIAN。\n\nイラストは、ChatGTP4V(Dalle3)に書いてもらいました。\n\nバビル2世のオマージュ作品です。\n\nご視聴、チャンネル登録をお願いします。\n\n#synthesizerv #昭和特撮 #昭和アニメ",
+    "Duration": "00:02:27",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/0dkfUo--Uq4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAsXLJ5wJvx3SVICQS6YCKjzWMBpA",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0dkfUo--Uq4/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCcLYZRweUJcH9e2vLqnHVrAlynBQ",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0dkfUo--Uq4/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD3lrjpa5KwIeW2OpTth60mTGxXww",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0dkfUo--Uq4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD0Bj-uD6oRY-Ex-Lp4EisCNHaejw",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/0dkfUo--Uq4/maxresdefault.jpg",
+        "Resolution": {
+          "Width": 1920,
+          "Height": 1080,
+          "Area": 2073600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0dkfUo--Uq4/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0dkfUo--Uq4/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/0dkfUo--Uq4/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [
+      "#DTM"
+    ],
+    "Engagement": {
+      "ViewCount": 242001,
+      "LikeCount": 1637,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}

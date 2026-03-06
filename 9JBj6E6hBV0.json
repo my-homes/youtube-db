@@ -1,0 +1,107 @@
+{
+  "id": "9JBj6E6hBV0",
+  "title": "鳥の詩　杉田かおる",
+  "author": "かやつかずお",
+  "duration": "00:03:58",
+  "detail": {
+    "Id": {
+      "Value": "9JBj6E6hBV0"
+    },
+    "Url": "https://www.youtube.com/watch?v=9JBj6E6hBV0",
+    "Title": "鳥の詩　杉田かおる",
+    "Author": {
+      "ChannelId": {
+        "Value": "UCxRXeLUvSWd0-7agAUxVibQ"
+      },
+      "ChannelUrl": "https://www.youtube.com/channel/UCxRXeLUvSWd0-7agAUxVibQ",
+      "ChannelTitle": "かやつかずお",
+      "Title": "かやつかずお"
+    },
+    "UploadDate": {
+      "DateTime": "2020-07-19T07:33:47.0000000",
+      "UtcDateTime": "2020-07-19T14:33:47.0000000Z",
+      "LocalDateTime": "2020-07-19T23:33:47.0000000+09:00",
+      "Date": "2020-07-19T00:00:00.0000000",
+      "Day": 19,
+      "DayOfWeek": "Sunday",
+      "DayOfYear": 201,
+      "Hour": 7,
+      "Millisecond": 0,
+      "Minute": 33,
+      "Month": 7,
+      "Offset": "-07:00:00",
+      "Second": 47,
+      "Ticks": 637307408270000000,
+      "UtcTicks": 637307660270000000,
+      "TimeOfDay": "07:33:47",
+      "Year": 2020
+    },
+    "Description": "鳥の詩　作詞　阿久悠　作曲・編曲　坂田晃一　歌　杉田かおる　　＊日本テレビ系テレビドラマ　「池中玄太80キロ」イメージソング",
+    "Duration": "00:03:58",
+    "Thumbnails": [
+      {
+        "Url": "https://i.ytimg.com/vi/9JBj6E6hBV0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBSKbMP6EXrN7bfNHbvwBfNnoWanw",
+        "Resolution": {
+          "Width": 168,
+          "Height": 94,
+          "Area": 15792
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9JBj6E6hBV0/hqdefault.jpg?sqp=-oaymwEbCMQBEG5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC6U6BhZPFVAnbuc6yK37GrRgOWDg",
+        "Resolution": {
+          "Width": 196,
+          "Height": 110,
+          "Area": 21560
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9JBj6E6hBV0/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQwhppXpXAJhW0CH071ew_NZsrkw",
+        "Resolution": {
+          "Width": 246,
+          "Height": 138,
+          "Area": 33948
+        }
+      },
+      {
+        "Url": "https://i.ytimg.com/vi/9JBj6E6hBV0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCfCcrWpwhFGuSMJ6eBpH1w6BCFPg",
+        "Resolution": {
+          "Width": 336,
+          "Height": 188,
+          "Area": 63168
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9JBj6E6hBV0/default.jpg",
+        "Resolution": {
+          "Width": 120,
+          "Height": 90,
+          "Area": 10800
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9JBj6E6hBV0/mqdefault.jpg",
+        "Resolution": {
+          "Width": 320,
+          "Height": 180,
+          "Area": 57600
+        }
+      },
+      {
+        "Url": "https://img.youtube.com/vi/9JBj6E6hBV0/hqdefault.jpg",
+        "Resolution": {
+          "Width": 480,
+          "Height": 360,
+          "Area": 172800
+        }
+      }
+    ],
+    "Keywords": [],
+    "Engagement": {
+      "ViewCount": 1096773,
+      "LikeCount": 5397,
+      "DislikeCount": 0,
+      "AverageRating": 5
+    }
+  }
+}
